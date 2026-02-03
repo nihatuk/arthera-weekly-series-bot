@@ -104,7 +104,7 @@ def main():
     # 7) Mail gönder
     
     
-ry:
+try:
     send_email(subject, body)
     print("Email sent.")
 except Exception as e:
