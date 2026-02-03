@@ -102,8 +102,14 @@ def main():
     write_text(summary_path, body)
     print("Email summary written:", summary_path)
     # 7) Mail gönder
+    
+    
+ry:
     send_email(subject, body)
     print("Email sent.")
+except Exception as e:
+    print("Email failed, continuing:", e)
+
 
 if __name__ == "__main__":
     main()
