@@ -1,10 +1,10 @@
 
-name: Arthera Series Collector (no WP)
+name: Arthera Series Collector (no WP) - DEBUG
 
 on:
   workflow_dispatch:
   schedule:
-    # Salı 12:36 UTC = 15:36 TR
+    # Salı 12:36 UTC = 15:36 TR (UTC+3)
     - cron: "36 12 * * 2"
 
 permissions:
@@ -17,6 +17,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,10 +34,46 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # ✅ DEBUG: SMTP env geliyor mu? (şifreyi ASLA yazdırmaz)
+      - name: Debug SMTP env (safe)
+        shell: bash
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: |
+          set -e
+
+          echo "---- SMTP DEBUG (SAFE) ----"
+          echo "SMTP_HOST length: ${#SMTP_HOST}"
+          echo "SMTP_PORT length: ${#SMTP_PORT}"
+          echo "SMTP_USER length: ${#SMTP_USER}"
+          echo "MAIL_TO length: ${#MAIL_TO}"
+
+          # Host örnek (ilk 40 karakter)
+          echo "SMTP_HOST sample: '${SMTP_HOST:0:40}'"
+          echo "SMTP_PORT value: '${SMTP_PORT}'"
+
+          # Basit kontroller
+          if [ -z "$SMTP_HOST" ]; then
+            echo "::warning::SMTP_HOST boş (GitHub Secrets -> SMTP_HOST kontrol et)"
+          fi
+
+          if [ -z "$SMTP_USER" ]; then
+            echo "::warning::SMTP_USER boş (GitHub Secrets -> SMTP_USER kontrol et)"
+          fi
+
+          if [ -z "$MAIL_TO" ]; then
+            echo "::warning::MAIL_TO boş (GitHub Secrets -> MAIL_TO kontrol et)"
+          fi
+
+          echo "---- END SMTP DEBUG ----"
+
       - name: Run collector (write files + send email)
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          #SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
@@ -44,14 +81,20 @@ jobs:
           python -m src.main
 
       - name: Commit outputs (state.json + out/)
+        shell: bash
         run: |
+          set -e
+
           git config user.name "arthera-series-bot"
           git config user.email "bot@users.noreply.github.com"
 
           mkdir -p out
           git add state.json out/
 
-          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-          git commit -m "Add weekly series summaries + update state"
+          git commit -m "Add series summaries + update state"
           git push
