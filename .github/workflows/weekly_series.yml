@@ -1,25 +1,24 @@
 
-name: Arthera Weekly Series Digests
+name: Arthera Series Collector (no WP)
 
 on:
   workflow_dispatch:
   schedule:
-    # Salı 12:36 UTC = 15:36 TR (UTC+3)
-    - cron: "59 12 * * 2"
+    # Salı 12:36 UTC = 15:36 TR
+    - cron: "36 12 * * 2"
 
 permissions:
   contents: write
 
 concurrency:
-  group: arthera-weekly-series
+  group: arthera-series-collector
   cancel-in-progress: false
 
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -29,17 +28,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run bot (create WP drafts + write summary + send email)
+      - name: Run collector (write files + send email)
         env:
-          WP_URL: ${{ secrets.WP_URL }}
-          WP_USER: ${{ secrets.WP_USER }}
-          WP_APP_PASS: ${{ secrets.WP_APP_PASS }}
-
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
@@ -50,17 +45,13 @@ jobs:
 
       - name: Commit outputs (state.json + out/)
         run: |
-          git config user.name "arthera-digest-bot"
+          git config user.name "arthera-series-bot"
           git config user.email "bot@users.noreply.github.com"
 
-          # out/ klasörü yoksa oluştur (ilk kurulumda iş görür)
           mkdir -p out
-
           git add state.json out/
-          git status
 
-          # staged değişiklik yoksa commit atma
           git diff --cached --quiet && echo "No changes to commit." && exit 0
 
-          git commit -m "Update state + weekly email summary output"
+          git commit -m "Add weekly series summaries + update state"
           git push
