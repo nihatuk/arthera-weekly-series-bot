@@ -1,10 +1,10 @@
 
-name: Arthera Series Collector (no WP) - DEBUG
+name: Arthera Series Collector (no WP) - DEBUG (Repo Secrets)
 
 on:
   workflow_dispatch:
   schedule:
-    # Salı 12:36 UTC = 15:36 TR (UTC+3)
+    # Salı 12:36 UTC = 15:36 TR
     - cron: "36 12 * * 2"
 
 permissions:
@@ -34,7 +34,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ✅ DEBUG: SMTP env geliyor mu? (şifreyi ASLA yazdırmaz)
       - name: Debug SMTP env (safe)
         shell: bash
         env:
@@ -44,30 +43,17 @@ jobs:
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: |
           set -e
-
           echo "---- SMTP DEBUG (SAFE) ----"
           echo "SMTP_HOST length: ${#SMTP_HOST}"
           echo "SMTP_PORT length: ${#SMTP_PORT}"
           echo "SMTP_USER length: ${#SMTP_USER}"
           echo "MAIL_TO length: ${#MAIL_TO}"
-
-          # Host örnek (ilk 40 karakter)
           echo "SMTP_HOST sample: '${SMTP_HOST:0:40}'"
           echo "SMTP_PORT value: '${SMTP_PORT}'"
 
-          # Basit kontroller
           if [ -z "$SMTP_HOST" ]; then
-            echo "::warning::SMTP_HOST boş (GitHub Secrets -> SMTP_HOST kontrol et)"
+            echo "::error::SMTP_HOST is empty. Check Settings -> Secrets and variables -> Actions -> Repository secrets -> SMTP_HOST"
           fi
-
-          if [ -z "$SMTP_USER" ]; then
-            echo "::warning::SMTP_USER boş (GitHub Secrets -> SMTP_USER kontrol et)"
-          fi
-
-          if [ -z "$MAIL_TO" ]; then
-            echo "::warning::MAIL_TO boş (GitHub Secrets -> MAIL_TO kontrol et)"
-          fi
-
           echo "---- END SMTP DEBUG ----"
 
       - name: Run collector (write files + send email)
@@ -84,7 +70,6 @@ jobs:
         shell: bash
         run: |
           set -e
-
           git config user.name "arthera-series-bot"
           git config user.email "bot@users.noreply.github.com"
 
