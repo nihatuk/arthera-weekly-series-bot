@@ -95,21 +95,22 @@ def main():
         print(f"[{s['key']}] Yazıldı:", file_path)
     # 5) State kaydet
     save_state(state)
-    # 6) Mail özetini üret ve önce dosyaya yaz
+
+    # 6) Mail içeriğini üret (önce subject/body TANIMLA)
     subject = f"ArtheraClinic Seri Derlemeleri ({today})"
     body = build_email_summary(series_results, today)
+
+    # 7) Mail atmadan önce summary dosyasını repo içine yaz
     summary_path = f"out/email_summary/{today}_{safe_ts()}.txt"
     write_text(summary_path, body)
     print("Email summary written:", summary_path)
-    # 7) Mail gönder
-    
-    
-try:
-    send_email(subject, body)
-    print("Email sent.")
-except Exception as e:
-    print("Email failed, continuing:", e)
 
+    # 8) Mail gönder (başarısız olsa bile workflow düşmesin)
+    try:
+        send_email(subject, body)
+        print("Email sent.")
+    except Exception as e:
+        print("Email failed, continuing without stopping workflow:", e)
 
 if __name__ == "__main__":
     main()
