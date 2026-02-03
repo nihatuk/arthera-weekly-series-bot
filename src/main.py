@@ -52,6 +52,16 @@ def build_email_summary(created_posts):
         lines.append("")
     return "\n".join(lines)
 
+def write_summary_file(today, body):
+    os.makedirs("out", exist_ok=True)
+    # Dosya adında ':' gibi karakterlerden kaçınalım
+    ts = now_utc_iso().replace(":", "").replace("-", "")
+    path = f"out/email_summary_{today}_{ts}.txt"
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(body)
+        f.write("\n")
+    return path
+
 def main():
     with open("config.json", "r", encoding="utf-8") as f:
         cfg = json.load(f)
@@ -121,11 +131,17 @@ def main():
 
     save_state(state)
 
-    # E-posta at (taslakların linkleriyle)
-    subject = f"ArtheraClinic Haftalık Derlemeler ({today})"
-    body = build_email_summary(created_posts)
-    send_email(subject, body)
-    print("Email sent.")
+subject = f"ArtheraClinic Haftalık Derlemeler ({today})"
+body = build_email_summary(created_posts)
+
+# 1) Önce repo içine dosya yaz
+saved_path = write_summary_file(today, body)
+print("Summary written to:", saved_path)
+
+# 2) Sonra mail gönder
+send_email(subject, body)
+print("Email sent.")
+
 
 if __name__ == "__main__":
     main()
