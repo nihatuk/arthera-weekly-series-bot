@@ -1,6 +1,5 @@
-
-import json
 import os
+import json
 from datetime import datetime, timezone
 
 from .sources_google_news import fetch_google_news_items
