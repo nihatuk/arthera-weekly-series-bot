@@ -39,16 +39,25 @@ def build_series_markdown(series_title, items):
     lines.append(f"_Üretim zamanı (UTC): {now_utc_iso()}_")
     return "\n".join(lines)
 
+
 def build_email_summary(series_results, today):
-    lines = [f"ArtheraClinic – Seri Derlemeleri ({today})", ""]
+    lines = []
+    lines.append(f"ArtheraClinic – Seri Derlemeleri ({today})")
+    lines.append("=" * 45)
+    lines.append("")
+
     if not series_results:
-        lines.append("Bu çalıştırmada yeni içerik bulunamadı; dosyalar oluşturulmadı.")
-        return "\n".join(lines)
-    for r in series_results:
-        lines.append(f"- {r['series_title']}")
-        lines.append(f"  Yeni kaynak sayısı: {r['new_count']}")
-        lines.append(f"  Dosya: {r['file_path']}")
+        lines.append("Bu çalıştırmada yeni içerik bulunamadı.")
         lines.append("")
+        lines.append("GitHub çıktısı: out/email_summary/ klasöründe.")
+        return "\n".join(lines)
+
+    for r in series_results:
+        lines.append(f"[{r['series_key']}] {r['series_title']}")
+        lines.append(f"  • Yeni kaynak sayısı : {r['new_count']}")
+        lines.append(f"  • Dosya yolu         : {r['file_path']}")
+        lines.append("")
+    lines.append("Not: Detay içerikler GitHub repo içinde .md dosyaları olarak saklanır.")
     return "\n".join(lines)
 
 def safe_ts():
