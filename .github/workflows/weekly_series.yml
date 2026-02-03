@@ -40,11 +40,13 @@ jobs:
         run: |
           python -m src.main
 
-      - name: Commit updated state.json
-        run: |
-          git config user.name "arthera-digest-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add state.json
-          git diff --cached --quiet || git commit -m "Update state.json (seen urls)"
-          git push
+
+- name: Commit updated state.json + output summaries
+  run: |
+    git config user.name "arthera-digest-bot"
+    git config user.email "bot@users.noreply.github.com"
+    git add state.json out/
+    git diff --cached --quiet || git commit -m "Update state + email summary output"
+    git push
+``
 
