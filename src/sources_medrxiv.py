@@ -9,46 +9,69 @@ def fetch_medrxiv_items(cfg):
     items = []
 
     for url in feeds:
-        items.extend(_parse_atom_or_rss(url, source="medRxiv", limit=limit))
+        try:
+            items.extend(_parse_atom(url, source="medRxiv", limit=limit))
+        except Exception as e:
+            # bir feed bozulsa diğerleri devam etsin
+            print("medRxiv feed parse failed:", url, e)
 
     # URL bazlı dedup
     dedup = {it["url"]: it for it in items if it.get("url")}
     return list(dedup.values())
 
-def _parse_atom_or_rss(url, source="medRxiv", limit=30):
+def _parse_atom(url, source="medRxiv", limit=30):
     r = requests.get(url, timeout=30, headers={"User-Agent": "ArtheraSeriesBot/1.0"})
     r.raise_for_status()
 
     root = ET.fromstring(r.text)
 
-    # Atom: <feed><entry>...
-    entries = root.findall("{http://www.w3.org/2005/Atom}entry")
-    if entries:
-        out = []
-        for e in entries[:limit]:
-            title = clean_text(e.findtext("{http://www.w3.org/2005/Atom}title"))
-            link_el = e.find("{http://www.w3.org/2005/Atom}link")
-            link = clean_text(link_el.attrib.get("href") if link_el is not None else "")
-            summary = clean_text(e.findtext("{http://www.w3.org/2005/Atom}summary"))
-            published = clean_text(e.findtext("{http://www.w3.org/2005/Atom}published") or e.findtext("{http://www.w3.org/2005/Atom}updated"))
+    # Atom feed: entry'ler namespace'li olabilir, wildcard ile yakala
+    entries = root.findall(".//{*}entry")
+    if not entries:
+        # Bazı feed'ler RSS dönebilir, fallback:
+        return _parse_rss_fallback(root, source=source, limit=limit)
 
-            if link:
-                out.append({
-                    "id": stable_id(source, link, title),
-                    "source": source,
-                    "title": title,
-                    "url": link,
-                    "snippet": summary,
-                    "published": published,
-                    "kind": "preprint"
-                })
-        return out
+    out = []
+    for e in entries[:limit]:
+        title = clean_text((e.findtext("{*}title") or "").strip())
 
-    # RSS: <rss><channel><item>...
-    channel = root.find("channel")
+        # link: rel=alternate tercih et
+        link = ""
+        for link_el in e.findall("{*}link"):
+            href = link_el.attrib.get("href", "")
+            rel = link_el.attrib.get("rel", "")
+            if rel == "alternate" and href:
+                link = href
+                break
+            if not link and href:
+                link = href
+        link = clean_text(link)
+
+        # summary/content
+        summary = clean_text(e.findtext("{*}summary") or "")
+        if not summary:
+            # bazen content içinde html olur
+            summary = clean_text(e.findtext("{*}content") or "")
+
+        published = clean_text(e.findtext("{*}published") or e.findtext("{*}updated") or "")
+
+        if link:
+            out.append({
+                "id": stable_id(source, link, title),
+                "source": source,
+                "title": title,
+                "url": link,
+                "snippet": summary,
+                "published": published,
+                "kind": "preprint"
+            })
+
+    return out
+
+def _parse_rss_fallback(root, source="medRxiv", limit=30):
+    channel = root.find(".//channel")
     if channel is None:
         return []
-
     out = []
     for it in channel.findall("item")[:limit]:
         title = clean_text(it.findtext("title"))
@@ -66,4 +89,3 @@ def _parse_atom_or_rss(url, source="medRxiv", limit=30):
                 "kind": "preprint"
             })
     return out
-
