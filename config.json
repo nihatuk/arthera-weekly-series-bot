@@ -1,5 +1,21 @@
 
 {
+  "global_sources": {
+    "medrxiv": {
+      "feeds": [
+        "https://connect.medrxiv.org/medrxiv_xml.php?subject=rehabilitation_medicine_and_physical_therapy"
+        "https://www.medrxiv.org/collection/rehabilitation-medicine-and-physical-therapy"
+      ],
+      "max_items_per_feed": 30
+    },
+    "cochrane": {
+      "feeds": [
+        "https://www.cochranelibrary.com/cdsr/table-of-contents/rss.xml",
+        "https://www.cochranelibrary.com/cca/about/rss.xml"
+      ],
+      "max_items_per_feed": 30
+    }
+  },
   "wordpress": {
     "status": "draft",
     "parent_category_name": "Haftalık Derlemeler",
@@ -94,23 +110,6 @@
           "frozen shoulder physical therapy"
         ]
       }
-      {
-  "global_sources": {
-    "medrxiv": {
-      "feeds": [
-        "https://www.medrxiv.org/content/early/recent"
-      ],
-      "max_items_per_feed": 30
-    },
-    "cochrane": {
-      "feeds": [
-        "https://www.cochranelibrary.com/cca"
-      ],
-      "max_items_per_feed": 30
-    }
-  }
-}
     }
   ]
 }
-
