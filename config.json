@@ -16,17 +16,10 @@
       "max_items_per_feed": 30
     }
   },
-  "wordpress": {
-    "status": "draft",
-    "parent_category_name": "Haftalık Derlemeler",
-    "create_missing_terms": true
-  },
   "series": [
     {
       "key": "bel_agrisi",
       "title_prefix": "Bel Ağrısı Serisi",
-      "category_name": "Bel Ağrısı",
-      "tag_names": ["bel ağrısı", "egzersiz", "fizyoterapi", "rehabilitasyon"],
       "google_news": {
         "hl": "tr",
         "gl": "TR",
@@ -40,7 +33,12 @@
           "core egzersizleri",
           "siyatik"
         ],
-        "site_filters": ["mayoclinic.org", "webmd.com", "nih.gov", "who.int"]
+        "site_filters": [
+          "mayoclinic.org",
+          "webmd.com",
+          "nih.gov",
+          "who.int"
+        ]
       },
       "pubmed": {
         "days": 30,
@@ -55,8 +53,6 @@
     {
       "key": "skolyoz",
       "title_prefix": "Skolyoz Serisi",
-      "category_name": "Skolyoz",
-      "tag_names": ["skolyoz", "postür", "egzersiz", "fizyoterapi"],
       "google_news": {
         "hl": "tr",
         "gl": "TR",
@@ -69,7 +65,11 @@
           "\"postür\" skolyoz",
           "Schroth egzersiz"
         ],
-        "site_filters": ["mayoclinic.org", "nih.gov", "who.int"]
+        "site_filters": [
+          "mayoclinic.org",
+          "nih.gov",
+          "who.int"
+        ]
       },
       "pubmed": {
         "days": 365,
@@ -84,8 +84,6 @@
     {
       "key": "omuz",
       "title_prefix": "Omuz Serisi",
-      "category_name": "Omuz",
-      "tag_names": ["omuz", "rotator cuff", "omuz ağrısı", "egzersiz", "fizyoterapi"],
       "google_news": {
         "hl": "tr",
         "gl": "TR",
@@ -99,7 +97,11 @@
           "impingement omuz",
           "\"donuk omuz\""
         ],
-        "site_filters": ["mayoclinic.org", "webmd.com", "nih.gov"]
+        "site_filters": [
+          "mayoclinic.org",
+          "webmd.com",
+          "nih.gov"
+        ]
       },
       "pubmed": {
         "days": 180,
