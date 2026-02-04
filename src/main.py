@@ -1,4 +1,3 @@
-
 import json
 import os
 from datetime import datetime, timezone
@@ -8,6 +7,9 @@ from .summarize_tr import summarize_tr
 from .state_store import load_state, save_state, filter_new
 from .emailer import send_email
 from .utils import now_utc_iso
+from .sources_medrxiv import fetch_medrxiv_items
+from .sources_cochrane import fetch_cochrane_items
+
 
 def build_series_markdown(series_title, items):
     lines = []
@@ -38,6 +40,19 @@ def build_series_markdown(series_title, items):
     lines.append("---")
     lines.append(f"_Üretim zamanı (UTC): {now_utc_iso()}_")
     return "\n".join(lines)
+
+
+def keyword_match(item, keywords):
+    text = (item.get("title","") + " " + item.get("snippet","")).lower()
+    return any(k.lower().strip('"') in text for k in keywords if k)
+
+def series_keywords(series_cfg):
+    # Google News query + PubMed terms'ten keyword havuzu
+    kws = []
+    kws += series_cfg.get("google_news", {}).get("queries", [])
+    kws += series_cfg.get("pubmed", {}).get("terms", [])
+    # sadeleştir
+    return [k for k in kws if isinstance(k, str) and k.strip()]
 
 
 def build_email_summary(series_results, today):
@@ -78,11 +93,22 @@ def main():
     state = load_state()
     state["last_run_utc"] = now_utc_iso()
     series_results = []
+    global_cfg = cfg.get("global_sources", {})
+    med_items = fetch_medrxiv_items(global_cfg.get("medrxiv", {}))
+    coch_items = fetch_cochrane_items(global_cfg.get("cochrane", {}))
+    
     for s in cfg["series"]:
         # 1) Topla
         g_items = fetch_google_news_items(s["google_news"])
         p_items = fetch_pubmed_items(s["pubmed"])
         combined = list({it["url"]: it for it in (g_items + p_items)}.values())
+        
+        kws = series_keywords(s)
+        med_for_series = [it for it in med_items if keyword_match(it, kws)]
+        coch_for_series = [it for it in coch_items if keyword_match(it, kws)]
+        combined = list({it["url"]: it for it in (g_items + p_items + med_for_series + coch_for_series)}.values())
+        fresh = filter_new(combined, state)
+
         # 2) Tekrar engelle
         fresh = filter_new(combined, state)
         if not fresh:
