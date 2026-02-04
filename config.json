@@ -1,9 +1,9 @@
-
 {
   "global_sources": {
     "medrxiv": {
       "feeds": [
         "https://connect.medrxiv.org/medrxiv_xml.php?subject=rehabilitation_medicine_and_physical_therapy"
+        "https://www.medrxiv.org/collection/rehabilitation-medicine-and-physical-therapy"
       ],
       "max_items_per_feed": 30
     },
