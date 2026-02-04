@@ -1,4 +1,3 @@
-
 # src/sources_cochrane.py
 import xml.etree.ElementTree as ET
 import requests
@@ -10,7 +9,10 @@ def fetch_cochrane_items(cfg):
     items = []
 
     for url in feeds:
-        items.extend(_parse_rss(url, source="Cochrane", limit=limit))
+        try:
+            items.extend(_parse_rss(url, source="Cochrane", limit=limit))
+        except Exception as e:
+            print("Cochrane feed parse failed:", url, e)
 
     dedup = {it["url"]: it for it in items if it.get("url")}
     return list(dedup.values())
@@ -20,7 +22,8 @@ def _parse_rss(url, source="Cochrane", limit=30):
     r.raise_for_status()
 
     root = ET.fromstring(r.text)
-    channel = root.find("channel")
+
+    channel = root.find(".//channel")
     if channel is None:
         return []
 
@@ -42,4 +45,3 @@ def _parse_rss(url, source="Cochrane", limit=30):
                 "kind": "review"
             })
     return out
-
