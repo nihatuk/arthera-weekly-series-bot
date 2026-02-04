@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-02-04)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      24
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   47
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-02-04)
+========================================================================
+Yeni kaynak sayısı: 26
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=18
+GitHub dosyası: out/bel_agrisi/2026-02-04_20260204T103843Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Success rate and efficacy of intentional ipsilateral epidural catheter placement for anterior cruciate ligament reconstruction surgery: a retrospective analysis of 307 consecutive patients.
+Türkçe Başlık : Success rate and efficacy of intentional ipsilateral epidural catheter placement for anterior cruciate ligament reconstruction surgery: a retrospective analysis of 307 consecutive patients.
+Türkçe Özet   : Bu içerik success rate and efficacy of intentional ipsilateral epidural catheter placement for anterior cruciate ligament reconstruction surgery: a retrospective analysis of 307 consecutive patients. konusuna odaklanıyor. Öne çıkan başlıklar: journal of anesthesia. 2026 feb 3. Anahtar kavramlar: success, rate, efficacy, intentional, ipsilateral, epidural.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41634452/
+
+Orijinal Başlık: Comparison of epidural space contrast flow and clinical outcomes in parasagittal versus transforaminal epidural steroid injection.
+Türkçe Başlık : Comparison of epidural space contrast flow and clinical outcomes in parasagittal versus transforaminal epidural steroid injection.
+Türkçe Özet   : Bu içerik comparison of epidural space contrast flow and clinical sonuçs in parasagittal versus transforaminal epidural steroid injection. konusuna odaklanıyor. Öne çıkan başlıklar: scientific reports. 2026 feb 3. Anahtar kavramlar: epidural, comparison, space, contrast, flow, clinical.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41634213/
+
+Orijinal Başlık: Comparison of dynamic neuromuscular stabilization exercises with and without the feldenkrais method on pain, balance, and hip muscle strength in elderly women with chronic non-specific low back pain.
+Türkçe Başlık : Comparison of dynamic neuromuscular stabilization egzersizs with and without the feldenkrais method on pain, balance, and hip muscle strength in elderly women with chronic non-specific bel ağrısı.
+Türkçe Özet   : Bu içerik comparison of dynamic neuromuscular stabilization egzersizs with and without the feldenkrais method on ağrı, balance, and hip muscle strength in elderly women with chronic non-specific bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: geriatric nursing (new york, n.y.). 2026 feb 2. Anahtar kavramlar: ağrı, comparison, dynamic, neuromuscular, stabilization, egzersizs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41633229/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Aclarion, kronik bel ağrısı teşhisi için Nociscan erişimini genişletiyor Yazar Investing.com - Investing.com Türkiye
+Özet  : Aclarion, kronik bel ağrısı teşhisi için Nociscan erişimini genişletiyor Yazar Investing.com &nbsp;&nbsp; Investing.com Türkiye Aclarion, kronik bel ağrısı teşhisi için Nociscan erişimini genişletiyor Yazar Investing.com - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmV4UC1FMlFzREFqQllJdVVfenIza2pHZlYtSTZ3eG14NTduYlpUcE5QVHVWYlN4Tk5HT3U1blQwSHpRNWhmREd0R2J2aGJWc1ctcVp0TGVpdHpSMkhGV2dRMHdSbFFwc1N0OTJXY1dCanZoY1ItNGZfZmNEUmNEX05PZjZWa2ZDS1c0VWtLQm5sYnpvWXg5Zm96aXc0M1BscmVUYTdkV2pOTVp0VEFLMnVfRjdwQ043ZDVib3FMM1Mxc1U?oc=5
+
+Başlık: Bel fıtığı 20’li yaşlara indi! Nedeni telefona bakış şekliymiş - Milliyet
+Özet  : Nedeni telefona bakış şekliymiş &nbsp;&nbsp; Milliyet Nedeni telefona bakış şekliymiş - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMisgFBVV95cUxQWi1iczNVZVFZbWtqNkR2anVaYVFKakFWZ05nZURfR2ZIdFRwZlJwMXdjSEJ4MWVZUzZKUUVnN1hTaXRQNUN5Z2lWRUF4S19ZZUI0Zl9QMm1DWGFvcmdkWnFQVkFqcFJXQ21yUUo4ZU81NUU2TXBTd0hXUW5QVDN2bnJ3MjJNaFplaEZrUnZnaUdYQXlmczh2RURxQ3ZVc2FUUURZNW9wdG5VLXRlVElDVGVR0gG3AUFVX3lxTFB0VW1NZjFuWEhvVHY5eXV2cUJnNUw1S2dlVXlKellkZUtkeWxwejc4M2pZc2dtaENiOUhjR291SG5fR1dmeXZFeGZPc01tSlllbW5RV1BucmUzbUxudGtONGFiU0E4MGdPNTltTjhBcXlDRS1NRXF2VVBWRVpIelhLLWx1UmlMOHRza2V4dFR5V2dnbVV1YkJfcGtXa2tOVm1TUW9zcW5CMGpwZWVUVnNhN0Y0czh2Zw?oc=5
+
+Başlık: Dr. Yükselmiş: Bel fıtığı 20'li yaşlarda giderek artıyor - Amed Haber
+Özet  : Yükselmiş: Bel fıtığı 20'li yaşlarda giderek artıyor &nbsp;&nbsp; Amed Haber Yükselmiş: Bel fıtığı 20'li yaşlarda giderek artıyor - Amed Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0stc2FsVm9URFFVU25OVlVZQlJDeDU4Z085OXlqT1RIcHVtbVJlWlQ5aWtPVGNBU2QyREcxZWxhSEc1UTk4LUpSNkJjRjJIbWhSSnZ5NTlGbV83WlBpcDZfbkt6bVNJS3NwYWdwTldHT3FrNkd5OUtlc0lfNjMyYldPMmpsS1pFdU5Z0gGLAUFVX3lxTE5rSy1zYWxWb1REUVVTbk5WVVlCUkN4NThnTzk5eWpPVEhwdW1tUmVaVDlpa09UY0FTZDJERzFlbGFIRzVROTgtSlI2QmNGMkhtaFJKdnk1OUZtXzdaUGlwNl9uS3ptU0lLc3BhZ3BOV0dPcWs2R3k5S2VzSV82MzJiV08yamxLWkV1Tlk?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-02-04)
+========================================================================
+Yeni kaynak sayısı: 34
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=26
+GitHub dosyası: out/skolyoz/2026-02-04_20260204T103843Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of Bracing Combined With Tele-Rehabilitation-Guided Family Physiotherapeutic Scoliosis-Specific Exercises on Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Effects of bracing combined with tele-rehabilitasyon-guided family physiotherapeutic skolyoz-specific egzersizs on adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik effects of bracing combined with tele-rehabilitasyon-guided family physiotherapeutic skolyoz-specific egzersizs on adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: orthopaedic surgery. 2026 jan 30. Anahtar kavramlar: skolyoz, effects, bracing, combined, tele, rehabilitasyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41615191/
+
+Orijinal Başlık: Five-year disease-modifying therapeutic experience of 102 Chinese paediatric 5q-spinal muscular atrophy: a retrospective analysis.
+Türkçe Başlık : Five-year disease-modifying therapeutic experience of 102 chinese paediatric 5q-spinal muscular atrophy: a retrospective analysis.
+Türkçe Özet   : Bu içerik five-year disease-modifying therapeutic experience of 102 chinese paediatric 5q-spinal muscular atrophy: a retrospective analysis. konusuna odaklanıyor. Öne çıkan başlıklar: brain communications. 2025. Anahtar kavramlar: five, year, disease, modifying, therapeutic, experience.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41607729/
+
+Orijinal Başlık: Sagittal Alignment Reciprocal Changes After Thoracolumbar/Lumbar Anterior Vertebral Body Tethering.
+Türkçe Başlık : Sagittal alignment reciprocal changes after thoracolomber (bel bölgesi)/lomber (bel bölgesi) anterior vertebral body tethering.
+Türkçe Özet   : Bu içerik sagittal alignment reciprocal changes after thoracolomber (bel bölgesi)/lomber (bel bölgesi) anterior vertebral body tethering. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 jan 6. Anahtar kavramlar: sagittal, alignment, reciprocal, changes, after, thoracolomber (bel bölgesi).
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41598386/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bitlis Tatvan Devlet Hastanesi’nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı - Bitlis Haber
+Özet  : Bitlis Tatvan Devlet Hastanesi’nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı &nbsp;&nbsp; Bitlis Haber Bitlis Tatvan Devlet Hastanesi’nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı - Bitlis Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW5WRjdtLTcyQXZ2TzJmV3dBeWlQWmlrQ0VMWEw5QnVZM1pQR2tQbHBxSlg2aXR1Ym1UaG9ZczctZlRnN3RwM0kxOGhjckZ2NGtLNGdJQjhHVkJSRFk2allURklISUQ2WDVqUGYtbTRyVUVmWjVfaDhQdktXU3E1SlN0MWhhZTV1MTFkY2licHIzQUxaZnhZTlUtei1lWWpHdUZoR2kyT2FKMGPSAbABQVVfeXFMTzJUUWZubDdDLTF1Z0xuR1FJc3RHLUd3Wnl6cGc1NFNPY2h6RDVYTVZXRlVTaUQzejlKMjh5ZjB1VWZ2d1FvSERnLUhHNlRmYWJ6OVN0RHFiR3JDX2JpM0cxWDJfTHNsWGZiX19TLUJNLTBKQ3RlZXhtRTViOEhscHkzRWlTd1ZpamNfVWJkY0hCYmVKYXUyWk90UkR5aXdzamM4OU9hZ054a3ZMbWRmb3o?oc=5
+
+Başlık: Tatvan’da omurga ve skolyoz ameliyatları başarıyla yapıldı - MSN
+Özet  : Tatvan’da omurga ve skolyoz ameliyatları başarıyla yapıldı &nbsp;&nbsp; MSN Tatvan’da omurga ve skolyoz ameliyatları başarıyla yapıldı - MSN.
+Bağlantı: https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnJBQVR1TFQtdG5RRDZ2OEEzZ3REcDZZOGdxcmxGNm4ydmU4cHJjcUZqYnp6eWNPVnhtbUVtNjlZTHJTekxTUmJsNnB3bnZlbVdTTkxwSjhMSlNGUDF6SlRYVjZuNEttZDRSTUt3dklEclYxcEl5a25vNXRkQVNnRGV2LWlQdUp0TVpYYmZPQjdpR0JELUxFSHRFekxXZjhIT3pEV3J5bndTbERzNGtRWW9yaFhwem9xSkxsb0Rsa0RGVjVpNFFPaFlrWng?oc=5
+
+Başlık: Tatvan'da Omurga ve Skolyoz Ameliyatları Başarıyla Yapıldı - Mersin Haber
+Özet  : Tatvan'da Omurga ve Skolyoz Ameliyatları Başarıyla Yapıldı &nbsp;&nbsp; Mersin Haber Tatvan'da Omurga ve Skolyoz Ameliyatları Başarıyla Yapıldı - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0FEYTNsWEhsbXNsbW8ydFozRXBZakZrc2M3VkNlbmdVREdLaTVGWERNRGZKUG9JMTVMSW1oVGlBdnVaVWVrc0lUbC1rWkFIVlNLS0JaQjFwQlNyRS15dWlmeEtqR3ZsY2U4LWZNNTV1bHBRMUw3UURCZm9qV0R2MWdfMDFmUEVQbndRRTBEby1pVGZfVE5yOTVJS1JPdmfSAVdBVV95cUxOSWg5dDZZMkgtRmlGMjktNk5maG9aU3NDS3duc1JfSm94S09CTndTLVJEQkpTeFZkMnVPMXpYSmtQOENiYVJXUlVfN0JWcll1WUNuVHpLX1k?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-02-04)
+========================================================================
+Yeni kaynak sayısı: 11
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=3
+GitHub dosyası: out/omuz/2026-02-04_20260204T103843Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Investigating text neck syndrome and duration of mobile phone use, muscle activity, hand grip strength, posture, and disability.
+Türkçe Başlık : Investigating text neck syndrome and duration of mobile phone use, muscle activity, hand grip strength, posture, and disability.
+Türkçe Özet   : Bu içerik investigating text neck syndrome and duration of mobile phone use, muscle activity, hand grip strength, posture, and disability. konusuna odaklanıyor. Öne çıkan başlıklar: journal of electromyography and kinesiology : official journal of the international society of electrophysiological kinesiology. 2026 jan 26. Anahtar kavramlar: journal, kinesiology, investigating, text, neck, syndrome.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41633122/
+
+Orijinal Başlık: Nanoscopic long head of the biceps tendon tenotomy under suprascapular nerve block: a feasibility study.
+Türkçe Başlık : Nanoscopic long head of the biceps tendon tenotomy under suprascapular nerve block: a feasibility study.
+Türkçe Özet   : Bu içerik nanoscopic long head of the biceps tendon tenotomy under suprascapular nerve block: a feasibility study. konusuna odaklanıyor. Öne çıkan başlıklar: european journal of medical research. 2026 feb 2. Anahtar kavramlar: nanoscopic, long, head, biceps, tendon, tenotomy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41630068/
+
+Orijinal Başlık: Selecting Neuromodulation Devices For Chronic Pain Conditions: A Narrative Review.
+Türkçe Başlık : Selecting neuromodulation devices for chronic pain conditions: a narrative review.
+Türkçe Özet   : Bu içerik selecting neuromodulation devices for chronic ağrı conditions: a narrative review. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı physician. 2026 jan. Anahtar kavramlar: ağrı, selecting, neuromodulation, devices, chronic, conditions.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41628204/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Birçok Vietnamlının alışkanlıkları boyun omurgasını yıpratıyor. - Vietnam.vn
+Özet  : Birçok Vietnamlının alışkanlıkları boyun omurgasını yıpratıyor. Birçok Vietnamlının alışkanlıkları boyun omurgasını yıpratıyor.
+Bağlantı: https://news.google.com/rss/articles/CBMiggFBVV95cUxNZEdlSlpWU3YwZU8zWXJTdVBLUmtGUmY4MFB4TlE4S1hpWXhnaDJ5OW05SXdjWGJSMGs5TmZZWGR5b2tiMWxSUFo1Z0JtWGhLR3ByakFRODMyZDVJX0JXLUppLTlNaDY5bnkyTS1BaUdnN0p4SExrTTY4LWtiVURUdTFB?oc=5
+
+Başlık: Nintendo, 2026’da Switch 2 için 38 karakter ve yenilikçi ateş raketleriyle Mario Tennis Fever’ı duyurdu - Mix Vale
+Özet  : Nintendo, 2026’da Switch 2 için 38 karakter ve yenilikçi ateş raketleriyle Mario Tennis Fever’ı duyurdu &nbsp;&nbsp; Mix Vale Nintendo, 2026’da Switch 2 için 38 karakter ve yenilikçi ateş raketleriyle Mario Tennis Fever’ı duyurdu - Mix Vale.
+Bağlantı: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLUx5OFdaTWhLNmZvZ2g1bXpnMFhiUmdNWXRzV3hpYnFpM2d1akItN3VsejJLbHpaa212VnNQN0x1N1FDb0tDM1VYbU1OMUJodUFCWG5kb2FwZlUyQlRIRlg4ZVdfZHNRdFNmQnhINnlld3lsZEdyUFBzaGl6OXFnNUhGUE5NWjBLY3hJYkdyQWlBLXVycktLTUZ1UE5tNXgwLWR5Rm5sTS1JdjdXa3pycFpYOThaMUhWa2IzUERhQmlSY1U5Yk11bUY4OUdkWnRMT3RHWkRzTmlLeWVUc3dHYm5MNnXSAeQBQVVfeXFMTi1MeThXWk1oSzZmb2doNW16ZzBYYlJnTVl0c1d4aWJxaTNndWpCLTd1bHoyS2x6WmttdlZzUDdMdTdRQ29LQzNVWG1NTjFCaHVBQlhuZG9hcGZVMkJUSEZYOGVXX2RzUXRTZkJ4SDZ5ZXd5bGRHclBQc2hpejlxZzVIRlBOTVowS2N4SWJHckFpQS11cnJLS01GdVBObTV4MC1keUZubE0tSXY3V2t6cnBaWDk4WjFIVmtiM1BEYUJpUmNVOWJNdW1GODlHZFp0TE90R1pEc05pS3llVHN3R2JuTDZ1?oc=5
+
+Başlık: Bu belirtiyi sakın hafife almayın! Omuz ağrısının altından ölümcül hastalık çıktı - Takvim
+Özet  : Omuz ağrısının altından ölümcül hastalık çıktı &nbsp;&nbsp; Takvim Omuz ağrısının altından ölümcül hastalık çıktı - Takvim.
+Bağlantı: https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWZaTWVCRkRqNnkzbXQ2Z25FckxoTm1qVWd5dkVnQjBTMXFQR0N1RGw3dDNhbUtfWHlYYkxiamxaY3ppNkNwcXJjeGNzTDJnVXVtV2YtcEh6U05YUk1NUURGTmdpeVhFOG1ZNGZHSnF5UG9URGNWY1BHSkU5dUZRd21EUE1LenR6RTI4QVBGV2VSSGtsNVNhbFZHcmktQVZnVzBQaS1SalUzazZNVW9KSlNtdGk1M2hfUTdSeg?oc=5
+
