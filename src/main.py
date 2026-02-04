@@ -17,6 +17,18 @@ def build_series_markdown(series_title, items):
     lines.append("> Bu içerik otomatik derlenmiştir. Tıbbi öneri yerine geçmez; kişisel durumunuz için uzmana danışınız.\n")
     news = [i for i in items if i.get("kind") == "news"]
     papers = [i for i in items if i.get("kind") == "paper"]
+
+    preprints = [i for i in items if i.get("kind") == "preprint"]
+    reviews   = [i for i in items if i.get("kind") == "review"]
+
+    if reviews:
+        lines.append("## 📚 Sistematik Derlemeler (Cochrane)\n")
+        ...
+
+    if preprints:
+        lines.append("## 🧪 Ön Baskılar (medRxiv) — Hakem Değerlendirmesi Olmayabilir\n")
+        ...
+    
     if news:
         lines.append("## 🗞️ Popüler Haberler & Yazılar (Google News)\n")
         for it in news[:20]:
