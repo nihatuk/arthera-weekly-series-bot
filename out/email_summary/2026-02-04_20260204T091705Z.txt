@@ -1,0 +1,50 @@
+ARTHERA CLINIC – SERI DERLEMELERI (2026-02-04)
+========================================================
+
+SERİ: Bel Ağrısı Serisi — Derleme (2026-02-04)
+--------------------------------------------------------
+Yeni kaynak sayısı : 7
+Dağılım            : Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=3
+Dosya              : out/bel_agrisi/2026-02-04_20260204T091652Z.md
+
+ÖNE ÇIKANLAR:
+  • [PUBMED] Success rate and efficacy of intentional ipsilateral epidural catheter placement for anterior cruciate ligament reconstruction surgery: a retrospective analysis of 307 consecutive patients.
+    https://pubmed.ncbi.nlm.nih.gov/41634452/
+  • [PUBMED] Comparison of epidural space contrast flow and clinical outcomes in parasagittal versus transforaminal epidural steroid injection.
+    https://pubmed.ncbi.nlm.nih.gov/41634213/
+  • [PUBMED] Comparison of dynamic neuromuscular stabilization exercises with and without the feldenkrais method on pain, balance, and hip muscle strength in elderly women with chronic non-specific low back pain.
+    https://pubmed.ncbi.nlm.nih.gov/41633229/
+  • [PUBMED] The additional effects of dual-task training with core stability exercises versus general exercises on disability and pain in people with nonspecific chronic low back pain: A randomized controlled trial.
+    https://pubmed.ncbi.nlm.nih.gov/41633131/
+  • [HABER] Nghe An Ortopedi ve Travma Hastanesi'ndeki gerçeklerden bir uyarı: Gençlerde bel fıtığı vakalarında artış. - Vietnam.vn
+    https://news.google.com/rss/articles/CBMizwFBVV95cUxPNG0tQ2lhNkxOWTA0UGFTNXlyMmJUZ2VVZEM5eE02dkozWG5MMVVpSXhsYVN2eXBIQk5iMUFhX2FYU2EtR2N6SVFodWdFOGpjeEsyZ2R6Z1pWaHZkQUVZSGtTR01Gc3l5Mi1iVU0zVlBmYzBTVk8tc0czWDhadmpsc1cxbmZmejRZRGk1UzJEUS1sRlFlbDRGYXdCc0NlX3l1X3VHUjNZdlpHMGlfd2pxRXdrQmVTSjRwcU9OTWtRdC1UTlFWRXZGaDQxREp3czA?oc=5
+  • [HABER] Uzman doktor uyardı: “Bel ağrısını ciddiye alın” - Elmas 67
+    https://news.google.com/rss/articles/CBMieEFVX3lxTE5KWFpqYW1PUWdOYUJjRlJjWFVtTUlMMGtqTE1HUk8zYU1UUWVRQjFWQVNqZGluTnZIZ1FtLVMxWGlaMXczRjdqcEVuT0Fvb1FYWTd4MEw2SURPdzlOcVdBdldPaUphMmQyOFNJbUVkbC02M3JveF9nMtIBfkFVX3lxTE5aUGF2dFFaVEhTOXYtaVdhSWhMMlVSRDNDWXFjQ0pqRExCVzJpd2U5a1ZDSlRCQnA4MnBacGJFTV9lWDZaUm0xVEE5U2NodVlLb0M0VmJtYmtvZEJtTHQ0YlJsa2tubTNmc09OSFg2clpmQ1NWSWhmSTQxb3N3dw?oc=5
+  • [HABER] Bel fıtığı tedavisinde yeni dönem - Gazete Arena
+    https://news.google.com/rss/articles/CBMibkFVX3lxTE14RVVfM2lfb2FvU3k2REUyVlh4WlVzU2Q2NzJOYll0WHNXVWtVcUhpa1g5OG4weGw1TWE4bkNyVk5qWm1Sbk5SczdxT1V3X3NrSmpxVE9hdHdPbUJTME1Fdk9oZTBPaUViWDdZMmlB?oc=5
+
+SERİ: Skolyoz Serisi — Derleme (2026-02-04)
+--------------------------------------------------------
+Yeni kaynak sayısı : 2
+Dağılım            : Cochrane=0 | PubMed=0 | medRxiv=0 | Haber=2
+Dosya              : out/skolyoz/2026-02-04_20260204T091652Z.md
+
+ÖNE ÇIKANLAR:
+  • [HABER] Bitlis'te tarihi başarı: İlk kez yapılan ameliyatlarla iki hasta sağlığına kavuştu - Habererk.com
+    https://news.google.com/rss/articles/CBMivAFBVV95cUxOZi03UkhVdXhZN0xMRE81OFdEaE4wMkZrTElzMlpRSlR4bWFTQ2NJRVFnZlFxMzhzclVxdU0weGxJLUpMSUFxekFjNHNjUW5tVUNfelZLUnJVRTlaRUpNcTdIR0xwSTNVY1pUdk9OWlotX2VtR0JESElwRTZyejlDUUdvS1lwM2lZMDJmOHJFeDNrZ1lyZzN1cmN6VGUydV9YYVBFSU8xR2hGRmF3X3laT2tLdGp6VlBLc1A0bQ?oc=5
+  • [HABER] Yalan söylüyorsun, yalan... Neden? - turkinform.com.tr
+    https://news.google.com/rss/articles/CBMia0FVX3lxTE94Zl9pMk1WSkN3cUdNeXJSaF9fVHZXM2pQRWVrSWtGS0xQUjBLSjg2N01zVEJpNDJ0VVMzVjN0LWRZZTRRWnBmbXlzRXdRZmE4UHV3QWpyeUMzOE0xNnV4Z3p4c25WdXVVQlhJ0gFrQVVfeXFMT3hmX2kyTVZKQ3dxR015clJoX19UdlczalBFZWtJa0ZLTFBSMEtKODY3TXNUQmk0MnRVUzNWM3QtZFllNFFacGZteXNFd1FmYThQdXdBanJ5QzM4TTE2dXhnenhzblZ1dVVCWEk?oc=5
+
+SERİ: Omuz Serisi — Derleme (2026-02-04)
+--------------------------------------------------------
+Yeni kaynak sayısı : 2
+Dağılım            : Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=1
+Dosya              : out/omuz/2026-02-04_20260204T091652Z.md
+
+ÖNE ÇIKANLAR:
+  • [PUBMED] Investigating text neck syndrome and duration of mobile phone use, muscle activity, hand grip strength, posture, and disability.
+    https://pubmed.ncbi.nlm.nih.gov/41633122/
+  • [HABER] Nintendo, 2026’da Switch 2 için 38 karakter ve yenilikçi ateş raketleriyle Mario Tennis Fever’ı duyurdu - Mix Vale
+    https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLUx5OFdaTWhLNmZvZ2g1bXpnMFhiUmdNWXRzV3hpYnFpM2d1akItN3VsejJLbHpaa212VnNQN0x1N1FDb0tDM1VYbU1OMUJodUFCWG5kb2FwZlUyQlRIRlg4ZVdfZHNRdFNmQnhINnlld3lsZEdyUFBzaGl6OXFnNUhGUE5NWjBLY3hJYkdyQWlBLXVycktLTUZ1UE5tNXgwLWR5Rm5sTS1JdjdXa3pycFpYOThaMUhWa2IzUERhQmlSY1U5Yk11bUY4OUdkWnRMT3RHWkRzTmlLeWVUc3dHYm5MNnXSAeQBQVVfeXFMTi1MeThXWk1oSzZmb2doNW16ZzBYYlJnTVl0c1d4aWJxaTNndWpCLTd1bHoyS2x6WmttdlZzUDdMdTdRQ29LQzNVWG1NTjFCaHVBQlhuZG9hcGZVMkJUSEZYOGVXX2RzUXRTZkJ4SDZ5ZXd5bGRHclBQc2hpejlxZzVIRlBOTVowS2N4SWJHckFpQS11cnJLS01GdVBObTV4MC1keUZubE0tSXY3V2t6cnBaWDk4WjFIVmtiM1BEYUJpUmNVOWJNdW1GODlHZFp0TE90R1pEc05pS3llVHN3R2JuTDZ1?oc=5
+
+Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
