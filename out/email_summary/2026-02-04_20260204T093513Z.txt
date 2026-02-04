@@ -1,0 +1,32 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-02-04)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      0
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   1
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-02-04)
+========================================================================
+Yeni kaynak sayısı: 1
+Dağılım: Cochrane=0 | PubMed=0 | medRxiv=0 | Haber=1
+GitHub dosyası: out/skolyoz/2026-02-04_20260204T093500Z.md
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Doğuştan elleri gelişmeyen Kader, hayata ayakları ile tutunuyor - Ereğli Haberleri
+Özet  : Doğuştan elleri gelişmeyen Kader, hayata ayakları ile tutunuyor &nbsp;&nbsp; Ereğli Haberleri Doğuştan elleri gelişmeyen Kader, hayata ayakları ile tutunuyor - Ereğli Haberleri.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVlDbV9TNnpBb2YtUWpldi1VVFQ0ekpZenE0ZTl3RW01Z0NHZi1uTjNjcDNTVS1vU2g0aU1rd2JqOVdZelVWSW5PRjUwWHhUcmpPRlhrbnZCVGdvOEdpb1NaVGVKeXBnM0NIOHBsNzZIUzlFdDljWXM3dlo3eTVuTXgzeWw5ek96T19NV1FPdURqay1wcl95Y1FYeUdTdjJJQzd1cGMwdC3SAa4BQVVfeXFMTXpqZDRyTk9ES3V5MVgzcExzYWhSU3RQel9rU0lVckN4SnpvOFV5dkc2SzBuT25lUzJjZ3ItTVZrcTQxSDA1NldzV2thVjlPM29sSWc1SHBIc1l0N3MweEFsYzh5aVpIeFdnc0JZWXp5eEtLWlNWVW51dXNQV25jeXVVZWxPb3hYVFRLcWpIdW9nWnRJUUFqeDQxTEtHWFF1ZmxvM255LVcxZ2Jnbnpn?oc=5
+
