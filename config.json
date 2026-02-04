@@ -94,6 +94,22 @@
           "frozen shoulder physical therapy"
         ]
       }
+      {
+  "global_sources": {
+    "medrxiv": {
+      "feeds": [
+        "https://www.medrxiv.org/content/early/recent"
+      ],
+      "max_items_per_feed": 30
+    },
+    "cochrane": {
+      "feeds": [
+        "https://www.cochranelibrary.com/cca"
+      ],
+      "max_items_per_feed": 30
+    }
+  }
+}
     }
   ]
 }
