@@ -1,4 +1,3 @@
-
 import json
 import os
 from datetime import datetime, timezone
@@ -11,21 +10,17 @@ from .state_store import load_state, save_state, filter_new
 from .emailer import send_email
 from .utils import now_utc_iso, clean_text
 
-# Optional sources
+# Optional sources (now expected to exist if you added files)
 try:
-    from .sources_medrxiv import fetch_medrxiv_items  # kind="preprint"
+    from .sources_medrxiv import fetch_medrxiv_items
 except Exception:
     fetch_medrxiv_items = None
 
 try:
-    from .sources_cochrane import fetch_cochrane_items  # kind="review"
+    from .sources_cochrane import fetch_cochrane_items
 except Exception:
     fetch_cochrane_items = None
 
-
-# ----------------------------
-# Helpers
-# ----------------------------
 
 def safe_ts() -> str:
     return now_utc_iso().replace(":", "").replace("-", "")
@@ -55,7 +50,6 @@ def series_keywords(series_cfg: Dict[str, Any]) -> List[str]:
             kk = k.strip().strip('"').strip("'")
             if kk:
                 out.append(kk)
-    # unique
     seen = set()
     uniq = []
     for k in out:
@@ -77,16 +71,11 @@ def count_by_kind(items: List[Dict[str, Any]]) -> Dict[str, int]:
     return c
 
 def is_likely_english(text: str) -> bool:
-    """
-    Basit heuristik: Türkçe karakter yoksa ve harflerin çoğu ASCII ise EN say.
-    """
     t = clean_text(text)
     if any(ch in t for ch in "çğıöşüÇĞİÖŞÜ"):
         return False
-    # kısa metinlerde yanlış olabilir, ama yeterli
     return True
 
-# Basit ücretsiz başlık “Türkçeleştirme”
 TITLE_MAP = {
     "low back pain": "Bel ağrısı",
     "back pain": "Bel ağrısı",
@@ -114,34 +103,25 @@ TITLE_MAP = {
 }
 
 def translate_title_tr(title: str) -> str:
-    """
-    Tam çeviri değil: klinik terimleri Türkçe karşılıklarına mapler,
-    okunabilir bir Türkçe başlık üretmeye çalışır (ücretsiz).
-    """
     t = " " + clean_text(title).lower() + " "
     for k in sorted(TITLE_MAP.keys(), key=len, reverse=True):
         if k in t:
             t = t.replace(k, TITLE_MAP[k].lower())
-    # İlk harfleri büyüt
     t = clean_text(t)
     if not t:
         return ""
     return t[:1].upper() + t[1:]
 
 
-# ----------------------------
-# Markdown output to GitHub
-# ----------------------------
-
 def build_series_markdown(series_title: str, items: List[Dict[str, Any]]) -> str:
     lines = []
     lines.append(f"# {series_title}\n")
     lines.append("> Bu içerik otomatik derlenmiştir. Tıbbi öneri yerine geçmez; kişisel durumunuz için uzmana danışınız.\n")
 
-    reviews   = [i for i in items if i.get("kind") == "review"]     # Cochrane
-    papers    = [i for i in items if i.get("kind") == "paper"]      # PubMed
-    preprints = [i for i in items if i.get("kind") == "preprint"]   # medRxiv
-    news      = [i for i in items if i.get("kind") == "news"]       # Google News
+    reviews   = [i for i in items if i.get("kind") == "review"]
+    papers    = [i for i in items if i.get("kind") == "paper"]
+    preprints = [i for i in items if i.get("kind") == "preprint"]
+    news      = [i for i in items if i.get("kind") == "news"]
 
     if reviews:
         lines.append("## 📚 Sistematik Derlemeler (Cochrane)\n")
@@ -180,10 +160,6 @@ def build_series_markdown(series_title: str, items: List[Dict[str, Any]]) -> str
     return "\n".join(lines)
 
 
-# ----------------------------
-# Plain-text Turkish email
-# ----------------------------
-
 def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str:
     lines = []
     lines.append(f"ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ ({today})")
@@ -199,7 +175,6 @@ def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str
         lines.append("Not: Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.")
         return "\n".join(lines)
 
-    # Genel özet tablosu
     total_counts = {"review": 0, "paper": 0, "preprint": 0, "news": 0}
     for r in series_reports:
         c = r.get("counts", {})
@@ -220,7 +195,6 @@ def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str
     lines.append("• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.")
     lines.append("")
 
-    # Seri detayları
     for r in series_reports:
         lines.append("=" * 72)
         lines.append(r["series_title"].upper())
@@ -231,7 +205,6 @@ def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str
         lines.append(f"GitHub dosyası: {r['file_path']}")
         lines.append("")
 
-        # Bölüm bölüm ilk birkaç içerik
         buckets = r.get("buckets", {})
 
         def emit_section(title_tr, kind_key, max_n=3, extra_note=None):
@@ -250,12 +223,10 @@ def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str
                 if kind_key in ("paper", "review", "preprint") or is_likely_english(orig_title):
                     tr_title = translate_title_tr(orig_title)
                     tr_sum = summarize_tr(orig_title, snippet, max_sentences=2)
-
                     lines.append(f"Orijinal Başlık: {orig_title}")
                     lines.append(f"Türkçe Başlık : {tr_title}")
                     lines.append(f"Türkçe Özet   : {tr_sum}")
                 else:
-                    # Zaten Türkçe olması muhtemel
                     tr_sum = summarize_tr(orig_title, snippet, max_sentences=2)
                     lines.append(f"Başlık: {orig_title}")
                     lines.append(f"Özet  : {tr_sum}")
@@ -274,10 +245,6 @@ def build_turkish_email(today: str, series_reports: List[Dict[str, Any]]) -> str
     return "\n".join(lines)
 
 
-# ----------------------------
-# Main
-# ----------------------------
-
 def main():
     with open("config.json", "r", encoding="utf-8") as f:
         cfg = json.load(f)
@@ -288,22 +255,18 @@ def main():
     state = load_state()
     state["last_run_utc"] = now_utc_iso()
 
-    # Global sources (optional)
+    # Global sources
     global_cfg = cfg.get("global_sources", {})
 
     med_items = []
     if fetch_medrxiv_items and global_cfg.get("medrxiv"):
-        try:
-            med_items = fetch_medrxiv_items(global_cfg.get("medrxiv", {}))
-        except Exception as e:
-            print("medRxiv fetch failed (skipping):", e)
+        med_items = fetch_medrxiv_items(global_cfg.get("medrxiv", {}))
+    print(f"[GLOBAL] medRxiv çekilen kayıt: {len(med_items)}")
 
     coch_items = []
     if fetch_cochrane_items and global_cfg.get("cochrane"):
-        try:
-            coch_items = fetch_cochrane_items(global_cfg.get("cochrane", {}))
-        except Exception as e:
-            print("Cochrane fetch failed (skipping):", e)
+        coch_items = fetch_cochrane_items(global_cfg.get("cochrane", {}))
+    print(f"[GLOBAL] Cochrane çekilen kayıt: {len(coch_items)}")
 
     series_reports = []
 
@@ -311,31 +274,14 @@ def main():
         series_key = s.get("key", "series")
         series_title = f"{s.get('title_prefix','Seri')} — Derleme ({today})"
 
-        # 1) Series sources
-        g_items = []
-        try:
-            g_items = fetch_google_news_items(s.get("google_news", {}))
-        except Exception as e:
-            print(f"[{series_key}] Google News fetch failed (skipping):", e)
+        g_items = fetch_google_news_items(s.get("google_news", {}))
+        p_items = fetch_pubmed_items(s.get("pubmed", {}))
 
-        p_items = []
-        try:
-            p_items = fetch_pubmed_items(s.get("pubmed", {}))
-        except Exception as e:
-            print(f"[{series_key}] PubMed fetch failed (skipping):", e)
-
-        # 2) Filter global sources by series keywords
         kws = series_keywords(s)
 
-        med_for_series = []
-        if med_items and kws:
-            med_for_series = [it for it in med_items if keyword_match(it, kws)]
+        med_for_series = [it for it in med_items if keyword_match(it, kws)] if (med_items and kws) else []
+        coch_for_series = [it for it in coch_items if keyword_match(it, kws)] if (coch_items and kws) else []
 
-        coch_for_series = []
-        if coch_items and kws:
-            coch_for_series = [it for it in coch_items if keyword_match(it, kws)]
-
-        # 3) Combine & dedup
         combined = dedup_by_url(g_items + p_items + med_for_series + coch_for_series)
         fresh = filter_new(combined, state)
 
@@ -343,20 +289,17 @@ def main():
             print(f"[{series_key}] Yeni içerik yok; dosya üretilmedi.")
             continue
 
-        # 4) Write markdown file
         md = build_series_markdown(series_title, fresh)
         file_path = f"out/{series_key}/{today}_{ts}.md"
         write_text(file_path, md)
         print(f"[{series_key}] Yazıldı: {file_path}")
 
-        # 5) Build mail buckets
         buckets = {
             "review":   [i for i in fresh if i.get("kind") == "review"],
             "paper":    [i for i in fresh if i.get("kind") == "paper"],
             "preprint": [i for i in fresh if i.get("kind") == "preprint"],
             "news":     [i for i in fresh if i.get("kind") == "news"],
         }
-
         counts = count_by_kind(fresh)
 
         series_reports.append({
@@ -368,19 +311,15 @@ def main():
             "buckets": buckets
         })
 
-    # Save state even if email fails
     save_state(state)
 
-    # Build Turkish email (plain text)
     subject = f"ArtheraClinic – Fizyoterapi Gündem Özeti ({today})"
     mail_text = build_turkish_email(today, series_reports)
 
-    # Save email summary to repo
     summary_path = f"out/email_summary/{today}_{safe_ts()}.txt"
     write_text(summary_path, mail_text)
     print("Email summary written:", summary_path)
 
-    # Send email (non-fatal)
     try:
         send_email(subject, mail_text)
         print("Email sent.")
