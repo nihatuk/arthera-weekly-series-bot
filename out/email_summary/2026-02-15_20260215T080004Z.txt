@@ -1,0 +1,139 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-02-15)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      20
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   55
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-02-15)
+========================================================================
+Yeni kaynak sayısı: 46
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=38
+GitHub dosyası: out/bel_agrisi/2026-02-15_20260215T075948Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Brain Mechanisms of Pain Anticipation in Chronic Low Back Pain: Insights into Phenotypical Responses to Mind-Body Therapy.
+Türkçe Başlık : Brain mechanisms of pain anticipation in chronic bel ağrısı: insights into phenotypical responses to mind-body therapy.
+Türkçe Özet   : Bu içerik brain mechanisms of ağrı anticipation in chronic bel ağrısı: insights into phenotypical responses to mind-body therapy. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of ağrı. 2026 feb 12. Anahtar kavramlar: ağrı, brain, mechanisms, anticipation, chronic, low.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41690396/
+
+Orijinal Başlık: Trends in lumbar degenerative spine pathologies causing severe pain and disability: a four-decade cohort study of 1495 Colombian women.
+Türkçe Başlık : Trends in lomber (bel bölgesi) degenerative spine pathologies causing severe pain and disability: a four-decade cohort study of 1495 colombian women.
+Türkçe Özet   : Bu içerik trends in lomber (bel bölgesi) degenerative spine pathologies causing severe ağrı and disability: a four-decade cohort study of 1495 colombian women. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical neuroscience : official journal of the neurosurgical society of australasia. 2026 feb 13. Anahtar kavramlar: journal, trends, lomber (bel bölgesi), degenerative, spine, pathologies.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41690058/
+
+Orijinal Başlık: BackTracker: Machine learning to identify kinematic phenotypes for personalised exercise management in non-specific low back pain.
+Türkçe Başlık : Backtracker: machine learning to identify kinematic phenotypes for personalised egzersiz management in non-specific bel ağrısı.
+Türkçe Özet   : Bu içerik backtracker: machine learning to identify kinematic phenotypes for personalised egzersiz management in non-specific bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of medical informatics. 2026 feb 7. Anahtar kavramlar: backtracker, machine, learning, identify, kinematic, phenotypes.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41689880/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrılarıyla ilgili uzmanlardan ezber bozan açıklamalar - Yeniçağ Gazetesi
+Özet  : Bel ağrılarıyla ilgili uzmanlardan ezber bozan açıklamalar &nbsp;&nbsp; Yeniçağ Gazetesi Bel ağrılarıyla ilgili uzmanlardan ezber bozan açıklamalar - Yeniçağ Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDc2MjNwS2xxMHVxRHdrb3E1QmZkUmxUbkNENlJSRmlVX3ZfVllfOTU1NW5DSi05SHJwc1BmRy1iQ2RYUkttZUtpMGI1NjJnUnFaaXhwdEZ1QzdqeF93RmdpU1BrVl9Rem1laVp4TmxBdlEzMkp2U2Z5NXJmTDBYS282NWxYd3dkSUhGX0xLQTF2Q1JFeG1mTTlxbThDb2JIWWVyMnpR?oc=5
+
+Başlık: Şiddetli osteoporoz tanısı konulmuş sürekli bel ağrısı, kırık riskini artırır. - Vietnam.vn
+Özet  : Şiddetli osteoporoz tanısı konulmuş sürekli bel ağrısı, kırık riskini artırır. Şiddetli osteoporoz tanısı konulmuş sürekli bel ağrısı, kırık riskini artırır.
+Bağlantı: https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTJpT3B4LXlfOWlFRGFmVlBVR3R3TW9TYy0yd2hVYUVQV2FTdDZ5YjFJTHpfVWZBa1dNOFQ5OFEwQmREYlRxazZtN0kwUkZuYjRPUnBHeHVyVEZ3TDZPbDNiYUZJM0ZRRWl4bmFoMU42RE5wYWVsbURBbndhUjFya1FSSkJtbHV3VVlPTTN3RF8?oc=5
+
+Başlık: Uzmandan Uyarı, Bel Ağrısında MR Yanılgısı - Uşak Haber Gazetesi
+Özet  : Uzmandan Uyarı, Bel Ağrısında MR Yanılgısı &nbsp;&nbsp; Uşak Haber Gazetesi Uzmandan Uyarı, Bel Ağrısında MR Yanılgısı - Uşak Haber Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMif0FVX3lxTE8zVTlQVmRBdnlCRjU4aWRFZ2NHbXI4dzFkY0xPTWhkcXYwUVVwRjFKUVNZb1RIVE1xRTJxY2JOSEJlcGFCdUUzQk81YlA4bjVqakdMMzk5d0kwLUNxLVdQcC03ZGc4QW50bjZkU3JqeUxIQlB1TG9FTHlOZDdWZlHSAYQBQVVfeXFMUHJaWHA1b01VNWtHb0NOSXBGVWpUMzdjUXhoTEtDWjJRWHYtNFlSM3dKTkhyd0hQZVJmT0U1OUE1MWxCSHRXc3NfOUhSaFJ5WVdvaVZEeXZXekJpRnlNZVJ0eG5WSEJQMjBKcnZYVkdZcXdNTmlmZWhzajNGYVZiVFBTdlpM?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-02-15)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=14
+GitHub dosyası: out/skolyoz/2026-02-15_20260215T075948Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of exercise interventions for adolescent idiopathic scoliosis: An umbrella review.
+Türkçe Başlık : Effectiveness of egzersiz interventions for adolescent idiopathic skolyoz: an umbrella review.
+Türkçe Özet   : Bu içerik effectiveness of egzersiz interventions for adolescent idiopathic skolyoz: an umbrella review. konusuna odaklanıyor. Öne çıkan başlıklar: journal of pediatric nursing. 2026 feb 13. Anahtar kavramlar: effectiveness, egzersiz, interventions, adolescent, idiopathic, skolyoz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41689901/
+
+Orijinal Başlık: Physiotherapeutic Management of Adolescent Idiopathic Scoliosis: A Focused Review of the Schroth Method.
+Türkçe Başlık : Physiotherapeutic management of adolescent idiopathic skolyoz: a focused review of the schroth method.
+Türkçe Özet   : Bu içerik physiotherapeutic management of adolescent idiopathic skolyoz: a focused review of the schroth method. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 feb 5. Anahtar kavramlar: physiotherapeutic, management, adolescent, idiopathic, skolyoz, focused.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41682949/
+
+Orijinal Başlık: Differential Activation of the Multifidus and Erector Spinae During Asymmetric Spinal Stabilizing Exercise in Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Differential activation of the multifidus and erector spinae during asymmetric spinal stabilizing egzersiz in adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik differential activation of the multifidus and erector spinae during asymmetric spinal stabilizing egzersiz in adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: annals of rehabilitasyon medicine. 2026 feb 11. Anahtar kavramlar: differential, activation, multifidus, erector, spinae, during.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41668557/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Çocuklarda skolyoz belirtilerine dikkat - Kocaeli Büyükşehir Belediyesi
+Özet  : Çocuklarda skolyoz belirtilerine dikkat &nbsp;&nbsp; Kocaeli Büyükşehir Belediyesi Çocuklarda skolyoz belirtilerine dikkat - Kocaeli Büyükşehir Belediyesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVl1TTMwX25pWlMzS3liOTd0X2hadXI0RlVaQlVodzgxc1BuY0NqWGt3M0dqaWk3LXRkMjhEMlNYOExQM0FlX0NiNmFjdkhBdFJpMlVtNHZwQkFVbEw0ZUVEZVE5LWJ6VjFSU2dOeGE4bDZkZlljaEdSUHRjQWdEdzZBa2JtNGVycnQw?oc=5
+
+Başlık: Skolyoz alarm veriyor! Aileler fark edemiyor! Dijital cihazlar skolyozu ilerletiyor - Haberler | Sağlık Haberleri - Habertürk
+Özet  : Dijital cihazlar skolyozu ilerletiyor - Haberler | Sağlık Haberleri &nbsp;&nbsp; Habertürk Dijital cihazlar skolyozu ilerletiyor - Haberler | Sağlık Haberleri - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZXBRM2tLYlBqMm9TbjJVOVRraS1xZmZCUExyU1V5ckpjVzl2b3VzMG1UNTRHeGhKOVVINUV2ZEdWSk9uTHp2bVpobFlSa3BPaVFz0gFYQVVfeXFMT1VtWi1GVEZJOFpvRXEyVEFpZWR3WEF6bTVOTFlubXlOaUI2Z2Y2RG1LQVctbEpVMERCc09jQ1dfSVlQNHNtdExKSENuM0I3dUxVZXlwM1J5eg?oc=5
+
+Orijinal Başlık: Toros Devlet’te bir ilk: 10 saatlik hayat operasyonu - Mersin Haberci Gazetesi
+Türkçe Başlık : Toros devlet’te bir ilk: 10 saatlik hayat operasyonu - mersin haberci gazetesi
+Türkçe Özet   : Bu içerik toros devlet’te bir ilk: 10 saatlik hayat operasyonu - mersin haberci gazetesi konusuna odaklanıyor. Öne çıkan başlıklar: toros devlet’te bir ilk: 10 saatlik hayat operasyonu &nbsp;&nbsp; mersin haberci gazetesi. Anahtar kavramlar: toros, devlet, bir, ilk, saatlik, hayat.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3lFRnJEYUgxMnl0QWpIYjhmOUhHc1NUYjJKNnlraXV4cUU3akRDc0k1OExxZTdxVWtHWnVrSTRKeTkzN2h4VEFSbDc5c2l2MWxidEI3RDRnN3VDcDBsUWZBYXlwYlJteVpncHprdGNTaUFkdlNxbDVzckJKemZaWFpZVnJSNVM2WHdJY1NSeFF4ckxqdFR3a0JnbktJS1I2QzBXZw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-02-15)
+========================================================================
+Yeni kaynak sayısı: 11
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=3
+GitHub dosyası: out/omuz/2026-02-15_20260215T075948Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of repeated ultrasound-guided suprascapular nerve blocks in hemiplegic shoulder pain: A randomized controlled trial.
+Türkçe Başlık : Effectiveness of repeated ultrasound-guided suprascapular nerve blocks in hemiplegic omuz pain: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of repeated ultrasound-guided suprascapular nerve blocks in hemiplegic omuz ağrı: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: medicine. 2026 feb 13. Anahtar kavramlar: effectiveness, repeated, ultrasound, guided, suprascapular, nerve.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41686618/
+
+Orijinal Başlık: Delayed Radial Nerve Palsy Following a Low-Impact Mechanical Fall Managed With Early Ultrasound-Guided Hydrodissection: A Case Report.
+Türkçe Başlık : Delayed radial nerve palsy following a low-impact mechanical fall managed with early ultrasound-guided hydrodissection: a case report.
+Türkçe Özet   : Bu içerik delayed radial nerve palsy following a low-impact mechanical fall managed with early ultrasound-guided hydrodissection: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 jan. Anahtar kavramlar: delayed, radial, nerve, palsy, following, low.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41685007/
+
+Orijinal Başlık: Mechanism of Action of Therapeutic Exercise in Rotator Cuff Tendinopathy: What Does Elastography Add?
+Türkçe Başlık : Mechanism of action of therapeutic egzersiz in rotator manşet tendinopathy: what does elastography add?
+Türkçe Özet   : Bu içerik mechanism of action of therapeutic egzersiz in rotator manşet tendinopathy: what does elastography add? konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 jan 27. Anahtar kavramlar: mechanism, action, therapeutic, egzersiz, rotator, cuff.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41682699/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Yasemin Bihter Adalı'nın Yeni Sergisi: 'Haz ile Göklenir Dünya' - Son Dakika
+Özet  : Yasemin Bihter Adalı'nın Yeni Sergisi: 'Haz ile Göklenir Dünya' &nbsp;&nbsp; Son Dakika Yasemin Bihter Adalı'nın Yeni Sergisi: 'Haz ile Göklenir Dünya' - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEVmdjlPXzVWOUFocUVZRkx3bmk2ZWtlQkplRVY0WUlmSjRhbXpaTUJDVm4yOEctWE5scDBuOVZOVXhTbS1GU0lBWTRDVDVrY0lva3ktaEk5NnZuZTExS2o0bG5oSVlaMkhrTkNhTkN4OXhEZi1HWjFtVlNRQ2dkUGNpYlRzZURzazNOYk5mU3lVZlUxR3Y1OXEtbFJCOEHSAZwBQVVfeXFMUENiVi1TNUcwZGdyMTFNeTRyQlZVZ1p0ak5LT0loempTTUswM1VEbE1mVVlOZFlYeWEwenA5VXRqRFpPYWZTQ1RCbE5CNTEybDBHQnQ2TVlzcEVSQVpKTDdla050eXlHSUVPZXVzSEdDWlZnOVdHNE5tRWczYS1uRmh0Y1BXaEpOalpCaWhKRnJrdmxoMlNIb1JTQUdI?oc=5
+
+Başlık: Profesöre bak sen! Kamerayı görünce tek bir söz söyleyip saldırdı - Haberler
+Özet  : Kamerayı görünce tek bir söz söyleyip saldırdı &nbsp;&nbsp; Haberler Kamerayı görünce tek bir söz söyleyip saldırdı - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQd3dteDFRSTc0UGF0YTJhZW4yWHM0SlJpNDVxYlFUeWhtZy1kVENTZ2xzZU5QTkd4bFhKWTMxNlZ0NlVwSzBkUkYwMGgxRVVYQ3dUaHY0YzNFUVhtbGVFZUZMX2pXWWtZc1dnTEdLazMtVGdqYlNISEphRlVkZGhncERBWEdDMUF2b3MyQ1haZUFiNHRCd2Mw0gGTAUFVX3lxTE5aWXBia3BSRWd6OVhvalEwcDhRT1dadUxkeWJjbTI3TEl1VUFDZ3B3djl3QTl6c09Od1VzQi1QTFpyNEx2Zm40R08wX05HNWhjZEtNcTM0MjBIWTFrMHdoV1FVQVMyR3RfTW1GT2ZNZXpfamZmMHAwQjdkc0syMWQ4U3BpOW95eE8yYmJMMUZGRjg1cw?oc=5
+
+Başlık: İstanbul yeni bir ülke doğurdu! - Sabah
+Özet  : İstanbul yeni bir ülke doğurdu! İstanbul yeni bir ülke doğurdu!
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXk4WTlWWjdBSV9aWGNxYm5DRjBObGkyQ3owWkQ4NGlJUkNaclZSQUJFaHFDa09BMWpYTll4bXc5VmVhZHA2Rk1iRHVfZXVybWdvQ1loRS0xMWpTd0hNclBudVRkM3ctNDVtU0tRNkU5T1dTWXVlUHFLbmRwM3lCZ2lGRTR3alMyYjNLU2c3a0tSWnhYWldGWGRYbnItUkthTlHSAaQBQVVfeXFMUHF3RWdXb3FRQnNEc1pzMEhoOHpsSXl5cnBFQlZvR2F1T0JReDhIUlNvbjM3VTFGOXZ2RjFVd0VoeDZaSW1SUHhLNUh5dGxSV1V4YXRlRDRYRGl2ZHVsTjBIREZfVGY1ZTBLZ21nVENHd2hOLU9VM1NJd09vaTk5VDFOZ2dyR1hTUzJKUTNlUWU3SDNnbHJ0LXlma0lySFFjX0plZS0?oc=5
+
