@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-03-01)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      20
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   41
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-03-01)
+========================================================================
+Yeni kaynak sayısı: 26
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=18
+GitHub dosyası: out/bel_agrisi/2026-03-01_20260301T075435Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A fixed left-sided surgeon position in unilateral biportal endoscopic surgery for lumbar disc herniation: a technical note with variations according to herniation type.
+Türkçe Başlık : A fixed left-sided surgeon position in unilateral biportal endoscopic surgery for lomber (bel bölgesi) disc herniation: a technical note with variations according to herniation type.
+Türkçe Özet   : Bu içerik a fixed left-sided surgeon position in unilateral biportal endoscopic surgery for lomber (bel bölgesi) disc herniation: a technical note with variations according to herniation type. konusuna odaklanıyor. Öne çıkan başlıklar: world neurosurgery. 2026 feb 26. Anahtar kavramlar: herniation, fixed, left, sided, surgeon, position.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41763355/
+
+Orijinal Başlık: Barriers and facilitators to adherence with home-based exercise in persistent spinal pain - A nested qualitative study.
+Türkçe Başlık : Barriers and facilitators to adherence with home-based egzersiz in persistent spinal pain - a nested qualitative study.
+Türkçe Özet   : Bu içerik barriers and facilitators to adherence with home-based egzersiz in persistent spinal ağrı - a nested qualitative study. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 feb 26. Anahtar kavramlar: barriers, facilitators, adherence, home, based, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41763108/
+
+Orijinal Başlık: Identifying risk factors for pregnancy-related pelvic girdle pain: A modified eDelphi study.
+Türkçe Başlık : Identifying risk factors for pregnancy-related pelvic girdle pain: a modified edelphi study.
+Türkçe Özet   : Bu içerik identifying risk factors for pregnancy-related pelvic girdle ağrı: a modified edelphi study. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 feb 24. Anahtar kavramlar: identifying, risk, factors, pregnancy, related, pelvic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41763106/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Uzmanlar uyardı: Gençlerde bel fıtığı artıyor - Hürriyet
+Özet  : Uzmanlar uyardı: Gençlerde bel fıtığı artıyor &nbsp;&nbsp; Hürriyet Uzmanlar uyardı: Gençlerde bel fıtığı artıyor - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUVaUGlTRURQSDRzcjBoSnkxVkMwaWxwUTUxUWMtNHJpdFgyNVhNd284TGYxYVRqN1V3OWo5VWw4SjE5UkhQZ0Z5blNIVDlHS1hOT3JqNnRtdXJVQS1BdjVkeXc1Vm1Kbnd6RjVmWXNlaDY2SGQ1TFlnMXlxdUVBclBpWXk1THZaYUxYRWk0TzAtUQ?oc=5
+
+Başlık: Her 10 kadından birini etkileyen sinsi hastalık: Endometriozis İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Her 10 kadından birini etkileyen sinsi hastalık: Endometriozis İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Her 10 kadından birini etkileyen sinsi hastalık: Endometriozis İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXhPbUhnTFVEeFBubUdWZS1YelNvaXJBSnIzZ2x5VFJYbWlRam9rckNLbVlxS3RkUmU0OGVNdDIxaV91WVEwYlJHakw4b3NUVG1MYWs5S24zdTdGeVFNQy1ka0U3YWRWY2xOYmZhQXA5UVk5Y1hxRGYyZkFxQm9MQlY0bWk3ZDVnTnc5S3hUT192UGF2RmI3cDNDblltU0R6WWFyZ0dEUzl6OFNqUy01OA?oc=5
+
+Başlık: Beyin, Sinir ve Omurilik Cerrahisi Uzmanı Op. Dr. Murat Tiftikçi Bilgilendiriyor: Omurga Kayması Nedir? - Medyabar
+Özet  : Murat Tiftikçi Bilgilendiriyor: Omurga Kayması Nedir? Murat Tiftikçi Bilgilendiriyor: Omurga Kayması Nedir?
+Bağlantı: https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUltS0M1alA4ZnBjTlY4cmEtajJERW9sRkRNcUZIOWVBdlB5c09qVDBXSkhER1RMMkk2cHRwOXlCbUxZRTg3Ylo4QUtXYjV2YnVGaGZEM3p6bXNndVZMWmNsVG1wZmVBbzhldWdHd18zOHVoVkpXQmExLTdZQ3hJd01iYm1pOHlabnNnQXhlOGJVY3FQOUg4dVk4aEQzbXl6eWVpSXRWVndqY29PcjRLX0FxMmlaam0zNUtMRl9ENWs2Z19Ca2ltLVQ3TnQyTknSAdQBQVVfeXFMTmF1bXljRGR3dnN4a1JqbVo5YThOLVNjMURmd0RGME1RbVR5eDJ1cFVOZjA2WndfQzVvOEZDU3RkNk1ENlBZTk5GYk5pVFRZSGlJaFBvWWVOTmEyRnZhOEs1U2FRenRISDFRZ3NMRjYyZEVxcXh6Nm1OUU5tRGZzWWFveVg1WllnR19LdlRjS05qUmRhQVhFZm9EcGF5M0dzNnJ3REU0Vk1sb1c5YVdVcjRxSUFreXI4VVRrUXllREk2SVZSTVpUanJ0T2kxQnRWVUcwclQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-03-01)
+========================================================================
+Yeni kaynak sayısı: 27
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=19
+GitHub dosyası: out/skolyoz/2026-03-01_20260301T075435Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Impact of Physiotherapy Based on the Rigo Concept and Whole-Body Vibration on Sagittal Spinal Curvatures, Trunk Symmetry, and the Angle of Trunk Rotation in Adolescents with Idiopathic Scoliosis.
+Türkçe Başlık : Impact of fizyoterapi based on the rigo concept and whole-body vibration on sagittal spinal curvatures, trunk symmetry, and the angle of trunk rotation in adolescents with idiopathic skolyoz.
+Türkçe Özet   : Bu içerik impact of fizyoterapi based on the rigo concept and whole-body vibration on sagittal spinal curvatures, trunk symmetry, and the angle of trunk rotation in adolescents with idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 feb 10. Anahtar kavramlar: trunk, impact, fizyoterapi, based, rigo, concept.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41753074/
+
+Orijinal Başlık: Radiological Improvement of Adolescent Idiopathic Scoliosis Following an Integrated Postural Reprogramming Approach: A Retrospective Case Series.
+Türkçe Başlık : Radiological improvement of adolescent idiopathic skolyoz following an integrated postural reprogramming approach: a retrospective case series.
+Türkçe Özet   : Bu içerik radiological improvement of adolescent idiopathic skolyoz following an integrated postural reprogramming approach: a retrospective case series. konusuna odaklanıyor. Öne çıkan başlıklar: diagnostics (basel, switzerland). 2026 feb 9. Anahtar kavramlar: radiological, improvement, adolescent, idiopathic, skolyoz, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41750664/
+
+Orijinal Başlık: Multidimensional clinical profiles of Saudi adolescents with idiopathic scoliosis: an exploratory cross-sectional study.
+Türkçe Başlık : Multidimensional clinical profiles of saudi adolescents with idiopathic skolyoz: an exploratory cross-sectional study.
+Türkçe Özet   : Bu içerik multidimensional clinical profiles of saudi adolescents with idiopathic skolyoz: an exploratory cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: annals of medicine. 2026 dec. Anahtar kavramlar: multidimensional, clinical, profiles, saudi, adolescents, idiopathic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41736463/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Medical Point Gaziantep Hastanesi’nden skolyoz uyarısı - Kars Manşet
+Özet  : Medical Point Gaziantep Hastanesi’nden skolyoz uyarısı &nbsp;&nbsp; Kars Manşet Medical Point Gaziantep Hastanesi’nden skolyoz uyarısı - Kars Manşet.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW5ueF9FZmhldUpJVnhEVzBLMDF4bjBpOVFQYmRVS24xT1I2LURNN2FkN2huYkhjWHE1bVpoVlA4Y0VNcWFjQzVlQ0t4cm9TNE01OTlReXBLY0tvR2hlSVlweHpJcDlJRFJ4MlJwUjkyRmNBY1duS1BkNFRQcWtiWE5xSUloeHpySXVhb3dXT2dBLVlQcjZMUjBmRmpybFnSAa8BQVVfeXFMUGdCWnpTNkZsdklyOXB2eG5SUnNRc3llOGpFOW1tdE91ZkJzQ0JKLXltQmRpMlF0cGhWbk91VUctTUJQUzN5NldMQmFqMlowZWpSdmlhWXp2ZnVyRHRreDJlSmdxWVFMYmxzY0Q1RW44MUFpWE1SX0FOYmFXZ3k1YTl1ZHRqSGRQSHZhMlRRM0NmQURBOEVQaWhCRE1aNThQOGRfV3FzY2RVV1JmS0VzSQ?oc=5
+
+Başlık: Gaziantep’te Medical Point Hastanesi, Skolyozun Erken Teşhisi Üzerine Aileleri Uyardı - Mersin Haber
+Özet  : Gaziantep’te Medical Point Hastanesi, Skolyozun Erken Teşhisi Üzerine Aileleri Uyardı &nbsp;&nbsp; Mersin Haber Gaziantep’te Medical Point Hastanesi, Skolyozun Erken Teşhisi Üzerine Aileleri Uyardı - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeURTQVRGT2FuTXh4Q0h2UU5MZk5QejhQLTlLMEVBamtPZ2NKcVRIQmNGUWxJaU4zOFFWcjB4S2lTaHNheEZQSUs1SDNOY3hhUkhHblppQnR0c1dfYzhPRXlzZ1RhUm8wdUM0Nkh5dE1ENkVodWRDU0JGZDA3WndTYTNzYmM1dkpCdG0zYk1OUThvNE5jVVRRLUc1YUkzczMtNWIxZTZsdnNGV3hOQnNTNG5VVmUybVNhbVRDUlZYVjk2UdIBV0FVX3lxTFBlUmlSc3A1QUhPaUJJZUdCSWNydUlBeDNxNHBlQkZXSHNfLXJpWENPYzVMdXM5eUR0c2VyS253czlnNjV4dlIzNDBvMjVIN1JmOE14TXBTMA?oc=5
+
+Başlık: AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ - akcaabatgazetesi.com.tr
+Özet  : AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ &nbsp;&nbsp; akcaabatgazetesi.com.tr AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ - akcaabatgazetesi.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVZUMEwwYU9DTGJzZ25qZThtZDdxMjFWRGtGTWNBXzVMT3RQaEF1c3FXVUhBMGYtWkhVT2JhRG14emZWbEsyTUVsRnhvLTVHUUtFWHVBc29Qb0h3SzJNbTVTODB5UzQ3WlVVdmlaOWNhaW15ZmJubG1LM0hZQS1zbnhRR2tnWU00VmoteVB3?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-03-01)
+========================================================================
+Yeni kaynak sayısı: 8
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=4
+GitHub dosyası: out/omuz/2026-03-01_20260301T075435Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Platelet-Rich Plasma Versus Corticosteroid Injection in Patients With Primary Frozen Shoulder: A Single-Blinded Randomized Controlled Trial.
+Türkçe Başlık : Platelet-rich plasma versus corticosteroid injection in patients with primary donuk omuz: a single-blinded randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik platelet-rich plasma versus corticosteroid injection in patients with primary donuk omuz: a single-blinded randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: archives of physical medicine and rehabilitasyon. 2026 feb 26. Anahtar kavramlar: platelet, rich, plasma, versus, corticosteroid, injection.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41763349/
+
+Orijinal Başlık: Return to Weightlifting After Shoulder Arthroplasty: An ASES Multicenter Study Predicting Performance after Reverse Shoulder Arthroplasty (rTSA) and Anatomic Shoulder Arthroplasty (aTSA).
+Türkçe Başlık : Return to weightlifting after omuz arthroplasty: an ases multicenter study predicting performance after reverse omuz arthroplasty (rtsa) and anatomic omuz arthroplasty (atsa).
+Türkçe Özet   : Bu içerik return to weightlifting after omuz arthroplasty: an ases multicenter study predicting performance after reverse omuz arthroplasty (rtsa) and anatomic omuz arthroplasty (atsa). konusuna odaklanıyor. Öne çıkan başlıklar: journal of omuz and elbow surgery. 2026 feb 26. Anahtar kavramlar: omuz, arthroplasty, after, return, weightlifting, ases.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41763290/
+
+Orijinal Başlık: Conservative management of degenerative rotator cuff tears: A systematic review of long-term clinical outcomes and cost effectiveness.
+Türkçe Başlık : Conservative management of degenerative rotator manşet tears: a sistematik derleme of long-term clinical outcomes and cost effectiveness.
+Türkçe Özet   : Bu içerik conservative management of degenerative rotator manşet tears: a sistematik derleme of long-term clinical sonuçs and cost effectiveness. konusuna odaklanıyor. Öne çıkan başlıklar: journal of orthopaedics. 2026 may. Anahtar kavramlar: conservative, management, degenerative, rotator, cuff, tears.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41756190/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Mide ağrısı şikayetleri farklı hastalıkları maskeleyebiliyor - Haberler
+Özet  : Mide ağrısı şikayetleri farklı hastalıkları maskeleyebiliyor &nbsp;&nbsp; Haberler Mide ağrısı şikayetleri farklı hastalıkları maskeleyebiliyor - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxQRi0zX0w1ZWsxbTMyS01oTm9BeW1Xbm1WQzBheGNNVExyUkEtQWNyamNQUjRNWU9OTjJHYTVrV29LbE5zSHZGX3BOTFJWdkxja0ZmS3ZDT2YyTUZVMktnR3dJaVRzOGRUbEhpNk9oWnF3TVdJWWg3Wi05ZmlCQVE5YkRCa09KZlFzX2VJbnlRQ2dzM3fSAZMBQVVfeXFMUEYtM19MNWVrMW0zMktNaE5vQXltV25tVkMwYXhjTVRMclJBLUFjcmpjUFI0TVlPTk4yR2E1a1dvS2xOc0h2Rl9wTkxSVnZMY2tGZkt2Q09mMk1GVTJLZ0d3SWlUczhkVGxIaTZPaFpxd01XSVloN1otOWZpQkFROWJEQmtPSmZRc19lSW55UUNnczN3?oc=5
+
+Başlık: Mide ağrısı sanılıyor, safra taşı çıkabiliyor - Manşet Haber
+Özet  : Mide ağrısı sanılıyor, safra taşı çıkabiliyor &nbsp;&nbsp; Manşet Haber Mide ağrısı sanılıyor, safra taşı çıkabiliyor - Manşet Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMid0FVX3lxTFBzZjgtemNGMzhwUllWMTVoVzVReXdlU2VjXzF1bzRCUzNaNExHRzNjRUVYTTcxUHBablBKcXB1eUE2R2pqR055MWZIMEpVN201Z0k2bHJINVFaYVhGS3hnV1paZkh2b3VmUXBHVml6Umt5RERtOVFj?oc=5
+
+Başlık: Omuz ağrısı günlük hayatı nasıl etkiliyor? - Medyabar
+Özet  : Omuz ağrısı günlük hayatı nasıl etkiliyor? Omuz ağrısı günlük hayatı nasıl etkiliyor?
+Bağlantı: https://news.google.com/rss/articles/CBMigwFBVV95cUxObmMtSlU5NWVvTE1WNGc0NTRLV210d1pHektiR0FjRnllWFVFaUxad0JxTkJVUzR2Y3BOalJJTXZLY2hXNXgyYmZlWVl6Q0ZyYVpkVDhJV1VvS0xFLUFWbWtTLUNrc1VuU1VxWGZwLXZ5THNNY3FJSTJ3UFJRaTE1LXNBNNIBiAFBVV95cUxPYTU2aTgwYUl4QmhjbnpKQU5za1ZOTEFUNXdXMF8wQ0pDMTduQU41aHBHajRiZXZmMl9vSzI4aHdCcUtKQXdxSm1KUF9qZTVPcERGT1FHSzM5R2EtMkJSSTlHdlpGTnQzd1l4cVhlUFFNREJxMkFlazRvX1dCaV9kUE13X245Rlo1?oc=5
+
