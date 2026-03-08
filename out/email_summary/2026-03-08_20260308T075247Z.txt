@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-03-08)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   30
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-03-08)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=15
+GitHub dosyası: out/bel_agrisi/2026-03-08_20260308T075230Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Albiflorin Relieves Intervertebral Disc Degeneration Through Inhibiting Nucleus Pulposus Cell via the p38 MAPK/NF-κB Pathway.
+Türkçe Başlık : Albiflorin relieves intervertebral disc degeneration through inhibiting nucleus pulposus cell via the p38 mapk/nf-κb pathway.
+Türkçe Özet   : Bu içerik albiflorin relieves intervertebral disc degeneration through inhibiting nucleus pulposus cell via the p38 mapk/nf-κb pathway. konusuna odaklanıyor. Öne çıkan başlıklar: immunity, inflammation and disease. 2026 mar. Anahtar kavramlar: albiflorin, relieves, intervertebral, disc, degeneration, through.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41794407/
+
+Orijinal Başlık: n-3 polyunsaturated fatty acids inhibit the IL-1β/SP positive feedback loop in intervertebral disc endplate and low back pain-related behaviors in mice.
+Türkçe Başlık : N-3 polyunsaturated fatty acids inhibit the il-1β/sp positive feedback loop in intervertebral disc endplate and bel ağrısı-related behaviors in mice.
+Türkçe Özet   : Bu içerik n-3 polyunsaturated fatty acids inhibit the il-1β/sp positive feedback loop in intervertebral disc endplate and bel ağrısı-related behaviors in mice. konusuna odaklanıyor. Öne çıkan başlıklar: molecular and cellular endocrinology. 2026 mar 5. Anahtar kavramlar: polyunsaturated, fatty, acids, inhibit, positive, feedback.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41794321/
+
+Orijinal Başlık: The effect of lumbar stabilization and stretching exercises on pain, disability, and characteristics of the lumbar paraspinal muscles in chronic nonspecific low back pain: a randomized controlled trial.
+Türkçe Başlık : The effect of lomber (bel bölgesi) stabilization and stretching egzersizs on pain, disability, and characteristics of the lomber (bel bölgesi) paraspinal muscles in chronic nonspecific bel ağrısı: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik the effect of lomber (bel bölgesi) stabilization and stretching egzersizs on ağrı, disability, and characteristics of the lomber (bel bölgesi) paraspinal muscles in chronic nonspecific bel ağrısı: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of orthopaedic surgery and research. 2026 mar 6. Anahtar kavramlar: lomber (bel bölgesi), ağrı, effect, stabilization, stretching, egzersizs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41792820/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı mı yoksa bel fıtığı mı? - Medimagazin
+Özet  : Bel ağrısı mı yoksa bel fıtığı mı? Bel ağrısı mı yoksa bel fıtığı mı?
+Bağlantı: https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVJCLXFrTmJncGlnY3dVVzRMRnVXS3JrRTlNd3ZMRktlLWJzeE55aFBKVV9FU3NXZmZTcmZkdk1Xa215UEE0RWVLblZCOE1BeTZZZUJtRVhiRXdhQUxxbTBPOWxjUWZkSlJXdElMUnZ4N1QxdjhpV0h3OUV1UDBmdw?oc=5
+
+Başlık: Bilim insanlarından yeni keşif: Kronik bel ağrısı duyuları etkiliyor - Sabah
+Özet  : Bilim insanlarından yeni keşif: Kronik bel ağrısı duyuları etkiliyor &nbsp;&nbsp; Sabah Bilim insanlarından yeni keşif: Kronik bel ağrısı duyuları etkiliyor - Sabah.
+Bağlantı: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWFQVE0yVU5jRzNpOGlBbHptd080VlQ4ekZzcjVzM2xmMUVLUGJvVDlzNmVMMHFmMGEtb0JtbXlTZlYwTTBENzNFUDF5eVhYMWlCRXhTTkJJa25mODJ3ZkFaQWhEc2p1eFpweHZUY3h3MlZGeE01MnFqZWFZcktEM1Y5S2JuVFRxXzgyaWlXMThUMFFzSWhrS0xlamxuektSWWFWLWxnNzA2X3NWajRuZVd5a01vbm5Jc2gxeklXN3nSAcMBQVVfeXFMUGFvYTdJM0Mtd3ZKSkhKLUdNSUNuVzYwV29NR24wVzFGSkhZNkotUE0yVldPZ252UHFjZzNPVERDZXhWVkVTTHpQaEF3NFRLUXo2R01FcE9NMmRyWk1yeFF3MzU1dkpLMnpTVkNXMkF3cWJoRjlqWFE5RjBucDBQMUtGZnV1c2d3U3dlX2toQWhYV2pEWkxlZUNzaWNzUlFXR09JOEE0RFFYeDN6c2pxUEx1ZGdQRndIT0xOYzdOUGtCUXBV?oc=5
+
+Başlık: “Ağrıyı hafife almayın! Uzmanlardan kritik uyarı” - Aydın Denge Haber
+Özet  : Uzmanlardan kritik uyarı” &nbsp;&nbsp; Aydın Denge Haber Uzmanlardan kritik uyarı” - Aydın Denge Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2NvVmViZ2FUUS16aGE0YktfaHhndXl3X0IyWnZSRWNoR0EzNDFyXzZXSEVKZksyZFBJbE5QWXlnVlFoaVZrdlh1SVAyeDF5N2dxeDBFWVA1bHJPaDhMVGNVRDFteUlLMzB3UURNOWJMYmpteHpRT3ViVXBoNUhxVjJfdVQ3Ri1GTFd6Z0hTQXhDRnRXSDlnMA?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-03-08)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=10
+GitHub dosyası: out/skolyoz/2026-03-08_20260308T075230Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A scoping review of published reviews on the use of bracing in scoliosis.
+Türkçe Başlık : A scoping review of published reviews on the use of bracing in skolyoz.
+Türkçe Özet   : Bu içerik a scoping review of published reviews on the use of bracing in skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: spine deformity. 2026 mar 3. Anahtar kavramlar: scoping, review, published, reviews, use, bracing.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41776116/
+
+Orijinal Başlık: Clinical Efficacy of an Innovative Multidimensional Traction Therapy in Moderate Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Clinical efficacy of an innovative multidimensional traction therapy in moderate adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik clinical efficacy of an innovative multidimensional traction therapy in moderate adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of visualized experiments : jove. 2026 feb 10. Anahtar kavramlar: clinical, efficacy, innovative, multidimensional, traction, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41770746/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: “Sağlıklı Omurga, Sağlıklı Gelecek” - Babaeski Gündem Gazetesi
+Özet  : “Sağlıklı Omurga, Sağlıklı Gelecek” &nbsp;&nbsp; Babaeski Gündem Gazetesi “Sağlıklı Omurga, Sağlıklı Gelecek” - Babaeski Gündem Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMickFVX3lxTE5IM21GeFdiVmhKYVVNTTVhMzhudWpQX0VOTnRuZEVOTEgyMjJSSldndDRJUXRaM0Y0eThuVUx2VVotV2c4Y2c2WTlYY1lCdmJ5YkdVOEdvTXpaYXZJQjhYYUdlUWlQd1p6WDRRdThRQjJhdw?oc=5
+
+Başlık: AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ - akcaabatgazetesi.com.tr
+Özet  : AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ &nbsp;&nbsp; akcaabatgazetesi.com.tr AKÇAABAT’TAN TÜRKİYE’YE SAĞLIK KÖPRÜSÜ - akcaabatgazetesi.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVZUMEwwYU9DTGJzZ25qZThtZDdxMjFWRGtGTWNBXzVMT3RQaEF1c3FXVUhBMGYtWkhVT2JhRG14emZWbEsyTUVsRnhvLTVHUUtFWHVBc29Qb0h3SzJNbTVTODB5UzQ3WlVVdmlaOWNhaW15ZmJubG1LM0hZQS1zbnhRR2tnWU00VmoteVB30gGTAUFVX3lxTE5UWk5DbFE2c0ZrdFBLMjQtRXpra3NiNk1xdGdkMTJxN2FMT2VBWWlSWHgxdUdyNTJveFFrbFotRXFNczNaQURIdmRfR29tai1SbzRUdzEtckIzRTFyOEI1SDVyT1ZFcGx0VGVFelR4WWhpZVpySU82MndJM2E3bmE3WnRLNDlMRS1lY09VZXl6UXN6RQ?oc=5
+
+Başlık: ‘Teknoloji, engelleri aşmak için en güçlü anahtarımızdır’ - DHA | Demirören Haber Ajansı
+Özet  : ‘Teknoloji, engelleri aşmak için en güçlü anahtarımızdır’ &nbsp;&nbsp; DHA | Demirören Haber Ajansı ‘Teknoloji, engelleri aşmak için en güçlü anahtarımızdır’ - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1p4S0YwZ3dlQjhSNjN4Zm9MMGlONDg5R2dreUw2RkJmRFlTcVoxNF92dUt4NTZjNW1sRzY1eTNPYUhJaEhGLWJYcDlyZF9hcGU1X1RLOU1xTng3Uk5IVWNWbHozZUhhLWxNZ0RJWEVnUmYzR09MdF9la1MzWDR5VkRKd1RQVzNBUHdSZklMVVR5SVVEVWVvdkcyME5OV3dkdnfSAaYBQVVfeXFMT3BKczdZTXg1WFA5T19aNDVaSmxFVmhIUkZwWThkSlJ2WmZjQnVPdV9YVUVQb0VreWU1bEdTYjVsM3pqZ3l1eDJBenVTUHRtOXdiZFJSbTNIMUI2OHdveVdOV2pHZXEtZGREUlJGWGRpWEdlamxwV3U3MXZCcE5ReklEVjVDTm4zTnVVY0QyOEN1bGZqOV9CVUhzNE0xVExtQU9ocEwzdw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-03-08)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=5
+GitHub dosyası: out/omuz/2026-03-08_20260308T075230Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: [Static posterior humeral subluxation without osteoarthritis (posterior shoulder instability type C1) : Where does it come from and is there a solution?].
+Türkçe Başlık : [static posterior humeral subluxation without osteoarthritis (posterior omuz instability type c1) : where does it come from and is there a solution?].
+Türkçe Özet   : Bu içerik [static posterior humeral subluxation without osteoarthritis (posterior omuz instability type c1) : where does it come from and is there a solution?]. konusuna odaklanıyor. Öne çıkan başlıklar: orthopadie (heidelberg, germany). 2026 mar 6. Anahtar kavramlar: posterior, static, humeral, subluxation, osteoarthritis, omuz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41790206/
+
+Orijinal Başlık: Beyond the capsule: an integrated perspective on the wide world of frozen shoulder. A collaborative viewpoint.
+Türkçe Başlık : Beyond the capsule: an integrated perspective on the wide world of donuk omuz. a collaborative viewpoint.
+Türkçe Özet   : Bu içerik beyond the capsule: an integrated perspective on the wide world of donuk omuz. a collaborative viewpoint. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı management. 2026 mar 5. Anahtar kavramlar: beyond, capsule, integrated, perspective, wide, world.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41787861/
+
+Orijinal Başlık: Clinical Reasoning-Led Physiotherapy Intervention for Biceps Tendinopathy: A Case Report.
+Türkçe Başlık : Clinical reasoning-led fizyoterapi intervention for biceps tendinopathy: a case report.
+Türkçe Özet   : Bu içerik clinical reasoning-led fizyoterapi intervention for biceps tendinopathy: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: clinical case reports. 2026 mar. Anahtar kavramlar: clinical, case, reasoning, led, fizyoterapi, intervention.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41782951/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Omuz Ağrısı Yaygınlaşıyor! Ofiste, Masa Başında 5 Pratik Omuz Egzersizi - CNN Türk
+Özet  : Ofiste, Masa Başında 5 Pratik Omuz Egzersizi &nbsp;&nbsp; CNN Türk Ofiste, Masa Başında 5 Pratik Omuz Egzersizi - CNN Türk.
+Bağlantı: https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWRvLUJYcWZRM3A1dE81cW5zMUx5dTJENVoxc2hTYUhKRzRZejBUOXNKek9TdTNhT09Ic1RVMXhUNGxmbVlMcFZNbVFmckxkNGcxRnVsejc2Z05YQ0V0V1U3UzZqMGFvUWIyT3FRNS1EU2xOREp6VmI3WFJxSXZ0OTk0U1M2UjdjVk5zLWlRODZXVEZNWHZkMGhBcGkzdVppbkhzTkQwdHpqUmpHM1Ntc1VWbWxEZw?oc=5
+
+Başlık: Omuz sağlığı için bu 7 yanlış davranıştan uzak durun! - malatyatime.com
+Özet  : Omuz sağlığı için bu 7 yanlış davranıştan uzak durun! Omuz sağlığı için bu 7 yanlış davranıştan uzak durun!
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2VmRGxfRjZka3U5UU1YRWpjaUFiNW5YUndsQ1YyRklRb3hXM3lJMkZFSDdmVDRHZkN4cXpnMDlFYWhHaXZSdkZOUWFGNTRkZVd2ODJmTXlxSmtncXBqVHhKUUFZeHppYjU4b05Ia1plUDN5VEdieEp3YUg2Y0NObTlka05POVJMSHFCQjAzRE5rRzljc2t5WtIBlgFBVV95cUxQY3pEMWs3bTJyZHpBcXhIM3EyNHh2dFNHUHNDX3RJNnZyel9QczVxZ1hwVF9Wb1BMYW9la3hpV09iXzBmWUZobzdyTzNSWUsxRmRqdTJYRzFOLXdYT1FsMTRzM0MzWXpCdU43T09YajB0QUs4TjJkNU51MkdIVWkxTHNDcHdKSHp1Tkkzem80MmM5TFd5N3c?oc=5
+
+Başlık: 40 Yaş Üzeri misiniz? Rotator Manşetiniz Muhtemelen Normal Yaşa Bağlı Değişiklikler Gösteriyor - ekhbary.com
+Özet  : Rotator Manşetiniz Muhtemelen Normal Yaşa Bağlı Değişiklikler Gösteriyor &nbsp;&nbsp; ekhbary.com Rotator Manşetiniz Muhtemelen Normal Yaşa Bağlı Değişiklikler Gösteriyor - ekhbary.com.
+Bağlantı: https://news.google.com/rss/articles/CBMihAJBVV95cUxQbnFLV09lMlEyYjN2Z3JzSzBMWnJuX2YzdVFuclZRRTZVMFREUzdVMkpXdkh3NU45QVNETm1uTzd3WDFsN2RaRm55RFhYUmRIRmRVZzNWUmZvTF80VkJaNUpmeUpzMzRsbk5VYkpZMVFLZ0ZLN01PYlRaS2ZnVkVRLUFnRElOWFEtRDNmbFpMakxXSlYzbTJuVVU4UjVBUmtURE9ha3JObEh3bl9YNkJ0cGEwOWZaZ0Z3TkRpbGVqSzEtYzFZNV9uV0FicHdpaUE0S2NNWGRVbEUtT2l6endxRFpSanZPbnNPa200Sy1MYmdTQ2t6bnJ3a1JxQ1NNQ25COWdHVA?oc=5
+
