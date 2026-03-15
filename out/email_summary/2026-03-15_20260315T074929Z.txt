@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-03-15)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      14
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   57
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-03-15)
+========================================================================
+Yeni kaynak sayısı: 41
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=33
+GitHub dosyası: out/bel_agrisi/2026-03-15_20260315T074909Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Author reply to critical comments on ultrasound-guided paravertebral oxygen-ozone injections.
+Türkçe Başlık : Author reply to critical comments on ultrasound-guided paravertebral oxygen-ozone injections.
+Türkçe Özet   : Bu içerik author reply to critical comments on ultrasound-guided paravertebral oxygen-ozone injections. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 mar 13. Anahtar kavramlar: author, reply, critical, comments, ultrasound, guided.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41830087/
+
+Orijinal Başlık: Motor Neuron Disease with Guillain-Barré Syndrome? Motor Band Sign with Anti-GQ1b Antibodies.
+Türkçe Başlık : Motor neuron disease with guillain-barré syndrome? motor band sign with anti-gq1b antibodies.
+Türkçe Özet   : Bu içerik motor neuron disease with guillain-barré syndrome? motor band sign with anti-gq1b antibodies. konusuna odaklanıyor. Öne çıkan başlıklar: diagnostics (basel, switzerland). 2026 feb 26. Anahtar kavramlar: motor, neuron, disease, guillain, barr, syndrome.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41827952/
+
+Orijinal Başlık: The Effect of Duloxetine on Fusion in Rats Undergoing Posterolateral Spinal Fusion.
+Türkçe Başlık : The effect of duloxetine on fusion in rats undergoing posterolateral spinal fusion.
+Türkçe Özet   : Bu içerik the effect of duloxetine on fusion in rats undergoing posterolateral spinal fusion. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 mar 9. Anahtar kavramlar: fusion, effect, duloxetine, rats, undergoing, posterolateral.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41827502/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Gümüşhane'de bel fıtığı vakaları Türkiye ortalamasının üzerinde - Habertürk
+Özet  : Gümüşhane'de bel fıtığı vakaları Türkiye ortalamasının üzerinde &nbsp;&nbsp; Habertürk Gümüşhane'de bel fıtığı vakaları Türkiye ortalamasının üzerinde - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMiugFBVV95cUxNaS1oMndnVzZiUTlVcGtKMV9EVWtTS2FHOWRoR1R6M0ZGMnFoYzFFb0ZfSUZmZEJ4VllyT1phREtYckU4V1AtVmlFSjUxT3pSUlh5amRfVE9WeEF2bVdpcFc0eEJpdmNCV2s5ZFdaY1poVVRIS2IyUEFUdkFUVXVkOFQ2V0JXaXFXUDJmUDdSNkZnR05zbGNaR3o1cDU3RjNKZjhCRzl3Mm9zeGViZG9YNjRHLUxycUd0SUE?oc=5
+
+Başlık: ‘Masa başı’ hastalığını teknoloji yakalayacak İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : ‘Masa başı’ hastalığını teknoloji yakalayacak İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı ‘Masa başı’ hastalığını teknoloji yakalayacak İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGh2T0J0aFFPNUM0Y3pmU2sxekhtaWRTVlpmWWRiNF9EYkFGU3d0ZFQ5dlJQSmRWa0t2VUtGOHhRVFVsNHJoNWZRX3NSRkllTVZwVWtFbFJTVnJRSGxYdFNYYUc3Mm5ObWt6dGlkOWdkdVoxVGpPZVo4cEFqNldpM3I2MkFJS0ttcTV2bjhGZjhGelNKZ2Rv?oc=5
+
+Başlık: Gümüşhane'de Bel Fıtığı Sorunları Türkiye Ortalama Değerlerini Aşıyor - Mersin Haber
+Özet  : Gümüşhane'de Bel Fıtığı Sorunları Türkiye Ortalama Değerlerini Aşıyor &nbsp;&nbsp; Mersin Haber Gümüşhane'de Bel Fıtığı Sorunları Türkiye Ortalama Değerlerini Aşıyor - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiV0FVX3lxTE12Umg2b3VRR0owemFWVjQ2Nl9TcWJHbHFIUHduMm9BcFdEb256M3NSOHk0SDZGRTNEdFNNeFVXRjVNcUNpNVNlVklaaVJTQWQwOXNkVnBEUdIBV0FVX3lxTE12Umg2b3VRR0owemFWVjQ2Nl9TcWJHbHFIUHduMm9BcFdEb256M3NSOHk0SDZGRTNEdFNNeFVXRjVNcUNpNVNlVklaaVJTQWQwOXNkVnBEUQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-03-15)
+========================================================================
+Yeni kaynak sayısı: 20
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=18
+GitHub dosyası: out/skolyoz/2026-03-15_20260315T074909Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: An effective active self-correction in standing without external aids is possible in adolescents with idiopathic scoliosis: a cross-sectional study.
+Türkçe Başlık : An effective active self-correction in standing without external aids is possible in adolescents with idiopathic skolyoz: a cross-sectional study.
+Türkçe Özet   : Bu içerik an effective active self-correction in standing without external aids is possible in adolescents with idiopathic skolyoz: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 mar 9. Anahtar kavramlar: european, spine, society, effective, active, self.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41801401/
+
+Orijinal Başlık: Mental and physical quality of life among patients with scoliosis in Jordan: a cross-sectional study.
+Türkçe Başlık : Mental and physical quality of life among patients with skolyoz in jordan: a cross-sectional study.
+Türkçe Özet   : Bu içerik mental and physical quality of life among patients with skolyoz in jordan: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of adolescent medicine and health. 2026 mar 9. Anahtar kavramlar: mental, physical, quality, life, among, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41791229/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: TRAKYA ÜNİVERSİTESİ ZEYNEP-MUSTAFA TAŞ UYGULAMA ANAOKULU'NDA SKOLYOZ TARAMASI GERÇEKLEŞTİRİLDİ - Babaeski Söz Gazetesi
+Özet  : TRAKYA ÜNİVERSİTESİ ZEYNEP-MUSTAFA TAŞ UYGULAMA ANAOKULU'NDA SKOLYOZ TARAMASI GERÇEKLEŞTİRİLDİ &nbsp;&nbsp; Babaeski Söz Gazetesi TRAKYA ÜNİVERSİTESİ ZEYNEP-MUSTAFA TAŞ UYGULAMA ANAOKULU'NDA SKOLYOZ TARAMASI GERÇEKLEŞTİRİLDİ - Babaeski Söz Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUhTaFNvbWQwSnFoLVo2bTdKWmh6ZTMwbFloZW83bWE4SG5YNjV5bzhvTF9INWR3SEZmci16NEpmUFYzLWFaWWFvalNFbkt2YTNhSFU4VGVtdEhSd0VYaTNScnNqYjBvcGZZY2F1aF9WbGpvdHVHeGpycDBNcVF0MFFlZVhwbkxTQUNWWUkxZHg3R1d0RmxocENSS01PUm5CWldoQWZidnoyZ2lfQXdLR3JicmE0OGUwX3MyZVk4MDZHcUxicElIMVVaRnJsd05uX1hz?oc=5
+
+Başlık: Seydişehir'den kısa kısa - Haberler
+Özet  : Seydişehir'den kısa kısa &nbsp;&nbsp; Haberler Seydişehir'den kısa kısa - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNEZMTVJOZzZOajc2ZlZHaFNlQngtM2ljbGU0VFNXdkZncS04Q0dkS2p3ZGlkVUtVUzh4VlE5VUt5MXpBN3BJbVdfRklWU3RNbTYyaG51cHNFS0xQcnRxT0RLcFUtOUNfcU1jNXBOaURsRURaaktreDBTZUxrb0l6X1NvbHNhZDlsRk1iSkZuSHpGTGxhQV9NYi12bGdoWEg5RzN0RUxrOW1fUdIBqgFBVV95cUxPNEZMTVJOZzZOajc2ZlZHaFNlQngtM2ljbGU0VFNXdkZncS04Q0dkS2p3ZGlkVUtVUzh4VlE5VUt5MXpBN3BJbVdfRklWU3RNbTYyaG51cHNFS0xQcnRxT0RLcFUtOUNfcU1jNXBOaURsRURaaktreDBTZUxrb0l6X1NvbHNhZDlsRk1iSkZuSHpGTGxhQV9NYi12bGdoWEg5RzN0RUxrOW1fUQ?oc=5
+
+Başlık: Tillo'da Öğrencilere Skolyoz Taraması: Erken Teşhis İçin Sağlık Ekipleri Sahada - Artı Siirt Haber
+Özet  : Tillo'da Öğrencilere Skolyoz Taraması: Erken Teşhis İçin Sağlık Ekipleri Sahada &nbsp;&nbsp; Artı Siirt Haber Tillo'da Öğrencilere Skolyoz Taraması: Erken Teşhis İçin Sağlık Ekipleri Sahada - Artı Siirt Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDVpLS1qdXJVeDNOOUxhTXloSEFDcEc4djZjZGYzcDY1MmJTalIyanhnWGpFNnNlSUFIeGF0Ymd6bWpvVjNxc3BlUmZDSXptb002THUwOGdXT1dKYkVpQmpSS1ExbC1rU0FOaUVVVWRjTEZBOFVaaUNJVGNUMWRBbXM5Q2w1Y0kyalRhQmlrVmVNUG90Q0ttalRVeEtSa3VfQVpHYktXQV9iVkFqYXFIVmxHRU0wQdIBtgFBVV95cUxPcDVpLS1qdXJVeDNOOUxhTXloSEFDcEc4djZjZGYzcDY1MmJTalIyanhnWGpFNnNlSUFIeGF0Ymd6bWpvVjNxc3BlUmZDSXptb002THUwOGdXT1dKYkVpQmpSS1ExbC1rU0FOaUVVVWRjTEZBOFVaaUNJVGNUMWRBbXM5Q2w1Y0kyalRhQmlrVmVNUG90Q0ttalRVeEtSa3VfQVpHYktXQV9iVkFqYXFIVmxHRU0wQQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-03-15)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=6
+GitHub dosyası: out/omuz/2026-03-15_20260315T074909Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Translation of the Shoulder Pain and Disability Index and psychometric evaluation of the Swedish version.
+Türkçe Başlık : Translation of the omuz pain and disability index and psychometric evaluation of the swedish version.
+Türkçe Özet   : Bu içerik translation of the omuz ağrı and disability index and psychometric evaluation of the swedish version. konusuna odaklanıyor. Öne çıkan başlıklar: jses international. 2026 may. Anahtar kavramlar: translation, omuz, ağrı, disability, index, psychometric.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41815874/
+
+Orijinal Başlık: Convergent validity of shoulder range of motion measurement methods in breast cancer patients.
+Türkçe Başlık : Convergent validity of omuz range of motion measurement methods in breast cancer patients.
+Türkçe Özet   : Bu içerik convergent validity of omuz range of motion measurement methods in breast cancer patients. konusuna odaklanıyor. Öne çıkan başlıklar: disability and rehabilitasyon. 2026 mar 10. Anahtar kavramlar: convergent, validity, omuz, range, motion, measurement.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41804250/
+
+Orijinal Başlık: Musculoskeletal Pain and Related Factors in Breastfeeding Women During the First 6 Months.
+Türkçe Başlık : Musculoskeletal pain and related factors in breastfeeding women during the first 6 months.
+Türkçe Özet   : Bu içerik musculoskeletal ağrı and related factors in breastfeeding women during the first 6 months. konusuna odaklanıyor. Öne çıkan başlıklar: journal of community health nursing. 2026 mar 10. Anahtar kavramlar: musculoskeletal, ağrı, related, factors, breastfeeding, women.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41804213/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Hue şehrinde nadir görülen bir ameliyat: Doktor aşırı büyük göğüsleri küçülttü. - Vietnam.vn
+Özet  : Hue şehrinde nadir görülen bir ameliyat: Doktor aşırı büyük göğüsleri küçülttü. Hue şehrinde nadir görülen bir ameliyat: Doktor aşırı büyük göğüsleri küçülttü.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm1qcDZwRWZYbUdIYmlRUXBtODJ6bXFhaWZ3WE1QZ1RrNnNRNE1yU3JVSVU3OUZjdUl5TUYtampsRmtCeTNYZFBNeE5iRThsOFhKaHlYbmVBbHJ3ZlMzU2oxeXI2ejZfU1NQYlNzX1BFcEpGaEZNdXBndWhMRFpZSDNNdFVRR1RxWS1wcWNiSQ?oc=5
+
+Başlık: 13 Mart Cuma Boğa Burcu Günlük Sağlık Burç Yorumu - Onedio
+Özet  : 13 Mart Cuma Boğa Burcu Günlük Sağlık Burç Yorumu &nbsp;&nbsp; Onedio 13 Mart Cuma Boğa Burcu Günlük Sağlık Burç Yorumu - Onedio.
+Bağlantı: https://news.google.com/rss/articles/CBMifEFVX3lxTE1DMVhNZ1FjY2ZXZVQ4Nmh6ZmRWUHE4S3BMUlhBcGcxRGhXWTR0ZUFkWGNjVl9ZQnNqR056OTdXQ2N1NGhzSW54b01iMmlpYkptdDdPUUkxdEsxTEN5QzNFVkNoRUpVSFozSDRjRjBjX2REdmpfdnNhVlhUQ3I?oc=5
+
+Başlık: Günlük Sağlık Burç Yorumuna Göre 13 Mart Cuma Günün Nasıl Geçecek? - Onedio
+Özet  : Günlük Sağlık Burç Yorumuna Göre 13 Mart Cuma Günün Nasıl Geçecek? Günlük Sağlık Burç Yorumuna Göre 13 Mart Cuma Günün Nasıl Geçecek?
+Bağlantı: https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk5aa0pIUGZXXzMzeVA1Z0JJYm15bEJYR1N1Y3Njc2xnd0dJTnJZazl6WWFWQ1Z4OTNDbjBPZWVOeXNYNVRSakhwTGJUYnRZN2RQMVNjank0SFNSZ1dCbTFCTFNRX0pVV2xuUXlfcjNPT0NJRUhoc2thdmtOR0NucnhyQ09OVC1JLV9zYzZSVGpxR1M1R091UFVR?oc=5
+
