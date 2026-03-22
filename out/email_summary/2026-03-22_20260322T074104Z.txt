@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-03-22)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   32
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-03-22)
+========================================================================
+Yeni kaynak sayısı: 27
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=19
+GitHub dosyası: out/bel_agrisi/2026-03-22_20260322T074044Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Association of oxidative stress with postural control and functional outcomes in lumbar degenerative disease: An exploratory cross-sectional study.
+Türkçe Başlık : Association of oxidative stress with postural control and functional outcomes in lomber (bel bölgesi) degenerative disease: an exploratory cross-sectional study.
+Türkçe Özet   : Bu içerik association of oxidative stress with postural control and fonksiyonal sonuçs in lomber (bel bölgesi) degenerative disease: an exploratory cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of orthopaedic science : official journal of the japanese orthopaedic association. 2026 mar 19. Anahtar kavramlar: association, journal, orthopaedic, oxidative, stress, postural.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41862304/
+
+Orijinal Başlık: Central Laminectomy Contralateral Lumbar Decompression for Lumbar Degenerative Disease using Unilateral Biportal Endoscopy: a technical note and preliminary clinical results.
+Türkçe Başlık : Central laminectomy contralateral lomber (bel bölgesi) decompression for lomber (bel bölgesi) degenerative disease using unilateral biportal endoscopy: a technical note and preliminary clinical results.
+Türkçe Özet   : Bu içerik central laminectomy contralateral lomber (bel bölgesi) decompression for lomber (bel bölgesi) degenerative disease using unilateral biportal endoscopy: a technical note and preliminary clinical results. konusuna odaklanıyor. Öne çıkan başlıklar: world neurosurgery. 2026 mar 18. Anahtar kavramlar: lomber (bel bölgesi), central, laminectomy, contralateral, decompression, degenerative.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41862154/
+
+Orijinal Başlık: KLF2-Mediated Modulation of oxidative stress and pyroptosis by Vanillic acid in intervertebral disc degeneration.
+Türkçe Başlık : Klf2-mediated modulation of oxidative stress and pyroptosis by vanillic acid in intervertebral disc degeneration.
+Türkçe Özet   : Bu içerik klf2-mediated modulation of oxidative stress and pyroptosis by vanillic acid in intervertebral disc degeneration. konusuna odaklanıyor. Öne çıkan başlıklar: biochemical pharmacology. 2026 mar 18. Anahtar kavramlar: klf, mediated, modulation, oxidative, stress, pyroptosis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41861963/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: ‘Masa başı’ hastalığını teknoloji yakalayacak - Bizim İzmir
+Özet  : ‘Masa başı’ hastalığını teknoloji yakalayacak &nbsp;&nbsp; Bizim İzmir ‘Masa başı’ hastalığını teknoloji yakalayacak - Bizim İzmir.
+Bağlantı: https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGh1Q2Z1THU5NHgtSjFrQUlXSVQ0TDMwbEVyWGhqNldOaklIbWxkb1hzaWVwWHY0MjJqZU02VjR5ZzlDaGJKYVZseDc3ZVpRRHU4RDdJRWNKYi1sbVFoTmpKUDdNOENrRjhyLXpJQzNldXNrU3Q1N0VxUEN5MjVJZUZn?oc=5
+
+Başlık: Gaziantep'te Prof. Dr. Koca, Ameliyat Sonrası Bel Ağrıları Hakkında Bilgi Verdi - Mersin Haber
+Özet  : Koca, Ameliyat Sonrası Bel Ağrıları Hakkında Bilgi Verdi &nbsp;&nbsp; Mersin Haber Koca, Ameliyat Sonrası Bel Ağrıları Hakkında Bilgi Verdi - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTBWeDFkNS1BMUlvLTRYWjl0YmFtQlpQeF9iRU5RSnh2aHhKQjZxVGtkcjZSYkFHTkxUTEZRUUlfM255Ul9acnRLVUtOWkY2QjZYVWliVk01bXhXNmZ3V1JIMXF2M2lFRjJuNTVIeWhwemlVM1ZtRkRFOUVSZ0dCYkFWWTdGcXl1eE1NY0FIN3RsX3kxQlBQVkpNemFYM2FxMWduS0hpTGZaUmVWeDVnSUtVbWp3dXPSAVdBVV95cUxPMnlQM3I4enhsdlJrMGtJOXJjdENLdnlONlZ0OEd4RkoweDJhWGlKSjFrem5RUWVlYmRoZ1BCUFNNTzZqN2R5UWU3NUduSU9VREFUUzNlc3c?oc=5
+
+Başlık: Tıp dünyasını şaşırtan vaka: Hastaneye gitti, vücudunda fazladan bir organ çıktı - chip.com.tr
+Özet  : Tıp dünyasını şaşırtan vaka: Hastaneye gitti, vücudunda fazladan bir organ çıktı &nbsp;&nbsp; chip.com.tr Tıp dünyasını şaşırtan vaka: Hastaneye gitti, vücudunda fazladan bir organ çıktı - chip.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMivgFBVV95cUxPX19mOHRPZURBQWNtc2xmOXlQeWQ2QUVYTG5IREhHaUJ0TDk5RjUzdGg0Y21MVUwtMERfZ3NxWnFfdkdwcTZGQ1pPWk9mWVg0Sml2X2R3Yl96TlFLYWFpeEs2N3B3enNINnNuYmEwZUpyZVZlTXVtdk4xYVhoWHpiZGZaUEVmOGxiNDZWZlJVQnI2WWRSZVZOXzZCTTFHdXBrTkl6R0FRTWFYVW9IYUVtQlRMSV9zZW1HOFRYWjRn?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-03-22)
+========================================================================
+Yeni kaynak sayısı: 7
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=4
+GitHub dosyası: out/skolyoz/2026-03-22_20260322T074044Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of proprioceptive neuromuscular facilitation and core stabilization on physical and functional parameters in adolescents with idiopathic scoliosis: a randomized controlled trial.
+Türkçe Başlık : Effects of proprioceptive neuromuscular facilitation and core stabilization on physical and functional parameters in adolescents with idiopathic skolyoz: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effects of proprioceptive neuromuscular facilitation and core stabilization on physical and fonksiyonal parameters in adolescents with idiopathic skolyoz: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 mar 17. Anahtar kavramlar: european, spine, society, effects, proprioceptive, neuromuscular.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41843057/
+
+Orijinal Başlık: Letter to the Editor:Methodological Concerns Regarding the Systematic Review of Therapeutic Exercises for Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Letter to the editor:methodological concerns regarding the sistematik derleme of therapeutic egzersizs for adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik letter to the editor:methodological concerns regarding the sistematik derleme of therapeutic egzersizs for adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: archives of physical medicine and rehabilitasyon. 2026 mar 13. Anahtar kavramlar: letter, editor, methodological, concerns, regarding, systematic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41833868/
+
+Orijinal Başlık: Tele-scoliosis-screening and treat protocol: A hybrid in-person and online approach for scoliosis treatment in remote patients.
+Türkçe Başlık : Tele-skolyoz-screening and treat protocol: a hybrid in-person and online approach for skolyoz treatment in remote patients.
+Türkçe Özet   : Bu içerik tele-skolyoz-screening and treat protocol: a hybrid in-person and online approach for skolyoz treatment in remote patients. konusuna odaklanıyor. Öne çıkan başlıklar: world journal of methodology. 2026 mar 20. Anahtar kavramlar: skolyoz, tele, screening, treat, protocol, hybrid.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41809181/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kadınların sağlıklı yaşamına destek - DHA | Demirören Haber Ajansı
+Özet  : Kadınların sağlıklı yaşamına destek &nbsp;&nbsp; DHA | Demirören Haber Ajansı Kadınların sağlıklı yaşamına destek - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxPSWlVbWlqVE1oUlJUYXltTTFNRUt0LUdHVEZ1MVdWVjhOLXp0cW16ZDF1TkJMTG1ucVNfSU9uTkxaRFV4UXliajhlOENHNzA2bkxkWHJ1LXJ3cmtOc0hORHl5UTNiNTFiR2ZXdVlWUEZKN2VIWHZCbzZfbUVZay11QXVRVjVLRHA0WGdxYk9wZnJyNG5VNmZ2dGwza0Itd9IBogFBVV95cUxOWTFuR1d2bHBMNk9xODVRak44cVUxVXNkTlZwbDJ2OWdndEVxYXFMd1VaVmNRMDdCaW5uNU0tVEFNR3NySjg2ZlRnMlpnT3ltTVB5cE9iSXV5ZXZUYzFRUmJLa3F5UTVQTGJxX0tybVpFWFZialc1bDZSdzNaY2FzRVZkQWUtNUxYakVMUEcxZkFodlJ6RnZQRzUzTHpiSXZLdGc?oc=5
+
+Başlık: Alaşehir Devlet Hastanesi'nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı - Alaşehir Manşet
+Özet  : Alaşehir Devlet Hastanesi'nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı &nbsp;&nbsp; Alaşehir Manşet Alaşehir Devlet Hastanesi'nde Bir İlk: Skolyoz Ameliyatı Başarıyla Yapıldı - Alaşehir Manşet.
+Bağlantı: https://news.google.com/rss/articles/CBMirgFBVV95cUxOYnZPeDg4Q0w1SnRBQzY4NUR4Q3JYRm1EVGhueTN4aUVaajJualFTSW9PNEtGa0hCMHV3YVZCakx6TlpINDVjOVlJeUJnV2pPTWVJOHpvdzZaOVRHOEhQT3ZCTW1UVHd6VVNpNWdnclRPR2VDNnAzcGJnMlJYRDgwLVNDNDBvdjAwSC1yLWxSX2RwQ0xHNnVKMkJQblQzNVNmQXZjbUJiZUVWeFR3OWfSAbsBQVVfeXFMTzZQZGh2ZnZrV1E5MUR5N3ltNWJWZTFmZ3JBeTlva1dKcU11UVNFQV95V0IwTmYtZEFQVVpyV2IyNUhaUmxNMERfSHluZkxkSzNyV0NWSVNNYzdRUzVETzJSVTJxX09MUHU5cnZkLWpfSWpkM21Dc2FtWncxZUdXMjZveFpUMlUtU0hkYjlKMGVXcVZWRDhHbzBnSTdsWjBzNjRqSkd3Y1ZXQ0Mxb2M3OHlaSGwzblVQblhDVQ?oc=5
+
+Başlık: Nöbetçi Eczaneler - Hudut Gazetesi
+Özet  : Nöbetçi Eczaneler &nbsp;&nbsp; Hudut Gazetesi Nöbetçi Eczaneler - Hudut Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NT2J3Y3p5eGJSUjVHOTdfbGdOOGV3XzNaalo3MjNjaXJBYjd0ZFA1aFU3REtFYW8yRjdYMzdPdzFFd1ZtMlBTU1d2dlRvUUVQOHRWVU80Nk1xT0RuQmwwT19mdHdCdw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-03-22)
+========================================================================
+Yeni kaynak sayısı: 15
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=9
+GitHub dosyası: out/omuz/2026-03-22_20260322T074044Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Efficacy of mobilization with movement in chronic shoulder pain: a systematic review and meta-analysis of controlled trials.
+Türkçe Başlık : Efficacy of mobilization with movement in chronic omuz pain: a sistematik derleme and meta-analiz of controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik efficacy of mobilization with movement in chronic omuz ağrı: a sistematik derleme and meta-analiz of controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 mar 20. Anahtar kavramlar: efficacy, mobilization, movement, chronic, omuz, ağrı.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41862863/
+
+Orijinal Başlık: Effectiveness of ultrasonography-guided pericapsular nerve group block in patients with adhesive capsulitis resistant to conservative treatment: A prospective observational study.
+Türkçe Başlık : Effectiveness of ultrasonography-guided pericapsular nerve group block in patients with adeziv kapsülit (donuk omuz) resistant to conservative treatment: a prospective observational study.
+Türkçe Özet   : Bu içerik effectiveness of ultrasonography-guided pericapsular nerve group block in patients with adeziv kapsülit (donuk omuz) resistant to conservative treatment: a prospective observational study. konusuna odaklanıyor. Öne çıkan başlıklar: medicine. 2026 mar 20. Anahtar kavramlar: effectiveness, ultrasonography, guided, pericapsular, nerve, group.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41861192/
+
+Orijinal Başlık: Establishing the minimal clinically important difference for the UCLA functional scale in patients undergoing clinical treatment for adhesive capsulitis.
+Türkçe Başlık : Establishing the minimal clinically important difference for the ucla functional scale in patients undergoing clinical treatment for adeziv kapsülit (donuk omuz).
+Türkçe Özet   : Bu içerik establishing the minimal clinically important difference for the ucla fonksiyonal scale in patients undergoing clinical treatment for adeziv kapsülit (donuk omuz). konusuna odaklanıyor. Öne çıkan başlıklar: journal of omuz and elbow surgery. 2026 mar 17. Anahtar kavramlar: establishing, minimal, clinically, important, difference, ucla.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41856350/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Boyun ve omuz ağrılarının tedavisinde yapılan hatalar felce yol açabilir. - Vietnam.vn
+Özet  : Boyun ve omuz ağrılarının tedavisinde yapılan hatalar felce yol açabilir. Boyun ve omuz ağrılarının tedavisinde yapılan hatalar felce yol açabilir.
+Bağlantı: https://news.google.com/rss/articles/CBMifEFVX3lxTE9MaHlSdkV4Vkk3MEdaeFFXWWppeDBfTEVnazhrVGJmd3JDWjNfQjNqSHM5bmhkZVZEQXpiU0JINzBKVENnbUpnQkprLUltWWZ2aEU5eUdQZHFvcVRrekgyOGo4NG1rRmIzY2YzdlJ4TjF1dkZsbFNJTnl4MXo?oc=5
+
+Başlık: Giresun'da Peş Peşe Acı Kayıplar: Bir Gün Arayla Gelen Genç Ölümleri Yürek Yaktı - Giresun İleri Gazetesi
+Özet  : Giresun'da Peş Peşe Acı Kayıplar: Bir Gün Arayla Gelen Genç Ölümleri Yürek Yaktı &nbsp;&nbsp; Giresun İleri Gazetesi Giresun'da Peş Peşe Acı Kayıplar: Bir Gün Arayla Gelen Genç Ölümleri Yürek Yaktı - Giresun İleri Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmM3ZDBfdGJZMndiajlYX0JKeVFXQ2JFLWhWSGlTdnRxUTNibjMxX0FYbU1SSzYxdlBwZjQ0S0Zqa3dfemdOMVZjRkFQYkt1amFocmRIOVc1TWRtYm9vNWpzSFc3YmVNam45OTV5T1NtQXl1RkhXVUJibzhiUXM3Z0JDS1IyaTRjTlRPazRNaXFkZnMtdW1qejFBamxYWHF4OS12NTQwd0l5STRFajJfTVU5OElxd9IBwwFBVV95cUxOU1AtTjdrVGFYSkk3Yy1lLVFVNDFnRXB0LXo3SXFyc1pYMHQwNk1TNklnQlBGNldWbGdHd01LVVEzejVaNVZTMnUxZGtXN0U1VlBSWW9HakllcGxtRDBYTEpfSGVJVGp1VjJ0U05LVm9kQzE3VWthYzNNZHJPS19rTnpzYWVfVC1KUUNtN3ZjSDZzVXlIRUFITXpPV0Z1RE55djhJR1AzMnhCNDVyMHYyZjhzaEZja0psNXdSbGNRdmxYdE0?oc=5
+
+Başlık: Giresun’da eski müdür Yılmaz’ın oğul ve gelin acısı - giresunoncu.com
+Özet  : Giresun’da eski müdür Yılmaz’ın oğul ve gelin acısı &nbsp;&nbsp; giresunoncu.com Giresun’da eski müdür Yılmaz’ın oğul ve gelin acısı - giresunoncu.com.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxNckZHN25EY3ZsUVNILXh0b0s5aE01dHEyVzYtMTFTZUNaandRV3dsYnh0OS1yczNZcVoxcWdVMkZtX1U0OGRET0JSSHNzMFNlQW1QMm5WdkRkelozZlBTeGZYUXk2WlNoMExIRHpnazNkb2VMaDV2LXJ6bm1PRTd2WFBzRlVZclJscmJTV1h1ZWpMZ9IBlwFBVV95cUxQZ1lKMlo2aHIyRXZ0RVRDNlAtTUE4dWF5OTF4a01keEl1czNyendXbjVnVTJnMzNiTHJTSWRkYjRYLS1wc1VxUWhUSTUtaEZrdTkxOGpaSVhGSUtiUzFid2xLZTEydHhub29fZzFXVzlzSzBpTEhRNWFmQ05ySFdSYWhsTEoyUGVKa29xbGRydmVWWmNrc1F3?oc=5
+
