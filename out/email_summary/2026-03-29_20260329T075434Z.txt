@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-03-29)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   60
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-03-29)
+========================================================================
+Yeni kaynak sayısı: 38
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=30
+GitHub dosyası: out/bel_agrisi/2026-03-29_20260329T075422Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Deduction of Back Pain Patients Using EMG Technology and Inertial Sensors During Functional Tests.
+Türkçe Başlık : Deduction of bel ağrısı patients using emg technology and inertial sensors during functional tests.
+Türkçe Özet   : Bu içerik deduction of bel ağrısı patients using emg technology and inertial sensors during fonksiyonal tests. konusuna odaklanıyor. Öne çıkan başlıklar: sensors (basel, switzerland). 2026 mar 17. Anahtar kavramlar: sensors, deduction, back, ağrı, patients, using.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41902052/
+
+Orijinal Başlık: Pyogenic Spondylitis with Epidural Abscess Caused by Streptococcus suis Serotype 2 ST7: Tissue mNGS Confirmation and Whole-Genome Characterization of a Human Isolate.
+Türkçe Başlık : Pyogenic spondylitis with epidural abscess caused by streptococcus suis serotype 2 st7: tissue mngs confirmation and whole-genome characterization of a human isolate.
+Türkçe Özet   : Bu içerik pyogenic spondylitis with epidural abscess caused by streptococcus suis serotype 2 st7: tissue mngs confirmation and whole-genome characterization of a human isolate. konusuna odaklanıyor. Öne çıkan başlıklar: pathogens (basel, switzerland). 2026 mar 13. Anahtar kavramlar: pyogenic, spondylitis, epidural, abscess, caused, streptococcus.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41901767/
+
+Orijinal Başlık: Phase III Study to Confirm Clinical Similarity of MB09, a Denosumab Biosimilar, and Prolia(®) in Postmenopausal Women with Osteoporosis (SIMBA Study).
+Türkçe Başlık : Phase iii study to confirm clinical similarity of mb09, a denosumab biosimilar, and prolia(®) in postmenopausal women with osteoporosis (simba study).
+Türkçe Özet   : Bu içerik phase iii study to confirm clinical similarity of mb09, a denosumab biosimilar, and prolia(®) in postmenopausal women with osteoporosis (simba study). konusuna odaklanıyor. Öne çıkan başlıklar: pharmaceutics. 2026 feb 27. Anahtar kavramlar: study, phase, iii, confirm, clinical, similarity.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41900779/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel fıtığı omuriliğin 2/3'ünü sıkıştırıyor: Gençler arasında "oturma salgını" uyarısı. - Vietnam.vn
+Özet  : Bel fıtığı omuriliğin 2/3'ünü sıkıştırıyor: Gençler arasında "oturma salgını" uyarısı. Bel fıtığı omuriliğin 2/3'ünü sıkıştırıyor: Gençler arasında "oturma salgını" uyarısı.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXpuZTJyVFBfM19ndWtrNldaYV9VQU1QR2ZiSlRXMEtROHhsdXl3cVpVQzNYWF9OcEEtelpOcjZNX1NFZFNXZGEwSS1TdUg1TXk0TGVNUUdyenVBbTRrN1FraTJVSXhLcVl3Yms1U2s0Y1R4YnZ1UXBmM1RYQWpVX1ZEMm5ZbFFoemFKNV9aU3VwLVdVWDRBMHU1amNyLUk?oc=5
+
+Başlık: Kronik bel ağrısı olan kişiler rahatsız edici seslere karşı daha hassastır. - koha.net
+Özet  : Kronik bel ağrısı olan kişiler rahatsız edici seslere karşı daha hassastır. Kronik bel ağrısı olan kişiler rahatsız edici seslere karşı daha hassastır.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEFnNGEyX0Z0LS1wU0FqdGpwcWd6Z3dnTTJaR244ZmxQSW9pS2VWblRpNzM3dm1pYVBLWG5oWHo4RHhzMkh3TWNTZWU0Vl9BazdNN0x1bXlteUtVWlN4RjhBTnZjTlljSTFoWHF1TTFFMWwzQjVNMUduMmpMRUJnY29HWHFxc0lnVFB2UTB6djRIVWJyeV8tWExMb2VFc1A0OXRNQXFrX3VoWUhUN0tN?oc=5
+
+Başlık: Bel ağrısında hareket edin! - Milliyet
+Özet  : Bel ağrısında hareket edin! &nbsp;&nbsp; Milliyet
+Bağlantı: https://news.google.com/rss/articles/CBMid0FVX3lxTE85dGhmWmhiZjNrME52TmhHdmRpellFVHlPMzY3VXZRTDFKR1JIaE8xTWZmWHp2M3Z4QVpUemh5cWxyMFNvZFpjSzZJaGlKWjJCWGJGRVdmY2pJTXFaTnRtTC1NU0pJMElxcTBfRW5BYWREcUV5ZXFN?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-03-29)
+========================================================================
+Yeni kaynak sayısı: 30
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=27
+GitHub dosyası: out/skolyoz/2026-03-29_20260329T075422Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Evaluating the Effect of the Schroth Method on Sensorimotor Control in Adolescents with Idiopathic Scoliosis: A Controlled Clinical Trial.
+Türkçe Başlık : Evaluating the effect of the schroth method on sensorimotor control in adolescents with idiopathic skolyoz: a controlled clinical klinik çalışma.
+Türkçe Özet   : Bu içerik evaluating the effect of the schroth method on sensorimotor control in adolescents with idiopathic skolyoz: a controlled clinical klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of fonksiyonal morphology and kinesiology. 2026 mar 21. Anahtar kavramlar: evaluating, effect, schroth, method, sensorimotor, control.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41900534/
+
+Orijinal Başlık: Superiority of combined physiotherapeutic scoliosis-specific exercises in spinal deformity and quality of life of adolescents with idiopathic scoliosis: A meta-analysis of randomized controlled trials.
+Türkçe Başlık : Superiority of combined physiotherapeutic skolyoz-specific egzersizs in spinal deformity and quality of life of adolescents with idiopathic skolyoz: a meta-analiz of randomize controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik superiority of combined physiotherapeutic skolyoz-specific egzersizs in spinal deformity and quality of life of adolescents with idiopathic skolyoz: a meta-analiz of randomize controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 mar 27. Anahtar kavramlar: skolyoz, superiority, combined, physiotherapeutic, specific, egzersizs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41891125/
+
+Orijinal Başlık: Rehabilitation effects of combined respiratory guidance and chiropractic adjustment on adolescents with idiopathic scoliosis.
+Türkçe Başlık : Rehabilitasyon effects of combined respiratory guidance and chiropractic adjustment on adolescents with idiopathic skolyoz.
+Türkçe Özet   : Bu içerik rehabilitasyon effects of combined respiratory guidance and chiropractic adjustment on adolescents with idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: american journal of translational research. 2026. Anahtar kavramlar: rehabilitasyon, effects, combined, respiratory, guidance, chiropractic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41868889/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Alanya'da skolyoz hastaların rehberi olacak: Yüzme skolyozu iyileştirir mi? - alanyapostasi.com.tr
+Özet  : Alanya'da skolyoz hastaların rehberi olacak: Yüzme skolyozu iyileştirir mi? Alanya'da skolyoz hastaların rehberi olacak: Yüzme skolyozu iyileştirir mi?
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3pzc0ZQNzlJQmlRVkNKTnMtajZCRHJ2VnV0TjFWeFVpSFlyb2NXY21mMFFiZlpxTlA1VmlTbkJwLVo1N1FWZ3F6alA2UWowUXN0Wmxxc2VjQy1Kcld4M3lOLUtaMkxaVmpqS05Qdjc4UUxDYXFCNlhEdXBXUmE4R19uR1RremdBV3VJbXhPb1NYcFczOXRDT2MwNFpuZG1wNy1tdjNoQkXSAa4BQVVfeXFMT0dzMGZfTFJtbnRIZF8wNU5nY3NKN3MtejRpWHRrTGRpcmg4anQ3TDV1WlR6SjZXVEl2YzdtR2I1dWZXQUw1Y0RqUzBWYWZFenR5NlRFeW1GUGZSZzNDTmhuQUFSU05VWDRVRjN4X1RReFpZOVh3VVNIMUstMGFDcHFiR0xCd084emNmWWViYjBEb0VIS0s0MEZSVkJYTVhrOFpMSzVSd0RoOVpsQ1B3?oc=5
+
+Başlık: Cam kemik ve skolyoz hastası Zeynep Duru'nun hayali sahnede piyano çalmak - Habertürk
+Özet  : Cam kemik ve skolyoz hastası Zeynep Duru'nun hayali sahnede piyano çalmak &nbsp;&nbsp; Habertürk Cam kemik ve skolyoz hastası Zeynep Duru'nun hayali sahnede piyano çalmak - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTNfUktKMzNhSm5jSzZPOUNHTzZNSzN6ZHA1d3RPa0JyWVdoTEdnN2pQcnpqZHY2RFFWdGJKbXRPRnNJUGpfdzVwTjB6Z2dGN2c2NFVBTVZRb3lLaVM2UWhvZkhZMG85WlRZX1hDUWphQUNnS3EtZU11M25XTzdSYXEtMGxCVUhYcHBVMkMzUmtMTkZnSGdrR0FQdFd0TUlwdlZlczM3NElqY2s?oc=5
+
+Başlık: Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor - haberler.com
+Özet  : Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor &nbsp;&nbsp; haberler.com Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor - haberler.com.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxOMG5oNzEzb2RuSnBtcWdpRXRhVDF4UTd4cHV6VFNxZ3EwWVVwZUVWY1FDcVNqS0FpMDdjZnJNMWJiTXdPSk9CNkRjQ0RwVXVBRE5SM1NJV2J3RDZodFVtNjVEU1pRY2dTdk4yVVhaU0V5WTRVdVZVT1FxNFpDVVpsTDhicmVEeGdwd0ZoUGhJQ0sxRmxYbWNHUnk0d0lXLXR1clHSAaIBQVVfeXFMTjBuaDcxM29kbkpwbXFnaUV0YVQxeFE3eHB1elRTcWdxMFlVcGVFVmNRQ3FTaktBaTA3Y2ZyTTFiYk13T0pPQjZEY0NEcFV1QUROUjNTSVdid0Q2aHRVbTY1RFNaUWNnU3ZOMlVYWlNFeVk0VXVWVU9RcTRaQ1VabEw4YnJlRHhncHdGaFBoSUNLMUZsWG1jR1J5NHdJVy10dXJR?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-03-29)
+========================================================================
+Yeni kaynak sayısı: 8
+Dağılım: Cochrane=0 | PubMed=5 | medRxiv=0 | Haber=3
+GitHub dosyası: out/omuz/2026-03-29_20260329T075422Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Determining the Level to Affect of Physical Findings and Outcome Measures on Functional Status in Partial-Thickness Rotator Cuff Tears Using a Multiple Linear Regression Model.
+Türkçe Başlık : Determining the level to affect of physical findings and outcome measures on functional status in partial-thickness rotator manşet tears using a multiple linear regression model.
+Türkçe Özet   : Bu içerik determining the level to affect of physical findings and sonuç measures on fonksiyonal status in partial-thickness rotator manşet tears using a multiple linear regression model. konusuna odaklanıyor. Öne çıkan başlıklar: medicina (kaunas, lithuania). 2026 mar 19. Anahtar kavramlar: determining, level, affect, physical, findings, sonuç.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41901655/
+
+Orijinal Başlık: A Retrospective Clinical Analysis of Pain and Spasticity Outcomes Following Gravity-Support Exoskeleton Therapy in Chronic Stroke.
+Türkçe Başlık : A retrospective clinical analysis of pain and spasticity outcomes following gravity-support exoskeleton therapy in chronic i̇nme.
+Türkçe Özet   : Bu içerik a retrospective clinical analysis of ağrı and spasticity sonuçs following gravity-support exoskeleton therapy in chronic inme. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 mar 10. Anahtar kavramlar: clinical, retrospective, analysis, ağrı, spasticity, sonuçs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41899023/
+
+Orijinal Başlık: Clinical and Metabolic Predictors of Response to Focused Extracorporeal Shockwave Therapy in Rotator Cuff Tendinopathy: A Retrospective Cohort Study.
+Türkçe Başlık : Clinical and metabolic predictors of response to focused extracorporeal shockwave therapy in rotator manşet tendinopathy: a retrospective cohort study.
+Türkçe Özet   : Bu içerik clinical and metabolic predictors of response to focused extracorporeal shockwave therapy in rotator manşet tendinopathy: a retrospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: medical sciences (basel, switzerland). 2026 feb 27. Anahtar kavramlar: clinical, metabolic, predictors, response, focused, extracorporeal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41892829/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Doç. Dr. Murat Köken: "Omuz ağrısı sessizce ilerleyerek günlük hayatı zorlaştırabilir" - Habertürk
+Özet  : Murat Köken: "Omuz ağrısı sessizce ilerleyerek günlük hayatı zorlaştırabilir" &nbsp;&nbsp; Habertürk Murat Köken: "Omuz ağrısı sessizce ilerleyerek günlük hayatı zorlaştırabilir" - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3VaRDRMUDdhdjhOUTVWenJVZTFTSF8xOHJOa1A3ZzdOSlpOdXJ6ZWgyTXBab2dVY0Q5ZHhqM21jSlpCNG5OMXpCcEM4blNFdXdhcU4zSWx2WUVoN284bzNLbFl5c1lFNXJNQ0VXYzVMdlFVb01FZ3E2NzdCTFhBUW03aUFVNlB2ajI5TVZCX0xac0Q4SHpuaC1sWGVhRHVWZVMyU2xWMHZ6Zmc0UjBGYTVyZ2RyX1htZ0w0S3RZeXVySVFvVWt3aXF4RzhjdzFM?oc=5
+
+Başlık: Uzmanından ‘omuz ağrısı’ uyarısı: Günlük hayatınızı zorlaştırır - yeniakit.com.tr
+Özet  : Uzmanından ‘omuz ağrısı’ uyarısı: Günlük hayatınızı zorlaştırır &nbsp;&nbsp; yeniakit.com.tr Uzmanından ‘omuz ağrısı’ uyarısı: Günlük hayatınızı zorlaştırır - yeniakit.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWE9LNmZYdnNvTGlrZUxrZXlCa1pJWkhLN25xVVVxVHprVDUwTUVNMUlpbDVFcG93b1dUU2tWS1NNTDNmTmJzU05GYjROeUwyMzNyNnQyYkUzUC1oaVBVQjFWT3JhNTlZb08tSDJhcGhUZVVQTXkyajVaZjJiYUhqUC1sTHBURkVHQlhuUnFYVnYwT3FnWk15VHRYcmJtRUt3NEkzbklranBVdjjSAa4BQVVfeXFMTzJlakVjMWxvOG5mcl93em5Ba2FKZ29fcTdZOTNxeXZjWC1TZ0xIYVA4ZnhPM3V5blBXMXozdGNySUkteVVSS0FWM0R1NF9qVFlCNFpCWGYzYXZQTUU3c3FwT05FMHlSN25WUFI4cGlFMlM4U1dJQmNsaEk3N0xoNEFIN2Y0UUt4dnpEQXc0RExkbEdUbUFjNU9UZmtzTUhOZVZDU2hIWC1rY0d3eFFR?oc=5
+
+Başlık: Omuz Ağrısı Göz Ardı Edilmemeli: Doç. Dr. Murat Köken Uyarıyor - haber365.com
+Özet  : Murat Köken Uyarıyor &nbsp;&nbsp; haber365.com Omuz Ağrısı Göz Ardı Edilmemeli: Doç.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXVWaEl5bG5Kd2ROcnJmcUpoVnNoc3RKeUt3VEVvbl9fOUVrRFZiRzZDTGYxMTlBT20weUs4UUh3cnpldUotZTBiNnBFMWJKcU03a001Y250c3E3SUpHdEdFekdNSlBOZlVkZmM3RU1iOTB6NEJKd0JXUFgtVWZDRm1MbVN5d09jN1JZWUtGdEJvZDhKNXY40gGcAUFVX3lxTE5mY242ZmU4aGdwMFhRdVZDdGcydHl2MDZkVmFlOFJnbTljN2RfR01fbndidEUzM29CVU5RaG1uRmJsNFNYQ2wtWm1obS05ak1GQlI3RE41Qm9VTmVnQjZsdzBDc1ZpZTdwUTFLdXI0U0Vqc1ZRMkxYbE55RURxSl9pMDBwdm5nV2t6UzF4VFcxM0R0S09MQko1bDNvTw?oc=5
+
