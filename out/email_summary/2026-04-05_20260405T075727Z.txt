@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-04-05)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   60
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-04-05)
+========================================================================
+Yeni kaynak sayısı: 45
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=37
+GitHub dosyası: out/bel_agrisi/2026-04-05_20260405T075712Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Recent highlights in low back pain research, Part II: Prevention and management.
+Türkçe Başlık : Recent highlights in bel ağrısı research, part ii: prevention and management.
+Türkçe Özet   : Bu içerik recent highlights in bel ağrısı research, part ii: prevention and management. konusuna odaklanıyor. Öne çıkan başlıklar: journal of fizyoterapi. 2026 apr 2. Anahtar kavramlar: recent, highlights, low, back, ağrı, research.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41933950/
+
+Orijinal Başlık: Surgical Management of Concurrent Cranial and Spinal Subdural Hematomas Causing Confusion and Lower-Extremity Weakness: A Case Report and Literature Review.
+Türkçe Başlık : Surgical management of concurrent cranial and spinal subdural hematomas causing confusion and lower-extremity weakness: a case report and literature review.
+Türkçe Özet   : Bu içerik surgical management of concurrent cranial and spinal subdural hematomas causing confusion and lower-extremity weakness: a case report and literature review. konusuna odaklanıyor. Öne çıkan başlıklar: the american journal of case reports. 2026 apr 4. Anahtar kavramlar: case, surgical, management, concurrent, cranial, spinal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41933880/
+
+Orijinal Başlık: Editorial "Ultrashort Echo Time Magnetization Transfer MR Imaging of Lumbar Nerve Roots in Patients With Disc Herniation".
+Türkçe Başlık : Editorial "ultrashort echo time magnetization transfer mr imaging of lomber (bel bölgesi) nerve roots in patients with disc herniation".
+Türkçe Özet   : Bu içerik editorial "ultrashort echo time magnetization transfer mr imaging of lomber (bel bölgesi) nerve roots in patients with disc herniation". konusuna odaklanıyor. Öne çıkan başlıklar: journal of magnetic resonance imaging : jmri. 2026 apr 3. Anahtar kavramlar: imaging, editorial, ultrashort, echo, time, magnetization.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41933460/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı yaşayanlar dikkat! Bu hataları yapıyor olabilirsiniz - Sabah
+Özet  : Bu hataları yapıyor olabilirsiniz &nbsp;&nbsp; Sabah Bu hataları yapıyor olabilirsiniz - Sabah.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEFPZlBPMDNKYUZ3d3dhdmh0ZHktWHBUcGwzcjZiUUVTWGZycmVvWmdpbzV4X19GajhqZDJKVlZ1cEhqZUloWkxfREUyYlgzZjR0LXN1bUpTX0hjc0pORmRzZWV6eDBiVnlNTlA1TklhU2dqZ002R3VSMkg0R0c5ZldvQXpXMVNVT3RlSGpGVGlpUW5DQkJNcGRXQzd1bFFRUXI2dVliMELSAasBQVVfeXFMTkFHZEtsVFV0cWNSVkI4ZWw3dER4MmNSRDFSMWYzeHd4ejl0LW9QZEFkN2lUd2k1LURYVTBscEJWVnFXUzNQV3RzbU5XWC1RekdLM0tCb3hEdHNiZW9ERnc4TjBQb0VOXzJBT1dvampuWml6MjcxUllMSXh6Y2MySXVDMS1EeVNhZVlNaE9QT3dGQ0p0MnAyQnB4bWFoUDVjMDB5anJtYlprM3pB?oc=5
+
+Başlık: Bel ağrısı toplumun yüzde 80'ini etkiliyor - TGRT Haber
+Özet  : Bel ağrısı toplumun yüzde 80'ini etkiliyor &nbsp;&nbsp; TGRT Haber Bel ağrısı toplumun yüzde 80'ini etkiliyor - TGRT Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHc0a2RpME1zMy16QnJDWDcyTnhNWElacXZjWUJ1a19acHh6YjBHMEpkOWFfUzU1cHpscmlxaXlXREtVdDJFNGU1TWd0T05pSE43MXp6dHAzQml1WlgxTFpNRElqWWM1NUNidFRVRkgyZ2ltX2lDRVB6NXpZcTJjOEtTdlF3QUowM1E?oc=5
+
+Başlık: Dünyada 619 milyon insan Türkiye'de ise her 3 kişiden 1'i bel ağrısı çekiyor - Milliyet
+Özet  : Dünyada 619 milyon insan Türkiye'de ise her 3 kişiden 1'i bel ağrısı çekiyor &nbsp;&nbsp; Milliyet Dünyada 619 milyon insan Türkiye'de ise her 3 kişiden 1'i bel ağrısı çekiyor - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlRVWE56VnNtaTY3Y1JPaUgxTXFrVUw0UkdnRHRzVGs0RHZjRVhzUzFNaEJjdDdCYk9FUTRCTFQwckpBTWhuYnh3bE1oak5VdFgwYlZfN1hveFZYNXRiamdYa0M3NG5XeE5TSlF0VjhLb1hoUDR5VC1ZU1Z0ZGVzT0pmTEI1VWZWdkJEVUZBTndvSEFIY1ZFTGZmNDVtTG05NVUybUNXb3lPZXd3SVdfVFJTWlJUbm1mNUxn0gHAAUFVX3lxTFBCZUxSR0Q3LU5EREtyRzZBMHBCQ1VwX0t3c2RjRWZ2UXhrME1EcnV6ZV9lWjh5aGNhcm5kTzl5U0lJWGlTMHVrMXBhdVo3NTJRaHh5T3pBaFhWREZWSy1BYkpJVmZ2R0NqNkZmSDBRaS1aQ0o2M09XWjdJcFBLM2ttaFZsZXhOUFVIci0tS2dQN050Z2FSWk1FYmJsU05sWTQzXzFrUDgtWjd6d3M4OHhma0xVWnZqZ2h3SEhkckhQTQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-04-05)
+========================================================================
+Yeni kaynak sayısı: 19
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=16
+GitHub dosyası: out/skolyoz/2026-04-05_20260405T075712Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Prevalence, associated disorders and treatment of joint hypermobility syndrome; A systematic review.
+Türkçe Başlık : Prevalence, associated disorders and treatment of joint hypermobility syndrome; a sistematik derleme.
+Türkçe Özet   : Bu içerik prevalence, associated disorders and treatment of joint hypermobility syndrome; a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: journal of bodywork and movement therapies. 2026 jun. Anahtar kavramlar: prevalence, associated, disorders, treatment, joint, hypermobility.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41927246/
+
+Orijinal Başlık: Delayed presentation of muscular torticollis- an observational study.
+Türkçe Başlık : Delayed presentation of muscular torticollis- an observational study.
+Türkçe Özet   : Bu içerik delayed presentation of muscular torticollis- an observational study. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of pediatric otorhinolaryngology. 2026 mar 28. Anahtar kavramlar: delayed, presentation, muscular, torticollis, observational, study.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41911610/
+
+Orijinal Başlık: Risdiplam Impact in Treatment Naïve and Non-Naïve Pediatric and Adult Patients With Spinal Muscular Atrophy.
+Türkçe Başlık : Risdiplam impact in treatment naïve and non-naïve pediatric and adult patients with spinal muscular atrophy.
+Türkçe Özet   : Bu içerik risdiplam impact in treatment naïve and non-naïve pediatric and adult patients with spinal muscular atrophy. konusuna odaklanıyor. Öne çıkan başlıklar: european journal of neurology. 2026 apr. Anahtar kavramlar: risdiplam, impact, treatment, non, pediatric, adult.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41877466/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Şiddetli skolyozu olan birçok çocuk, ancak durumları kötüleştiğinde tıbbi yardım arar; uzmanlar ciddi komplikasyon riskine karşı uyarıda bulunuyor. - Vietnam.vn
+Özet  : Şiddetli skolyozu olan birçok çocuk, ancak durumları kötüleştiğinde tıbbi yardım arar; uzmanlar ciddi komplikasyon riskine karşı uyarıda bulunuyor. Şiddetli skolyozu olan birçok çocuk, ancak durumları kötüleştiğinde tıbbi yardım arar; uzmanlar ciddi komplikasyon riskine karşı uyarıda bulunuyor.
+Bağlantı: https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWxMVzhRTWtfQmZpeU5yd3FzYnMxQ2hZWTNHZllRTjFTX3YyOHdyd3czempwWk51Q1ZYU084dkVidWNPaFBsNVBXZlB4QTRlWVllMUJobldnNWozY1hOTmRnZ2lxRG9sS0hRUmo5SXo1eWJOSjVhcUY1RldzZnFoSG1HSmhmXzFNYzZpbmE5V1lVcnVTMU5qZGZwMWVnNElTZ1plbmpmMk5GVE91R0E?oc=5
+
+Başlık: NEVŞEHİR’DE ÖĞRENCİLERE “DİK DURUŞ” EĞİTİMİ: SKOLYOZ FARKINDALIĞI AŞILANDI! - Avanos Kızılırmak Gazetesi Haber Portalı
+Özet  : NEVŞEHİR’DE ÖĞRENCİLERE “DİK DURUŞ” EĞİTİMİ: SKOLYOZ FARKINDALIĞI AŞILANDI! NEVŞEHİR’DE ÖĞRENCİLERE “DİK DURUŞ” EĞİTİMİ: SKOLYOZ FARKINDALIĞI AŞILANDI!
+Bağlantı: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmk4RFEycmdQTXkyMnpLUG1IVmFId21RcjlOX2tNSGRQazlSdzNTM2huUzljVmhicG13UEhEcWhkSV8yM0NSa25pUDdFYnJtbHBfbkt6cEk4czQzTVhvUlVVeE5lZDBKRmo1V1E5NGxfT1FFWkJkTkxEb1dtdlRKclVPMnBzLTk0Z1RZY3ZySVBmZVFTTVUwS3NMOHVlcTF1Q2J6RjM4MA?oc=5
+
+Başlık: Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor - Habername.com
+Özet  : Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor &nbsp;&nbsp; Habername.com Kırklareli'nde ortaokul öğrencilerine skolyoz taraması yapılıyor - Habername.com.
+Bağlantı: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUxjSzZ1RndVTUpKazFWblJ4WGJZTENlTndrc1NlYk9uUXR1WFRhbEU3VGhfNjVwa1g1aHc3MUpXdU5aRC1yQU5aZDQwRWJ3OU9XUkxZU1hlTDFXVzdjeDBUYTNkaVpQSHVKMXpXQ1dLazhNMFhWeWs3VUNXT2ZTS2I1V1VHaFNsUU45Um1ic0VEcjgtX0R4cW40LVVDbWNRYmlWdlpWLTIxUdIBugFBVV95cUxPTmRjZEx5WURRSzdudlFZSGtxMVpnT0ZYSVJIQ0Y2ZjlJOGZYbjVvT1oyMk16SXpaajM3YnF6UlotcFZkUURkRlBHV1BqLW9xNURLWS1HVkhIZzFIYW1RRDB3SVRCNzZoVElDYWVXaHRtY1lKWjNTRnllTjVFSlhaSzBaZU5SOTNEWlMzNDluQ2VYVG4xRTZZWUs4cUoyWHhxVWw1QkxtMlFuVjBCRFNGYTUtYlU0NHhyM2c?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-04-05)
+========================================================================
+Yeni kaynak sayısı: 15
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=7
+GitHub dosyası: out/omuz/2026-04-05_20260405T075712Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: The Relationship between early and late stimulation of the deltoid muscle in patients undergoing reverse total shoulder arthroplasty. A systematic review with meta-analysis.
+Türkçe Başlık : The relationship between early and late stimulation of the deltoid muscle in patients undergoing reverse total omuz arthroplasty. a sistematik derleme with meta-analiz.
+Türkçe Özet   : Bu içerik the relationship between early and late stimulation of the deltoid muscle in patients undergoing reverse total omuz arthroplasty. a sistematik derleme with meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of bodywork and movement therapies. 2026 jun. Anahtar kavramlar: relationship, between, early, late, stimulation, deltoid.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41927206/
+
+Orijinal Başlık: Examination of Work Performance of Patients With Rheumatoid Arthritis.
+Türkçe Başlık : Examination of work performance of patients with rheumatoid arthritis.
+Türkçe Özet   : Bu içerik examination of work performance of patients with rheumatoid arthritis. konusuna odaklanıyor. Öne çıkan başlıklar: journal of occupational and environmental medicine. 2026 apr 2. Anahtar kavramlar: examination, work, performance, patients, rheumatoid, arthritis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41925621/
+
+Orijinal Başlık: Effects of exercise-induced hypoalgesia on pressure pain threshold in patients with chronic musculoskeletal pain: A systematic review and meta-analysis.
+Türkçe Başlık : Effects of egzersiz-induced hypoalgesia on pressure pain threshold in patients with chronic musculoskeletal pain: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik effects of egzersiz-induced hypoalgesia on pressure ağrı threshold in patients with chronic musculoskeletal ağrı: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: pm & r : the journal of injury, fonksiyon, and rehabilitasyon. 2026 apr 2. Anahtar kavramlar: ağrı, effects, egzersiz, induced, hypoalgesia, pressure.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41925114/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ani sızı ve çıtırtılar omuzunuzda tehlike işareti olabilir! - Sabah
+Özet  : Ani sızı ve çıtırtılar omuzunuzda tehlike işareti olabilir! Ani sızı ve çıtırtılar omuzunuzda tehlike işareti olabilir!
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjZXSmZYcWVzRndwQkh1dGc4ektvQ1hXeWcza0x1bEo1UWt3Ym5OY3NNbkNiWnhzMFlPY2Y4X0o3WFZkUi03YkJLeENpNlp2QjdQSnZNTU5CVnZPWERYZ2NsdE5kcmstLXMzYmNsZ1E3emY1bTkxWklsUUlsRDM4SDBfRE9vOXgyWjBYRThWeGdBRFNhZm9QWlROMDRpV0xlbXdJ0gGmAUFVX3lxTE00TmRFbUIwWVNuNmRuVXRsa0JNUjV2RjlmbnlOZ3dnR0NjQ3BFWGdEb3NyMlVFTjcxc1NpM2FfX3Y4TXY1Y0Y2WWhLV3VrMEFCcS15U2lqY3I0eGpRYi1IcG5ZazBuRGNpbl9oS2t5TVJtbXBpWVRzVTZzZlVkWnNrS3R3QVZYQV81VTZHWnVNZS12S3FpMVcyU0tKNFpzSWxNVWJMd1E?oc=5
+
+Başlık: Döşemealtı'nda Zehir Operasyonu: 1 Kilo Narkotik - akdenizgazetesi.com
+Özet  : Döşemealtı'nda Zehir Operasyonu: 1 Kilo Narkotik &nbsp;&nbsp; akdenizgazetesi.com Döşemealtı'nda Zehir Operasyonu: 1 Kilo Narkotik - akdenizgazetesi.com.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxQUXl3YkdwMVBFc1A2a2JfSGFkanNBWWJuZWtZanlZUzBHQ1dzYnVHMjlmemR2ellkRXQzdlZDX0dYUXhaQnJ1M3laLU42QXFnYUEzVHZmYjR3dlRfWTFtbU5vSTZEbVhGRWpDYW92VXJKNHh4YmN2cmFWVng5UkFOUkNtMTBOT1I3cWfSAYoBQVVfeXFMUFF5d2JHcDFQRXNQNmtiX0hhZGpzQVlibmVrWWp5WVMwR0NXc2J1RzI5ZnpkdnpZZEV0M3ZWQ19HWFF4WkJydTN5Wi1ONkFxZ2FBM1R2ZmI0d3ZUX1kxbW1Ob0k2RG1YRkVqQ2FvdlVySjR4eGJjdnJhVlZ4OVJBTlJDbTEwTk9SN3Fn?oc=5
+
+Başlık: Eğlence Mekanını Kurşunlayan Şüpheli Tutuklandı! - akdenizgazetesi.com
+Özet  : Eğlence Mekanını Kurşunlayan Şüpheli Tutuklandı! Eğlence Mekanını Kurşunlayan Şüpheli Tutuklandı!
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOTNTY3A5WWUtSl93STRJUHJyaHRsNXZiNTdfNk5FWFpzV1F1Z1B1YXRIaC1RTHZWbG9zV0VwUldFY3hoUUVxemlLd1hWcjVzZ2RuWWw4VWxaNmREaGlBcWx6cGF0T2N1YkZjZHZESkhnVUNUZnljVDdfVmJQWC1Ha29pUC1vbm1BRVZR0gGLAUFVX3lxTE45M1NjcDlZZS1KX3dJNElQcnJodGw1dmI1N182TkVYWnNXUXVnUHVhdEhoLVFMdlZsb3NXRXBSV0VjeGhRRXF6aUt3WFZyNXNnZG5ZbDhVbFo2ZERoaUFxbHpwYXRPY3ViRmNkdkRKSGdVQ1RmeWNUN19WYlBYLUdrb2lQLW9ubUFFVlE?oc=5
+
