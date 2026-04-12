@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-04-12)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   55
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-04-12)
+========================================================================
+Yeni kaynak sayısı: 47
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=39
+GitHub dosyası: out/bel_agrisi/2026-04-12_20260412T080515Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: The relationship between treatment methods and depressive mood in patients with low back pain: a cross-sectional study.
+Türkçe Başlık : The relationship between treatment methods and depressive mood in patients with bel ağrısı: a cross-sectional study.
+Türkçe Özet   : Bu içerik the relationship between treatment methods and depressive mood in patients with bel ağrısı: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 apr 10. Anahtar kavramlar: relationship, between, treatment, methods, depressive, mood.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41963906/
+
+Orijinal Başlık: Exploratory study of large language models in surgical decision-making for lumbar disc herniation: a multicenter analysis based on multisource clinical information.
+Türkçe Başlık : Exploratory study of large language models in surgical decision-making for lomber (bel bölgesi) disc herniation: a multicenter analysis based on multisource clinical information.
+Türkçe Özet   : Bu içerik exploratory study of large language models in surgical decision-making for lomber (bel bölgesi) disc herniation: a multicenter analysis based on multisource clinical information. konusuna odaklanıyor. Öne çıkan başlıklar: bmc medical informatics and decision making. 2026 apr 10. Anahtar kavramlar: decision, making, exploratory, study, large, language.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41963879/
+
+Orijinal Başlık: Stable Mechanoreceptive Somatotopy in Chronic Low Back Pain: Is Cortical Map Reorganization a Myth?
+Türkçe Başlık : Stable mechanoreceptive somatotopy in chronic bel ağrısı: is cortical map reorganization a myth?
+Türkçe Özet   : Bu içerik stable mechanoreceptive somatotopy in chronic bel ağrısı: is cortical map reorganization a myth? konusuna odaklanıyor. Öne çıkan başlıklar: the journal of neuroscience : the official journal of the society for neuroscience. 2026 apr 10. Anahtar kavramlar: journal, neuroscience, stable, mechanoreceptive, somatotopy, chronic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41963091/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı deyip geçmeyin, mesleki hastalık olabilir! SGK’dan ömür boyu maaş ve tazminat hakkı - A Haber
+Özet  : SGK’dan ömür boyu maaş ve tazminat hakkı &nbsp;&nbsp; A Haber SGK’dan ömür boyu maaş ve tazminat hakkı - A Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGRPODZSemZFQmNjMnBJZWFGSzNOelVjd1hxOHg4M0JfQkxZSE5RWF9mQ1pONnRvOC1EM1BGLXJ0bWVqaWhOajNjTnNzQmtiOTRoOXJmWE1YTnJTdTBoeEk1Ykdvc0lrU0VJeVBPamswejlpXzRnSFFKNWtub3FhQllYMUVTYWZ2Q1ZicGVoTFQ1cVAwS25kMlpEUGVSZDRfTS1rbU5YWWNNOWc?oc=5
+
+Başlık: Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) - Habertürk
+Özet  : Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) &nbsp;&nbsp; Habertürk Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxOOEVmR0owUTgwUG90eVZFOFJrTm52OUlhekxOM0ZnaDlETkg5VEs5OU8zSU9iUWZsdVlRMXJUZ2h2YkRRZklqVDVITzVsSjE4eF9CU0UyblFiM1lmZlE4N1UzRDVRV3oyN0pUaHNFMjBRMk9TeXc1bUJHQW1WeWJDc2tjT3JsSnBJRGc?oc=5
+
+Başlık: Bel ağrısına iyi geliyor! Ağrı kesicileri çöpe attıran yöntemler - Posta
+Özet  : Ağrı kesicileri çöpe attıran yöntemler &nbsp;&nbsp; Posta Ağrı kesicileri çöpe attıran yöntemler - Posta.
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjhxR05oeVgtMHNqRjl1SzYzQWVETVFBNzE2MjZjRXpUYUQ1aDJiZ183QUZXS3U2YlBDVjB1VUdpeHNPV1VPUlpfV0tIbklHTHBEak5IMktObTVVUEZOTzFnc0p3QlpYY0R6WlVieTRmaHN6VjZ6THUzc1VfWmdPcjI3Zk5YblJnV3RRQ04wSTI2d25YODg4aWlIVWVDQWdvN1g5QmZB?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-04-12)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=8
+GitHub dosyası: out/skolyoz/2026-04-12_20260412T080515Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Providence Bracing in Idiopathic Scoliosis: A Scoping Review.
+Türkçe Başlık : Providence bracing in idiopathic skolyoz: a scoping review.
+Türkçe Özet   : Bu içerik providence bracing in idiopathic skolyoz: a scoping review. konusuna odaklanıyor. Öne çıkan başlıklar: journal of the pediatric orthopaedic society of north america. 2026 may. Anahtar kavramlar: providence, bracing, idiopathic, skolyoz, scoping, review.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41952967/
+
+Orijinal Başlık: Quantifying gait and mobility in severe idiopathic scoliosis with inertial measurement technology.
+Türkçe Başlık : Quantifying gait and mobility in severe idiopathic skolyoz with inertial measurement technology.
+Türkçe Özet   : Bu içerik quantifying gait and mobility in severe idiopathic skolyoz with inertial measurement technology. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 apr 6. Anahtar kavramlar: european, spine, society, quantifying, gait, mobility.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41936656/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: KIRKLARELİ’NDE ORTAOKUL ÖĞRENCİLERİNE SKOLYOZ TARAMASI YAPILIYOR - hurfikir.com.tr
+Özet  : KIRKLARELİ’NDE ORTAOKUL ÖĞRENCİLERİNE SKOLYOZ TARAMASI YAPILIYOR &nbsp;&nbsp; hurfikir.com.tr KIRKLARELİ’NDE ORTAOKUL ÖĞRENCİLERİNE SKOLYOZ TARAMASI YAPILIYOR - hurfikir.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1BzTVJ0ZWVzU29FY3J4QTNVdnYzdm5SNENUSGw3bnhuV25zOFZaT0JFZnFHdlljM0xzLUdvTXVOb0RtaEcydFIyMWozV3A0RlZFZnc5ZTgwTkp2WlFTcTFEQjlaQVpxTU1XcnFIM2Vva1p6ZXFiWjQ0RGh5cEhwZ0hWZmo5Ni1RNGFxZFg4NXJFR09PVWJUOS1NbmZuTXdTckpoS0NB0gGmAUFVX3lxTE03UHNNUnRlZXNTb0VjcnhBM1V2djN2blI0Q1RIbDdueG5XbnM4VlpPQkVmcUd2WWMzTHMtR29NdU5vRG1oRzJ0UjIxajNXcDRGVkVmdzllODBOSnZaUVNxMURCOVpBWnFNTVdycUgzZW9rWnplcWJaNDREaHlwSHBnSFZmajk2LVE0YXFkWDg1ckVHT09VYlQ5LU1uZm5Nd1NySmhLQ0E?oc=5
+
+Başlık: Çocuklarda en sık görülen problemler skolyoz ve tortikollis - KOHA.net
+Özet  : Çocuklarda en sık görülen problemler skolyoz ve tortikollis &nbsp;&nbsp; KOHA.net Çocuklarda en sık görülen problemler skolyoz ve tortikollis - KOHA.net.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHZ5S0lBYzBHMFFseDlpWG5iSFZjZXo1cGVKc3hSTnVMVExPTU80S2dBX08tMWpVZlRzSG9RX0VfV29oazJRWkU4Y1NDdll6UkxUR3VkbkJkZnYxVjJoUVgyQ3RtV2o4dzR2QnNrQndtZGNEUlplWFRTNW1UX2hobFJYWkJDZEM0eU5CUEFhTElRSk5reGlOVm1tazQ?oc=5
+
+Başlık: Yozgat’ta göz taraması yapılan 400 ilkokul öğrencisinin 100’ünde astigmat tespit edildi - Safranbolu Birlik Haber -
+Özet  : Yozgat’ta göz taraması yapılan 400 ilkokul öğrencisinin 100’ünde astigmat tespit edildi &nbsp;&nbsp; Safranbolu Birlik Haber - Yozgat’ta göz taraması yapılan 400 ilkokul öğrencisinin 100’ünde astigmat tespit edildi - Safranbolu Birlik Haber -.
+Bağlantı: https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1UwSWF1bnRnUk1rNW9Ea1Q4QzFiRGV5U1pmVlMyWnNuQ0JMaFFBZ2NPY3F2clh1WmNyNUNEeUFyOHlJTTRSX1F5c2p4bTFBTnVYLXZtSW44X1RUbzMyX3pzM3VFMExnR203OXZtTlhsZDRKM2NsVkM1ZTNxUHZjYjVESmR3RzJnWkViTXlsdkF6Y1BURlM2NDZGTGRoSmxoS1JCNzBDUHZMa2lTWlZ3UUxwQVlKUQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-04-12)
+========================================================================
+Yeni kaynak sayısı: 14
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=8
+GitHub dosyası: out/omuz/2026-04-12_20260412T080515Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of scapular-focused movement-based exercises on sports performance of athletes with scapular dyskinesis: A systematic review.
+Türkçe Başlık : Effects of scapular-focused movement-based egzersizs on sports performance of athletes with scapular dyskinesis: a sistematik derleme.
+Türkçe Özet   : Bu içerik effects of scapular-focused movement-based egzersizs on sports performance of athletes with scapular dyskinesis: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: plos one. 2026. Anahtar kavramlar: scapular, effects, focused, movement, based, egzersizs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41961840/
+
+Orijinal Başlık: Efficacy of Corticosteroid Injection in Shoulder Pain in Indian Population: A Randomized Control Trial.
+Türkçe Başlık : Efficacy of corticosteroid injection in omuz pain in indian population: a randomize control klinik çalışma.
+Türkçe Özet   : Bu içerik efficacy of corticosteroid injection in omuz ağrı in indian population: a randomize control klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: annals of african medicine. 2026 apr 10. Anahtar kavramlar: efficacy, corticosteroid, injection, omuz, ağrı, indian.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41957997/
+
+Orijinal Başlık: Role of Electro-Therapeutic Modalities in Breast Cancer-Related Lymphedema and Shoulder Dysfunction: A Systematic Review and Meta-Analysis.
+Türkçe Başlık : Role of electro-therapeutic modalities in breast cancer-related lymphedema and omuz dysfunction: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik role of electro-therapeutic modalities in breast cancer-related lymphedema and omuz dysfonksiyon: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: indian journal of palliative care. 2026 jan-mar. Anahtar kavramlar: role, electro, therapeutic, modalities, breast, cancer.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41953826/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Doktorlar uyarıyor: Omuz ağrısı karaciğer kanserinin de bir belirtisi olabilir. - Vietnam.vn
+Özet  : Doktorlar uyarıyor: Omuz ağrısı karaciğer kanserinin de bir belirtisi olabilir. Doktorlar uyarıyor: Omuz ağrısı karaciğer kanserinin de bir belirtisi olabilir.
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWJMUUhKcUJPTVJ5a2JBUnNmLUF1OTVoR2Z5UHNCS3htLVVaQTltUHZuS1RWR2FTV2ZaM0YybjhOdW5yUjJYb1YwTzVfbDZQNVBRUElNOFZJRXU5SGZLMXN4MXZUdmM2UUxGTWNmZjREVmZWaTNZQXlrcEZLaEdLSHZpTWVLajZPUHZROVRBMEN0eGs?oc=5
+
+Başlık: Türkiye’nin CAR-T hamlesi güçleniyor - alanyaturk.com
+Özet  : Türkiye’nin CAR-T hamlesi güçleniyor &nbsp;&nbsp; alanyaturk.com Türkiye’nin CAR-T hamlesi güçleniyor - alanyaturk.com.
+Bağlantı: https://news.google.com/rss/articles/CBMidEFVX3lxTE94YWQtNWJxOTZGRHhpMWFlRUJHcm5CbV80UjR5cVlvdEt1SUtGRmhNelNFRXFWU2JFX21rZHFNRnlQYmhQbmJ5bzBYbFpoVFlGMXhHb1ZiVC0ta1lBblhscXR4cE0tWU1EaUtBMXpJUW9ZWC1Q0gF0QVVfeXFMT3hhZC01YnE5NkZEeGkxYWVFQkdybkJtXzRSNHlxWW90S3VJS0ZGaE16U0VFcVZTYkVfbWtkcU1GeVBiaFBuYnlvMFhsWmhUWUYxeEdvVmJULS1rWUFuWGxxdHhwTS1ZTURpS0ExeklRb1lYLVA?oc=5
+
+Başlık: Telefon kullanımından kaynaklanan baş dönmesi, mide bulantısı, yorgunluk... - Vietnam.vn
+Özet  : Telefon kullanımından kaynaklanan baş dönmesi, mide bulantısı, yorgunluk... Telefon kullanımından kaynaklanan baş dönmesi, mide bulantısı, yorgunluk...
+Bağlantı: https://news.google.com/rss/articles/CBMie0FVX3lxTE8tTVF5dDh6dldpeGUtamxMS0pjbHhYMUIyZFJiUlhIaE1MMXJNblJxb1ROdDhjUENGbVJxQ0F4WVlUbng4Mktqc0p2Sk84azZ6bFNiNHBjT3A4QjMtMGpGWUVEYng1RngwcS1lcFVCUjlZTVlJVVZicVVmWQ?oc=5
+
