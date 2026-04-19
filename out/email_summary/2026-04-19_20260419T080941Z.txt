@@ -1,0 +1,146 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-04-19)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 1
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   50
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-04-19)
+========================================================================
+Yeni kaynak sayısı: 43
+Dağılım: Cochrane=1 | PubMed=8 | medRxiv=0 | Haber=34
+GitHub dosyası: out/bel_agrisi/2026-04-19_20260419T080908Z.md
+
+A) COCHRANE – Sistematik Derlemeler
+------------------------------------------------------------------------
+Orijinal Başlık: Antibiotic treatment for low back pain, radicular pain, or both
+Türkçe Başlık : Antibiotic treatment for bel ağrısı, radicular pain, or both
+Türkçe Özet   : Bu içerik antibiotic treatment for bel ağrısı, radicular ağrı, or both konusuna odaklanıyor. Anahtar kavramlar: ağrı, antibiotic, treatment, low, back, radicular.
+Bağlantı: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014221.pub2
+
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Evidence for a shift towards a proinflammatory/pronociceptive signature of gut dysbiosis in patients with axial chronic low back pain: A preliminary cross-sectional analysis.
+Türkçe Başlık : Evidence for a shift towards a proinflammatory/pronociceptive signature of gut dysbiosis in patients with axial chronic bel ağrısı: a preliminary cross-sectional analysis.
+Türkçe Özet   : Bu içerik evidence for a shift towards a proinflammatory/pronociceptive signature of gut dysbiosis in patients with axial chronic bel ağrısı: a preliminary cross-sectional analysis. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of ağrı. 2026 apr 15. Anahtar kavramlar: ağrı, evidence, shift, towards, proinflammatory, pronociceptive.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41997470/
+
+Orijinal Başlık: Invisible pain: Sex/gender differences in pain-related stigma.
+Türkçe Başlık : Invisible pain: sex/gender differences in pain-related stigma.
+Türkçe Özet   : Bu içerik invisible ağrı: sex/gender differences in ağrı-related stigma. konusuna odaklanıyor. Öne çıkan başlıklar: acta psychologica. 2026 apr 16. Anahtar kavramlar: ağrı, invisible, sex, gender, differences, related.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41997076/
+
+Orijinal Başlık: Machine Learning-Based Pattern Recognition of Risk Factors for Low Back Pain among Adolescent Cricket Players in Dhaka City.
+Türkçe Başlık : Machine learning-based pattern recognition of risk factors for bel ağrısı among adolescent cricket players in dhaka city.
+Türkçe Özet   : Bu içerik machine learning-based pattern recognition of risk factors for bel ağrısı among adolescent cricket players in dhaka city. konusuna odaklanıyor. Öne çıkan başlıklar: plos digital health. 2026 apr. Anahtar kavramlar: machine, learning, based, pattern, recognition, risk.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41996343/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel Ağrısı Kaderiniz mi? Doç. Dr. Ahmet İnanır’dan Hayati Uyarılar - Batman Pusula Gazetesi
+Özet  : Ahmet İnanır’dan Hayati Uyarılar &nbsp;&nbsp; Batman Pusula Gazetesi Ahmet İnanır’dan Hayati Uyarılar - Batman Pusula Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMilgFBVV95cUxOLXNtaWxTYzhWUV9qZU1zS3hGTDBqLUhvWFEwb1hBVjczblZ3NlhDQS1EVGUzck93MGtuVGJ3N25iRzJmQXUyc19fT0I3UjNXMDU5d1hsVlhNR1p4TnI3dTlieTFadUdhaF9ZWlQyTWpieWZKQm5FNHR2cGpMSWhtSVVuYUUzc1FCeG1iUmJhRE5oVEdwYnfSAZsBQVVfeXFMT3pKVVFWRVBoeUl4OGttTVNYR0FzcTBCRENDRU9CZ0lRUUIwLURLTzJ6MDFKZXljNENHZ3hPR3lPakRlaGtBMkZjTWtfeVFTRnZuOElHYW9iSXVEWER0aGV4aGxkbF96WEV2ZzdpcWM3LTItcU9ldnVzQ3NQNEs3eVBybDVjOEp0YXI1OW5ZcDVOTWpWN3VwSzV4Z2c?oc=5
+
+Başlık: Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) - Habertürk
+Özet  : Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) &nbsp;&nbsp; Habertürk Mucize Hayat - 11 Nisan 2026 (Bel Ağrısı Ameliyatsız Tedavi Edilebilir Mi?) - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRDFjNmROQ1RyN1pGY0tadzdaVWtWdTd5em9FcEZOQVRqY21zQkRabkRObmJVNFhMdndoZExKVnFyeGktREQxSElxT3Jtd2lzVEpZVE5maWdCU1RzZ2dTdWh6MzdpOGFtWTBQR1JsM3VsUlpYUlRnNm5jRWtPQms?oc=5
+
+Başlık: Obezite ve Yaşlanma Bel Ağrılarını Artırıyor - Uşak Haber Gazetesi
+Özet  : Obezite ve Yaşlanma Bel Ağrılarını Artırıyor &nbsp;&nbsp; Uşak Haber Gazetesi Obezite ve Yaşlanma Bel Ağrılarını Artırıyor - Uşak Haber Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmFzUEhINVBlN0hwTERRX1V5MHJteDRwZk5aYy1TSENYaUFOS2lVNDZDSXhrTkJLMlpJdU01cVg2STJ6QjdhdFhDU3A4MGRleF9lVVZFajhhUGR1SjM5UjBTeFJhTk1kdlB6RmhEZW9sOXlaV3VhUlVaYlJ6LXhjY0EzQ19QSmtx0gGOAUFVX3lxTE9mN0hZV0o2cmU2NWdXSlByX1lPcTNKd1Zhejl3S2c0azcxc2ZPSjd2NVliNjJpNXZyVTNZRHNPanZkSGRnc1FFNWxLVGlSa1Yxa3VxTzBOM1VIbXc4cG9PTGlkc0pNRGNnTzgyemtadTdMZGFkVEVQVUdoakdCM19MMTB4NzB4bEdsWTVqb2c?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-04-19)
+========================================================================
+Yeni kaynak sayısı: 14
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=11
+GitHub dosyası: out/skolyoz/2026-04-19_20260419T080908Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Efficacy of a reduced brace wear regimen supported by Schroth exercise in adolescent idiopathic scoliosis: a randomized trial.
+Türkçe Başlık : Efficacy of a reduced brace wear regimen supported by schroth egzersiz in adolescent idiopathic skolyoz: a randomize klinik çalışma.
+Türkçe Özet   : Bu içerik efficacy of a reduced brace wear regimen supported by schroth egzersiz in adolescent idiopathic skolyoz: a randomize klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: efficacy, reduced, brace, wear, regimen, supported.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41993897/
+
+Orijinal Başlık: Integration of three-dimensional spinal traction and conventional rehabilitation for structural correction in adolescent idiopathic scoliosis: a case report.
+Türkçe Başlık : Integration of three-dimensional spinal traction and conventional rehabilitasyon for structural correction in adolescent idiopathic skolyoz: a case report.
+Türkçe Özet   : Bu içerik integration of three-dimensional spinal traction and conventional rehabilitasyon for structural correction in adolescent idiopathic skolyoz: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: integration, three, dimensional, spinal, traction, conventional.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41988081/
+
+Orijinal Başlık: Spinal fusion limits trunk movement, but improves gait in patients with adult spinal deformity.
+Türkçe Başlık : Spinal fusion limits trunk movement, but improves gait in patients with adult spinal deformity.
+Türkçe Özet   : Bu içerik spinal fusion limits trunk movement, but improves gait in patients with adult spinal deformity. konusuna odaklanıyor. Öne çıkan başlıklar: gait & posture. 2026 apr 9. Anahtar kavramlar: spinal, gait, fusion, limits, trunk, movement.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41980351/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Siirt’te öğrenciler için skolyoz taraması yapıldı - siirthaberci.com
+Özet  : Siirt’te öğrenciler için skolyoz taraması yapıldı &nbsp;&nbsp; siirthaberci.com Siirt’te öğrenciler için skolyoz taraması yapıldı - siirthaberci.com.
+Bağlantı: https://news.google.com/rss/articles/CBMilAFBVV95cUxPcVNDQVdxYnoxZW1TRk0tZm5YbnZRRm1vdmlhM2Rybmh3dlRuQnZobGdiOWJsVndPMUN0MTRRS21Yb1JMb1BHcXNDWU16RTBhOVJOek84RlFxZjNiQTRrQWZnU19rVTZmOEViYXRMdF9SLWFRX2w4djlnUzRHTGlaTkVoZUlYbF9VRGFzNGZKd0lpODdP?oc=5
+
+Başlık: Çocuklarda en sık görülen problemler skolyoz ve tortikollis - KOHA.net
+Özet  : Çocuklarda en sık görülen problemler skolyoz ve tortikollis &nbsp;&nbsp; KOHA.net Çocuklarda en sık görülen problemler skolyoz ve tortikollis - KOHA.net.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkoyYWNobklmTGVwaTh2SWw2TmxXVlhrTWZabFdIV2FQQXZhMk9kOEhfWHNRSWtfcWJIb1QwVDlrTEVZV2xxODZ1QWY0cEVPVmtLQl9BU1dfLU1VbkZvc2lHWDFseC0yNUhYMlNKREJJeWpCbW1BZmxodldQRE9ublg3dUEyZ2Q3aHRpbFh4akRBZS0xb0ZOOW1KRi0?oc=5
+
+Başlık: Teknoloji kullanımı artıyor, omurga rahatsızlıkları genç yaşlara iniyor Fizyoterapist Sami Yıldırım: "Son yıllarda klinik gözlemler ve yapılan çalışmalar skolyoz ve bel fıtığı gibi omurga problemlerinin görülme yaşının giderek düştüğünü ortaya koyuyor" "Eskiden d - Habertürk
+Özet  : Teknoloji kullanımı artıyor, omurga rahatsızlıkları genç yaşlara iniyor Fizyoterapist Sami Yıldırım: "Son yıllarda klinik gözlemler ve yapılan çalışmalar skolyoz ve bel fıtığı gibi omurga problemlerinin görülme yaşının giderek düştüğünü ortaya koyuyor" "Eskiden d &nbsp;&nbsp; Habertürk Teknoloji kullanımı artıyor, omurga rahatsızlıkları genç yaşlara iniyor Fizyoterapist Sami Yıldırım: "Son yıllarda klinik gözlemler ve yapılan çalışmalar skolyoz ve bel fıtığı gibi omurga problemlerinin görülme yaşının giderek düştüğünü ortaya koyuyor" "Eskiden d - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcTY5OFptOUV5WURLT1hPejlJbzJkal9xMjB5NktJR2FibjJWLTMtOGJCcGFpNktqVVB5NVlRQm5aR0lXWFNTSzRWbldhb19CS3A5dFFUb3p0RUR4ZW1qRmk4NlZRellWX0U2WU5xa0JYamtDeTRycGRkYThZN2hRc2Utd1RoNzJ1SkxaM2VPOFd0MTBscXhVZ0Q5SUpXbGdBUEdXYU1WNEVpZl8tdVhPQl92WmlqOWhXbDJLSWVvTXNBemQ0RGpIc0RDTVR6d3dLUjl6QkRMdmJVSXVTendsTXlaMlhVZ1RQckhueVBQWQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-04-19)
+========================================================================
+Yeni kaynak sayısı: 11
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=5
+GitHub dosyası: out/omuz/2026-04-19_20260419T080908Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of shoulder symptom modification approaches in managing patients with frozen shoulder: study protocol for a randomized sham-controlled trial.
+Türkçe Başlık : Effectiveness of omuz symptom modification approaches in managing patients with donuk omuz: study protocol for a randomize sham-controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of omuz symptom modification approaches in managing patients with donuk omuz: study protocol for a randomize sham-controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: klinik çalışmas. 2026 apr 16. Anahtar kavramlar: omuz, effectiveness, symptom, modification, approaches, managing.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41992361/
+
+Orijinal Başlık: Effectiveness of exercise therapy versus passive conservative treatments for rotator cuff-related shoulder pain: a systematic review and meta-analysis of randomized controlled trials.
+Türkçe Başlık : Effectiveness of egzersiz tedavisi versus passive conservative treatments for rotator manşet-related omuz pain: a sistematik derleme and meta-analiz of randomize controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik effectiveness of egzersiz tedavisi versus passive conservative treatments for rotator manşet-related omuz ağrı: a sistematik derleme and meta-analiz of randomize controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 apr 14. Anahtar kavramlar: effectiveness, egzersiz, therapy, versus, passive, conservative.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41990400/
+
+Orijinal Başlık: Are manual therapy applications an effective treatment approach in patients with glenohumeral arthritis? A randomized controlled trial.
+Türkçe Başlık : Are manuel terapi applications an effective treatment approach in patients with glenohumeral arthritis? a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik are manuel terapi applications an effective treatment approach in patients with glenohumeral arthritis? a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of hand therapy : official journal of the american society of hand therapists. 2026 apr 14. Anahtar kavramlar: therapy, journal, hand, manual, applications, effective.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/41986176/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Omuz ağrılarında fizik tedavi etkili bir seçenek - Milliyet
+Özet  : Omuz ağrılarında fizik tedavi etkili bir seçenek &nbsp;&nbsp; Milliyet Omuz ağrılarında fizik tedavi etkili bir seçenek - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmV5Y3BCNEJmNmxXVi1OcDFwNVFNdG1vblh0MHJjNmQ5RVRSQnUtNkV0eFN6ZzE1aG94YllPY3N1dkRZcGVYTGlJcUE1U3daUDVjM0tEVm84TXBONXFTRm1UM2VXa2pMZldYcGVHSWhzYzNBZ3otNWYtZmxiZFJsRDJTaURsZEZESzZTZUxhMV9sdw?oc=5
+
+Başlık: 15. yy İngiltere'sinde İnsanları Bir Günde Öldüren Gizemli Hastalık: Sweating Sickness - Ekşi Şeyler
+Özet  : yy İngiltere'sinde İnsanları Bir Günde Öldüren Gizemli Hastalık: Sweating Sickness &nbsp;&nbsp; Ekşi Şeyler yy İngiltere'sinde İnsanları Bir Günde Öldüren Gizemli Hastalık: Sweating Sickness - Ekşi Şeyler.
+Bağlantı: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelItQWg3R3pxeTc3X2o5dG5zVWtjb0dUQVN1anlvbGZuZmJuZlZOSTBHU1BqOXQ1SUhGVDJrMWtaVjJDZUhGQ0VXYXQwOGlVSlBpYkJNc1h2dTNSNVB3Nm9JejVlY2tfTU8teWRHUjhGcjZhT25oOFM1dWlPc3E2eGcwa0U5dVpwNERnUndTUUJyeE1oVUY5UmlFazFja0tXM05UUkVoXzdtUQ?oc=5
+
+Başlık: Kardiyoloji Uzmanı Uyardı: Gençlerde Kalp Krizi Neden Daha Ölümcül? - Yalova Gazetesi
+Özet  : Kardiyoloji Uzmanı Uyardı: Gençlerde Kalp Krizi Neden Daha Ölümcül? Kardiyoloji Uzmanı Uyardı: Gençlerde Kalp Krizi Neden Daha Ölümcül?
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGdXTjdKN0VaWjFnZmpFdUU5ellLaGpXSHNWU29vdFVPQkxaMzNiS3hiaHFjYl9EZENXUG5vMEpQWEpsYVJnTmF2ajZmRzdhUE1jNEFyU2F0eEdTQ2J3VXVVRGFCOHhtSWFzLWJGQVM1NDZZRDFoODhpS3JSaHVXd09RaFRGMFkxTGNBcWpvRzN3VHZSdUtreW9UTTg?oc=5
+
