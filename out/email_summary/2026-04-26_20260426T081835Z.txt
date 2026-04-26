@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-04-26)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   40
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-04-26)
+========================================================================
+Yeni kaynak sayısı: 30
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=22
+GitHub dosyası: out/bel_agrisi/2026-04-26_20260426T081814Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Comparing Low and High Recovery Expectations Among Those with Lumbar Spinal Stenosis: A Network Analysis.
+Türkçe Başlık : Comparing low and high recovery expectations among those with lomber (bel bölgesi) spinal stenosis: a network analysis.
+Türkçe Özet   : Bu içerik comparing low and high recovery expectations among those with lomber (bel bölgesi) spinal stenosis: a network analysis. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı medicine (malden, mass.). 2026 apr 24. Anahtar kavramlar: comparing, low, high, recovery, expectations, among.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42033016/
+
+Orijinal Başlık: The Effect of More than 50% Resection of the Inferior Articular Process on Spinal Stability in Unilateral Single-Segment Interlaminar Endoscopic Lumbar Discectomy.
+Türkçe Başlık : The effect of more than 50% resection of the inferior articular process on spinal stability in unilateral single-segment interlaminar endoscopic lomber (bel bölgesi) discectomy.
+Türkçe Özet   : Bu içerik the effect of more than 50% resection of the inferior articular process on spinal stability in unilateral single-segment interlaminar endoscopic lomber (bel bölgesi) discectomy. konusuna odaklanıyor. Öne çıkan başlıklar: global spine journal. 2026 apr 24. Anahtar kavramlar: effect, more, resection, inferior, articular, process.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42032952/
+
+Orijinal Başlık: Low back pain, quality of life, and functional disability among drivers and nurses working in home healthcare services: a cross-sectional study.
+Türkçe Başlık : Bel ağrısı, quality of life, and functional disability among drivers and nurses working in home healthcare services: a cross-sectional study.
+Türkçe Özet   : Bu içerik bel ağrısı, quality of life, and fonksiyonal disability among drivers and nurses working in home healthcare services: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc nursing. 2026 apr 24. Anahtar kavramlar: low, back, ağrı, quality, life, fonksiyonal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42032719/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ekran karşısında büyüyen çocuklarda yeni sağlık riski: Bel ve boyun şikâyetleri çoğaldı - T24
+Özet  : Ekran karşısında büyüyen çocuklarda yeni sağlık riski: Bel ve boyun şikâyetleri çoğaldı &nbsp;&nbsp; T24 Ekran karşısında büyüyen çocuklarda yeni sağlık riski: Bel ve boyun şikâyetleri çoğaldı - T24.
+Bağlantı: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckM4MmswNV9XbGgzQ1lkTlBDVHMwVWx3ZkhFYnpLUjdOWTBfTTJmSDVSY0VDT0FMTzd5QU45YVVIb0tNYTJDNm1sd01NaldCZlZCcjZMSjRoTWs4clN5NThrYnJaYzZaWFdINHJCb3I5bWJZNGhYSGEwVXRCYjhXY21kUjZQZFJpNEJZdktOeWZWcEVTdmljeC1BOFJITHBGQ3lUZTZXYzZySG55TXlCN1FPREZHa3ZQc3lr?oc=5
+
+Başlık: Mucize Hayat - 18 Nisan 2026 (Bel, Boyun ve Diz Ağrıları Ameliyatsız Nasıl Yönetilebilir?) - Habertürk
+Özet  : Mucize Hayat - 18 Nisan 2026 (Bel, Boyun ve Diz Ağrıları Ameliyatsız Nasıl Yönetilebilir?) &nbsp;&nbsp; Habertürk Mucize Hayat - 18 Nisan 2026 (Bel, Boyun ve Diz Ağrıları Ameliyatsız Nasıl Yönetilebilir?) - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNEhVeFRGZFJHcERjbjZaSDNReUxWWEpzNF9qY3dwTzJPRWRDZTZMd0tUZlhHYWUwNndHbWFRYm8yU1E2c3NCZExEQmxOeWhuMl80SzBMOFN0U0loSW5mb1BOcldFV203ZmRiWUEwNjROcWdSUkl2dk5FNTNuMlU?oc=5
+
+Başlık: “Ağrı bir sonuçtur, sebep değil” - Mersin Hakimiyet Gazetesi
+Özet  : “Ağrı bir sonuçtur, sebep değil” &nbsp;&nbsp; Mersin Hakimiyet Gazetesi “Ağrı bir sonuçtur, sebep değil” - Mersin Hakimiyet Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMihAFBVV95cUxNWGhwbTR5NzhJbjlYamZ5TWhPYklDOEVQd3hzX19lRllidlZmUHhKNlBXTjltRkZlcF9BZVdwM0o4dldST24tQjVoZUI5eGdic2hfTE03X2Y0d0dXakFNYl9GMXBUNlhGOTVqeXlGaER6OFc5TkliTkpVMkJ6MFVpN0Q3UDg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-04-26)
+========================================================================
+Yeni kaynak sayısı: 13
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=12
+GitHub dosyası: out/skolyoz/2026-04-26_20260426T081814Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Adolescent Idiopathic Scoliosis Overview and Management.
+Türkçe Başlık : Adolescent idiopathic skolyoz overview and management.
+Türkçe Özet   : Bu içerik adolescent idiopathic skolyoz overview and management. konusuna odaklanıyor. Öne çıkan başlıklar: indian journal of orthopaedics. 2026 apr. Anahtar kavramlar: adolescent, idiopathic, skolyoz, overview, management, indian.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42027343/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kırgızistanlı genç şifayı Türk hekimlerinde buldu - İhlas Haber Ajansı
+Özet  : Kırgızistanlı genç şifayı Türk hekimlerinde buldu &nbsp;&nbsp; İhlas Haber Ajansı Kırgızistanlı genç şifayı Türk hekimlerinde buldu - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXVoS3JSdTZVUzNBVFdlWnpuM09kazlyTXBxYlZrdDYzOE5nckNlZ05LZ1lXbGNNekRTMmtHcnkxZ0xUV2xWWlo2enVFM1dHdjB2NUprT2FPS0FnVkZITjBpMURTNWF0eWw4dndZQmlkTTJvR1hNOTZzbEtZMWsxZkhZdVotWWlzNkhMY2RSckxKbnE5YWluT1VvR29mWUVK?oc=5
+
+Başlık: Kırgızistanlı genç, Türk hekimleri sayesinde sağlığına kavuştu - Saray Medya
+Özet  : Kırgızistanlı genç, Türk hekimleri sayesinde sağlığına kavuştu &nbsp;&nbsp; Saray Medya Kırgızistanlı genç, Türk hekimleri sayesinde sağlığına kavuştu - Saray Medya.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxQZE8yaUl6LXZVRDRlOHpybU9XWC0zUHBCQ0tqa1otLXFLbVBuamVkaWRkYWRpMUZuVC1QLUgtOTRUUEt2WXhuZGxsWlJrYkZfdWNyM2JRTnBnYjdoLVBxZlRrcjR2Njg5OGxfUnYzaG52QVRiMGNsVUFWdHBrdWhiV1pVbmZqOTJaNklsdlBEaElnS3Z2NEVlQjhkUXRrZzdrNnpxMQ?oc=5
+
+Başlık: Ortez ile gelen şampiyonluklar - DHA | Demirören Haber Ajansı
+Özet  : Ortez ile gelen şampiyonluklar &nbsp;&nbsp; DHA | Demirören Haber Ajansı Ortez ile gelen şampiyonluklar - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZUtPU2JNUjYtMHVHVklVTFpHb3c3RXpNNUg2V0VDY0NEVC1GeE85MlFJTlJqWU5WOFZYd2FWMktqSUNBZWZzRkpHNEotZnZ1MDJlSGhtOGQ1VDB6N2pDQ2FTcTlwLXdramp1SnlsNWFad1RnWk9qWUxESG3SAYIBQVVfeXFMT05EbG84WnhEb05JWGVUM0VQdE1TNjIyM1A1VmZ3bWRUYm1TQm1HV1Z2QVpQWUpLTXRHaUZ3QTZ1Z1Z0MURzNWtBV3BPYjRlYWluVWY0TW40YlM3c3JJSGxqWURTMVZ4TE40LThiUjZFUGxkTE1pc3lXV29VOXZyWm1FZw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-04-26)
+========================================================================
+Yeni kaynak sayısı: 14
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=6
+GitHub dosyası: out/omuz/2026-04-26_20260426T081814Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Influence of shoulder external rotation on sensory responses to the upper limb neurodynamic test 1 in men and women with and without non-specific neck pain: a cross-sectional study.
+Türkçe Başlık : Influence of omuz external rotation on sensory responses to the upper limb neurodynamic test 1 in men and women with and without non-specific neck pain: a cross-sectional study.
+Türkçe Özet   : Bu içerik influence of omuz external rotation on sensory responses to the upper limb neurodynamic test 1 in men and women with and without non-specific neck ağrı: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of manual & manipulative therapy. 2026 apr 25. Anahtar kavramlar: influence, omuz, external, rotation, sensory, responses.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42033090/
+
+Orijinal Başlık: Patients' perceptions of the causes and treatments for rotator cuff-related shoulder pain: a content analysis of patient responses and implications for clinician communication.
+Türkçe Başlık : Patients' perceptions of the causes and treatments for rotator manşet-related omuz pain: a content analysis of patient responses and implications for clinician communication.
+Türkçe Özet   : Bu içerik patients' perceptions of the causes and treatments for rotator manşet-related omuz ağrı: a content analysis of patient responses and implications for clinician communication. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 apr 17. Anahtar kavramlar: patients, perceptions, causes, treatments, rotator, cuff.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42030716/
+
+Orijinal Başlık: Factors associated with persistent shoulder pain following arthroscopic rotator cuff repair: a scoping review.
+Türkçe Başlık : Factors associated with persistent omuz pain following arthroscopic rotator manşet repair: a scoping review.
+Türkçe Özet   : Bu içerik factors associated with persistent omuz ağrı following arthroscopic rotator manşet repair: a scoping review. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı management. 2026 apr 24. Anahtar kavramlar: ağrı, factors, associated, persistent, omuz, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42030033/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Artık başka şehirlere gitmeye gerek kalmadı! Suruç’ta bir "ilk" gerçekleşti - Gazete İpekyol
+Özet  : Suruç’ta bir "ilk" gerçekleşti &nbsp;&nbsp; Gazete İpekyol Artık başka şehirlere gitmeye gerek kalmadı!
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0RpbDF2M1VNeDRQRnQyVWt0M0lsRVNLdS1jRnk3cjV3RlJCZWxjZFhaVVZtbEF4NWVLZ19SS2E3VmJ1am5GVF9hNXU3SWlKQTg3OThCcjNpU0laOXZfajY4RVhKSzRPcGZZZkVTcVZYY2FZZzV3V1lLSG9CNmE1TG1CcmhMTVdraEpkdjQ5NA?oc=5
+
+Başlık: Dijital Çağın Yeni Postür Sorunu: Teknoloji Boynu - CNN Türk
+Özet  : Dijital Çağın Yeni Postür Sorunu: Teknoloji Boynu &nbsp;&nbsp; CNN Türk Dijital Çağın Yeni Postür Sorunu: Teknoloji Boynu - CNN Türk.
+Bağlantı: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzBxN2syTEg3ZWRhZmZIV2UyV3ItUm95bDBSR09kMWJEdmZvWnFNbmpoRWV0czBiX0tRVGpEYzRTZ3ItLWw5N0tlOXByc0ZPaEhWbGVBTk9keXhJT3ZqUE1RbTA0cXZ1WjFuTzNIX2JBcmlPVmU4V1o3RTljek1OamVXSlNEelZkMkQwWHhoQ1dNZmMxaEhVVURB?oc=5
+
+Başlık: Akciğer Kanserinde 2 Hafta Kuralı Nedir? - Medyaloji
+Özet  : Akciğer Kanserinde 2 Hafta Kuralı Nedir? Akciğer Kanserinde 2 Hafta Kuralı Nedir?
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXkxSGl6ZHVNcGJtZW9yZ0d2TGNja2VKUW1MTjR0YjZfaTZyY2NwS0g2OVNrWWtGZVB0bWY1X1ZHcElYT2wwMUlpenhDdndYUnVvWUs4dkxGejItUHlIVUlwa1BTeElFNVZWMnJTSTdwTTZVWEpXRjBqMUFoNzNzV24ybnlIeGt5ckFiekpxZFF4bEE?oc=5
+
