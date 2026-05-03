@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-05-03)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   33
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-05-03)
+========================================================================
+Yeni kaynak sayısı: 30
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=22
+GitHub dosyası: out/bel_agrisi/2026-05-03_20260503T085057Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Physiotherapy with integrated virtual reality for patients with severe chronic low back pain: cluster-randomized controlled trial (VARIETY).
+Türkçe Başlık : Fizyoterapi with integrated sanal gerçeklik for patients with severe chronic bel ağrısı: cluster-randomize controlled klinik çalışma (variety).
+Türkçe Özet   : Bu içerik fizyoterapi with integrated sanal gerçeklik for patients with severe chronic bel ağrısı: cluster-randomize controlled klinik çalışma (variety). konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 may 1. Anahtar kavramlar: fizyoterapi, integrated, virtual, reality, patients, severe.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42067884/
+
+Orijinal Başlık: Individual and combined associations of modifiable metabolic health and lifestyle with low back pain, neck pain, and functional limitation: evidence from a nationally cross-sectional study.
+Türkçe Başlık : Individual and combined associations of modifiable metabolic health and lifestyle with bel ağrısı, neck pain, and functional limitation: evidence from a nationally cross-sectional study.
+Türkçe Özet   : Bu içerik individual and combined associations of modifiable metabolic health and lifestyle with bel ağrısı, neck ağrı, and fonksiyonal limitation: evidence from a nationally cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc public health. 2026 may 1. Anahtar kavramlar: health, ağrı, individual, combined, associations, modifiable.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42067820/
+
+Orijinal Başlık: TDP43 cytoplasmic mislocalization initiates mitochondrial dysfunction and intercellular senescence propagation in intervertebral disc degeneration.
+Türkçe Başlık : Tdp43 cytoplasmic mislocalization initiates mitochondrial dysfunction and intercellular senescence propagation in intervertebral disc degeneration.
+Türkçe Özet   : Bu içerik tdp43 cytoplasmic mislocalization initiates mitochondrial dysfonksiyon and intercellular senescence propagation in intervertebral disc degeneration. konusuna odaklanıyor. Öne çıkan başlıklar: experimental & molecular medicine. 2026 may 1. Anahtar kavramlar: tdp, cytoplasmic, mislocalization, initiates, mitochondrial, dysfonksiyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42067620/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Mesoblast bel ağrısı tedavisi denemesinde kayıtları tamamladı Yazar Investing.com - Investing.com Türkiye
+Özet  : Mesoblast bel ağrısı tedavisi denemesinde kayıtları tamamladı Yazar Investing.com &nbsp;&nbsp; Investing.com Türkiye Mesoblast bel ağrısı tedavisi denemesinde kayıtları tamamladı Yazar Investing.com - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklGT3k2c0pyY2tNMWNUcW9lak9KRndlcW8yWXh3U2ItSUl2R1MxblY5c2U1S2VSMVZnSmlGb21TMkprVDRLOEs0dUh5RlN3aHFYSGxZWTZnMEI1bzJLTW1GQzdzSnY4UjF1cXUzM3BLdDVUMDA2WkpFTmdkem9jdEdfWlBLTWlTRzh2c0tFeXNnUjRTbGNGRURNMUxaVUI4ZEdCMjhtT28tWGo2WmtqMmNR?oc=5
+
+Başlık: Sinsi Tehlike Bel Kayması Adım Atmanızı Bile Engelleyebilir - malatyatime.com
+Özet  : Sinsi Tehlike Bel Kayması Adım Atmanızı Bile Engelleyebilir &nbsp;&nbsp; malatyatime.com Sinsi Tehlike Bel Kayması Adım Atmanızı Bile Engelleyebilir - malatyatime.com.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0xUM3BtOHdrOVdmeXRXRldESkw0eWJlakVfaGtXdzBLVktqdWxxTlV1NVNrSzRNek5nRjhBa1o1Z25DLW95X0pfWTlhZ1VieDgyRm9ZSmU3Y2NOUUE3NU5mQWNEVUIwRzgtcUlCQlk5WG1PNTVzcTZ6SUhvWFp3bGpUMUxFSVVSNXhNb1htLXN0WVV2WW1zbWZKSXB2X1ZmQWfSAZ8BQVVfeXFMTmdJdXVRQjJvdGRFdnhYNlBxQWVCZjV5LWhEWVcxM3ZmT1VtaTR1TTB1M1RrOE1jdjBMTmRoS05COXRsaldJWTdLRXlnb0IyVXBHX2pRVEowRVVXa2U2WDRFYXB4SmNOall3eng3NmxhSWNKeUlRSERHZnVJM0x5ZkMtMEhCRHV3a2R6V2IzWWZWRWNacTUwa3U4LXdSeko4?oc=5
+
+Başlık: Gölpark’ta motosiklet kazası: 1 yaralı - Bilecik11
+Özet  : Gölpark’ta motosiklet kazası: 1 yaralı &nbsp;&nbsp; Bilecik11 Gölpark’ta motosiklet kazası: 1 yaralı - Bilecik11.
+Bağlantı: https://news.google.com/rss/articles/CBMia0FVX3lxTE5yb2E0MjBVanpaSmIwNnFnZmNqcnp0ZGtybTFzb2hkVTFrVlJFQkQydjh5dzdRQ3dxYXdvaEV4Z21NaEcxX0d2ZnFLek5XX1FkRHVpd2FkY1pJb3lEU1FjZzMzdE40ZkFURTJZ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-05-03)
+========================================================================
+Yeni kaynak sayısı: 9
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=7
+GitHub dosyası: out/skolyoz/2026-05-03_20260503T085057Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Interrelationships among 3D spinal alignment variables during active self-correction in adolescents with idiopathic scoliosis.
+Türkçe Başlık : Interrelationships among 3d spinal alignment variables during active self-correction in adolescents with idiopathic skolyoz.
+Türkçe Özet   : Bu içerik interrelationships among 3d spinal alignment variables during active self-correction in adolescents with idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 may 1. Anahtar kavramlar: european, spine, society, spinal, interrelationships, among.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42065788/
+
+Orijinal Başlık: Prehabilitation and preoperative exercise in adolescent idiopathic scoliosis surgery: a systematic review.
+Türkçe Başlık : Prehabilitasyon and preoperative egzersiz in adolescent idiopathic skolyoz surgery: a sistematik derleme.
+Türkçe Özet   : Bu içerik prehabilitasyon and preoperative egzersiz in adolescent idiopathic skolyoz surgery: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 apr 29. Anahtar kavramlar: european, spine, society, prehabilitasyon, preoperative, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42053791/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: “Eğrisiyle Doğrusuyla Skolyoz” - Gündem Artvin
+Özet  : “Eğrisiyle Doğrusuyla Skolyoz” &nbsp;&nbsp; Gündem Artvin “Eğrisiyle Doğrusuyla Skolyoz” - Gündem Artvin.
+Bağlantı: https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zUVVzMnVaLTlhTDZETVlwQXRIamJSLXJ1V2lkUmtPMVVDSHpZMkx1YWhiS1NNRGd2VW9WTS1rS3Rqb3JCeTh2Q2lRc0ZTZ3RvVy02ZGpNUk40T0pXeHFlX3gydXVVb0Uw0gFuQVVfeXFMTnYyVkVSQ2o3b01YX090b2U2SUtEeVlUNGVqbkpDalZtLXM4X2kxTF9RSTVvOXh3YTFpR1VFOXpBa0RlV3ZpZW8tSTVKTjRISVVTZVozUEhBUUd3QnRCdko5N2VMTEd3bmNSTlJJbWc?oc=5
+
+Başlık: Okul çantasındaki 'skolyoz' riski! Uzmanından çocuklar için ideal ağırlık: 'Yüzde 10 kuralı' - Milliyet
+Özet  : Uzmanından çocuklar için ideal ağırlık: 'Yüzde 10 kuralı' &nbsp;&nbsp; Milliyet Uzmanından çocuklar için ideal ağırlık: 'Yüzde 10 kuralı' - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiywFBVV95cUxQYThydVRfeUctZ0Q1d2NBQzV3eDFwQV9RUzUwdnhiSEp1Nk1CbXdnaHE5LXBHcGZPME13SzRQLTFDUkFxWjRRVWF5ZVlKMDZQSUg0ZmlhX2VsaUduQjk5MXFpRDN3MWhFRV9tVmcxYkx4cFdCQ1lKaDctRWZ3cnlZR2ZEbXVvQk1XeFhWamlmajZrc2VRY2lNU1FpYTZmdmV2WS10LURGTW0wbzZUMXJHdmNzNS14MzZ6ZHZ0bWpSRjE3aHZtdk1FRkFVY9IB0AFBVV95cUxQbFM5TVhFblJkdFFiWTRzd3lpWjRiejZrSnlOYnR0c3kwWGMwOEVaVWJaX3JNQUE3Tnc3ZlZJQ1A2ZjdtU2xaZ0ljX2Uza0JQV0tVdGZRUHJnemR1MG1wTGV6a3M2a3Z3NmRNbXhPdmRYWWp6Y2hGeXctZnFaWVpyYWg3eDBFajVkUTFQeWVoaVFJSVBSblBwQmtHZFJ2SFk1SDltZGJRcW5maG5VVUd0RVQ2QXRrSGNobkYwMFd2OU40RWVLaXFYcXpTeU5FMWRy?oc=5
+
+Başlık: Gençlerin omurga sağlığına büyük dokunuş - Yeniçağ Gazetesi
+Özet  : Gençlerin omurga sağlığına büyük dokunuş &nbsp;&nbsp; Yeniçağ Gazetesi Gençlerin omurga sağlığına büyük dokunuş - Yeniçağ Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMijgFBVV95cUxOX213ZlBueUhLWVBKdlhiVUFTSWxVeTZodW0teEotbHNTaUV6Tm5UM3lzcVRLOHZ1YjBWQ0ZlNS0ybVJIbXdEZlNuNHM2WklSaVRXLUM0QXQwMDhvTHhnMVVaekhZb3pYSm1PREZvdGdZVzRCd3hzdVVJNGhYTnJZTVMxdXlYaW1fdjRUN0VB?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-05-03)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=4
+GitHub dosyası: out/omuz/2026-05-03_20260503T085057Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A Tale of Two Shoulders: Comparative Outcomes of Coracohumeral Ligament Release With and Without Percutaneous Peripheral Nerve Stimulation in Adhesive Capsulitis.
+Türkçe Başlık : A tale of two omuzs: comparative outcomes of coracohumeral ligament release with and without percutaneous peripheral nerve stimulation in adeziv kapsülit (donuk omuz).
+Türkçe Özet   : Bu içerik a tale of two omuzs: comparative sonuçs of coracohumeral ligament release with and without percutaneous peripheral nerve stimulation in adeziv kapsülit (donuk omuz). konusuna odaklanıyor. Öne çıkan başlıklar: ağrı medicine case reports. 2026 apr. Anahtar kavramlar: tale, two, omuzs, comparative, sonuçs, coracohumeral.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42066273/
+
+Orijinal Başlık: Impact of nutritional profile on pain and functionality in patients with frozen shoulder: a cross-sectional observational study.
+Türkçe Başlık : Impact of nutritional profile on pain and functionality in patients with donuk omuz: a cross-sectional observational study.
+Türkçe Özet   : Bu içerik impact of nutritional profile on ağrı and fonksiyonality in patients with donuk omuz: a cross-sectional observational study. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in medicine. 2026. Anahtar kavramlar: impact, nutritional, profile, ağrı, fonksiyonality, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42063798/
+
+Orijinal Başlık: Comparison of Ozone Injection and Extracorporeal Shockwave Therapy in the Treatment of Chronic Lateral Epicondylitis.
+Türkçe Başlık : Comparison of ozone injection and extracorporeal shockwave therapy in the treatment of chronic lateral epicondylitis.
+Türkçe Özet   : Bu içerik comparison of ozone injection and extracorporeal shockwave therapy in the treatment of chronic lateral epicondylitis. konusuna odaklanıyor. Öne çıkan başlıklar: hand surgery & rehabilitasyon. 2026 apr 28. Anahtar kavramlar: comparison, ozone, injection, extracorporeal, shockwave, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42061749/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Omuz Ağrısının Nedeni Omuz Sıkışması Olabilir - RayHaber
+Özet  : Omuz Ağrısının Nedeni Omuz Sıkışması Olabilir &nbsp;&nbsp; RayHaber Omuz Ağrısının Nedeni Omuz Sıkışması Olabilir - RayHaber.
+Bağlantı: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ3BIMWJYVE9tR2xlYmsweE5yUmhENi1FSGxSbF9IbEk1a2dMUFZOWFhjelZ1NE1vZkY0U1pkXy03SHl4TE9EV2hsZEo2eUYyaWhKUDRiQXk0M29iXzZFVmhkaVotTjY4WnAzaFlnd1paa0xkYzB0ZHhiU2VFaUY2cGVQQWxmNGFvV245UEM1ZGsxZ0dPNndkeTFKdE1WWGtoWkxHU2hTQTRJSE4yWTRFTzJ2RjdNWjlFYmZ4X2hZZFA?oc=5
+
+Başlık: Sessiz ilerleyen hastalık: Donuk omuz hayatını kısıtladı - GZT
+Özet  : Sessiz ilerleyen hastalık: Donuk omuz hayatını kısıtladı &nbsp;&nbsp; GZT Sessiz ilerleyen hastalık: Donuk omuz hayatını kısıtladı - GZT.
+Bağlantı: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHVSbnEzR0RzSW5BMGtyUk9IbVUwM0duZ1lRM2xpbUhYQ1RWZ3VCc3djZUo2eG9tZUhJTEpvQVc4RExoQlZVWWl3TkFLVy14UU03V1FRSTJJTVc1dnBoRWxTa0lTZlJIMi1VOEVuNG10aUcxdExWeWFWQmZkTkxOc2FUU08tNTRueU1HS1VGa0J0MVgw?oc=5
+
+Başlık: DR. EYYÜP ÇETİNER: “DİZ, OMUZ VE AYAK BİLEĞİ AĞRILARINI İHMAL ETMEYİN” - Medya Siirt
+Özet  : EYYÜP ÇETİNER: “DİZ, OMUZ VE AYAK BİLEĞİ AĞRILARINI İHMAL ETMEYİN” &nbsp;&nbsp; Medya Siirt EYYÜP ÇETİNER: “DİZ, OMUZ VE AYAK BİLEĞİ AĞRILARINI İHMAL ETMEYİN” - Medya Siirt.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTZaMEF2OE5Mb053RTFCTk5sQlhBQWx2MU5Fb2lrdnNLUDRsczR5SThlaXB6VXJLM1JGaGF6dDlRSlpVdzRDdzZKekpWOWdXdE5fbG95N2o3aU5IT19aMVEyOS00enVhYk9tbnlJa01tSC12bFcwdnQwSWtGV0ZFZm9yam9qbGt2V2tpREllY2dsQkpBblc00gGcAUFVX3lxTE9TZ05oQTI0cUsyOTJtYjgyOUN5RmpRX0ZxMGs0ejh6WWppT25Ra0dFRVJQc3BTRVNUX01Ob3Y4MlkxNnF6X3dMcVc2Q0tjQW5PTXVndEpCNlhpaFREVmRqMG1WUkpidFhLbU1GVHhDaDNBaklPTlpKTndVSnNxS1JZdDR1amx2b2R5M1pFWlpIemRTbkxGVk16ZjV2Mg?oc=5
+
