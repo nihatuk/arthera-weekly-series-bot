@@ -1,0 +1,134 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-05-10)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      22
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   28
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-05-10)
+========================================================================
+Yeni kaynak sayısı: 28
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=20
+GitHub dosyası: out/bel_agrisi/2026-05-10_20260510T085836Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Breathing therapy as a supplement to opioid management for complex chronic non-cancer pain conditions - a systematic review.
+Türkçe Başlık : Breathing therapy as a supplement to opioid management for complex chronic non-cancer pain conditions - a sistematik derleme.
+Türkçe Özet   : Bu içerik breathing therapy as a supplement to opioid management for complex chronic non-cancer ağrı conditions - a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: scandinavian journal of ağrı. 2026 jan 1. Anahtar kavramlar: ağrı, breathing, therapy, supplement, opioid, management.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42104567/
+
+Orijinal Başlık: Co-developing a vocational rehabilitation intervention for individuals with chronic low back pain across a regional spine centre and three municipalities in Denmark: a three-stage intervention development study guided by the Medical Research Council framework.
+Türkçe Başlık : Co-developing a vocational rehabilitasyon intervention for individuals with chronic bel ağrısı across a regional spine centre and three municipalities in denmark: a three-stage intervention development study guided by the medical research council framework.
+Türkçe Özet   : Bu içerik co-developing a vocational rehabilitasyon intervention for individuals with chronic bel ağrısı across a regional spine centre and three municipalities in denmark: a three-stage intervention development study guided by the medical research council framework. konusuna odaklanıyor. Öne çıkan başlıklar: bmj open. 2026 may 8. Anahtar kavramlar: intervention, three, developing, vocational, rehabilitasyon, individuals.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42103373/
+
+Orijinal Başlık: Spinal dural arteriovenous fistula mimicking neuromyelitis optica spectrum disorder: a diagnostic pitfall.
+Türkçe Başlık : Spinal dural arteriovenous fistula mimicking neuromyelitis optica spectrum disorder: a diagnostic pitfall.
+Türkçe Özet   : Bu içerik spinal dural arteriovenous fistula mimicking neuromyelitis optica spectrum disorder: a diagnostic pitfall. konusuna odaklanıyor. Öne çıkan başlıklar: bmj case reports. 2026 may 8. Anahtar kavramlar: spinal, dural, arteriovenous, fistula, mimicking, neuromyelitis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42103339/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısını sadece fıtığa bağlamayın: Gerçek çok daha ağır olabilir - Yeni Şafak
+Özet  : Bel ağrısını sadece fıtığa bağlamayın: Gerçek çok daha ağır olabilir &nbsp;&nbsp; Yeni Şafak Bel ağrısını sadece fıtığa bağlamayın: Gerçek çok daha ağır olabilir - Yeni Şafak.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTzZhZ3pxYmRxT2pxXzQweWctSlFxY2ZEMUZTSll4cnIwSzM5RkxxOUVQa2hJdXUwNWlLVTlCVHEzT0NGU1RxVVZUdTl1Rl8tNm9EVHlYR3d2ZmtxekpUT3RBV0pERzA1al9OVjNrZVMyVGZyVDBEZERiVG5UZS1KSUxIVlRwQXM3ZUNwUkhIYXN0eDRjSDUyWW5kbHdCVEhBMnhCc2hpOHdIT2vSAbYBQVVfeXFMUGFpc1hXOGFhd3dxVFc2emJfVkJkOWU5bERUUjN0NHRFUzVmT25pVmhEU0M3SkRTZWlkZ2hYcFV3MXNnb0R0dVJSUkp5Z1dDOUk4Ykp0d3A3ZjJoYnYtOVZGc2xDRzB0N3RBak5MWUpldFhJdHdOYjI4c1ctS2NUZjZUMkUyR2ZobGxHcXZaeHNUZmkxNndKVzFkZkFnNDh2ODN1a2xzWUVuZl94YXVVVTRyd0tXRUE?oc=5
+
+Başlık: Bel ağrısı yeni değil: Antik Mısır katipleri de meslek hastalıklarından muzdaripti - birgun.net
+Özet  : Bel ağrısı yeni değil: Antik Mısır katipleri de meslek hastalıklarından muzdaripti &nbsp;&nbsp; birgun.net Bel ağrısı yeni değil: Antik Mısır katipleri de meslek hastalıklarından muzdaripti - birgun.net.
+Bağlantı: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWNYWTZOUUI5VFptUXIwTVl1S2FJTS1yOHFKZW8tRm1iNDVGU3BJYUFzNEkwX18wMzB3N1hQMWhMSzNqVFdQTTBNclZUdVV1aGVueUpIMnNIQUtQNF9BcmJmX05TLXhLMTNiZjh2T0FsM1NOcENRbVR4Q3VranFSNS1feXgxa2I4NXVaODBqS1djc2QxVGJSTDdEWDcxZ25DNUpybUlvd1R1LTFfeTRMU0JQUjNpSjFq?oc=5
+
+Başlık: Uzmanından uyarı: '3 aydan uzun süren bel ağrısına dikkat' - mersintime.com
+Özet  : Uzmanından uyarı: '3 aydan uzun süren bel ağrısına dikkat' &nbsp;&nbsp; mersintime.com Uzmanından uyarı: '3 aydan uzun süren bel ağrısına dikkat' - mersintime.com.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxPcldJeFQwRVo5LWgwUTI2QTZEajRRSEd3Z1Q4ME9INVhlR0pSYjFENTRQemJaTnQtQVhsWWoyS1pBMVNpOF9JOTRSaGZPTHI4MVZSUG9aOGEtdF9jS2NvLW0zWmZmN19QN3pGN3FyQVNpRU5weWxhVFlLcUd6WGFaNGVPcVRzMUxqYi1IWHpjTQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-05-10)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=6
+GitHub dosyası: out/skolyoz/2026-05-10_20260510T085836Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Optimal exercise prescription parameters in Schroth training for adolescent idiopathic scoliosis: a systematic review and meta-analysis.
+Türkçe Başlık : Optimal egzersiz prescription parameters in schroth training for adolescent idiopathic skolyoz: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik optimal egzersiz prescription parameters in schroth training for adolescent idiopathic skolyoz: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in surgery. 2026. Anahtar kavramlar: optimal, egzersiz, prescription, parameters, schroth, training.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42100015/
+
+Orijinal Başlık: Analyzing the Effectiveness of the Push-Up Method for Idiopathic Scoliosis: A Preliminary Report.
+Türkçe Başlık : Analyzing the effectiveness of the push-up method for idiopathic skolyoz: a preliminary report.
+Türkçe Özet   : Bu içerik analyzing the effectiveness of the push-up method for idiopathic skolyoz: a preliminary report. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 apr. Anahtar kavramlar: analyzing, effectiveness, push, method, idiopathic, skolyoz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42093781/
+
+Orijinal Başlık: Cardiopulmonary Consequences of Scoliosis and the Clinical Implications of VO(2)max: A Systematic Review.
+Türkçe Başlık : Cardiopulmonary consequences of skolyoz and the clinical implications of vo(2)max: a sistematik derleme.
+Türkçe Özet   : Bu içerik cardiopulmonary consequences of skolyoz and the clinical implications of vo(2)max: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: journal of the pediatric orthopaedic society of north america. 2026 may. Anahtar kavramlar: cardiopulmonary, consequences, skolyoz, clinical, implications, max.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42088379/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyoz taramaları sürüyor - Babaeski Gündem Gazetesi
+Özet  : Skolyoz taramaları sürüyor &nbsp;&nbsp; Babaeski Gündem Gazetesi Skolyoz taramaları sürüyor - Babaeski Gündem Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiakFVX3lxTFByVmJ0cHhTblY5WWNFaGxOeXZqMFRwd2V2TEZxQktnWUV6NXQ5SWNpUkNDUklfd19YVXBwb21Hbk13dlE5ZHk1TE5MWHo5VTlNSnROd1l3YXhnYjdDZlF6eUpjb0tQZURQTGc?oc=5
+
+Başlık: Skolyoz Taramaları Kırklareli'nde Devam Ediyor - Son Dakika
+Özet  : Skolyoz Taramaları Kırklareli'nde Devam Ediyor &nbsp;&nbsp; Son Dakika Skolyoz Taramaları Kırklareli'nde Devam Ediyor - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTJWY2VBQXF0a0hab3pBdGtkbGx3LTlNWGJtbVRvTENpRkwtbTVwa3BMNl9nMERRM29JWGM2UTNtTm9iTVdnSnhVeHdIQklZWmJOdHhKalNZbFhVSk1ZYUZ2MGQxc1IxU1V2d3M5eGJZRFJINllBWW03cVAySTROaGktdkNRUDNSb190OWtqRkJwQXE5R2pMUGN2d9IBlwFBVV95cUxNLWxIT3E5SEFHZ3dkb3NDS1RqajVtM2ptVVdSSl91QXVNVkw2TGhHRDhzY3pia2NYLVZfUThTbG5LVGY1dy1mSTVDYjVXUVpseFU5Z184a0w1amVfNEV4eTh1dkFSejhwUTA3aWRJbFBxdkp5Smw0bFprcWR6WEZDRGZic1V4MmM0NHhCRjZFakhRRVdLUGxj?oc=5
+
+Başlık: Çanakkale'nin minik kahramanı Merve'den yeni mücadele - Çanakkale Boğaz Gazetesi
+Özet  : Çanakkale'nin minik kahramanı Merve'den yeni mücadele &nbsp;&nbsp; Çanakkale Boğaz Gazetesi Çanakkale'nin minik kahramanı Merve'den yeni mücadele - Çanakkale Boğaz Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2dQLXl1NGttMHVjQ19fMnJ6azBQTGhoUDZ1Mi03bUQtMUViZWhVOTZYRHNkMzBIOHFsYTBFdWpUUS1qV0I2VVpLWXdUeHVvOTVMQTBvbV90UUVLNmkwYk5aek05cERkS2Q4d3lJUk11WFJQbnBQTmJnLU9hdkxETUx3V2gzVEVYOGZRNQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-05-10)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=2
+GitHub dosyası: out/omuz/2026-05-10_20260510T085836Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Psychometric Properties of a Smartphone Application for Measuring Shoulder Active Range of Motion in Individuals with and without Shoulder Pain and Mobility Deficits [Response to the Letter].
+Türkçe Başlık : Psychometric properties of a smartphone application for measuring omuz active range of motion in individuals with and without omuz pain and mobility deficits [response to the letter].
+Türkçe Özet   : Bu içerik psychometric properties of a smartphone application for measuring omuz active range of motion in individuals with and without omuz ağrı and mobility deficits [response to the letter]. konusuna odaklanıyor. Öne çıkan başlıklar: journal of ağrı research. 2026. Anahtar kavramlar: omuz, ağrı, psychometric, properties, smartphone, application.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42100470/
+
+Orijinal Başlık: Up to date comprehensive review of atraumatic shoulder instability: anatomy, causes, management, and psychosocial considerations.
+Türkçe Başlık : Up to date comprehensive review of atraumatic omuz instability: anatomy, causes, management, and psychosocial considerations.
+Türkçe Özet   : Bu içerik up to date comprehensive review of atraumatic omuz instability: anatomy, causes, management, and psychosocial considerations. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of sports medicine and physical fitness. 2026 may 8. Anahtar kavramlar: date, comprehensive, review, atraumatic, omuz, instability.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42099223/
+
+Orijinal Başlık: Effects of Neuromuscular Physiotherapy on Pain, Range of Motion, and Function in Shoulder-Related Disorders: A Meta-Analysis and Systematic Review.
+Türkçe Başlık : Effects of neuromuscular fizyoterapi on pain, range of motion, and function in omuz-related disorders: a meta-analiz and sistematik derleme.
+Türkçe Özet   : Bu içerik effects of neuromuscular fizyoterapi on ağrı, range of motion, and fonksiyon in omuz-related disorders: a meta-analiz and sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı research & management. 2026. Anahtar kavramlar: ağrı, effects, neuromuscular, fizyoterapi, range, motion.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42095409/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Felç vakalarında uzmanlaşmış ve on milyonlarca dong tutarındaki 'yoğun kas gevşetme' tedavilerini öneren 'doktorla' görüşmek. - Vietnam.vn
+Özet  : Felç vakalarında uzmanlaşmış ve on milyonlarca dong tutarındaki 'yoğun kas gevşetme' tedavilerini öneren 'doktorla' görüşmek. Felç vakalarında uzmanlaşmış ve on milyonlarca dong tutarındaki 'yoğun kas gevşetme' tedavilerini öneren 'doktorla' görüşmek.
+Bağlantı: https://news.google.com/rss/articles/CBMisAFBVV95cUxNQWxuMTRkQkdvZkFQM3AwRDZlNVkxcUhwOWFUVkhVV0ROUFhNX2lNMFk0dFZETTFEZDFuT0ZFRUJYZmlyd0ZRUFJaVDNuSVgtdG12SUE1REtpQjFLWVhqX1BmcXRDQklRNV9WT1ZJeW91dmRSZEdUX2h1dEVMb3NGUGJRT2tfUzNxaWluSVJoODZFaVQyUnFad1BEOUNTaDkwS3lQYUI2NHl4TjNTalRSXw?oc=5
+
+Başlık: İnsanların felç geçirme korkusunu istismar ederek zengin olmak acımasızca bir davranıştır. - Vietnam.vn
+Özet  : İnsanların felç geçirme korkusunu istismar ederek zengin olmak acımasızca bir davranıştır. İnsanların felç geçirme korkusunu istismar ederek zengin olmak acımasızca bir davranıştır.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHdiVFB0TWdrYjdjSUNHOXoxWkxlYUxsODkzcHN2bDVvOExTcDBNNHcyUWtBYU1SLVdrYk81T0lVZEhLNkJMdDB1MXVJVDVaU1dJZllMZXJ6SjdfZ3JpWWRGWjk2T1N4ZHJuWV80bnVCNFZJaHh4Y2hacjZiQm03b25wa0FvLW15ZFdTMlJhbi1KdVlGaGpwdkRCam4?oc=5
+
