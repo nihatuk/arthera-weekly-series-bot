@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-05-17)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   43
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-05-17)
+========================================================================
+Yeni kaynak sayısı: 41
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=33
+GitHub dosyası: out/bel_agrisi/2026-05-17_20260517T103312Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Low back pain during prolonged sitting on a sofa is associated with pelvic posterior tilt in individuals with non-specific chronic low back pain.
+Türkçe Başlık : Bel ağrısı during prolonged sitting on a sofa is associated with pelvic posterior tilt in individuals with non-specific chronic bel ağrısı.
+Türkçe Özet   : Bu içerik bel ağrısı during prolonged sitting on a sofa is associated with pelvic posterior tilt in individuals with non-specific chronic bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 may 16. Anahtar kavramlar: european, spine, society, low, back, ağrı.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42141190/
+
+Orijinal Başlık: The association between pain sensitivity and hip and lumbar joint excursion during a lifting task in people with chronic low back pain.
+Türkçe Başlık : The association between pain sensitivity and hip and lomber (bel bölgesi) joint excursion during a lifting task in people with chronic bel ağrısı.
+Türkçe Özet   : Bu içerik the association between ağrı sensitivity and hip and lomber (bel bölgesi) joint excursion during a lifting task in people with chronic bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: journal of electromyography and kinesiology : official journal of the international society of electrophysiological kinesiology. 2026 may 8. Anahtar kavramlar: ağrı, journal, kinesiology, association, between, sensitivity.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42139815/
+
+Orijinal Başlık: COVID-19 pandemic in minor psychiatric disorders among mobile emergency service workers: cohort.
+Türkçe Başlık : Covid-19 pandemic in minor psychiatric disorders among mobile emergency service workers: cohort.
+Türkçe Özet   : Bu içerik covid-19 pandemic in minor psychiatric disorders among mobile emergency service workers: cohort. konusuna odaklanıyor. Öne çıkan başlıklar: revista brasileira de enfermagem. 2026. Anahtar kavramlar: covid, pandemic, minor, psychiatric, disorders, among.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42138845/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Prof. Dr. Ömer Faruk Şendur: “Her Bel Ağrısını Fıtık Sanmak Ciddi Hastalıkların Teşhisini Geciktirebilir” - Cumhur Haber Ajansı
+Özet  : Ömer Faruk Şendur: “Her Bel Ağrısını Fıtık Sanmak Ciddi Hastalıkların Teşhisini Geciktirebilir” &nbsp;&nbsp; Cumhur Haber Ajansı Ömer Faruk Şendur: “Her Bel Ağrısını Fıtık Sanmak Ciddi Hastalıkların Teşhisini Geciktirebilir” - Cumhur Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMivgFBVV95cUxQdzlTSDJrT2JxcGh0WE94bmc4c0N5SVJlYWI5OGFxRkFUU2Z3WHdTWTMxMUNZQ3BmTUFrUnJ0eVl5d09JM1hvMmhrVmE0ZVJ5aW10OHVKczJJeEtldXlCZEliR2lMaWkycklCQ1Z3RkhmYVU0NkZheWF4ZFQ1ajY5c0VpX1VTendfS3NNXzZncVN4MHc2X1hiWTRkRFF3Qmd1RllzSUdDdnlfUGsxY0NoYXJfVWk4R1BNMVZudnhR?oc=5
+
+Başlık: Bel ağrısını fıtığa bağlamayın, teşhiste geç kalmayın - Elbistanın Sesi
+Özet  : Bel ağrısını fıtığa bağlamayın, teşhiste geç kalmayın &nbsp;&nbsp; Elbistanın Sesi Bel ağrısını fıtığa bağlamayın, teşhiste geç kalmayın - Elbistanın Sesi.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEFsR1VhM1JDd2g0My1DaWg1QkUxdWd1Q2ppeVM5ejcxVmpLRmRzcWp2ODFtSUU3a0xDUXFTZTRNdWsxejFSWnVLRks2ekJ0b2Rfc0pUbGNCMERYb29fUkhpV2kwWWFwcUt3aG5JakdMQ1VsMFQ5aWhIeGdPSEo3UzhFMzRZRnN3LW04Y0IxRTdsTEEyNnE1ZXdBQnh6REnSAaQBQVVfeXFMUHJpRFZ2Z1JzblRMRmFkS3l2bFM1VkpXUnNlVnd2RzRacHF1UklBaGNtTHBMQ01GeWk5OVZEYzNJN1c4UGUtWGtmaW1iUHVpelJORHRJMW1SVmtRMXJsREhMTGZ6bE9oWXZoMVlqQmc0UmxhUHcxZEZTZ2J0bE12TkNMMDROdTRzYUpHWUViZ2hwNG1mSllsUmZFUVpUR1RvRDZ1REw?oc=5
+
+Başlık: Siirt'te Uzman Doktordan Bel Fıtığı Uyarısı: Yanlış Yük Taşımak Riski Artırıyor - Siirt haber
+Özet  : Siirt'te Uzman Doktordan Bel Fıtığı Uyarısı: Yanlış Yük Taşımak Riski Artırıyor &nbsp;&nbsp; Siirt haber Siirt'te Uzman Doktordan Bel Fıtığı Uyarısı: Yanlış Yük Taşımak Riski Artırıyor - Siirt haber.
+Bağlantı: https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVRCdUtWV3N5ZjRUTE9JWE9JSktQUEZDcEF5ZW9DRGFyZGlGX0M3YVF0WWlIYjFiRmp2cDdPaXZLN0dPeXF6dHVHTzMxR2FiNVo1NEtPajhiMUNRQ2M3RElhdS1qOEVoWEpTa0p4RjRpMmd1Q2Y5QkdEU09kRGxEZC1CVlQ0WldqRm5qb1RGZVdRSFV0NnNCZlB4dllfbzRYdlR3V29qZ1pGdy1wcnk5bnZ2WGpiZ9IBtgFBVV95cUxOcVRCdUtWV3N5ZjRUTE9JWE9JSktQUEZDcEF5ZW9DRGFyZGlGX0M3YVF0WWlIYjFiRmp2cDdPaXZLN0dPeXF6dHVHTzMxR2FiNVo1NEtPajhiMUNRQ2M3RElhdS1qOEVoWEpTa0p4RjRpMmd1Q2Y5QkdEU09kRGxEZC1CVlQ0WldqRm5qb1RGZVdRSFV0NnNCZlB4dllfbzRYdlR3V29qZ1pGdy1wcnk5bnZ2WGpiZw?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-05-17)
+========================================================================
+Yeni kaynak sayısı: 9
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=6
+GitHub dosyası: out/skolyoz/2026-05-17_20260517T103312Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Does initiating brace treatment before or after menarche affect outcomes in adolescent idiopathic scoliosis?
+Türkçe Başlık : Does initiating brace treatment before or after menarche affect outcomes in adolescent idiopathic skolyoz?
+Türkçe Özet   : Bu içerik does initiating brace treatment before or after menarche affect sonuçs in adolescent idiopathic skolyoz? konusuna odaklanıyor. Öne çıkan başlıklar: prosthetics and orthotics international. 2026 may 13. Anahtar kavramlar: does, initiating, brace, treatment, before, after.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42139670/
+
+Orijinal Başlık: Comment on "Does pelvic fixation impact reoperation outcomes for neuromuscular scoliosis surgery? A 10-year matched cohort analysis".
+Türkçe Başlık : Comment on "does pelvic fixation impact reoperation outcomes for neuromuscular skolyoz surgery? a 10-year matched cohort analysis".
+Türkçe Özet   : Bu içerik comment on "does pelvic fixation impact reoperation sonuçs for neuromuscular skolyoz surgery? a 10-year matched cohort analysis". konusuna odaklanıyor. Öne çıkan başlıklar: spine deformity. 2026 may 14. Anahtar kavramlar: comment, does, pelvic, fixation, impact, reoperation.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42133243/
+
+Orijinal Başlık: The Spinal Muscular Atrophy Functional Classification System.
+Türkçe Başlık : The spinal muscular atrophy functional classification system.
+Türkçe Özet   : Bu içerik the spinal muscular atrophy fonksiyonal classification system. konusuna odaklanıyor. Öne çıkan başlıklar: developmental medicine and child neurology. 2026 may 12. Anahtar kavramlar: spinal, muscular, atrophy, fonksiyonal, classification, system.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42121337/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: NEÜ öğrencilerinden skolyoz farkındalık çalışması - Saray Medya
+Özet  : NEÜ öğrencilerinden skolyoz farkındalık çalışması &nbsp;&nbsp; Saray Medya NEÜ öğrencilerinden skolyoz farkındalık çalışması - Saray Medya.
+Bağlantı: https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2NaVFVvV0duMTdPZzRyX1g2STdRUHpnME1EQlI2ZGN5SG1PWHBUcFpSa0dqTE50b1NVeExpYmMzMjRPLWpLU2dFeXg5SjFWMXJUNFNfTDRQX28xcjlybkFfSl9RdV9fWjMzZFpXOFNvU1gyVmNrdUpZQzFqYk1JZkhrN3ZpaE5SWGt3M1VyTlBUbGFl?oc=5
+
+Başlık: Mucize Hayat - 16 Mayıs 2026 (Skolyoz Hastalığı Nedir ve Tedavi Süreçleri Neler?) - Habertürk
+Özet  : Mucize Hayat - 16 Mayıs 2026 (Skolyoz Hastalığı Nedir ve Tedavi Süreçleri Neler?) &nbsp;&nbsp; Habertürk Mucize Hayat - 16 Mayıs 2026 (Skolyoz Hastalığı Nedir ve Tedavi Süreçleri Neler?) - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0ZNMHNSb3llbzd2MThHWnJzZVJZa2pYT3pFVk9uMWFKd3ZIVWRQcVBWeXhabENRb0c0SkFlSWxwZUtHWkpIT0VGQ1VxWXhYSUNsYS1kSnBrc2c4bEw4X0pfV2hvNkE1WmxSMWRVV3FZME8yUEZmbXg0R0J4R1RhVG5CNDZBemRpSmc?oc=5
+
+Başlık: Uzmanından skolyoz uyarısı: Geç kalındığında kalıcı hasar bırakabiliyor! - Ergani Gazetesi
+Özet  : Uzmanından skolyoz uyarısı: Geç kalındığında kalıcı hasar bırakabiliyor! Uzmanından skolyoz uyarısı: Geç kalındığında kalıcı hasar bırakabiliyor!
+Bağlantı: https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXRLb25rdGlzZWlVd2Y5TV9pZ3JZNWlLSnVDc3FwUEp2UTV3RFV6LTNpVkxIV1RTcEYzLVFpRkIyUEtja0FLOEJSdUN1SE95ZmVUU2VsT3NGN1YyakgtVnZTRUJlMlhTcnFwUDYtZEx1ZzdiN09yOUxCcDVJUlRDT05nMG0xMFRENTRoR2VrYU1jV0dMV2ZYWEx6QXVXbG5MN21TeFgxY9IBrAFBVV95cUxNWWFoOXFaM1FBYjUyUzdJX3R3cVc4UzRleFBKbGd0dWZ0aTF2bHgyV0QzYWY2RkZUek1jUVUya0F3eFFNaU8xdldMcS1FNmxlOHpaTlZZdWZubFRER2liNlpoazRRckdoZTlRaGNkSGEtUEZUUTBaUE5Uc1VUQ3paQmdnTGh5a1VTZ0lkNlZBaUNLZUg1RVZWMktMX1ktQVk0bVpvekhCSzFDY2FF?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-05-17)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=4
+GitHub dosyası: out/omuz/2026-05-17_20260517T103312Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Cryoneurolysis for the management of pain secondary to obstetrical brachial plexus injury: a case report.
+Türkçe Başlık : Cryoneurolysis for the management of pain secondary to obstetrical brachial plexus injury: a case report.
+Türkçe Özet   : Bu içerik cryoneurolysis for the management of ağrı secondary to obstetrical brachial plexus injury: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: canadian journal of anaesthesia = journal canadien d'anesthesie. 2026 may 15. Anahtar kavramlar: journal, cryoneurolysis, management, ağrı, secondary, obstetrical.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42141349/
+
+Orijinal Başlık: Subacromial bursitis: current evidence and future directions in injection-based therapies-A narrative review.
+Türkçe Başlık : Subacromial bursitis: current evidence and future directions in injection-based therapies-a narrative review.
+Türkçe Özet   : Bu içerik subacromial bursitis: current evidence and future directions in injection-based therapies-a narrative review. konusuna odaklanıyor. Öne çıkan başlıklar: annals of medicine. 2026 dec. Anahtar kavramlar: subacromial, bursitis, current, evidence, future, directions.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42139015/
+
+Orijinal Başlık: Efficacy of ultrasound-guided intra-articular hyaluronic acid injection in the management of adhesive capsulitis: a randomized controlled trial.
+Türkçe Başlık : Efficacy of ultrasound-guided intra-articular hyaluronic acid injection in the management of adeziv kapsülit (donuk omuz): a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik efficacy of ultrasound-guided intra-articular hyaluronic acid injection in the management of adeziv kapsülit (donuk omuz): a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of rehabilitasyon medicine. 2026 may 15. Anahtar kavramlar: efficacy, ultrasound, guided, intra, articular, hyaluronic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42136070/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: 'Dış gebelikte erken tanı cerrahi müdahaleyi önleyip, hayat kurtarır' - DHA | Demirören Haber Ajansı
+Özet  : 'Dış gebelikte erken tanı cerrahi müdahaleyi önleyip, hayat kurtarır' &nbsp;&nbsp; DHA | Demirören Haber Ajansı 'Dış gebelikte erken tanı cerrahi müdahaleyi önleyip, hayat kurtarır' - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxNWnN6dk5ocEY2dXlJLXNMNk5KUE5LWVcxbGVKQWQzbE95dGVDYmMxTzM3WWhmNHVfMlktZ3NsbjVZVGNFczJJNFl5NmlmdUxubC04cy1yckZ4MzVUSERMQmFSWDZxaUYyVG14RkFJQ0VsR0xhOGlXSzhHT0NYVWJjbWZHVEstZ2NHazF6WXVzUVpFdFhYZnlyazRtajQ0QdIBowFBVV95cUxPV0dINW81VXVsUXZwZlJNeFJSRXR1WG9JcldRMnlpQjQxUlhCWDZZMkZBenhLNjJDeTBBQXR4TnBvdGdNR01TdWFDVFFmN1U3U1JKbk1YOF9SVWpZVkpQZGJ6enVBeFR1S2hSLWU3V2VHZG9DbU9sUEt0NVRfeGpZRURnQ1BhdllSUWFPNGVhT1VPQ3QwYXBFWXA5VmZGUzZUdm5v?oc=5
+
+Başlık: Dış gebelikte erken müdahale hayat kurtarıyor - Yeni Birlik Gazetesi
+Özet  : Dış gebelikte erken müdahale hayat kurtarıyor &nbsp;&nbsp; Yeni Birlik Gazetesi Dış gebelikte erken müdahale hayat kurtarıyor - Yeni Birlik Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMilAFBVV95cUxOdEF4bXFtUWdWYWpnTFBWNXNUdE5RV0NaRnJNRHlvVThZNVJMazQzNXphUlRZc09QUHVxb29DcUEzUzFwZ0lFQWtQY1RhU1kyYUh0SGljZHdadENoLTM5R2pPMnFKa0NhbzVGb2pXWWUwZGVrV2t3NTdpQkk1elJyU3BZRW10cWtZMmhDdElMMzRHem1P?oc=5
+
+Başlık: Almanca Öğrenmek Zor Mu? Almanya Öğrenmek İçin En Az Kaç Ay Lazım? - Haber Gazetesi
+Özet  : Almanya Öğrenmek İçin En Az Kaç Ay Lazım? Almanya Öğrenmek İçin En Az Kaç Ay Lazım?
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxNODQ4MVJwR1JuSVFYbWNrWlFLMk9RcDFSN3FOU1NJWmhXRnU0YU1UTWozT3BkS2dzQ3pqRFJmTGxFdTFsejVpS3VjN3Z4U0l3Z0VaaGxZVGt0T181NjEyOU4yTjJKUkFaaHBjQVhjc3R4Q2dPb00tbHVheDIyeTRkdnYwNUZwTE05SjhCWUkzUG10NFhBb2pleFNsVzNQUdIBowFBVV95cUxPZHRFVThUQlQ1MWZUbWZhZmpCdVZQWXpWWmNYeXBxaUxzVzZJQndQRFV6ZXlucmJNZ3NwNG5qemlDQWxYUGNaT3hCUWxFNzRxd1dXRE5lQ1ljYXdRZGJtTEZleDEwZXd0U24teWYtMHN0bU5TNU0yWHF3WktsTHFIaU5DWjhPS0FuSUNSLXUyVFlVWW9oUXdzYjl1bjlqdlFwRVNZ?oc=5
+
