@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-05-24)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      18
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   40
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-05-24)
+========================================================================
+Yeni kaynak sayısı: 22
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=14
+GitHub dosyası: out/bel_agrisi/2026-05-24_20260524T092317Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: The Multifaceted Role of Social Media in Pain Medicine: Innovation, Education, Patient Engagement, and Challenges.
+Türkçe Başlık : The multifaceted role of social media in pain medicine: innovation, education, patient engagement, and challenges.
+Türkçe Özet   : Bu içerik the multifaceted role of social media in ağrı medicine: innovation, education, patient engagement, and challenges. konusuna odaklanıyor. Öne çıkan başlıklar: current ağrı and headache reports. 2026 may 23. Anahtar kavramlar: ağrı, multifaceted, role, social, media, medicine.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42176057/
+
+Orijinal Başlık: Multifidus fatty infiltration and vertebral translation are key factors associated with movement-related low back pain in L5 isthmic spondylolisthesis.
+Türkçe Başlık : Multifidus fatty infiltration and vertebral translation are key factors associated with movement-related bel ağrısı in l5 isthmic spondylolisthesis.
+Türkçe Özet   : Bu içerik multifidus fatty infiltration and vertebral translation are key factors associated with movement-related bel ağrısı in l5 isthmic spondylolisthesis. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 may 23. Anahtar kavramlar: european, spine, society, multifidus, fatty, infiltration.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42176017/
+
+Orijinal Başlık: Restorative neurostimulation of the lumbar multifidus muscles improves mobility, strength, pain and disability in patients with mechanical chronic low back pain.
+Türkçe Başlık : Restorative neurostimulation of the lomber (bel bölgesi) multifidus muscles improves mobility, strength, pain and disability in patients with mechanical chronic bel ağrısı.
+Türkçe Özet   : Bu içerik restorative neurostimulation of the lomber (bel bölgesi) multifidus muscles improves mobility, strength, ağrı and disability in patients with mechanical chronic bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 may 23. Anahtar kavramlar: european, spine, society, ağrı, restorative, neurostimulation.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42176014/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Premenstrüel Disforik Bozukluk (PMDB) kadınları nasıl etkiliyor? - BBC
+Özet  : Premenstrüel Disforik Bozukluk (PMDB) kadınları nasıl etkiliyor? Premenstrüel Disforik Bozukluk (PMDB) kadınları nasıl etkiliyor?
+Bağlantı: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWGNXZkhhUm56dzVheERUekRMRmpnVE50X3ZvRkg3dTlGN0JUQTNTQ3M3NEp4OHBfRmZMVHNqTVE3eUhNYmpHOWNwYmFWM3lCWmRiSlFITkxOWjRf0gFiQVVfeXFMTmQ1QlQwS3g5RmdRWndGT3p1RTd4NHoxcjNYdTIzQTBCT0hPX3hobmxLUXE4MjhjdUN6YWsyclZWaFJ2NW1rNFdCdy1CWDBOQ29reHZWV1J5T3U0RG5nYTU0SkE?oc=5
+
+Başlık: DÜNYA BU VİRÜSÜ KONUŞUYOR: Türkiye'de İlk Vakalar 2009'da Görülmüştü! Toza Karışıp, Akciğere Yerleşiyor... AMAN GRİP SANMAYIN! İşte Bel Ağrısı ve Ateşle Başlayan Tehlike - CNN Türk
+Özet  : İşte Bel Ağrısı ve Ateşle Başlayan Tehlike &nbsp;&nbsp; CNN Türk İşte Bel Ağrısı ve Ateşle Başlayan Tehlike - CNN Türk.
+Bağlantı: https://news.google.com/rss/articles/CBMiggJBVV95cUxON0lFeGpRaTQ4QzVwVDRZOFhwZGxHUE5fbW1KT3NUMHFDY2JWUExVUDFMM0w3UGI0aVhTX2xObV9mb3o0M0J3WWVvUkk5SVVqSWFWbXk0VU5oTHNUMWhjaEI0Z3BwRzh2R0VtbHU2QXE1VVRnM3c3NFZsMGZtUXJDMzV4QVFlVEVjUnUxaHZiNWtXb0NweGF5NHBhblhZeEhXaFRzc1V1eHNJV3VTTXdVc1laekFIejhsemE4YjNaN2FWNlc4V2RxNlhRX1hFdGNka0xrRGZrRXliRVZTQ1NKZE05LTE3UzZhdEdGNUVuUE9RVk5OT0tqOVhTNFd2MWtoX1E?oc=5
+
+Başlık: Bel Fıtığında 'Duruş Bozukluğu' Alarmı - Milli İrade Gazetesi
+Özet  : Bel Fıtığında 'Duruş Bozukluğu' Alarmı &nbsp;&nbsp; Milli İrade Gazetesi Bel Fıtığında 'Duruş Bozukluğu' Alarmı - Milli İrade Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTUgwNGZrM3JRSmswM2hXM3czR0xjaU5PcjNZalJEQ0VzMkpCVkJoLWFZTnNpQXRVdkwyTUdXN2dwejJyWE94TjZzdFdaYTY2TFlvdE43RGJURHlrckN6dGNEam5RcUJpa3BKbnNoR0bSAXZBVV95cUxNSGh1NjhFeUxSaU4xYnFYV3ZtUXNuYVNxX0FjOEJJTWtEa3pTWFc5R0owVkJBZk5fSlVvMG83TTk4QW16X3FsS3NVWWl4bUQ4MEpzRENDT2tYR1FFWlBKNEhOM1pBV2h2RGlwdFRzWDZlWjB3WFNB?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-05-24)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=21
+GitHub dosyası: out/skolyoz/2026-05-24_20260524T092317Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of conservative exercise-based interventions on spinal curvature, respiratory function, and quality of life in patients with idiopathic scoliosis: a systematic review and meta-analysis.
+Türkçe Başlık : Effects of conservative egzersiz-based interventions on spinal curvature, respiratory function, and quality of life in patients with idiopathic skolyoz: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik effects of conservative egzersiz-based interventions on spinal curvature, respiratory fonksiyon, and quality of life in patients with idiopathic skolyoz: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: asian spine journal. 2026 may 20. Anahtar kavramlar: effects, conservative, egzersiz, based, interventions, spinal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42157370/
+
+Orijinal Başlık: Adolescents' experience of bracing for idiopathic scoliosis: a systematic review and meta-analysis.
+Türkçe Başlık : Adolescents' experience of bracing for idiopathic skolyoz: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik adolescents' experience of bracing for idiopathic skolyoz: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: annals of physical and rehabilitasyon medicine. 2026 may 18. Anahtar kavramlar: adolescents, experience, bracing, idiopathic, skolyoz, systematic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42150312/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Eski akciğer ve karın filmleri skolyoz teşhisinde ipucu olabilir - MSN
+Özet  : Eski akciğer ve karın filmleri skolyoz teşhisinde ipucu olabilir &nbsp;&nbsp; MSN Eski akciğer ve karın filmleri skolyoz teşhisinde ipucu olabilir - MSN.
+Bağlantı: https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1hYOU9uRGw1QlEzZWtoWHEtLWVsZm1tVzV6S3ZqNmhDbWY2T25wSjJ1c08zSGg3Q0JUbkZKd3JhS1VwZEFoNVJmZFJoSmF1aERlbGs1aDR2UGZyNEZ3VF8xZ0NzY2tNWWV4MVRXWjVBMWk1VFdoOGlVOE8xcGxtNFVReE5PU1lQeENLMGxPbkx3dTExZHZrUExkalJYSWRPeDhqZUVsNjBQSGs5eUp1djhicldTWE1mQzJCWEw4bHdXNUxGT0dv?oc=5
+
+Başlık: İstanbul'da Skolyoz Teşhisinde Eski Akciğer ve Karın Filmleri Kullanılabilir - Mersin Haber
+Özet  : İstanbul'da Skolyoz Teşhisinde Eski Akciğer ve Karın Filmleri Kullanılabilir &nbsp;&nbsp; Mersin Haber İstanbul'da Skolyoz Teşhisinde Eski Akciğer ve Karın Filmleri Kullanılabilir - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2dqNlhQeGFkUFZyMGJYdm9RUDR1R21Dc19Ha3BTNGd2RmpvSzRhOTc5aGFiU1pFTElBaHVZMFQzM293RXZpNVZMNW4yaFlJNzB5aGhBalZ1TG5BcG8zVFN2OUJ3eDlXUl9qU3BZX0RNcEtkX0dIdkdTWFBTd2p0enRyUE9xZlN5YVRGb2JFUURIU25fOXRkX29HQ0sySUhkR3dUX2sxMUxzUEVTNHpScWJOdWlLM1XSAVdBVV95cUxPZVRSU1BqbDJlbnZFUWtCdFF4MzZUcVlBQmNuRUZoN0JDazJPdEtJZFdVVXdWc3llYTFoaTlyVXg1a2pYS20zRmFEaW1wUmUzUzVzcU1FZ2M?oc=5
+
+Başlık: Skolyozlu çocuk hastalar için ücretsiz tarama. - Vietnam.vn
+Özet  : Skolyozlu çocuk hastalar için ücretsiz tarama. Skolyozlu çocuk hastalar için ücretsiz tarama.
+Bağlantı: https://news.google.com/rss/articles/CBMihAFBVV95cUxNa084R1JyWk5qQ1F3RzlwQnZ4YUFFOEE1WXQ1SHE2bkEtUVB6Qk9zRW83OExnSUlQdWdNUE5wcVhtTzlzZV9xbnpacWdZRTVabUhON3UtU2hFV1JuVDVPZ3Q0b2VUV1NjejNKSTVHODZyMlN6RUdCT0R5N2c3VEdpX3o4cFE?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-05-24)
+========================================================================
+Yeni kaynak sayısı: 13
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=5
+GitHub dosyası: out/omuz/2026-05-24_20260524T092317Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Strengthening of Rotator Cuff and Scapular Muscles in Patients with Lateral Elbow Tendinopathy: A Randomized Controlled Study.
+Türkçe Başlık : Strengthening of rotator manşet and scapular muscles in patients with lateral elbow tendinopathy: a randomize controlled study.
+Türkçe Özet   : Bu içerik strengthening of rotator manşet and scapular muscles in patients with lateral elbow tendinopathy: a randomize controlled study. konusuna odaklanıyor. Öne çıkan başlıklar: archives of physical medicine and rehabilitasyon. 2026 may 22. Anahtar kavramlar: strengthening, rotator, cuff, scapular, muscles, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42177007/
+
+Orijinal Başlık: Effectiveness of an interactive online exercise program following arthroscopic rotator cuff repair: A prospective comparative study.
+Türkçe Başlık : Effectiveness of an interactive online egzersiz program following arthroscopic rotator manşet repair: a prospective comparative study.
+Türkçe Özet   : Bu içerik effectiveness of an interactive online egzersiz program following arthroscopic rotator manşet repair: a prospective comparative study. konusuna odaklanıyor. Öne çıkan başlıklar: medicine. 2026 may 22. Anahtar kavramlar: effectiveness, interactive, online, egzersiz, program, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42175451/
+
+Orijinal Başlık: Multimodal physiotherapy versus scapular and conventional exercise for persistent pain following breast cancer treatment: a randomized controlled trial.
+Türkçe Başlık : Multimodal fizyoterapi versus scapular and conventional egzersiz for persistent pain following breast cancer treatment: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik multimodal fizyoterapi versus scapular and conventional egzersiz for persistent ağrı following breast cancer treatment: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of cancer survivorship : research and practice. 2026 may 23. Anahtar kavramlar: cancer, multimodal, fizyoterapi, versus, scapular, conventional.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42174328/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Sürekli devam eden omuz ağrısı nedeniyle yapılan tıbbi muayenede supraspinatus kasının tamamen yırtıldığı tespit edildi. - Vietnam.vn
+Özet  : Sürekli devam eden omuz ağrısı nedeniyle yapılan tıbbi muayenede supraspinatus kasının tamamen yırtıldığı tespit edildi. Sürekli devam eden omuz ağrısı nedeniyle yapılan tıbbi muayenede supraspinatus kasının tamamen yırtıldığı tespit edildi.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxPcy1nSHNjLV9pbXVDUUtVMXhhaDVWSFFORnhBWGlIWWQ0WFZzY2xvcThnNE1qazI3ZEZGZThyNUlPOUFmZ1dhLWh2SFdUTk1DLXU0ZGJEUVAxdHNXU1Zyd01NMEFLZVBBcDh5UmE5emNMV3FWWDVhdEdrRUQwcG81OThEN3ZDU2otNEw3N3NGX05kZw?oc=5
+
+Başlık: Kol hareket kabiliyeti neredeyse tamamen korunmuş bir hastada başarılı omuz rekonstrüksiyonu. - Vietnam.vn
+Özet  : Kol hareket kabiliyeti neredeyse tamamen korunmuş bir hastada başarılı omuz rekonstrüksiyonu. Kol hareket kabiliyeti neredeyse tamamen korunmuş bir hastada başarılı omuz rekonstrüksiyonu.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1g5V2NtdTdjVzgxRGxySGs5NXpkNUtjVktwM0FyUkYxZTdWemdKbE9jeHdkdEJzNnNyaEJUVnVpTnVzbTNOWk5tYU1fbWpwb1pHanVNRkhvUGFiTWdoTzFBbUkyME9WdEtYNVN0V1dUQjA2ZFBpenEyMFJiY01MLVZFdnNzSzdQZkpPbkFEMHQteWgyTWxfVWNQVW1LWjJOUVZ4Tg?oc=5
+
+Başlık: SBÜ Hamidiye Sağlık Bilimleri Fakültesi’nden TÜBİTAK Programlarında Büyük Başarı - Tıbbiye Bülteni
+Özet  : SBÜ Hamidiye Sağlık Bilimleri Fakültesi’nden TÜBİTAK Programlarında Büyük Başarı &nbsp;&nbsp; Tıbbiye Bülteni SBÜ Hamidiye Sağlık Bilimleri Fakültesi’nden TÜBİTAK Programlarında Büyük Başarı - Tıbbiye Bülteni.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmtwYjVhU1AzLWJmcy1tZWk3VUpQcFk1V3d5SXhBTTZNMlFfVVBDNFl3bUpONlkzbzJsbU1Va2dxNVdHV0R6b1ZXTDdicUxkLWVSMWVOQ1BWMWFrVWhrOEVWTXNxTlRzdjYyM3gtN2wyZF9kUTVBazFYQVZwQ3FBbVFzdjFNVHBtSEdhZDNjd1ZKeDFFV1JIUDZzR1VyVmtpUUZjc1l6Z2lwYVZMRGNB0gGvAUFVX3lxTFBOa3BiNWFTUDMtYmZzLW1laTdVSlBwWTVXd3lJeEFNNk0yUV9VUEM0WXdtSk42WTNvMmxtTVVrZ3E1V0dXRHpvVldMN2JxTGQtZVIxZU5DUFYxYWtVaGs4RVZNc3FOVHN2NjIzeC03bDJkX2RRNUFrMVhBVnBDcUFtUXN2MU1UcG1IR2FkM2N3Vkp4MUVXUkhQNnNHVXJWa2lRRmNzWXpnaXBhVkxEY0E?oc=5
+
