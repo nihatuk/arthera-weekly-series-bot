@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-05-31)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      23
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   28
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-05-31)
+========================================================================
+Yeni kaynak sayısı: 20
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=12
+GitHub dosyası: out/bel_agrisi/2026-05-31_20260531T094824Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Motor control exercise program versus standard care in the treatment of lumbopelvic pain in pregnant women: a randomized controlled pilot trial.
+Türkçe Başlık : Motor control egzersiz program versus standard care in the treatment of lumbopelvic pain in pregnant women: a randomize controlled pilot klinik çalışma.
+Türkçe Özet   : Bu içerik motor control egzersiz program versus standard care in the treatment of lumbopelvic ağrı in pregnant women: a randomize controlled pilot klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: chiropractic & manual therapies. 2026 may 30. Anahtar kavramlar: motor, control, egzersiz, program, versus, standard.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42218482/
+
+Orijinal Başlık: MRI-based deep learning radiomics model for automated classification of disc degeneration in the lumbar spine.
+Türkçe Başlık : Mri-based deep learning radiomics model for automated classification of disc degeneration in the lomber (bel bölgesi) spine.
+Türkçe Özet   : Bu içerik mri-based deep learning radiomics model for automated classification of disc degeneration in the lomber (bel bölgesi) spine. konusuna odaklanıyor. Öne çıkan başlıklar: scientific reports. 2026 may 30. Anahtar kavramlar: mri, based, deep, learning, radiomics, model.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42218311/
+
+Orijinal Başlık: Comparing the effects of ischemic compression and kinesiology taping techniques in patients with chronic low back pain.
+Türkçe Başlık : Comparing the effects of ischemic compression and kinesiology taping techniques in patients with chronic bel ağrısı.
+Türkçe Özet   : Bu içerik comparing the effects of ischemic compression and kinesiology taping techniques in patients with chronic bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: scientific reports. 2026 may 30. Anahtar kavramlar: comparing, effects, ischemic, compression, kinesiology, taping.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42218171/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel fıtığı nedeniyle yürüyemeyen hasta, kapalı fıtık ameliyatıyla sağlığına kavuştu - Anadolu Ajansı
+Özet  : Bel fıtığı nedeniyle yürüyemeyen hasta, kapalı fıtık ameliyatıyla sağlığına kavuştu &nbsp;&nbsp; Anadolu Ajansı Bel fıtığı nedeniyle yürüyemeyen hasta, kapalı fıtık ameliyatıyla sağlığına kavuştu - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0JqZ0d1VGt5blJYWS1aT2pEMlZRN2w2dWZKdG91TDNWQzg4Z0lBOFpBX25tTzlmYzVTMTZGS2xKRThGUmxabzMwSHFSc1JTdnRrWnBwOWgyM3o1M1VZWXhPQXZ6MWJQSnJVS0xKS2ZYZlhRRUNjNUowdTZfczRyVXFReFJFdlNKUHZrTHBOcE80OTBXYzVOYWJxb09Ed3czYms0SDV1dkRPOU1CbkVGdWNDcGdnM2dRT3ZWWTdjNA?oc=5
+
+Başlık: Op. Dr. Aytaç Can Bilgilendiriyor: 45 Yaş Üstünde Sürekli Bel Ağrısı Normal Kabul Edilmemeli - Medyabar
+Özet  : Aytaç Can Bilgilendiriyor: 45 Yaş Üstünde Sürekli Bel Ağrısı Normal Kabul Edilmemeli &nbsp;&nbsp; Medyabar Aytaç Can Bilgilendiriyor: 45 Yaş Üstünde Sürekli Bel Ağrısı Normal Kabul Edilmemeli - Medyabar.
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2I3ZjJsanV5Wkp5Vkd3UlFKZlA2MkVaUkFrRk5OZlZENG1EV0VxZXVrSjJUZDNFLXNXakxnQTNiX0c3NzNYYnU1ZVM3R3RxZ0s1aW8xOHhRX2taWUtHVmZqdXBtdEpoZzBLU05DVjdyeWNxSkp4RjF5bGlXdlZvdmpQNU5VVHRpZGdNZVRXY3hEeHZaT3ZCRWxnWGZORkhKOENZeUNUc2xYRFFHSkh6MmRsMEFzVDUxQU5oTGhEbUQyMUXSAcgBQVVfeXFMTVBWbzFUamRTSnRvSGpPZjJFNlc2eTJlUzJxdFExMlkzRERnbzEwNHJwYUdEenA2NGNIM3dTdXZxZG9mNmVocGZqZzBFTF9KVTU4QU9OQjJGbmxtbjQ0YVpndGZ3ZF9yU1NHTnA4U1ZSRVh3NTVJY2xrdjYya2pwcGx5WUhRU1BVMFlQcXMxVjNjSDVZeFFfc21qOEN2WUdtMWhsTWowXzlmRXRwREgwdzVobGpwVXZ4YmVoVGwtNU9YZnNVZXhrR3U?oc=5
+
+Başlık: Ağır iş yükü nedeniyle bel fıtığı riski. - Vietnam.vn
+Özet  : Ağır iş yükü nedeniyle bel fıtığı riski. Ağır iş yükü nedeniyle bel fıtığı riski.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxOWHh2elEwcWtUeVVKUWJmR0hOWVZvRHYzRjZtTDY2Vk9pTDIzelR0WFpLWFkzMDZMOXZMTFlid0duN01kdE9aNHkyV245VUhEOU5oWkpwNV92eEhQT1dNTnJFeWg2QWJNa3JDQTd5UFdvc01iT1lSUVFnNWxVaE1xcUFiVlY1aXNBaUVLeXlKRQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-05-31)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=5
+GitHub dosyası: out/skolyoz/2026-05-31_20260531T094824Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Shaping AI in Pelvic Floor Physiotherapy: The Impact of Role-Play Prompting on ChatGPT Response Quality.
+Türkçe Başlık : Shaping ai in pelvic floor fizyoterapi: the impact of role-play prompting on chatgpt response quality.
+Türkçe Özet   : Bu içerik shaping ai in pelvic floor fizyoterapi: the impact of role-play prompting on chatgpt response quality. konusuna odaklanıyor. Öne çıkan başlıklar: international urogynecology journal. 2026 may 30. Anahtar kavramlar: shaping, pelvic, floor, fizyoterapi, impact, role.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42217017/
+
+Orijinal Başlık: Gymnastics-Related Injuries for the Female Athlete.
+Türkçe Başlık : Gymnastics-related injuries for the female athlete.
+Türkçe Özet   : Bu içerik gymnastics-related injuries for the female athlete. konusuna odaklanıyor. Öne çıkan başlıklar: clinics in sports medicine. 2026 jul. Anahtar kavramlar: gymnastics, related, injuries, female, athlete, clinics.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42209059/
+
+Orijinal Başlık: Gait Kinematic Adaptations Following Schroth Therapy in Individuals with Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Gait kinematic adaptations following schroth therapy in individuals with adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik gait kinematic adaptations following schroth therapy in individuals with adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 may 10. Anahtar kavramlar: gait, kinematic, adaptations, following, schroth, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42194623/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ömür uzadı ‘omurga’ yaşlandı - Hürriyet
+Özet  : Ömür uzadı ‘omurga’ yaşlandı &nbsp;&nbsp; Hürriyet Ömür uzadı ‘omurga’ yaşlandı - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiekFVX3lxTFA2cXRkOHpHRjk4M1lwTTZZcXl5ejNWOHFSM1hxdE94amRNRFVhUzdSSmxaU0d3SjR2aHRrQ1FBV19waWpkdXQ0Zmd4TFBwWm42b0V5UlczdkNERXFCLTl3NzhfOWRvSFBUSTgxNXhiYjEyczdkYmpKcGx3?oc=5
+
+Başlık: Sağlık Bakanlığı, ‘Yılın Doktoru’nu seçti - Medimagazin
+Özet  : Sağlık Bakanlığı, ‘Yılın Doktoru’nu seçti &nbsp;&nbsp; Medimagazin Sağlık Bakanlığı, ‘Yılın Doktoru’nu seçti - Medimagazin.
+Bağlantı: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVHBBVmtpSEUtMmVkdGNRT09NTkVWVE0wcFM5R2lrM0VNVGhZemw4WnZOVzAwZnVNaEVuc1p1bWd0SUtiZ2FIdlFNdVp1QjVjeTVzNjRMVzVWT2o4MXpuMERNZlFOQ2dqLXF3UnlnNFM3al9SUjBZb2FOcjJhT0x4Q2phb2k?oc=5
+
+Başlık: Kız çocuklarına skolyoz taraması yaptırmak kaide - magazinlife.com
+Özet  : Kız çocuklarına skolyoz taraması yaptırmak kaide &nbsp;&nbsp; magazinlife.com Kız çocuklarına skolyoz taraması yaptırmak kaide - magazinlife.com.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0NtX094bGJld0Z6dzhrTUFHQ2FabE1JUEtrYW0xeW1LS0VzZHZ0Nks3d1I0QXEwXzkyTUpUeTJvSks0eVZJVGRwbE5wWjQ3VUhKVmEtU0Uwa0QxUEFYODdRcmtENklVMHpYX1FrNndUaHJLZkc1ZzNkTnI4MVVkWkNoY3BkTUVOQ1BzOA?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-05-31)
+========================================================================
+Yeni kaynak sayısı: 19
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=11
+GitHub dosyası: out/omuz/2026-05-31_20260531T094824Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Retraction Note: The effectiveness of routine physiotherapy with and without neuromobilization on pain and functional disability in patients with shoulder impingement syndrome; a randomized control clinical trial.
+Türkçe Başlık : Retraction note: the effectiveness of routine fizyoterapi with and without neuromobilization on pain and functional disability in patients with omuz sıkışma (impingement) syndrome; a randomize control clinical klinik çalışma.
+Türkçe Özet   : Bu içerik retraction note: the effectiveness of routine fizyoterapi with and without neuromobilization on ağrı and fonksiyonal disability in patients with omuz sıkışma (impingement) syndrome; a randomize control clinical klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 may 29. Anahtar kavramlar: retraction, note, effectiveness, routine, fizyoterapi, neuromobilization.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42215919/
+
+Orijinal Başlık: Usability and feasibility testing of an enhanced physiotherapist-supported treatment approach integrating a brief behaviour change intervention for people with rotator cuff disorders (The COMBINED approach).
+Türkçe Başlık : Usability and feasibility testing of an enhanced physiotherapist-supported treatment approach integrating a brief behaviour change intervention for people with rotator manşet disorders (the combined approach).
+Türkçe Özet   : Bu içerik usability and feasibility testing of an enhanced physiotherapist-supported treatment approach integrating a brief behaviour change intervention for people with rotator manşet disorders (the combined approach). konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 may 27. Anahtar kavramlar: approach, usability, feasibility, testing, enhanced, physiotherapist.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42214846/
+
+Orijinal Başlık: Asynchronous Broadcasting of Audiovisual Content as a Telerehabilitation Strategy for Patients in Rural Areas: Development and Usability Study.
+Türkçe Başlık : Asynchronous broadcasting of audiovisual content as a telerehabilitasyon strategy for patients in rural areas: development and usability study.
+Türkçe Özet   : Bu içerik asynchronous broadcasting of audiovisual content as a telerehabilitasyon strategy for patients in rural areas: development and usability study. konusuna odaklanıyor. Öne çıkan başlıklar: jmir rehabilitasyon and assistive technologies. 2026 may 29. Anahtar kavramlar: asynchronous, broadcasting, audiovisual, content, telerehabilitasyon, strategy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42214004/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Omuz ağrısıyla başvurdu, donuk omuz sendromu tanısı konuldu - DHA | Demirören Haber Ajansı
+Özet  : Omuz ağrısıyla başvurdu, donuk omuz sendromu tanısı konuldu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Omuz ağrısıyla başvurdu, donuk omuz sendromu tanısı konuldu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDVIRHo4SHhndDYxcnFkWnhxTFJwbUFNcGxFLXByTFlaNlZlbGNOSzBXUS1fVEVPT3lWODA1QnBBRGxKc0l3dEtNUmNKMXdGVUl5MjlqTWtiLXJ6TFd2c1gzVU1HS29aSDNjdjV5VlVrekVKSFdVNHgwVjF0d2F3a04xUHQ1YTRxZTl3N0lhMmtuRUNJQTZDS0xzc3piZ2_SAaMBQVVfeXFMT3pXeFdHMUlMdFpoLWw2bThVd2hPSDcxQ3plTlAyd1paUU5hTzEwWEJoLWwzVFR5QTI3Z2c0elQzR0ZvRGc1TXZIb0hJbExjSmFkX2puQ3N0ZzFRR0dEWTdNeklRTUtncmRCaHdvRDdJMDJxZUJNMFp0eF9kdVR1czVYRVNSQWhiNUxMUmxaTE4tS1BPbllsMmZXZllzZ1Q3cy1CRQ?oc=5
+
+Başlık: Omuz Ağrısı Deyip Geçmeyin! "Donuk Omuz Sendromu" Saç Taramayı Bile Engelliyor - Afyon Ana Haber
+Özet  : "Donuk Omuz Sendromu" Saç Taramayı Bile Engelliyor &nbsp;&nbsp; Afyon Ana Haber "Donuk Omuz Sendromu" Saç Taramayı Bile Engelliyor - Afyon Ana Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0g2SHhhdldJNUJRZ2hvR1V3c1hYTnFsN1RxSXM4QjktNWtQbnQtWWVmRG1Cd1NRNk10MHp6TmNoR0czOFVjbG5EWnloUUlHeDlkbkQycGh4RE9CUkhGbEZDNHdrZnJHR1E5NmV5aEJyYTF1UmFKUFVzTm5KcDRfV2tEMTlJRVJQYWtrelpYVmxXZW51amFMaDZtbTViOEU2RUFheExvX1hKNDBL0gGyAUFVX3lxTE5nRkNVSFZCZm4wRk5EeGRPTlcwV1lkSFhSVHhsRHhILUI1ZHdJZTF5cWM0Rmx4a1gwUVYxSFVtaGVZRWtyRTloY2FkbEZMX3R1OHhZTjZ5U2xhcGpBT1JnRjk3Vk81b3hIMU1XaFVyQ3hMTk5kNTJsa0FGNHU1TE16dVQzRF9WMHhsT1p0cXJlZW1ZMjRxOTVGSm9kUXJIaVNzSGJwdlBTamlnOG9vSnFMT1E?oc=5
+
+Başlık: Uyarı: Gençlerde yanlış egzersiz teknikleri nedeniyle omuz osteoartriti gelişebilir. - Vietnam.vn
+Özet  : Uyarı: Gençlerde yanlış egzersiz teknikleri nedeniyle omuz osteoartriti gelişebilir. Uyarı: Gençlerde yanlış egzersiz teknikleri nedeniyle omuz osteoartriti gelişebilir.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmVnRVBMbUR0d0libm9BQ2hYVmJKY1Buc0VRb1ZCcTdUM2NhOG9ncUdSUHVtS2xndDAyOUhOb2JfMmE0NnhYYkJlQmtsSGMyMTNIYktHTUttSnNsTEdDWU1oeS1oU0VVbkpTSVc1N2k0YjdmN29IVnBsTXo4R216M3F2T3FLYm1WUHJ6TA?oc=5
+
