@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-06-07)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   49
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-06-07)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=10
+GitHub dosyası: out/bel_agrisi/2026-06-07_20260607T100720Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic scoliosis: results from the schroth exercise trial.
+Türkçe Başlık : Responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic skolyoz: results from the schroth egzersiz klinik çalışma.
+Türkçe Özet   : Bu içerik responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic skolyoz: results from the schroth egzersiz klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 jun 6. Anahtar kavramlar: european, spine, society, responsiveness, minimal, clinically.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42249909/
+
+Orijinal Başlık: Reliability and agreement of a novel trunk extension strength assessment device and association to dynamic performance.
+Türkçe Başlık : Reliability and agreement of a novel trunk extension strength assessment device and association to dynamic performance.
+Türkçe Özet   : Bu içerik reliability and agreement of a novel trunk extension strength assessment device and association to dynamic performance. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 jun 6. Anahtar kavramlar: reliability, agreement, novel, trunk, extension, strength.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42249786/
+
+Orijinal Başlık: Short-term effects of diaphragmatic myofascial release on pain, mobility, and disability in chronic nonspecific low back pain: a randomized sham-controlled trial.
+Türkçe Başlık : Short-term effects of diaphragmatic myofascial release on pain, mobility, and disability in chronic nonspecific bel ağrısı: a randomize sham-controlled klinik çalışma.
+Türkçe Özet   : Bu içerik short-term effects of diaphragmatic myofascial release on ağrı, mobility, and disability in chronic nonspecific bel ağrısı: a randomize sham-controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: scientific reports. 2026 jun 5. Anahtar kavramlar: ağrı, short, term, effects, diaphragmatic, myofascial.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42248964/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Her bel ve bacak ağrısı bel fıtığı değil: Yıllarca yanlış tanı konulan gizli tehlike 'Koksidini'! - Cumhuriyet
+Özet  : Her bel ve bacak ağrısı bel fıtığı değil: Yıllarca yanlış tanı konulan gizli tehlike 'Koksidini'! Her bel ve bacak ağrısı bel fıtığı değil: Yıllarca yanlış tanı konulan gizli tehlike 'Koksidini'!
+Bağlantı: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmVoZVFxemZ5Q1lrYTJDallzUkx5VFBaelRJWDNERkEzLU5BSE1RSkpyQ3Z1MDU5WnQ1NDNPWDhVdnIzdjJ5U3ZqTW1FbFBpbkREdUZXWGs5czI1MXI5U0NjQWVnZHNEYWxTdkdIV0Z4aHc5aXhjRHlEbmwtY2lrZ1pxbTg5YVIwMVhic2NEVXMxNGRNTk0tazE1S2V0cjJtQktaMnMwVWxCbWh4TWJRcVpwdGlMcFUzREx4SkExdTcxZE4yMlNMSFlVb2JNWG1uNFZoNg?oc=5
+
+Başlık: Uzmanından bel fıtığına karşı uyarı: "Ameliyat en son seçenek ama bu belirtilere dikkat" İhlas Haber Ajansı - IHA
+Özet  : Uzmanından bel fıtığına karşı uyarı: "Ameliyat en son seçenek ama bu belirtilere dikkat" İhlas Haber Ajansı &nbsp;&nbsp; IHA Uzmanından bel fıtığına karşı uyarı: "Ameliyat en son seçenek ama bu belirtilere dikkat" İhlas Haber Ajansı - IHA.
+Bağlantı: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVlkTkN0RlJpS0lKbVFFb3QteldKUjFaQjRjSmNrQTdIQldBRm5FbmQwck1FM21ZTm1FbDVGM281bkxvc0h3NG5abDlTa2FGUnRMd2JEYjFnRXVvaWVPUm9CYUgzeDdzQ3YySU9rc1U5RjhTYTFOdmVWdTRsVEpiZFhMaUNuaE53WW1YNHNEOWxoeVZ2THVJSlM2NUpzSDJCRHdnNkozSEV4dTJIVXQ2QXltOS0ySmQ3QlI5STF6QjNZazBZcXVIVTVLUGkxaVBQWkNB?oc=5
+
+Başlık: İdrarda Kanama ve Bel Ağrısına Dikkat - demokrat32.com
+Özet  : İdrarda Kanama ve Bel Ağrısına Dikkat &nbsp;&nbsp; demokrat32.com İdrarda Kanama ve Bel Ağrısına Dikkat - demokrat32.com.
+Bağlantı: https://news.google.com/rss/articles/CBMickFVX3lxTE9RQmFmSXlFWjlEaGVWVzVlRVJ4RGNSRDZYOXhXQzMyc3N5aERIMmZQNUVubDIweXNhaGxmdTJJTG5INTlZTU5fM1lUQmVjZFY3blBlRlB2YUVfMHZScXFNWFVmWkpPNVdoRzNva2FTUHd1d9IBd0FVX3lxTE03RWZsRy0wS0otRGp5bElHNWJ2Q25lMEYtNHdLbXJLdkRzT19RVGhyRUstTjhrTWpQczZaRFlzNXNUNmxKZ1pjQUdPZnRFQUViUVpXcUszVU5JaU40MTF6QlRBWjlEMVJtZmlHNko1T1RsSVh6MGEw?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-06-07)
+========================================================================
+Yeni kaynak sayısı: 33
+Dağılım: Cochrane=0 | PubMed=5 | medRxiv=0 | Haber=28
+GitHub dosyası: out/skolyoz/2026-06-07_20260607T100720Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Altered Lower-Limb Dynamics in Stop-Jump Activity of Adolescents With Major Thoracic Scoliosis.
+Türkçe Başlık : Altered lower-limb dynamics in stop-jump activity of adolescents with major thoracic skolyoz.
+Türkçe Özet   : Bu içerik altered lower-limb dynamics in stop-jump activity of adolescents with major thoracic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of applied biomechanics. 2026 jun 4. Anahtar kavramlar: altered, lower, limb, dynamics, stop, jump.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42248434/
+
+Orijinal Başlık: 1-2 Level Lateral Single Position Surgery is Highly Cost-Effective in the Treatment of Surgically Indicated Degenerative Lumbar Spinal Pathology.
+Türkçe Başlık : 1-2 level lateral single position surgery is highly cost-effective in the treatment of surgically indicated degenerative lomber (bel bölgesi) spinal pathology.
+Türkçe Özet   : Bu içerik 1-2 level lateral single position surgery is highly cost-effective in the treatment of surgically indicated degenerative lomber (bel bölgesi) spinal pathology. konusuna odaklanıyor. Öne çıkan başlıklar: the spine journal : official journal of the north american spine society. 2026 jun 2. Anahtar kavramlar: spine, journal, level, lateral, single, position.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42235689/
+
+Orijinal Başlık: Relationship between idiopathic scoliosis and body composition -a case-control study.
+Türkçe Başlık : Relationship between idiopathic skolyoz and body composition -a case-control study.
+Türkçe Özet   : Bu içerik relationship between idiopathic skolyoz and body composition -a case-control study. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in physiology. 2026. Anahtar kavramlar: relationship, between, idiopathic, skolyoz, body, composition.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42222291/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Her 100 çocuktan 3'ü skolyoz riski taşıyor - Sabah
+Özet  : Her 100 çocuktan 3'ü skolyoz riski taşıyor &nbsp;&nbsp; Sabah Her 100 çocuktan 3'ü skolyoz riski taşıyor - Sabah.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0pNZkpmZWR4dDlMQlhzY2k2dmVqbF9BdERHc0UzcU5tTlNTS2tfMjRqdVRSaTItQTQycTdOY2VCc2trdFVNRm5OQmo5V1paNjZLSWp3cUtzVF9FVEVJdC05NTZSTFJPVFFYQ3p0R3NNVDJNY1M2dWhXUnNURERZT3ZfLTNneHFyM0JSMdIBjwFBVV95cUxPMlRid3FsRHpZal9aNzRDQm82TUdscjVzTlN3eXRBdGI2Yzg4WFU3c2diSDVJWDVCZU02ZkVwYU9DbjFtZG54dWdpSjFIaHpnV0ZuQzNOOGc1amx3Q0h3N2ZEOVBINVhHVEpTUUI3MHhOblJUQnloelZWalV0ZmRrRjRjQVR1WkFUSXlZM09sYw?oc=5
+
+Başlık: Bayburt’taki Okullarda Skolyoz Taraması Yapılıyor - gumuskoza.com.tr
+Özet  : Bayburt’taki Okullarda Skolyoz Taraması Yapılıyor &nbsp;&nbsp; gumuskoza.com.tr Bayburt’taki Okullarda Skolyoz Taraması Yapılıyor - gumuskoza.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxObE15bnZXYnpGSENXQTBWZkZCSU5CU1owOEVvSUZoWU1OY0lvWHRCOW9JX2ZxT05MR080TERhR0Y0b0dSdkxBTjc0ekpfaE9kVnZMWHVpVXlNcm9UUzBnOU1IY0VBY2tfenlQei1oRlNXWUhMM2I1MlBQX2daajVQRG5ISjczaEpCTkN1RkI4RExuemRpbm5TSzd4cC3SAZwBQVVfeXFMTmxNeW52V2J6RkhDV0EwVmZGQklOQlNaMDhFb0lGaFlNTmNJb1h0QjlvSV9mcU9OTEdPNExEYUdGNG9HUnZMQU43NHpKX2hPZFZ2TFh1aVV5TXJvVFMwZzlNSGNFQWNrX3p5UHotaEZTV1lITDNiNTJQUF9nWmo1UERuSEo3M2hKQk5DdUZCOERMbnpkaW5uU0s3eHAt?oc=5
+
+Başlık: Omuz seviyesindeki farklılık skolyoz işareti - Milliyet
+Özet  : Omuz seviyesindeki farklılık skolyoz işareti &nbsp;&nbsp; Milliyet Omuz seviyesindeki farklılık skolyoz işareti - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXBfWHhhdF8wbHFBc2EtbW9kMC1xUjFvREpXUjZMOXUxSW1oLWNLaklFTVBZLXI0bVNYazNva0ZiQXBLLU8zRXV2SG0yendGQWJ4dWJ6WFI0OGtSOC1LeTJ2Wm5DaVEtVUIzNnZSUzY3U0ZySDZnZmJoTVpPMlh2SmRnQnZxemdMeVQ5bEJIOA?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-06-07)
+========================================================================
+Yeni kaynak sayısı: 17
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=11
+GitHub dosyası: out/omuz/2026-06-07_20260607T100720Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Rehabilitation of Arthrogenic Muscle Inhibition in Patients with Knee Osteoarthritis and after Knee Arthroplasty.
+Türkçe Başlık : Rehabilitasyon of arthrogenic muscle inhibition in patients with knee osteoarthritis and after knee arthroplasty.
+Türkçe Özet   : Bu içerik rehabilitasyon of arthrogenic muscle inhibition in patients with knee osteoarthritis and after knee arthroplasty. konusuna odaklanıyor. Öne çıkan başlıklar: current reviews in musculoskeletal medicine. 2026 jun 6. Anahtar kavramlar: knee, rehabilitasyon, arthrogenic, muscle, inhibition, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42249256/
+
+Orijinal Başlık: Ultrasound-Guided Intervention in Adhesive Capsulitis: A Comprehensive Review of Therapeutic Strategies.
+Türkçe Başlık : Ultrasound-guided intervention in adeziv kapsülit (donuk omuz): a comprehensive review of therapeutic strategies.
+Türkçe Özet   : Bu içerik ultrasound-guided intervention in adeziv kapsülit (donuk omuz): a comprehensive review of therapeutic strategies. konusuna odaklanıyor. Öne çıkan başlıklar: biomedical journal. 2026 jun 4. Anahtar kavramlar: ultrasound, guided, intervention, adhesive, capsulitis, comprehensive.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42248412/
+
+Orijinal Başlık: Side-locked Headache Associated with Habitual Neck-Shoulder Mobile Phone Clamping: A Case Series.
+Türkçe Başlık : Side-locked headache associated with habitual neck-omuz mobile phone clamping: a case series.
+Türkçe Özet   : Bu içerik side-locked headache associated with habitual neck-omuz mobile phone clamping: a case series. konusuna odaklanıyor. Öne çıkan başlıklar: annals of indian academy of neurology. 2026 may 29. Anahtar kavramlar: side, locked, headache, associated, habitual, neck.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42241210/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Boyun ve omuz ağrısı: Doktorlar bu belirtilerin acil tıbbi müdahale gerektirdiği konusunda uyarıyor. - Vietnam.vn
+Özet  : Boyun ve omuz ağrısı: Doktorlar bu belirtilerin acil tıbbi müdahale gerektirdiği konusunda uyarıyor. Boyun ve omuz ağrısı: Doktorlar bu belirtilerin acil tıbbi müdahale gerektirdiği konusunda uyarıyor.
+Bağlantı: https://news.google.com/rss/articles/CBMikAFBVV95cUxOQm1rVWMzRTdYUlFPVG83Vl9LR00zMm15Y00tLVdLWVdhbGRhMy1JYlN5dE9idVBFN1VjQS10NGhqQ050ZktjYWVNbG9mMmhOeEdCcTVVbWlld1hNNmNkekVSQmw3ekFLTHJycEZPaTFINzY3Y05XakRleVA2bmdiWjRwY0NiT25fZkg2cC03bGs?oc=5
+
+Başlık: Kocaeli'nde Omuz Ağrısı Olanlar İçin Artroskopik Cerrahi İle Hızlı Tedavi İmkanı - Mersin Haber
+Özet  : Kocaeli'nde Omuz Ağrısı Olanlar İçin Artroskopik Cerrahi İle Hızlı Tedavi İmkanı &nbsp;&nbsp; Mersin Haber Kocaeli'nde Omuz Ağrısı Olanlar İçin Artroskopik Cerrahi İle Hızlı Tedavi İmkanı - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMivAFBVV95cUxQRW84ZzhWRnFqSlhUdGJ5VGZnTkcteHZVN2xRdjRUNmFLd0pBY3pTUGkzemJBNnVUaG04SjR3NEtuUWlZSm04bVBpZTM2N0hCRUNpcXJaOTl4ZXlZVXU0cERWb2dGWHlYVU0tYktMQmNBSWJ3VUhPNXlmRmNLd3pWV3FsaWdNMmthQ1pYVlQ4X3JBeHBXQl9YTWZZbzUzSm1Ja1BXWk9jYjl6eXJaVzFzelFKaW4zeTZmcVV1RNIBV0FVX3lxTE5mdndwdTA5azAtbWZZc0I0cG05Uk83R0VsOUR1cUctZ2FUR3NpS09iZ0xyWGVDN29QQWFZbjByZjdwVmloU3BMaWxYb29MRjlXSG83Z1FLMA?oc=5
+
+Başlık: Ofis çalışanları boyun ve omuz ağrılarından muzdarip; doktorlar etkili ağrı kesici yöntemler sunuyor. - Vietnam.vn
+Özet  : Ofis çalışanları boyun ve omuz ağrılarından muzdarip; doktorlar etkili ağrı kesici yöntemler sunuyor. Ofis çalışanları boyun ve omuz ağrılarından muzdarip; doktorlar etkili ağrı kesici yöntemler sunuyor.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkpYYjlmckc1UzhydVIwUlpWM3cxT2xBRTQ0TTItSFFqTW0wUlh4ZTBBeVBzVDloYWRMT2plV0hKTl9QSnRDU3daOGpjVjEzSDBzVUF3T2xVR05MSW9feFZoYzRlOVl2LWYxZlRTanFPMEFnQmhUODBDRXFFMXFfMmZ3enZwYVRpcjEwV2tGLVVxMkJEYnJEMXdrX0RYalE?oc=5
+
