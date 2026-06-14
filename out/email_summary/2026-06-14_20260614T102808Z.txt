@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-06-14)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   47
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-06-14)
+========================================================================
+Yeni kaynak sayısı: 32
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=24
+GitHub dosyası: out/bel_agrisi/2026-06-14_20260614T102756Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Structural barriers and facilitators of accessing rehabilitation among adults aged 50 years and older with low back pain: a scoping review of the literature.
+Türkçe Başlık : Structural barriers and facilitators of accessing rehabilitasyon among adults aged 50 years and older with bel ağrısı: a scoping review of the literature.
+Türkçe Özet   : Bu içerik structural barriers and facilitators of accessing rehabilitasyon among adults aged 50 years and older with bel ağrısı: a scoping review of the literature. konusuna odaklanıyor. Öne çıkan başlıklar: bmc health services research. 2026 jun 12. Anahtar kavramlar: structural, barriers, facilitators, accessing, rehabilitasyon, among.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42286624/
+
+Orijinal Başlık: Dysmenorrhea patients' experience with work productivity impact and treatment in Japan.
+Türkçe Başlık : Dysmenorrhea patients' experience with work productivity impact and treatment in japan.
+Türkçe Özet   : Bu içerik dysmenorrhea patients' experience with work productivity impact and treatment in japan. konusuna odaklanıyor. Öne çıkan başlıklar: bmc women's health. 2026 jun 12. Anahtar kavramlar: dysmenorrhea, patients, experience, work, productivity, impact.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42286607/
+
+Orijinal Başlık: Photon-counting CT for paraspinal muscle fat quantification compared with MRI proton density fat fraction.
+Türkçe Başlık : Photon-counting ct for paraspinal muscle fat quantification compared with mri proton density fat fraction.
+Türkçe Özet   : Bu içerik photon-counting ct for paraspinal muscle fat quantification compared with mri proton density fat fraction. konusuna odaklanıyor. Öne çıkan başlıklar: bmc medical imaging. 2026 jun 12. Anahtar kavramlar: fat, photon, counting, paraspinal, muscle, quantification.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42286523/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: "Modern yaşam tarzı, omurga sağlığını etkileyebiliyor" - IHA
+Özet  : "Modern yaşam tarzı, omurga sağlığını etkileyebiliyor" &nbsp;&nbsp; IHA "Modern yaşam tarzı, omurga sağlığını etkileyebiliyor" - IHA.
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUxRWXk3ZEtkNlJuZ0J1a0U0SlhtRDFaYlE4LXBLZW5fd2JZdEZURkRpdVhFbVl1NkVRX3NDN1NGVlJwdWlnck9wbTFSZENMSWZnZFVxTktYNHg0U0V0Q2puM2Q2S19kWUZGNWdReTB6aDdRbUhuRkpXcGhnWm9GZWlFWGtBMjJQVXNLQndMSDRzNEtITDlySUx0ckQ3ZEhGaW5R?oc=5
+
+Başlık: Mersin'de Modern Yaşam Tarzının Omurga Sağlığı Üzerindeki Etkileri Değerlendirildi - Mersin Haber
+Özet  : Mersin'de Modern Yaşam Tarzının Omurga Sağlığı Üzerindeki Etkileri Değerlendirildi &nbsp;&nbsp; Mersin Haber Mersin'de Modern Yaşam Tarzının Omurga Sağlığı Üzerindeki Etkileri Değerlendirildi - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0plSEpfVlNMNWNUVHVMV3YybWxCSFU3WG9ZQVJTRWt5OGNNdVl1bWpwNTJSa056aGtXX2IyemF0U2RtS3MyczRRNjZSSTRCQ0xDSmRyTFJQWnB1Wl9mOW50Ty1vbDVpRi1PQmoxaEdzWS1KLWxJQnFrYmQ4M04yaEdwWktqUWNNbndEaXA0Z0VwQ0hWa3BWdk9WeEFLaEVnNFFpQ2hfUF9fcDFzR2JrajJSLVNpWWxsd01tUGM1QdIBV0FVX3lxTE1XOTV3Wm9vVHpGUVcyaFRPVHdXRmtXNS1YZm1NS1o0MUdXeEdiS3BCTE82aXh1TnpYdi1NZEZxNm1JeVZuTHJLdkxoYnlSMk9zVVpoeW5DNA?oc=5
+
+Başlık: Modern Yaşam Tarzı Omurga Sağlığını Etkiliyor: Op. Dr. Ömer Neşet Kişi'nin Bel ve Boyun Fıtığı Değerlendirmesi - Aksiyon.com.TR
+Özet  : Ömer Neşet Kişi'nin Bel ve Boyun Fıtığı Değerlendirmesi &nbsp;&nbsp; Aksiyon.com.TR Ömer Neşet Kişi'nin Bel ve Boyun Fıtığı Değerlendirmesi - Aksiyon.com.TR.
+Bağlantı: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnppWmdEZkxOVDJMWU9JNW5xVzNkS01HRTdQUTVUTERFbjYtcjlOTGxjR2U3WHVaejEwM29iU1IzUGNVdkxmczMtbkFQQ1JHeUZfMGp0ZVBULUJyX3hYdTdPY2hnUHV2VTdBVGs2ZmtVcDBJQ0FFX2VnM2FqS3RSMkZZcE9zQnJnbmswaUVaTjVZanZ6Ymh0WFQ1MTFEcDd1VVQ4WE5hclRTY1B2UlNFcGxEcUZubHo0WGtOVTlFbGpIOG1ZcnVVUDh3YkhyclJOSXViOUllZWvSAd4BQVVfeXFMTlpmLUd1ZW9aWF9QVXFCV0xUckJrNzZuLVR0aERacU9kR0s2anlTU29kT0k5Y0hMOTJMYTVjZ1JaQzl2Z3hOTXp0aE1MR1VxZjBGZFVRYzVDWTNyMmE5WnE5cEd2QUxoY2R2Z2RJbXR3clhZaEw2QjMta2ZrNjVBZWdESmxvUDdfSEN4cHpFdmZTLTNBaUV4RHFyYWhRWjdiY241NkJrRDBMWWdmdXVXUjFqNHA4NnEwQTVlbWpySXJqN1lwWEdNZGVEZEVMZVBZd29tVFpQdVByY3drWTZR?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-06-14)
+========================================================================
+Yeni kaynak sayısı: 21
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=20
+GitHub dosyası: out/skolyoz/2026-06-14_20260614T102756Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Musculoskeletal health among adults with cerebral palsy: A systematic review.
+Türkçe Başlık : Musculoskeletal health among adults with cerebral palsy: a sistematik derleme.
+Türkçe Özet   : Bu içerik musculoskeletal health among adults with cerebral palsy: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: developmental medicine and child neurology. 2026 jun 11. Anahtar kavramlar: musculoskeletal, health, among, adults, cerebral, palsy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42281159/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Medipol'den ileri derece skolyoz hastasına başarılı operasyon - Anadolu Ajansı
+Özet  : Medipol'den ileri derece skolyoz hastasına başarılı operasyon &nbsp;&nbsp; Anadolu Ajansı Medipol'den ileri derece skolyoz hastasına başarılı operasyon - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGRxRmc1SFJuVnVzbDNmMXVhUmRiSFdEcFlZQnZnenJTOWw3cU52WndxWkdScWlOSjk5YXZFZGc1T1dXdkVWRjdQaTR3eDNvenhXaTl3VE40cDhzYkF6R1A5OGl4TVhyWHBfcVZSUVloQ0F1MkprRlk3N2diSElwOFB6MnduQkZsRkRYN2VldjNEN1FyYU0xLUxWVjdWQ3BNajJOaEdkUnVkZzBVcFE?oc=5
+
+Başlık: Enovis ABD pazarında hibrit skolyoz korsesi tanıttı Yazar Investing.com - Investing.com Türkiye
+Özet  : Enovis ABD pazarında hibrit skolyoz korsesi tanıttı Yazar Investing.com &nbsp;&nbsp; Investing.com Türkiye Enovis ABD pazarında hibrit skolyoz korsesi tanıttı Yazar Investing.com - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3VEMkstOGRVNDFyakxKTVFhYUtCczFzVDl4UDdDTkN0Z2o5cElqWTFDMGRfVTVUZ1l5SGk5S0oxYnFjRkZ4REVkdDFqUkR0UTlWQWRIMkl1RmdYY0hzUzE3bUJ2MUtNYjdzTDNnbUcyeUd4NEtmNWt0VEVDcnBiMlcxZkRnS2dGU2F4MHFYN1J4MFlhUTRUR2xVQjl2cDFCMHF4WlRSZw?oc=5
+
+Başlık: Fırat Üniversitesi’nde Skolyoz Sempozyumu - Elazığ Son Haber
+Özet  : Fırat Üniversitesi’nde Skolyoz Sempozyumu &nbsp;&nbsp; Elazığ Son Haber Fırat Üniversitesi’nde Skolyoz Sempozyumu - Elazığ Son Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMie0FVX3lxTFBCU1BGWGRhbnRVd0lRenhsUEJaZGRQREdYNDZjc3FzS0w2RndyXzlDTFNuX2dtaVNidU9OVzlPMWFzVklIVHJFVXdoTk9xQ1hUanZUbFpscTkzZEd3V21YSmpkR3hSX1ZMUzlwQU9iNlByOWt4V2NnTGEtSQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-06-14)
+========================================================================
+Yeni kaynak sayısı: 11
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=3
+GitHub dosyası: out/omuz/2026-06-14_20260614T102756Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Postoperative exercise modulating gut microbiota and associated metabolites to facilitate bone-tendon healing in rotator cuff tears.
+Türkçe Başlık : Postoperative egzersiz modulating gut microbiota and associated metabolites to facilitate bone-tendon healing in rotator manşet tears.
+Türkçe Özet   : Bu içerik postoperative egzersiz modulating gut microbiota and associated metabolites to facilitate bone-tendon healing in rotator manşet tears. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jun 13. Anahtar kavramlar: postoperative, egzersiz, modulating, gut, microbiota, associated.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42286567/
+
+Orijinal Başlık: Profile of Patients With Chronic Musculoskeletal Pain Waiting for Physiotherapy in Secondary Health Care: A Cross-Sectional Study.
+Türkçe Başlık : Profile of patients with chronic musculoskeletal pain waiting for fizyoterapi in secondary health care: a cross-sectional study.
+Türkçe Özet   : Bu içerik profile of patients with chronic musculoskeletal ağrı waiting for fizyoterapi in secondary health care: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal care. 2026 jun. Anahtar kavramlar: musculoskeletal, care, profile, patients, chronic, ağrı.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42285916/
+
+Orijinal Başlık: Multimodal Musculoskeletal Rehabilitation in Clinical Practice: A Bibliometric and Altmetric Mapping Study (1989-2026).
+Türkçe Başlık : Multimodal musculoskeletal rehabilitasyon in clinical practice: a bibliometric and altmetric mapping study (1989-2026).
+Türkçe Özet   : Bu içerik multimodal musculoskeletal rehabilitasyon in clinical practice: a bibliometric and altmetric mapping study (1989-2026). konusuna odaklanıyor. Öne çıkan başlıklar: healthcare (basel, switzerland). 2026 jun 3. Anahtar kavramlar: multimodal, musculoskeletal, rehabilitasyon, clinical, practice, bibliometric.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42278817/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Burun estetiğinde fonksiyon öncelikli olmalı - Afyon Ana Haber
+Özet  : Burun estetiğinde fonksiyon öncelikli olmalı &nbsp;&nbsp; Afyon Ana Haber Burun estetiğinde fonksiyon öncelikli olmalı - Afyon Ana Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2VPY3VsMXUtalE0Zkh4ZUhlN0F5NWVlYTNWVmF5SFVkTG1id3IyR2g4UWJVYVFtbF9jM053U284NUZoOGw1djlIblB2eEgyVUs0VnVaa2FEU0ZJTFlZcVVydWEyYkZiaFpwLTk0RVFCNmZiUlZxdUZhVVFUT2hwd0o2R2FPTkZ10gGIAUFVX3lxTE8zZU9jdWwxdS1qUTRmSHhlSGU3QXk1ZWVhM1ZWYXlIVWRMbWJ3cjJHaDhRYlVhUW1sX2MzTndTbzg1Rmg4bDV2OUhuUHZ4SDJVSzRWdVprYURTRklMWVlxVXJ1YTJiRmJoWnAtOTRFUUI2ZmJSVnF1RmFVUVRPaHB3SjZHYU9ORnU?oc=5
+
+Başlık: Khanh Hoa İl Geleneksel Tıp Derneği, Tay Khanh Vinh beldesinde yaşayan 500 kişiye tıbbi muayene ve ilaç dağıtımı konusunda iş birliği yaptı. - Vietnam.vn
+Özet  : Khanh Hoa İl Geleneksel Tıp Derneği, Tay Khanh Vinh beldesinde yaşayan 500 kişiye tıbbi muayene ve ilaç dağıtımı konusunda iş birliği yaptı. Khanh Hoa İl Geleneksel Tıp Derneği, Tay Khanh Vinh beldesinde yaşayan 500 kişiye tıbbi muayene ve ilaç dağıtımı konusunda iş birliği yaptı.
+Bağlantı: https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDgycWZKQUhKalBwemdLcm5VUDlMUG90WDNzcGM1bmVDVTdlRmlUc2lacklydnZZaERxb181RXhhb2FidWhvaEtWLXNudm5FZVM0bUpzcTNWSEtXVzNja2VLRzlob0JiaXAtUDlkaWg0YnlIRFFMVVlHeHhadUdkN3F4ZDhnbVNvRWQxdTFXZmZnMG9hMHl5NjN0VWZNTzY5U1I0QXVYNXJCRUV5UFl0b0lJYU1YR1k?oc=5
+
+Başlık: An Giang Sağlık Müdürlüğü, dang hummasının önlenmesi ve kontrolünün güçlendirilmesi yönünde talimat verdi. - Vietnam.vn
+Özet  : An Giang Sağlık Müdürlüğü, dang hummasının önlenmesi ve kontrolünün güçlendirilmesi yönünde talimat verdi. An Giang Sağlık Müdürlüğü, dang hummasının önlenmesi ve kontrolünün güçlendirilmesi yönünde talimat verdi.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUZGdUJsT1FFSE51MnBUbkxvN3daYXFkZ2VhZ0NZTHBmNkNTVmsxcWJqUHJjUGtMS0dVbkpXSnctU0lTeU9uQlRfUklOaUdHaEFLWmVMWVl4SEpVYjB1dE9KT0hOc1BlbVRuV0dZbDJNYkk4bThNRHBGdUVaLVlwNTN5V3ZXYlh4dEVwYW5zUTR3dw?oc=5
+
