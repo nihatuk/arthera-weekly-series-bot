@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-06-21)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      23
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   65
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-06-21)
+========================================================================
+Yeni kaynak sayısı: 33
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=25
+GitHub dosyası: out/bel_agrisi/2026-06-21_20260621T103439Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of abdominal hollowing and piriformis stretching exercises in spondylolisthesis patients: a study protocol for a randomized controlled trial.
+Türkçe Başlık : Effectiveness of abdominal hollowing and piriformis stretching egzersizs in spondylolisthesis patients: a study protocol for a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of abdominal hollowing and piriformis stretching egzersizs in spondylolisthesis patients: a study protocol for a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: klinik çalışmas. 2026 jun 20. Anahtar kavramlar: effectiveness, abdominal, hollowing, piriformis, stretching, egzersizs.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42321860/
+
+Orijinal Başlık: Preoperative BMI-adjusted sarcopenia defined by AWGS 2025 is associated with 1-year changes in the patient-reported outcomes of lumbar spinal stenosis surgery.
+Türkçe Başlık : Preoperative bmi-adjusted sarcopenia defined by awgs 2025 is associated with 1-year changes in the patient-reported outcomes of lomber (bel bölgesi) spinal stenosis surgery.
+Türkçe Özet   : Bu içerik preoperative bmi-adjusted sarcopenia defined by awgs 2025 is associated with 1-year changes in the patient-reported sonuçs of lomber (bel bölgesi) spinal stenosis surgery. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 jun 20. Anahtar kavramlar: european, spine, society, spinal, preoperative, bmi.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42321424/
+
+Orijinal Başlık: Unilateral Biportal Endoscopic Discectomy vs Percutaneous Interlaminar Endoscopic Discectomy for L5 to S1 Disc Herniation: A Prospective Comparative Study With Quasirandom Allocation.
+Türkçe Başlık : Unilateral biportal endoscopic discectomy vs percutaneous interlaminar endoscopic discectomy for l5 to s1 disc herniation: a prospective comparative study with quasirandom allocation.
+Türkçe Özet   : Bu içerik unilateral biportal endoscopic discectomy vs percutaneous interlaminar endoscopic discectomy for l5 to s1 disc herniation: a prospective comparative study with quasirandom allocation. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of spine surgery. 2026 jun 19. Anahtar kavramlar: endoscopic, discectomy, unilateral, biportal, percutaneous, interlaminar.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42321004/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Gündüzleri inşaatta kalıp ustası, boş zamanlarında da "doktor". Sahte doktordan bel fıtığı ve kırık-çıkık tedavisi - NTV Haber
+Özet  : Sahte doktordan bel fıtığı ve kırık-çıkık tedavisi &nbsp;&nbsp; NTV Haber Sahte doktordan bel fıtığı ve kırık-çıkık tedavisi - NTV Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPajFkOW1fVDFDSHBfaTFsMEp3UXNCTkNlZXJBRkdwVHpXUl9hcVRKNTdYXzdFTWFNWFJsRW5ZdkloS1hYOFlRZjV4dkF5QnZoR2pORFl3alR0clFfMVZ6Z1RGUnBoaWFUeEc2YUF0VEMtb1dvZmt0M19YRjNpRGtRcllJQnQwUE4zNjhSQm1TVW1KY2twV2NHOE50eEpOM1ZyX1NCa090RHNSeXhQUXE4RWxjZHp5NUtweHBuM0JtVkNmazBOXzUzdXljQWJmWEgzM3UwQnFaaTQzM2JOcWY4clA3bHY5dmxFTnctTNIB8gFBVV95cUxOM083Y0ZPcEEwaGZNMTJUeURvS3llU0JEMmYtc1pDMkNSMGJUYUlLVVl6Q3FtN0FEZlhQTEFFbWh2QWMtVHQ1WXJFakpCdEtwX0M4NUdMTzZNZDdyZGR6al9mT0hSNlV3cFlmMS1VWFRtYk1ZRGFyQnljcVZIbms5WS0tZWlWYjN2OEVCQmNKZEMxaE1oWFJ2WHk4MEt0VEJ1S0piS0JhTDdxZVBsWEpzUU5HUjlOcTVPcGNKRUdRTGQzaW9NODFXaHhkWnhaS3lOUkR3UG9hTEEyaExyaVQyVU1VRXE2TWZhNDdhTk1lVkF6QQ?oc=5
+
+Başlık: Zehra Güneş'ten üzücü haber: Bel fıtığı tespit edildi - Nefes Gazetesi
+Özet  : Zehra Güneş'ten üzücü haber: Bel fıtığı tespit edildi &nbsp;&nbsp; Nefes Gazetesi Zehra Güneş'ten üzücü haber: Bel fıtığı tespit edildi - Nefes Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0hWaTgyUFcwQmVKaVUtV1lRMzNLYVFVSGhKRmotcnJVODV3bnI3b2VoTnpIV1ZlQ1N3UTJvVEN5LVVaMjNTMWFCUlM1clg5REQ5SkRuLWxjSlJwWFBrZWdtRVZfLVh6SndQZUZhc3M2Y2NsZlZzeDZRQl80eWJneHlQVmxqOEQ0ZF9R0gGQAUFVX3lxTE9JR19FMVJrRlVKWngyVVUyTzhwb0R6azgxYmJzWE5ISHRBWEhiU0o5ajdHZ1c0R0dFbjV3dUJEb2RETmE1VnctYUdqem5abFhLMVRZajJ4OWJMNkpuQ2x5U3BoMmpTSVhHSDJ1bl9KbnZOX0dZblBOdDd4a3ZQaVpoNC01NUd0cnNKaVczNjFNVg?oc=5
+
+Başlık: Şanlıurfa'da 'sahte doktor'un muayenehanesine operasyon! İnşaatta usta, tamirhanede kaportacı olduğu ortaya çıktı - Hürriyet
+Özet  : İnşaatta usta, tamirhanede kaportacı olduğu ortaya çıktı &nbsp;&nbsp; Hürriyet İnşaatta usta, tamirhanede kaportacı olduğu ortaya çıktı - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlVKbnc0OTd0WUMySUFWalg0dW9lZEZ5WDNSWFdCalQ3bC1xTkREZnhCWS05dUxxaWtOcEJLWTA0QmdjN1lhSmtLNjNWTjQ0ZE84LUdBcmdXN2VKa0ZCZTN5d0JtaklndGduYkl0Y0xUeXpmZzBoSFlJb2RnMGcwdDZfT0t1bnVBcUM3Z1RXUDVqMmVzaGxzU3dQYnJ2Y25YdVEzaHNTaVh6cnVhSTEyWDhsZWw2N0VhMGFNdVNCVTJnYWRtT3RneGVIUFN6OFJkUE5FazRuY0F5dVBvQzNYTmZ3?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-06-21)
+========================================================================
+Yeni kaynak sayısı: 32
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=24
+GitHub dosyası: out/skolyoz/2026-06-21_20260621T103439Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of Individual Exercise Versus Group Exercise in the Integration of Orthotic Treatment for Adolescent Idiopathic Scoliosis: A Randomized Clinical Trial.
+Türkçe Başlık : Effectiveness of individual egzersiz versus group egzersiz in the integration of orthotic treatment for adolescent idiopathic skolyoz: a randomize clinical klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of individual egzersiz versus group egzersiz in the integration of orthotic treatment for adolescent idiopathic skolyoz: a randomize clinical klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: american journal of physical medicine & rehabilitasyon. 2026 apr 29. Anahtar kavramlar: egzersiz, effectiveness, individual, versus, group, integration.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42308406/
+
+Orijinal Başlık: Acute Effect of Physio-logic® Exercises on Muscle Tone and Stiffness in Adolescent Idiopathic Scoliosis Patients: A Preliminary Study.
+Türkçe Başlık : Acute effect of physio-logic® egzersizs on muscle tone and stiffness in adolescent idiopathic skolyoz patients: a preliminary study.
+Türkçe Özet   : Bu içerik acute effect of physio-logic® egzersizs on muscle tone and stiffness in adolescent idiopathic skolyoz patients: a preliminary study. konusuna odaklanıyor. Öne çıkan başlıklar: studies in health technology and informatics. 2026 jun 15. Anahtar kavramlar: acute, effect, physio, logic, egzersizs, muscle.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42290455/
+
+Orijinal Başlık: Post-Operative Pain Patterns and Trunk Alignment in Patients Following Surgery for Adolescent Idiopathic Scoliosis (AIS): From Pathway to Patterns.
+Türkçe Başlık : Post-operative pain patterns and trunk alignment in patients following surgery for adolescent idiopathic skolyoz (ais): from pathway to patterns.
+Türkçe Özet   : Bu içerik post-operative ağrı patterns and trunk alignment in patients following surgery for adolescent idiopathic skolyoz (ais): from pathway to patterns. konusuna odaklanıyor. Öne çıkan başlıklar: studies in health technology and informatics. 2026 jun 15. Anahtar kavramlar: patterns, post, operative, ağrı, trunk, alignment.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42290453/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Uzmanlardan skolyoz uyarısı: Erken tanı eğriliğin ilerlemesini önleyebilir - kıbrıs postası
+Özet  : Uzmanlardan skolyoz uyarısı: Erken tanı eğriliğin ilerlemesini önleyebilir &nbsp;&nbsp; kıbrıs postası Uzmanlardan skolyoz uyarısı: Erken tanı eğriliğin ilerlemesini önleyebilir - kıbrıs postası.
+Bağlantı: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnJtbl90ZjJWcDRGVWNHRjBXcWMtMjZOZlNsT25xLTc5MlU2R0ZXVUJWTDBadXZUdGhIVDY0NGduWHZ3dXNuVU9kczU3RjA0azlfc0tFdFhMR0Z3X0ZNRnZ4dGJQaDdhdkhsM2FTMGk3S0VPdjFKYm5mcWtSOGk2ZUwzNU15LThDdHg2dm1Hbk1KTm14RlI1VEUyM3psX0RrdVU3aEFfeVZRQnppT2J1a2luSmtRSmR3ZDlMbkxMVQ?oc=5
+
+Başlık: Fırat Üniversitesi’nde Skolyoz Sempozyumu - Kanal23
+Özet  : Fırat Üniversitesi’nde Skolyoz Sempozyumu &nbsp;&nbsp; Kanal23 Fırat Üniversitesi’nde Skolyoz Sempozyumu - Kanal23.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1FkUHRKT3pwSVkxR2plaVJISXRIblNmVDVXbnItRk5hV1ZELW1kNFFiOVZpQTRvbGRuYVdpSnM2VUpoVTNoR3ZDaDVMZkZDU25iRGJJV2dCM2M3MFZkUzM3dGZqUTNINHZQcGsyZEZTMjJmTFpPZFVBYmFYUHNGcTZOWWlDRWVZaU0xaDV4TQ?oc=5
+
+Başlık: Skolyoz hastası Süheyda, dik duruşa kavuştu - DHA | Demirören Haber Ajansı
+Özet  : Skolyoz hastası Süheyda, dik duruşa kavuştu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Skolyoz hastası Süheyda, dik duruşa kavuştu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1Idkx1N1Z5WlR0NTh3THBJMUNNNnpxdFhaRzFJcUtEOUYzSmtaM3JEWll2TDdKZUpPcjJNaEIyMlFELWZTN3d4NWc5UXMtTDhmZE5SWU9heXZocG00aWduemZhRDVQWjhwT3RXN0syM2hYZkpMQV9tcGxRaWlEU2o3S21zNVZ2MlZJS9IBkgFBVV95cUxOZXpkQ0V0elVVU21xNGJPZVp0WlpoTzNjSlFMNlhpallGM0w5SDJNTnJPOW1pV2VHVXJ2c0pUODB1NnhHNkZpRzNoTnNoY3JpUDIwZnRtOHp3QUFXRU5tajE4NzhXejlwcnhkRjRVQmw5cEdXU2ItWWtPVTQ1NWFieUR0SkJDNUVtNTAweWd3aFBYQQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-06-21)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=16
+GitHub dosyası: out/omuz/2026-06-21_20260621T103439Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Is ophthalmology a pain-free career? A systematic review and meta-analysis of musculoskeletal pain among ophthalmologists.
+Türkçe Başlık : Is ophthalmology a pain-free career? a sistematik derleme and meta-analiz of musculoskeletal pain among ophthalmologists.
+Türkçe Özet   : Bu içerik is ophthalmology a ağrı-free career? a sistematik derleme and meta-analiz of musculoskeletal ağrı among ophthalmologists. konusuna odaklanıyor. Öne çıkan başlıklar: canadian journal of ophthalmology. journal canadien d'ophtalmologie. 2026 jun 19. Anahtar kavramlar: ophthalmology, ağrı, journal, free, career, systematic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42320535/
+
+Orijinal Başlık: Investigation of the task- or muscle-specific organisation of motor cortex representations of shoulder muscles in pain-free adults.
+Türkçe Başlık : Investigation of the task- or muscle-specific organisation of motor cortex representations of omuz muscles in pain-free adults.
+Türkçe Özet   : Bu içerik investigation of the task- or muscle-specific organisation of motor cortex representations of omuz muscles in ağrı-free adults. konusuna odaklanıyor. Öne çıkan başlıklar: neuroscience. 2026 jun 18. Anahtar kavramlar: investigation, task, muscle, specific, organisation, motor.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42314795/
+
+Orijinal Başlık: Rehabilitation of Frozen Shoulder: A Systematic Review and Meta-Analysis of Multifactorial Interventions.
+Türkçe Başlık : Rehabilitasyon of donuk omuz: a sistematik derleme and meta-analiz of multifactorial interventions.
+Türkçe Özet   : Bu içerik rehabilitasyon of donuk omuz: a sistematik derleme and meta-analiz of multifactorial interventions. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı research & management. 2026. Anahtar kavramlar: rehabilitasyon, frozen, omuz, systematic, review, meta.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42307090/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kronik Omuz Ağrısı Çekenlere Müjde: Doçent Doktor Serkan Akpancar'ın Araştırması Dünyada Ses Getirdi - malatyatime.com
+Özet  : Kronik Omuz Ağrısı Çekenlere Müjde: Doçent Doktor Serkan Akpancar'ın Araştırması Dünyada Ses Getirdi &nbsp;&nbsp; malatyatime.com Kronik Omuz Ağrısı Çekenlere Müjde: Doçent Doktor Serkan Akpancar'ın Araştırması Dünyada Ses Getirdi - malatyatime.com.
+Bağlantı: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSV9SUlUtdDV5cmZ5anphRWVhWXE2QklCdTZHMFcwQndrc1RpLTFuM2VXUTdESlB5d3pRNlNVbUktSVNnZkxMMmNOdkl4dDVaMy1sblVkZ0htTEJOVjVWYldUX25lZmNCQXUzV0ZpNEhheElGc0J4NW9ndnVROVQ1N0tyMUV2dkpiTDQwSGlCengyanljSGNPSFhjS19OT1lSY0RLNVh3Tk5fdTlXbUJlejlhZmFodkJmdkYwb3BHX1ZIc2hQZzM4V0hSWnB3cFliaV8tSUhR0gHTAUFVX3lxTE9UcGI3T3NNbWNRZ2l4Q1pDQTZvdS0xMFBjdDN6VkhROHozcHI2dEJzQTUtNTc3T0d1elExY1l6NkI4M1VfVmg4eXk1T29CMFkxTUdDMkd1cDFQakt5SV9nRndZX2xiSUtSQnJyc1cyZTlGU3Y4ck0yLWJUSmJkX3FvNHpUVldBYTVhQkF3ZFhMY3l0aC1SdDZPeU5jdDkyVDJlUDJqUUpIclBQWHR5MjFvbTdnSDZrc3JyOWNRWGZxQUlQQThxOUdmQlBVME9VcXFhbVE?oc=5
+
+Başlık: Malatyalı Doktorun Araştırması Dünyada Ses Getirdi! Omuz Ağrılarında Ameliyata Alternatif Umut - Malatya Söz
+Özet  : Omuz Ağrılarında Ameliyata Alternatif Umut &nbsp;&nbsp; Malatya Söz Omuz Ağrılarında Ameliyata Alternatif Umut - Malatya Söz.
+Bağlantı: https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3MwQkJEV0hqOTdncEZBMTZHYlA1MVZSamwxa29sei1Uckdkb09UT1JxVFhkem5DMWRwa0E2Z004N1ViaTAxb0NQT0o1ZTlyRm04VFRjZlFlNWRUSGoxc2JoZm1GeERtZDhwSF9ZemNqN0NReEpJbllaM3c3cklkYi1TVUd6UmZHM2daVVYyVVZZOWV4cC1UcnhsSXhpVzN0WVAyTS1KRWsyLVdDRVNuV1B6Z3pfdEZGTU15WdIBwgFBVV95cUxPbU0tcGVzekFzVndyWFlzdUxJckFMdzJmRGVYcWoxWHBja3JDQWZYclNvZGJUZlNkWGd1a3FLdHdianl4Njdxd2p6NVZYRmhESDdGMy1iVkxuQW5HTjUzaThMcjktQUhXT2VONFpGUW11UkU3WGFXWEh5SFJWNWxrM3Myc0tDYjlrVXBLUkxTUF9pYUt6blVOcmpJLVEtdEVGaE11MUtIZXBtY0daZ0xnSllsSTJwQW1vR2xPZU4xdmhCZw?oc=5
+
+Başlık: Genç bir adamda akut böbrek yetmezliği gelişti; meslektaşları zamanında hayatını kurtarmaya karar verdi. - Vietnam.vn
+Özet  : Genç bir adamda akut böbrek yetmezliği gelişti; meslektaşları zamanında hayatını kurtarmaya karar verdi. Genç bir adamda akut böbrek yetmezliği gelişti; meslektaşları zamanında hayatını kurtarmaya karar verdi.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXhQYmNqWngySF9ORGhUcmVlZm8zWGhTUl9oMU5oN0l6cmhwU25NUkpJZ0lWVXJuV0ZZQ3pqQU9OaGRnWG1tSVJQTmtqQ01mWHEwZVhPOGhPemV1cXpfcEs0SWNaTXlnaTQ0cFMyaHk4ZTNMa0dWMU96anFtUWFsU0FpcEtCRjhrYk5DM0FCTWp6MlRjSXB3TQ?oc=5
+
