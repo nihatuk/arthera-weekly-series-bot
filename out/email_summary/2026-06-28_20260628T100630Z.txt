@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-06-28)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      21
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   65
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-06-28)
+========================================================================
+Yeni kaynak sayısı: 39
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=31
+GitHub dosyası: out/bel_agrisi/2026-06-28_20260628T100614Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Perception of being worse based on changes in pain and disability in people with low back pain.
+Türkçe Başlık : Perception of being worse based on changes in pain and disability in people with bel ağrısı.
+Türkçe Özet   : Bu içerik perception of being worse based on changes in ağrı and disability in people with bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: scientific reports. 2026 jun 27. Anahtar kavramlar: ağrı, perception, worse, based, changes, disability.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42365025/
+
+Orijinal Başlık: An efficient framework for fully deformable finite element musculoskeletal spine modeling: development, sensitivity analysis, and validation.
+Türkçe Başlık : An efficient framework for fully deformable finite element musculoskeletal spine modeling: development, sensitivity analysis, and validation.
+Türkçe Özet   : Bu içerik an efficient framework for fully deformable finite element musculoskeletal spine modeling: development, sensitivity analysis, and validation. konusuna odaklanıyor. Öne çıkan başlıklar: journal of biomechanics. 2026 jun 24. Anahtar kavramlar: efficient, framework, fully, deformable, finite, element.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42364442/
+
+Orijinal Başlık: Risk factors for residual low back pain at twelve months after low-temperature plasma radiofrequency ablation in lumbar disc herniation: a retrospective cohort study.
+Türkçe Başlık : Risk factors for residual bel ağrısı at twelve months after low-temperature plasma radiofrequency ablation in lomber (bel bölgesi) disc herniation: a retrospective cohort study.
+Türkçe Özet   : Bu içerik risk factors for residual bel ağrısı at twelve months after low-temperature plasma radiofrequency ablation in lomber (bel bölgesi) disc herniation: a retrospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: international orthopaedics. 2026 jun 27. Anahtar kavramlar: low, risk, factors, residual, back, ağrı.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42364042/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Başlangıçta hafif bir bel ağrısı olan durum, ayak bileklerinde ve ayaklarda felce dönüşerek yürümeyi zorlaştırdı. - Vietnam.vn
+Özet  : Başlangıçta hafif bir bel ağrısı olan durum, ayak bileklerinde ve ayaklarda felce dönüşerek yürümeyi zorlaştırdı. Başlangıçta hafif bir bel ağrısı olan durum, ayak bileklerinde ve ayaklarda felce dönüşerek yürümeyi zorlaştırdı.
+Bağlantı: https://news.google.com/rss/articles/CBMimwFBVV95cUxNelk1UFk0TEQ5akdDVUFJUUVhT3oxSXpmWE9JVlNSYWh5eFhrdm5abTJDUTZKZk9TbjdXNnl4MkFWd1ZZVndLR051Wk5NMzhwSGxwQnRDamlzcW52SFduMW5HbHZOTTROMlY0ZEdsVkJhSWdpUTFYNU0zRDljaUlQUnhxMS1KTV84NTBHZmdEdFZtZVB1czhjemFBUQ?oc=5
+
+Başlık: Anevrizmanın 5 sinyali - Medimagazin
+Özet  : Anevrizmanın 5 sinyali &nbsp;&nbsp; Medimagazin Anevrizmanın 5 sinyali - Medimagazin.
+Bağlantı: https://news.google.com/rss/articles/CBMickFVX3lxTE1aaS1uTDAxMzdLZ1NoUUhHZXBURU9yeGU3OURyaUtGYnVIUjZ1Q0R3UVE3Y1d4T1ZtM3NBTE9hVV9qcUxBVXl2NEctemlBMzFqZEpOdGRoWG9vQ3lrUWx0T0ZNWWZGMy0yMFgwRklyaU1BUQ?oc=5
+
+Başlık: Portekiz'de en sık görülen kronik hastalık nedir? - The Portugal News
+Özet  : Portekiz'de en sık görülen kronik hastalık nedir? Portekiz'de en sık görülen kronik hastalık nedir?
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxOUF9UQTZmekRtWHZqZzl3dHNacE5ET0xRaTJJbTRtX0dFc0FubjZHZTRKQVFzSUNRNU1iNFZaVmMyTTF6ZmJHVHhTaFIxTEItUGtrYmtDTmJldzB1b3Y2cEZTRllieVptQi0ycExpRGc0eGxHM1l3UjFKQ19LU2k5N21WaVdSUDJySVdfeHVJNXpQU0FFUGpmMkNnOGVCdmdxeFhZd0p3?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-06-28)
+========================================================================
+Yeni kaynak sayısı: 25
+Dağılım: Cochrane=0 | PubMed=5 | medRxiv=0 | Haber=20
+GitHub dosyası: out/skolyoz/2026-06-28_20260628T100614Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Comment on "Responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic scoliosis: results from the schroth exercise trial".
+Türkçe Başlık : Comment on "responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic skolyoz: results from the schroth egzersiz klinik çalışma".
+Türkçe Özet   : Bu içerik comment on "responsiveness and minimal clinically important changes of surface topography parameters in adolescents with idiopathic skolyoz: results from the schroth egzersiz klinik çalışma". konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 jun 27. Anahtar kavramlar: european, spine, society, comment, responsiveness, minimal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42363975/
+
+Orijinal Başlık: BNC2 in Development and Disease: Regulatory Mechanisms and Translational Implications.
+Türkçe Başlık : Bnc2 in development and disease: regulatory mechanisms and translational implications.
+Türkçe Özet   : Bu içerik bnc2 in development and disease: regulatory mechanisms and translational implications. konusuna odaklanıyor. Öne çıkan başlıklar: molecules (basel, switzerland). 2026 jun 14. Anahtar kavramlar: bnc, development, disease, regulatory, mechanisms, translational.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42357486/
+
+Orijinal Başlık: Barriers and facilitators of brace compliance in adolescents with spinal deformities: a qualitative study.
+Türkçe Başlık : Barriers and facilitators of brace compliance in adolescents with spinal deformities: a qualitative study.
+Türkçe Özet   : Bu içerik barriers and facilitators of brace compliance in adolescents with spinal deformities: a qualitative study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jun 26. Anahtar kavramlar: barriers, facilitators, brace, compliance, adolescents, spinal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42351047/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Uzmanlardan ailelere skolyoz uyarısı: Erken tanı tedavide büyük avantaj sağlıyor - Hürriyet
+Özet  : Uzmanlardan ailelere skolyoz uyarısı: Erken tanı tedavide büyük avantaj sağlıyor &nbsp;&nbsp; Hürriyet Uzmanlardan ailelere skolyoz uyarısı: Erken tanı tedavide büyük avantaj sağlıyor - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMivgFBVV95cUxQQU1nTlg4REhVcG90b3FoTXJmUjNka0FoWmp1UVhoZTdiVmlJM3hFdWZwSnZVWHA0UV9SVk9NbzBWNUpYVEE1VUl4ZE9rdmVMNXpCNUtiUDg1QUpEZmE5T2V4akc1cnhXbVloSlV3RTUzOVdaWDJzNUo4ZWNwdEFUdUpEX0FtMGNiY3dBVkNaVE5lRnh1NjByV3VQbVdnTGpBOER0cGduSFp1NWJqS0J5MlhXQmdja2tlSklNVU5n?oc=5
+
+Başlık: Rahatlamasını Hissettik! Skolyoz Ameliyatı Olan Genç Kız 3 Yıl Sonraki Değişimini Paylaştı - Onedio
+Özet  : Skolyoz Ameliyatı Olan Genç Kız 3 Yıl Sonraki Değişimini Paylaştı &nbsp;&nbsp; Onedio Skolyoz Ameliyatı Olan Genç Kız 3 Yıl Sonraki Değişimini Paylaştı - Onedio.
+Bağlantı: https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUgxZDJnOG9VZ3NHZENNaXdBaUU1Vm13Vzl4cUs0SklLcFNyRU1FNG5BX2hGUXVFRGhoOWJUWV9oZllON0l4dmhDY3lWUkQtTkdkM2VQUmY4UHZkQkNrdThmTTQ4Y2JEZHRBNTlDei04Q3dLT2k0SDlKTUJKc2p2cW1pdlJycU1ob3JsNWQ1aXgxWm5YWnhteHA1TFNjVVAzQ1k5M2JIc1lIMTB3dk05WEd1SkFpcHFNNUFIZVBzQQ?oc=5
+
+Başlık: Çocuğunuzun boyu aniden uzadıysa dikkat! Türkiye'de 200 bin çocuk skolyoz hastası - Posta
+Özet  : Türkiye'de 200 bin çocuk skolyoz hastası &nbsp;&nbsp; Posta Türkiye'de 200 bin çocuk skolyoz hastası - Posta.
+Bağlantı: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmR0dFhFTEZPRDdFUEVXTm5IQ2toemdPU1AxZnVhOGFNQnFVU3VSbkpock9DcVkzc1l6WnJ4dG5rREpLcV9rNXNnNDY4Z3FDNHlXS3dqajFiQkRjS1JjbVd2cDVQcHozMUsxX09RMnBoSWNfMFFQRjJHd0ZzejhxSjVUNk9hY3hYSkNvQ2tpdlRwbUUtRE1yUkdGa01USEpwOF9QbFhnZ2MtOHhra21lVDVhQ2xiYXhZamJv?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-06-28)
+========================================================================
+Yeni kaynak sayısı: 22
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=14
+GitHub dosyası: out/omuz/2026-06-28_20260628T100614Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Associations between musculoskeletal health literacy and changes in pain catastrophizing and kinesiophobia after arthroscopic rotator cuff repair: A prospective study.
+Türkçe Başlık : Associations between musculoskeletal health literacy and changes in pain catastrophizing and kinesiophobia after arthroscopic rotator manşet repair: a prospective study.
+Türkçe Özet   : Bu içerik associations between musculoskeletal health literacy and changes in ağrı catastrophizing and kinesiophobia after arthroscopic rotator manşet repair: a prospective study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 jun 26. Anahtar kavramlar: musculoskeletal, associations, between, health, literacy, changes.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42363428/
+
+Orijinal Başlık: Comparison of capsular stretching and passive joint mobilisation in idiopathic adhesive capsulitis of the shoulder: A randomised controlled trial.
+Türkçe Başlık : Comparison of capsular stretching and passive joint mobilisation in idiopathic adeziv kapsülit (donuk omuz) of the omuz: a randomised controlled klinik çalışma.
+Türkçe Özet   : Bu içerik comparison of capsular stretching and passive joint mobilisation in idiopathic adeziv kapsülit (donuk omuz) of the omuz: a randomised controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: jpma. the journal of the pakistan medical association. 2026 jun. Anahtar kavramlar: comparison, capsular, stretching, passive, joint, mobilisation.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42363316/
+
+Orijinal Başlık: Responsiveness and Minimal Clinically Important Changes for the Upper Limb Functional Index, Shoulder Pain and Disability Scale, and Lymphedema Life Impact Scale in Patients with Lymphedema.
+Türkçe Başlık : Responsiveness and minimal clinically important changes for the upper limb functional index, omuz pain and disability scale, and lymphedema life impact scale in patients with lymphedema.
+Türkçe Özet   : Bu içerik responsiveness and minimal clinically important changes for the upper limb fonksiyonal index, omuz ağrı and disability scale, and lymphedema life impact scale in patients with lymphedema. konusuna odaklanıyor. Öne çıkan başlıklar: lymphology. 2026. Anahtar kavramlar: scale, lymphedema, responsiveness, minimal, clinically, important.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42361251/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Boyun ve omuz ağrısı olarak başlayan rahatsızlığın, fıtıklaşmış disk nedeniyle omurilik sıkışması olduğu ortaya çıktı. - Vietnam.vn
+Özet  : Boyun ve omuz ağrısı olarak başlayan rahatsızlığın, fıtıklaşmış disk nedeniyle omurilik sıkışması olduğu ortaya çıktı. Boyun ve omuz ağrısı olarak başlayan rahatsızlığın, fıtıklaşmış disk nedeniyle omurilik sıkışması olduğu ortaya çıktı.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxPME1iaFBldjdfWi1fY1JwamhjNGp4UXF2SldIby00aFFTRThSU2EyRkFNVlUyeDdyMERsRjBmckFCbi1JVkFwYmlrdDVWZGdYY1FMTkVQRlUzbTRQLWhlNWFmYUxsNFN4QWk5VVloWU5lUXFUZlRVdzVJRWZEdFVxR2xnQmxXNEFCQ1hScE5tZC1tWlBJR0NvMmFoRUk?oc=5
+
+Başlık: İnsanlar boyun ve omuz ağrıları nedeniyle yüzmeye gidiyorlar, ancak bazı yüzme stillerinin bu durumu daha da kötüleştirebileceği konusunda uyarılmalıdır. - Vietnam.vn
+Özet  : İnsanlar boyun ve omuz ağrıları nedeniyle yüzmeye gidiyorlar, ancak bazı yüzme stillerinin bu durumu daha da kötüleştirebileceği konusunda uyarılmalıdır. İnsanlar boyun ve omuz ağrıları nedeniyle yüzmeye gidiyorlar, ancak bazı yüzme stillerinin bu durumu daha da kötüleştirebileceği konusunda uyarılmalıdır.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxPdDVpR2Q4b3BkMWt5ZWxxTjY4a19URnNLeXBZZUdEaGhURjE0aTlQYnNYd3ltdHI4NldHOVlNTF92QUk5UlcwVk9sM1VMZC1YMDdlT0pXZ095S0dRZERweW45bFFFMFhqeFE4T2lwQmxjU2hKbU51VGtaUlZpNUN3YTBieDNSSVZIZE1ZNkszeVdqTDFTS2U5bHBpT1VYUQ?oc=5
+
+Başlık: Boyun omurganıza sessizce zarar veren 3 alışkanlık. - Vietnam.vn
+Özet  : Boyun omurganıza sessizce zarar veren 3 alışkanlık. Boyun omurganıza sessizce zarar veren 3 alışkanlık.
+Bağlantı: https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VEVOOWQwamlGdU5mSnhnRXNUTDlZM19ENnhreWE0YTlLUXRWSXNYcEtieG9MeUxaelByZnJyX1NIYUptbTRBOUZPTE9nMmtnaUs5ZS1FUnE0UG9ZdTVXM3VoREVNSXUzMU9Wa0tpOFBQNmwy?oc=5
+
