@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-07-05)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   47
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-07-05)
+========================================================================
+Yeni kaynak sayısı: 30
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=22
+GitHub dosyası: out/bel_agrisi/2026-07-05_20260705T094415Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: LINC00324 induces nucleus pulposus cell apoptosis in intervertebral disc degeneration via miR-143-3p targeted TRAIL/DR4/DR5 axis.
+Türkçe Başlık : Linc00324 induces nucleus pulposus cell apoptosis in intervertebral disc degeneration via mir-143-3p targeted trail/dr4/dr5 axis.
+Türkçe Özet   : Bu içerik linc00324 induces nucleus pulposus cell apoptosis in intervertebral disc degeneration via mir-143-3p targeted trail/dr4/dr5 axis. konusuna odaklanıyor. Öne çıkan başlıklar: biology direct. 2026 jul 4. Anahtar kavramlar: linc, induces, nucleus, pulposus, cell, apoptosis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42401954/
+
+Orijinal Başlık: Development and validation of a clinical prediction model for acupuncture response in community-dwelling patients with chronic low back pain: a retrospective cohort study.
+Türkçe Başlık : Development and validation of a clinical prediction model for acupuncture response in community-dwelling patients with chronic bel ağrısı: a retrospective cohort study.
+Türkçe Özet   : Bu içerik development and validation of a clinical prediction model for acupuncture response in community-dwelling patients with chronic bel ağrısı: a retrospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc health services research. 2026 jul 4. Anahtar kavramlar: development, validation, clinical, prediction, model, acupuncture.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42401943/
+
+Orijinal Başlık: Reducing inappropriate lumbar MRI referrals: a Danish pre- and post-intervention study.
+Türkçe Başlık : Reducing inappropriate lomber (bel bölgesi) mri referrals: a danish pre- and post-intervention study.
+Türkçe Özet   : Bu içerik reducing inappropriate lomber (bel bölgesi) mri referrals: a danish pre- and post-intervention study. konusuna odaklanıyor. Öne çıkan başlıklar: chiropractic & manual therapies. 2026 jul 4. Anahtar kavramlar: reducing, inappropriate, lomber (bel bölgesi), mri, referrals, danish.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42401904/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Yıllarca süren bel ağrısı, nadir görülen doğuştan bir üreter anomalisinin keşfedilmesine yol açtı. - Vietnam.vn
+Özet  : Yıllarca süren bel ağrısı, nadir görülen doğuştan bir üreter anomalisinin keşfedilmesine yol açtı. Yıllarca süren bel ağrısı, nadir görülen doğuştan bir üreter anomalisinin keşfedilmesine yol açtı.
+Bağlantı: https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1lDWDIxbmVEZWVCd0NrZWdIcXVSS0J0dGR1bXlfV1hvV0kzc2phRnBOa2VoaFpoVXlhM0RMTkhZWHBfOG82eG5jN1FkWHQ4dWlLc0oxVTQwZHNINkthRE0tNk5XcE5xNy0tRWVldlRFSEdZUWo4dERlU2xGZFNTcEdXLS1yQVlYQkd0eEhFX0NiWjBTOW1WY1F3?oc=5
+
+Başlık: Yıllardır bel ağrısı çeken bir adamda nadir görülen doğuştan bir kusur olduğu tespit edildi. - Vietnam.vn
+Özet  : Yıllardır bel ağrısı çeken bir adamda nadir görülen doğuştan bir kusur olduğu tespit edildi. Yıllardır bel ağrısı çeken bir adamda nadir görülen doğuştan bir kusur olduğu tespit edildi.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2Zid1FMT2VLcXJVTm1nREFVcmFpTWhjZVc5NXlxNFVWSmRYaExjQVR6M3JaMHRqN0MzTkhKLVBEZVBrcEt2UXlfR2N6WkdRbDJWUVVENFdlb3AyNjE4QkRjbk9NZkxQRjQ4NFJlMlVETlVLUExxdngwZEt1RldZWF9fT0dDeURITy1UQjFCQzJLdjNCbEh0NkViUkQ1dVh4YVBEaU95OHdoaDA?oc=5
+
+Başlık: Hindistan tatilinden dönüşte beyninde 38 parazit bulundu - A Haber
+Özet  : Hindistan tatilinden dönüşte beyninde 38 parazit bulundu &nbsp;&nbsp; A Haber Hindistan tatilinden dönüşte beyninde 38 parazit bulundu - A Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWo5TGVtSnFHT3RCV1RkTFNKOEMzVFlnWkN0RDFWTk53V2ZNbVplb2t5cUs4bmxCZUh3dUFzMXNGZlBkdlh5MjZoRXNtTXM3RVFSOXg0ZGRNQU12N0pvQzVRd0VaMTlOMEVnMEJzdXJQWTlMMk9QaW5XNlZuMEpmM1pSZXVndHo4QnlCcjhpeDVaMC1NRWc?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-07-05)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=19
+GitHub dosyası: out/skolyoz/2026-07-05_20260705T094415Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Scoping review: artificial intelligence in patient education for scoliosis.
+Türkçe Başlık : Scoping review: artificial intelligence in patient education for skolyoz.
+Türkçe Özet   : Bu içerik scoping review: artificial intelligence in patient education for skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 jul 4. Anahtar kavramlar: european, spine, society, scoping, review, artificial.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42400630/
+
+Orijinal Başlık: Short-term effects of exercise therapy on pulmonary function and exercise tolerance in patients with mild to moderate adolescent idiopathic scoliosis: a meta-analysis of randomized controlled trial.
+Türkçe Başlık : Short-term effects of egzersiz tedavisi on pulmonary function and egzersiz tolerance in patients with mild to moderate adolescent idiopathic skolyoz: a meta-analiz of randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik short-term effects of egzersiz tedavisi on pulmonary fonksiyon and egzersiz tolerance in patients with mild to moderate adolescent idiopathic skolyoz: a meta-analiz of randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: egzersiz, short, term, effects, therapy, pulmonary.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42389152/
+
+Orijinal Başlık: Pelvic alignment and plantar pressure asymmetry in adolescents with idiopathic scoliosis: a cross-sectional observational study.
+Türkçe Başlık : Pelvic alignment and plantar pressure asymmetry in adolescents with idiopathic skolyoz: a cross-sectional observational study.
+Türkçe Özet   : Bu içerik pelvic alignment and plantar pressure asymmetry in adolescents with idiopathic skolyoz: a cross-sectional observational study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jun 29. Anahtar kavramlar: pelvic, alignment, plantar, pressure, asymmetry, adolescents.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42374345/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Çocuklarda skolyoz belirtileri yaz aylarında daha kolay fark ediliyor: Uzmanlar uyarıyor - Fikriyat
+Özet  : Çocuklarda skolyoz belirtileri yaz aylarında daha kolay fark ediliyor: Uzmanlar uyarıyor &nbsp;&nbsp; Fikriyat Çocuklarda skolyoz belirtileri yaz aylarında daha kolay fark ediliyor: Uzmanlar uyarıyor - Fikriyat.
+Bağlantı: https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlJNMDZJejhpeXVJN1hybGZ6M1EwZ0hmZ2dwYUY2ZG04TnppNnhVdmdiTmxHTGlQSlpNaUxwcEJxX2w0ZjhmbGI3ZlBUS2NfZ1Jvc3poeWQxSDVqcUdKX21kQlFnZW4wTGxCazFOem43QzlBa2xpMjhTcjdESDZmSE9CNmVWZ3NTZVhlcW5KNFpWRkhLREc1UEZzY0NpbzFPU19KeTVseTNqWk1XZUprQkhsdDF2bXFoZGEyUDZfajVTTE960gHEAUFVX3lxTE9SUk0wNkl6OGl5dUk3WHJsZnozUTBnSGZnZ3BhRjZkbThOemk2eFV2Z2JObEdMaVBKWk1pTHBwQnFfbDRmOGZsYjdmUFRLY19nUm9zemh5ZDFINWpxR0pfbWRCUWdlbjBMbEJrMU56bjdDOUFrbGkyOFNyN0RINmZIT0I2ZVZnc1NlWGVxbko0WlZGSEtERzVQRnNjQ2lvMU9TX0p5NWx5M2paTVdlSmtCSGx0MXZtcWhkYTJQNl9qNVNMT3o?oc=5
+
+Başlık: "Erken teşhis için aileler gözlemci olmalı"| Haberler - Gazete Kadıköy
+Özet  : "Erken teşhis için aileler gözlemci olmalı"| Haberler &nbsp;&nbsp; Gazete Kadıköy "Erken teşhis için aileler gözlemci olmalı"| Haberler - Gazete Kadıköy.
+Bağlantı: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTd0UF81UnBEbkZGS2phNnhIUkNNZHRrTkFsU09PZjBwMWxyUXhSRW5XT1FvNmYwVm80Zk92SlZVd05Od0ZPa1JFZ1FpbjBLZHlxU25qcnRrbEMyNE1uc0JQS0RhQ1NNWktXWVdfYzBpSkZpNUUzdG9Cc1doRnJLMTJVQ1hmR1BL?oc=5
+
+Başlık: Yeni nesil robotik uygulamalar, yetişkinlerde skolyoz ameliyatlarının başarılı bir şekilde gerçekleştirilmesine yardımcı oluyor. - Vietnam.vn
+Özet  : Yeni nesil robotik uygulamalar, yetişkinlerde skolyoz ameliyatlarının başarılı bir şekilde gerçekleştirilmesine yardımcı oluyor. Yeni nesil robotik uygulamalar, yetişkinlerde skolyoz ameliyatlarının başarılı bir şekilde gerçekleştirilmesine yardımcı oluyor.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlFScEROT3FscjFkZDhCeUxCUWZDcF82ZzFyU0J5VFhZZC1sTlRKVUtQUUQ4X3dCc1UzTWwwOHhFbHN3VXE1bzF3VHpUekxlQWtXQmgwTXdWcEl2NkJfLTBYalR3cUNlUnViMnlJbnVoR0JtSGNNeTU5R2dCcjFCaDJRZ0xfQVJqeUxabkhLOVpKT1pUdU90UVRzU1dlQ04wQVpicGs0ajQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-07-05)
+========================================================================
+Yeni kaynak sayısı: 13
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=6
+GitHub dosyası: out/omuz/2026-07-05_20260705T094415Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Influence of retrocalcaneal bursal effusion on the mechanical behavior of the Achilles tendon insertion during ankle dorsiflexion: a cadaveric study.
+Türkçe Başlık : Influence of retrocalcaneal bursal effusion on the mechanical behavior of the achilles tendon insertion during ankle dorsiflexion: a cadaveric study.
+Türkçe Özet   : Bu içerik influence of retrocalcaneal bursal effusion on the mechanical behavior of the achilles tendon insertion during ankle dorsiflexion: a cadaveric study. konusuna odaklanıyor. Öne çıkan başlıklar: surgical and radiologic anatomy : sra. 2026 jul 3. Anahtar kavramlar: influence, retrocalcaneal, bursal, effusion, mechanical, behavior.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42399589/
+
+Orijinal Başlık: Investigating the Efficacy of Telerehabilitation in Individuals Who Underwent Hand Tendon Surgery: A Randomized Controlled Trial.
+Türkçe Başlık : Investigating the efficacy of telerehabilitasyon in individuals who underwent hand tendon surgery: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik investigating the efficacy of telerehabilitasyon in individuals who underwent hand tendon surgery: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of telerehabilitasyon. 2026. Anahtar kavramlar: telerehabilitasyon, investigating, efficacy, individuals, who, underwent.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42389614/
+
+Orijinal Başlık: Cognitive and psychological factors associated with shoulder function in patients with shoulder pain and asymptomatic individuals: a cross-sectional regression analysis.
+Türkçe Başlık : Cognitive and psychological factors associated with omuz function in patients with omuz pain and asymptomatic individuals: a cross-sectional regression analysis.
+Türkçe Özet   : Bu içerik cognitive and psychological factors associated with omuz fonksiyon in patients with omuz ağrı and asymptomatic individuals: a cross-sectional regression analysis. konusuna odaklanıyor. Öne çıkan başlıklar: disability and rehabilitasyon. 2026 jun 30. Anahtar kavramlar: omuz, cognitive, psychological, factors, associated, fonksiyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42379190/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Gençler arasında elektronik cihazların aşırı kullanımı nedeniyle boyun ve omuz ağrıları artmaktadır. - Vietnam.vn
+Özet  : Gençler arasında elektronik cihazların aşırı kullanımı nedeniyle boyun ve omuz ağrıları artmaktadır. Gençler arasında elektronik cihazların aşırı kullanımı nedeniyle boyun ve omuz ağrıları artmaktadır.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3o2eHI4cVNROU5kckNNQzFqX2ltaWI3aXkwRTdfNUtibkZlLVpLUW41SXYxZTNKU3A0bThjTmxveUxpNW53cDFLWjFwOFFGNlN6Y1J2UndLN2JkRU0wZW8yYXVSSjgzNXRIRTloWkR3X25NR3NYamlrVmdlT0J6Ny1EV3NZNVEzS1lMMUVadm5hd3V5VDFtNzNTamhTN0F4TXc?oc=5
+
+Başlık: Omuz ağrılarında nokta atışı tedavi İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Omuz ağrılarında nokta atışı tedavi İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Omuz ağrılarında nokta atışı tedavi İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjRRdzdXUXkwb2dyNHRLbnlNMGM0cG16RElNRUZibG5DNzdSekpNaDc5c0IyOWttSlZLcURNVVFnNTRkbDJwNEliSTN4NjZRMkM3d1dlUGJEcGFaVjV1czFocFRHZzA4N0Y3VnN2X2JpNkRpdnE2cG1RLVhqQU14UHR5eUduSmdZWnJZWXVMUWV6Zw?oc=5
+
+Başlık: Gaziantep'te Omuz Ağrısı İçin Yeni Nokta Atışı Tedavi Yöntemi Geliştirildi - Mersin Haber
+Özet  : Gaziantep'te Omuz Ağrısı İçin Yeni Nokta Atışı Tedavi Yöntemi Geliştirildi &nbsp;&nbsp; Mersin Haber Gaziantep'te Omuz Ağrısı İçin Yeni Nokta Atışı Tedavi Yöntemi Geliştirildi - Mersin Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMitAFBVV95cUxNS1hxNHQzUUMybndNVFNpb2xIRmRpMy1VbEdSNk9CZVNJRGg1eHI1U0xxSmc4QUtkckFjZ25nWk9sRWFCbWtIU2Q4Mi0wQk93M3FYS2xKM0xVeXkzMG1xRGZJRmVvSlgyOXl0RGVKQmJPQndONFdMVW5PeV9HZWNLN1ZITVJzT25sMEtsakVPemU1NlpIYXdhMmpKNkNycS1PSkNQN29Cb1FVeFFic0hwYXZhSVTSAVdBVV95cUxNck5NNVJJb3MxckFUMnVtd0luQTN6S0I1SHRHbHBxdWFOUFItYk5KeXZtX2N4cDUtdUE3Wmc5aUhUU1R1QmgtWEdBLWFEdUdTbDZIaFYybGc?oc=5
+
