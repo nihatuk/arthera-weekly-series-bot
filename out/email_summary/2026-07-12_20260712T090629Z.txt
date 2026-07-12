@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-07-12)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      22
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   40
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-07-12)
+========================================================================
+Yeni kaynak sayısı: 30
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=22
+GitHub dosyası: out/bel_agrisi/2026-07-12_20260712T090617Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Association between low back movement control impairment test results and low back pain - Northern Finland birth cohort study 1966.
+Türkçe Başlık : Association between low back movement control impairment test results and bel ağrısı - northern finland birth cohort study 1966.
+Türkçe Özet   : Bu içerik association between low back movement control impairment test results and bel ağrısı - northern finland birth cohort study 1966. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jul 11. Anahtar kavramlar: low, back, association, between, movement, control.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42436489/
+
+Orijinal Başlık: Feedback from group III/IV afferents in skeletal muscle slows heart rate acceleration when transitioning from rest to low-intensity exercise in males.
+Türkçe Başlık : Feedback from group iii/iv afferents in skeletal muscle slows heart rate acceleration when transitioning from rest to low-intensity egzersiz in males.
+Türkçe Özet   : Bu içerik feedback from group iii/iv afferents in skeletal muscle slows heart rate acceleration when transitioning from rest to low-intensity egzersiz in males. konusuna odaklanıyor. Öne çıkan başlıklar: experimental physiology. 2026 jul 11. Anahtar kavramlar: feedback, group, iii, afferents, skeletal, muscle.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42435756/
+
+Orijinal Başlık: Acute Modulation of Lumbar Motor Unit Behavior During Experimentally Induced Low Back Pain: A Motor Unit Decomposition Analysis.
+Türkçe Başlık : Acute modulation of lomber (bel bölgesi) motor unit behavior during experimentally induced bel ağrısı: a motor unit decomposition analysis.
+Türkçe Özet   : Bu içerik acute modulation of lomber (bel bölgesi) motor unit behavior during experimentally induced bel ağrısı: a motor unit decomposition analysis. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi research international : the journal for researchers and clinicians in fizik tedavi / fizyoterapi. 2026 jul. Anahtar kavramlar: motor, unit, acute, modulation, lomber (bel bölgesi), behavior.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42435379/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Aclarion, CLARITY denemesine Texas Spine Care Center’ı ekledi Yazar Investing.com - Investing.com Türkiye
+Özet  : Aclarion, CLARITY denemesine Texas Spine Care Center’ı ekledi Yazar Investing.com &nbsp;&nbsp; Investing.com Türkiye Aclarion, CLARITY denemesine Texas Spine Care Center’ı ekledi Yazar Investing.com - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXcyQ3Eyamlza0dTVENFR1hiWTlLcXlMa3FGY1dKWlZzTjBnVi0td1Z2OUQ5dW0zalduTnp1Zl9DUnJBa1BlUmwwbm9fbmVoN2dCWkU0Y0hjaGV2bDFaN2FJTTNNMHEwVHFyandhaFFOQVdWODQxRGJCSUtFNzgxd2szWkU2cmJfMjdyeDEwNWtZVlNPQjJjQWFESDR4dTlCR1BRbGctVWZnOE9FakpvSHkxaEY?oc=5
+
+Başlık: Bel fıtığı geçirdikten sonra tekrar yürüyebilme yeteneğini kazanmak için yüzlerce kilometre yol kat etti. - Vietnam.vn
+Özet  : Bel fıtığı geçirdikten sonra tekrar yürüyebilme yeteneğini kazanmak için yüzlerce kilometre yol kat etti. Bel fıtığı geçirdikten sonra tekrar yürüyebilme yeteneğini kazanmak için yüzlerce kilometre yol kat etti.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxNeDB5VmFqdEpWNjAwZDJKUUR1UkJjZ3VWVFd0LUtLZUNYZ25xYnhkV0hoeU1zR2d2TTZ0ZFJ0WTlTNmJkczB1ekR4TmljbjBLSlJZU1NKOFZSYzNNeV9QMnMxM0hZWWVLSUtZYWtTVXNzZjZjS2JUSFNoVHE0OGhBQmRILUR0bDRLbzhrU3FuWTFZaXZiT3NoUGRGUzJFUQ?oc=5
+
+Başlık: YAZ KABUSU HAVUZ SİSTİTİNE DİKKAT: ISLAK MAYO İLE BEKLEMEK BÖBREKLERİ TEHDİT EDİYOR! - Sağlık Aktüel
+Özet  : YAZ KABUSU HAVUZ SİSTİTİNE DİKKAT: ISLAK MAYO İLE BEKLEMEK BÖBREKLERİ TEHDİT EDİYOR! YAZ KABUSU HAVUZ SİSTİTİNE DİKKAT: ISLAK MAYO İLE BEKLEMEK BÖBREKLERİ TEHDİT EDİYOR!
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVY0d2ZadVNqQ18tcVh1WXdTODVzREJsbDgxU2syaUhRMWVDMTVPYTliYXRZZDVUcjU0RzhWTWI5bE9jQ0EtMkhQUWYyWGJHZlJxNnh1OFZleUtTbkdTTEJvOU92ZzJ5d0xZSWYwd1RPdFZzdFgya1VFUUc5SEcwd09EN2M0T050R0lqQkY2bWh1d2JoMnUwUDc4RldQbEpMNUpDNWlRNnZBLURFVWNUWml3ck5makMwS1Z1ek9IOXJfakE?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-07-12)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=9
+GitHub dosyası: out/skolyoz/2026-07-12_20260712T090617Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Radiographic outcomes of stick-assisted manipulation in adolescent idiopathic scoliosis: a retrospective study of 57 patients.
+Türkçe Başlık : Radiographic outcomes of stick-assisted manipulation in adolescent idiopathic skolyoz: a retrospective study of 57 patients.
+Türkçe Özet   : Bu içerik radiographic sonuçs of stick-assisted manipulation in adolescent idiopathic skolyoz: a retrospective study of 57 patients. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: radiographic, sonuçs, stick, assisted, manipulation, adolescent.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42433670/
+
+Orijinal Başlık: Use of Lumbosacral Myofascial Release and Therapeutic Exercises for a Patient with Bertolotti's Syndrome: A Case Report.
+Türkçe Başlık : Use of lumbosacral myofascial release and therapeutic egzersizs for a patient with bertolotti's syndrome: a case report.
+Türkçe Özet   : Bu içerik use of lumbosacral myofascial release and therapeutic egzersizs for a patient with bertolotti's syndrome: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: journal of orthopaedic case reports. 2026 jul. Anahtar kavramlar: case, use, lumbosacral, myofascial, release, therapeutic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42428446/
+
+Orijinal Başlık: Comparative efficacy of different scoliosis-specific exercise protocols on cobb angle in adolescent idiopathic scoliosis: a network meta-analysis.
+Türkçe Başlık : Comparative efficacy of different skolyoz-specific egzersiz protocols on cobb angle in adolescent idiopathic skolyoz: a network meta-analiz.
+Türkçe Özet   : Bu içerik comparative efficacy of different skolyoz-specific egzersiz protocols on cobb angle in adolescent idiopathic skolyoz: a network meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: skolyoz, comparative, efficacy, different, specific, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42427910/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir - Yeni Şafak
+Özet  : Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir &nbsp;&nbsp; Yeni Şafak Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir - Yeni Şafak.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxQR3BSZXVyZGctUUpnMHpKaGprLVJuTHdrZS1HWmpVZm4xTWpDYzJDWktlOHlJdUhPWVAtcjVTQ0JLTFpPd2M2YmJBU2VidDVtamZ4YTJlbEZ0QTQyTWx4Y0ZrZWJwS2xqc000SEZYeHV2U0pOTFVCdkpuX2Fzel9LaXN3REZTSG5ZSWlQZHZfM0JNM1BpcHVwRW8zWGw?oc=5
+
+Başlık: Çocuklarda Skolyoz Tehlikesi: Ağrı Yapmadan İlerliyor, Kız Çocuklarında Bu Yaşlara Dikkat! - Sağlık Aktüel
+Özet  : Çocuklarda Skolyoz Tehlikesi: Ağrı Yapmadan İlerliyor, Kız Çocuklarında Bu Yaşlara Dikkat! Çocuklarda Skolyoz Tehlikesi: Ağrı Yapmadan İlerliyor, Kız Çocuklarında Bu Yaşlara Dikkat!
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdElEZ2FwMEdoSm5IakxlcnZSZnlKenhvcXZwaGp1OXpTVVRUZy1TMGJ0MXd5OHhRTkRoNURILWxEMk9odmtTVjl1ZXhZNnJpdW40ODNRSC1GQjk4a3FlQS1SSFkwcHF2eEFMZzhRTVF2TGJiZ3FHNU1MSlZGMmFEXzRMMlJwOHQzRXdSNlpzbG1nRjc1a1pLSGx0MElMdXhKQmNnMWFQWTA4MXo0Z253Q21qeXNVS3FKemlFTjM5d2xRLXc?oc=5
+
+Başlık: Çocuğunuzun bir omzu diğerinden yüksekse dikkat! Skolyoz belirtisi olabilir - Türkiye Gazetesi
+Özet  : Skolyoz belirtisi olabilir &nbsp;&nbsp; Türkiye Gazetesi Çocuğunuzun bir omzu diğerinden yüksekse dikkat!
+Bağlantı: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU9TeF9wYVdBUXlEQUw3ZmhEd25lOVdmUE9UajVlY2lfaXJvRW1wM0diQUt3dHhkU29yendvZHF2dDJrclFQVEhZSW1rS2NBRWhkQkxtWjVVTmJHdzNiZnh4aGg0ZG1RaW1XVXd4LUpFR0dOLWdhZW1RcjRrU2ZTeHk5U0dUbW9wNkVoeFdHRjR4X3g0ZVVLVVZVM1huVmhrTXZ3ZkJfYnFXa2FIZ0hQdkE5empObHJrc0pXN1RZZHV5QQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-07-12)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=9
+GitHub dosyası: out/omuz/2026-07-12_20260712T090617Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Kinesiophobia and its impact on shoulder function in patients following arthroscopic rotator cuff repair of the supraspinatus tendon: a cross-sectional study.
+Türkçe Başlık : Kinesiophobia and its impact on omuz function in patients following arthroscopic rotator manşet repair of the supraspinatus tendon: a cross-sectional study.
+Türkçe Özet   : Bu içerik kinesiophobia and its impact on omuz fonksiyon in patients following arthroscopic rotator manşet repair of the supraspinatus tendon: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jul 11. Anahtar kavramlar: kinesiophobia, impact, omuz, fonksiyon, patients, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42436437/
+
+Orijinal Başlık: Unilateral Diaphragmatic Paralysis Presumed Secondary to Parsonage-Turner Syndrome Presenting as Orthopnea.
+Türkçe Başlık : Unilateral diaphragmatic paralysis presumed secondary to parsonage-turner syndrome presenting as orthopnea.
+Türkçe Özet   : Bu içerik unilateral diaphragmatic paralysis presumed secondary to parsonage-turner syndrome presenting as orthopnea. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 jun. Anahtar kavramlar: unilateral, diaphragmatic, paralysis, presumed, secondary, parsonage.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42434666/
+
+Orijinal Başlık: Manipulation Under Anesthesia With vs Without Intra-Articular Corticosteroid Injection for Frozen Shoulder: A Systematic Review and Meta-analysis.
+Türkçe Başlık : Manipulation under anesthesia with vs without intra-articular corticosteroid injection for donuk omuz: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik manipulation under anesthesia with vs without intra-articular corticosteroid injection for donuk omuz: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: orthopaedics & traumatology, surgery & research : otsr. 2026 jul 10. Anahtar kavramlar: manipulation, under, anesthesia, intra, articular, corticosteroid.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42431258/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Geçmeyen omuz ağrısı kanser belirtisi çıktı! Doktorlar yıllar sonra teşhis koydu | Sağlık Haberleri - GZT
+Özet  : Doktorlar yıllar sonra teşhis koydu | Sağlık Haberleri &nbsp;&nbsp; GZT Doktorlar yıllar sonra teşhis koydu | Sağlık Haberleri - GZT.
+Bağlantı: https://news.google.com/rss/articles/CBMiswFBVV95cUxONzdVMzl5Y2tzRS12UW4wa2RHcG9sRy1lblR0aUdPRlZCbHlOVllOYzlyN3RsR0Q2X01qcEMxOHhybmpsbDBTZl9EdVRFTktSV21hSWNVN0gwRUprUmYyaUZnQ2duVjU3bkE4ZEMtbDNrRHBTcnJYYWRIekxTSzlWZmpCRWFZMUk5aTVQOG8xcFNfWjhFaDFpcHlIcXdQalZrVDAwLVJWTzJLS0NONDJhcUF4TQ?oc=5
+
+Başlık: Boyun ve omuz ağrıları anında yok oluyor! Biraz pirinç biraz lavanta rahatlamaya yetiyor - Milliyet
+Özet  : Biraz pirinç biraz lavanta rahatlamaya yetiyor &nbsp;&nbsp; Milliyet Biraz pirinç biraz lavanta rahatlamaya yetiyor - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTFJdDk0Q1lVMVVWZ19OaVRtU281VVU1Umo2dGdaQUx3UjU5cmhKNUVtZGtFamxzUGFhc2NvNE9WY3JULXJndGFvTV9UenZBdEoxd1d1Z1ZxRVZzN1NiMEJ1bVZBam9QbnAxVjhQeDB2N2NzZ2hLeDV2OEJ1ZWVuZEhoX2tFYzNuSHpiVG5WTHkxNGhKYllud3pmZnlkTU1SUjZwZzN5MktHVFFuN3dYWnp5cC1lV3AtRldneDR4ZjRjeEZTRWZjMUZVaDJYWUtyU3dyTzVn?oc=5
+
+Başlık: Küçük çocuklarda da yüz felci görülebilir. - Vietnam.vn
+Özet  : Küçük çocuklarda da yüz felci görülebilir. Küçük çocuklarda da yüz felci görülebilir.
+Bağlantı: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aZkxVaG1JTGcwMENscXBxdmdsWWI0eGFzMERaVzJKZ2ZRWUx2dnNFTmk3SENLZUdEZUxuSENpZVZYR3hOY0doYl80NkxpM0lZQ2VNZmE1TXMzVVVpM1cxWWJLQUlrVDAt?oc=5
+
