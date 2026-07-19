@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-07-19)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   33
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-07-19)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=15
+GitHub dosyası: out/bel_agrisi/2026-07-19_20260719T090743Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Associations of physical activity, pain intensity, and quality of life with work ability among Nigerian nurses with mechanical low back pain: a cross-sectional survey.
+Türkçe Başlık : Associations of physical activity, pain intensity, and quality of life with work ability among nigerian nurses with mechanical bel ağrısı: a cross-sectional survey.
+Türkçe Özet   : Bu içerik associations of physical activity, ağrı intensity, and quality of life with work ability among nigerian nurses with mechanical bel ağrısı: a cross-sectional survey. konusuna odaklanıyor. Öne çıkan başlıklar: bmc nursing. 2026 jul 19. Anahtar kavramlar: ağrı, associations, physical, activity, intensity, quality.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42471682/
+
+Orijinal Başlık: Densitometric gains do not uniformly translate into clinical and psychosocial recovery: a 12-month multidimensional analysis of romosozumab therapy in postmenopausal osteoporosis.
+Türkçe Başlık : Densitometric gains do not uniformly translate into clinical and psychosocial recovery: a 12-month multidimensional analysis of romosozumab therapy in postmenopausal osteoporosis.
+Türkçe Özet   : Bu içerik densitometric gains do not uniformly translate into clinical and psychosocial recovery: a 12-month multidimensional analysis of romosozumab therapy in postmenopausal osteoporosis. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jul 18. Anahtar kavramlar: densitometric, gains, not, uniformly, translate, clinical.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42471614/
+
+Orijinal Başlık: Changes in publicly insured general practitioner consultations before and after workplace injury: interrupted time series by consultation duration and care plans in Australia.
+Türkçe Başlık : Changes in publicly insured general practitioner consultations before and after workplace injury: interrupted time series by consultation duration and care plans in australia.
+Türkçe Özet   : Bu içerik changes in publicly insured general practitioner consultations before and after workplace injury: interrupted time series by consultation duration and care plans in australia. konusuna odaklanıyor. Öne çıkan başlıklar: bmc primary care. 2026 jul 18. Anahtar kavramlar: care, changes, publicly, insured, general, practitioner.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42471566/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kadın, bel ağrısı şikayeti sonrasında böbrek tümörü olduğunu keşfetti. - Vietnam.vn
+Özet  : Kadın, bel ağrısı şikayeti sonrasında böbrek tümörü olduğunu keşfetti. Kadın, bel ağrısı şikayeti sonrasında böbrek tümörü olduğunu keşfetti.
+Bağlantı: https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWRPUmhUeUdrSHh1SVlMQlYxM29BUVF1VkwwU2RTNERuS2FURE51bWpXMjhIcE5ndjNRVS1fUUJNSVJFWjBoSnJFSHRyS0o5TDhHWWhSdElGcWphQlNubm1DVXRUQTNMYllaU01mWG5EM0FBQmZ5X3ZMMmFudlRBS3lRSVhUZw?oc=5
+
+Başlık: Uzmanı uyardı: "Bir çocukta sırt ve bel ağrısı varsa aileler doktora götürsün" - MSN
+Özet  : Uzmanı uyardı: "Bir çocukta sırt ve bel ağrısı varsa aileler doktora götürsün" &nbsp;&nbsp; MSN Uzmanı uyardı: "Bir çocukta sırt ve bel ağrısı varsa aileler doktora götürsün" - MSN.
+Bağlantı: https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFlwZ1BObjQxdkhCdzlodFgwQmpKSTMwd1hJbUZZVWNDQUJ2QWpZWFpnbmZZbkEwOG5pUmdnS2YyamdwN2hXZlNEV3paQTBOTXJ0TDdkUktkOHVGOTB0bDVKY0FmLTVET3ZvcVRFeGxWQ2Rsel9rY1hqN3hwWEZ3R3VOYjAtRVgya0xIYmpneHRhMWh0V0xSUWh1MUE0VVVaeWYtZFdWenJJalNjc2dvSm5zQmVtNVhnSmw2WnJ2bkJ1NnMtZVQwMDh5SWY4ZDJjUU5VblZ5ODFJTy1zNmJHQVQtZ0VtTWROTDVmbzJmZi1JelJ1bnBBeGhvdVFJa0NtaXF3dm1oRQ?oc=5
+
+Başlık: Bel fıtığına bağlı sırt ağrısı ve bacak uyuşması: Yüksek enerjili dalga tedavisi çözümü. - Vietnam.vn
+Özet  : Bel fıtığına bağlı sırt ağrısı ve bacak uyuşması: Yüksek enerjili dalga tedavisi çözümü. Bel fıtığına bağlı sırt ağrısı ve bacak uyuşması: Yüksek enerjili dalga tedavisi çözümü.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxNRW5JUERTUFpxMXdLWmRnWi1TRGMyZkpLczZucjFBVmxWQlF3eFRPRGUzV3JRM2ktbC1KcXlmSlIzRXd5Z2o4ZU02NzFQNEM4VWE4RHhjNzRoakVYdml6WkMyRjZNQ0NKU21ZRm9VTnNReS1ra0dheFlGU1NPTEFxSXl3QndyUjdhQTlVZkdaOWNzVWdZSEVn?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-07-19)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=8
+GitHub dosyası: out/skolyoz/2026-07-19_20260719T090743Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Reimagining joint arthroplasty care pathways : why equity depends on what happens before and after surgery.
+Türkçe Başlık : Reimagining joint arthroplasty care pathways : why equity depends on what happens before and after surgery.
+Türkçe Özet   : Bu içerik reimagining joint arthroplasty care pathways : why equity depends on what happens before and after surgery. konusuna odaklanıyor. Öne çıkan başlıklar: bone & joint open. 2026 jul 17. Anahtar kavramlar: joint, reimagining, arthroplasty, care, pathways, why.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42463134/
+
+Orijinal Başlık: Use of sensory dynamic orthosis in paediatric neuromuscular scoliosis: A pilot single-group pre-post study.
+Türkçe Başlık : Use of sensory dynamic orthosis in paediatric neuromuscular skolyoz: a pilot single-group pre-post study.
+Türkçe Özet   : Bu içerik use of sensory dynamic orthosis in paediatric neuromuscular skolyoz: a pilot single-group pre-post study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of pediatric rehabilitasyon medicine. 2026 jul 15. Anahtar kavramlar: use, sensory, dynamic, orthosis, paediatric, neuromuscular.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42455294/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir - Anadolu Ajansı
+Özet  : Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir &nbsp;&nbsp; Anadolu Ajansı Çocuklarda skolyoz hastalığı ağrı vermeden ilerleyebilir - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0FoS0twdDNZUlJPazBObmxnUjVsbVdaVnJYOFpEMEJybUZtMXV1WmJvdy05THJSa1RCc0RaSnhLcGtKYlljSnFVR1ZGbkVsdXFqaGVZWVZUYVM3X0FQM1ZWd0JVbW5qVGdKWFlXTTBjSlN0STFBMkdILW91cldCd1pabVNpak1pNFEyQ25sazBLeGM0RGRybkxqbnhXVGVoRUpmVktCbl8?oc=5
+
+Başlık: Yetişkinlerde karmaşık skolyoz ameliyatlarında yeni nesil robotların kullanımında uzmanlaşma. - Vietnam.vn
+Özet  : Yetişkinlerde karmaşık skolyoz ameliyatlarında yeni nesil robotların kullanımında uzmanlaşma. Yetişkinlerde karmaşık skolyoz ameliyatlarında yeni nesil robotların kullanımında uzmanlaşma.
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxPNW1nZ1k3SnI1TV9JVlZtZFRtVTViTFVaYWtPd3BQb0ZPWUM0MGx5aWhNcDlCN3NNWTlldzlvX2x1Y1JCVzJHamlYcmJLTGNwMERUeDh5WUZKaW9QV2pnVGtmSk9aa21ZdG5iWUg3eGVDQ2JDc3I2NTBEVVpfeTB5TkY0a084QnRfSndISWY2MHRLMHQ0V2NVUXVEcGpSNnIxUnA4?oc=5
+
+Başlık: Yemek masasında sorulan tek bir soru milyon dolarlık bir vakfa dönüştü - Sözcü Gazetesi
+Özet  : Yemek masasında sorulan tek bir soru milyon dolarlık bir vakfa dönüştü &nbsp;&nbsp; Sözcü Gazetesi Yemek masasında sorulan tek bir soru milyon dolarlık bir vakfa dönüştü - Sözcü Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxOREU3NF9Yc2Q1ZWhZN01pU1p2MXg1VE9ncWZ1TnY3aVhETUJnQ1pLM0dzT2JKUnBPUVpJM0F3MU45bnBPWVdJTjdyYmdEVXkxMUZWR0xIWDl4RThieHBJa1VGdnlnR2hYR1I5Q3lLYjRpTFBCRjh0ZGZNQmtRSzlXTFR1eG9HNzA1WVdmSk9rNHZvZlVBZmdRSTJoZ0U0X2lCc0EyMUFR?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-07-19)
+========================================================================
+Yeni kaynak sayısı: 17
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-07-19_20260719T090743Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Musculoskeletal discomfort, urinary incontinence, and health-related quality of life in female farmers aged 40-65 years: a cross-sectional comparative study from rural Türkiye.
+Türkçe Başlık : Musculoskeletal discomfort, urinary incontinence, and health-related quality of life in female farmers aged 40-65 years: a cross-sectional comparative study from rural türkiye.
+Türkçe Özet   : Musculoskeletal discomfort, urinary incontinence, and health-related quality of life in female farmers aged 40-65 years: a cross-sectional comparative study from rural Türkiye..
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42469737/
+
+Orijinal Başlık: [Early postoperative functional outcomes and influencing factors in patients with rotator cuff injury].
+Türkçe Başlık : [early postoperative functional outcomes and influencing factors in patients with rotator manşet injury].
+Türkçe Özet   : Bu içerik [early postoperative fonksiyonal sonuçs and influencing factors in patients with rotator manşet injury]. konusuna odaklanıyor. Öne çıkan başlıklar: zhongguo xiu fu chong jian wai ke za zhi = zhongguo xiufu chongjian waike zazhi = chinese journal of reparative and reconstructive surgery. 2026 jul 15. Anahtar kavramlar: zhongguo, early, postoperative, fonksiyonal, sonuçs, influencing.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42464545/
+
+Orijinal Başlık: Adherence to exercise intervention including pain threshold, exercise and physiotherapy sessions for patients with chronic rotator cuff tendinopathy.
+Türkçe Başlık : Adherence to egzersiz intervention including pain threshold, egzersiz and fizyoterapi sessions for patients with chronic rotator manşet tendinopathy.
+Türkçe Özet   : Bu içerik adherence to egzersiz intervention including ağrı threshold, egzersiz and fizyoterapi sessions for patients with chronic rotator manşet tendinopathy. konusuna odaklanıyor. Öne çıkan başlıklar: archives of physical medicine and rehabilitasyon. 2026 jul 15. Anahtar kavramlar: egzersiz, adherence, intervention, including, ağrı, threshold.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42457108/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Orta yaşta omuz ağrısını hafife almayın: En sık yapılan hatalar ve korunma yolları - Hürriyet
+Özet  : Orta yaşta omuz ağrısını hafife almayın: En sık yapılan hatalar ve korunma yolları &nbsp;&nbsp; Hürriyet Orta yaşta omuz ağrısını hafife almayın: En sık yapılan hatalar ve korunma yolları - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWsyRlhrYkpMWjM5d3VfblM2eDNzY0huc1BDTzZ3UVJwYkxsTHpfeExRNmJoYU1oSUJPVnNQZS1LeUgxVEpUSTUtRjNJUjg3ZGxXQ2N6ZTlucHZRM1YxdU5ZeWJROWVZcDhCRGlkV2NpM2VzR0tZMjNmcXBXR0VOMV9OcVJnYThURlJVOEhqUHowdzkwNnM5bXBEMVNnM040bkoxR182WjB1M3ZQMFdLUVRFS2NCZllKS1ctem5uNmh1eHk5VFFmeDN3?oc=5
+
+Başlık: Doktorlar, sürekli boyun ağrısı, ellerde uyuşma ve omuz yorgunluğunun göz ardı edilmemesi gerektiği konusunda uyarıyor. - Vietnam.vn
+Özet  : Doktorlar, sürekli boyun ağrısı, ellerde uyuşma ve omuz yorgunluğunun göz ardı edilmemesi gerektiği konusunda uyarıyor. Doktorlar, sürekli boyun ağrısı, ellerde uyuşma ve omuz yorgunluğunun göz ardı edilmemesi gerektiği konusunda uyarıyor.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxPM2N6VlBnQTlVT3dtRk54c3NFeldJYVVNM1JrcGRjRlFQM3pzbzRDWHBVbFFuTXVfMml3OEo0ZEVYT3FfMUoybzNtaWNPSkZIcmxJdjFYU3EzRmgyQ0ExUmxEcS1HemM5UkZsemd4Yi1oVVU3Q0ZjeU1fNGNHTDM4cklaeHROcWhaTDBzcVE0Skh4TWVzS2szUHpaZ2hmQQ?oc=5
+
+Başlık: Bedirhan Bülbül Omuz Problemi Yaşıyor - Son Dakika
+Özet  : Bedirhan Bülbül Omuz Problemi Yaşıyor &nbsp;&nbsp; Son Dakika Bedirhan Bülbül Omuz Problemi Yaşıyor - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnFkSGVXdDR0NGh5bGI2LWJPT2NTM2lfcklHUnJCbDdWNk1iQWJrN3RJVFNzMFU1NWtFaVFfS216SkFkUG5WclBQblVWR2hMeDA2c2NpOExtNFlmZW5xS0pPSWo1QjRtSk5GRGlHU0M4VUk2M2NyTlF6UTBhMFo2Vmdkck9Td3pTMDJXc9IBiwFBVV95cUxPOUJUalRyZ3BfT2JFYkZnQUM1TTZiUWVUYVk4bXFkM01NcmE0VVZZLUtHUXpVdjdQMjBBSGF6RG5ETFRrb2JpcGFwVFZISWN1Zk9jSDlWWHZNTEY3Zi11VUNraEh4bFdZTl9HYzZCczFuZFhRdENMVVlqNUY2cE15WDFzUVBSVGV0VG9n?oc=5
+
