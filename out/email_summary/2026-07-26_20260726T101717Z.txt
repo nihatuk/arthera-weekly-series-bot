@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-07-26)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      15
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   63
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-07-26)
+========================================================================
+Yeni kaynak sayısı: 42
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=34
+GitHub dosyası: out/bel_agrisi/2026-07-26_20260726T101704Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Preoperative Factors Associated With Achieving Patient Acceptable Symptom State After Robot-Assisted Total Hip Arthroplasty Differ According to the Outcome Measure Used.
+Türkçe Başlık : Preoperative factors associated with achieving patient acceptable symptom state after robot-assisted total hip arthroplasty differ according to the outcome measure used.
+Türkçe Özet   : Bu içerik preoperative factors associated with achieving patient acceptable symptom state after robot-assisted total hip arthroplasty differ according to the sonuç measure used. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of arthroplasty. 2026 jul 25. Anahtar kavramlar: arthroplasty, preoperative, factors, associated, achieving, patient.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42501765/
+
+Orijinal Başlık: Surgical treatment and outcomes of neural tube defects at the university of Gondar Comprehensive Specialized Hospital, Ethiopia: a two-year retrospective review.
+Türkçe Başlık : Surgical treatment and outcomes of neural tube defects at the university of gondar comprehensive specialized hospital, ethiopia: a two-year retrospective review.
+Türkçe Özet   : Bu içerik surgical treatment and sonuçs of neural tube defects at the university of gondar comprehensive specialized hospital, ethiopia: a two-year retrospective review. konusuna odaklanıyor. Öne çıkan başlıklar: child's nervous system : chns : official journal of the international society for pediatric neurosurgery. 2026 jul 25. Anahtar kavramlar: surgical, treatment, sonuçs, neural, tube, defects.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42501095/
+
+Orijinal Başlık: Posterior Lumbar Fusion Is Being Performed for Patients of Increasing Comorbidity Burden Over the Years, but Adverse Events Are Not Going Up.
+Türkçe Başlık : Posterior lomber (bel bölgesi) fusion is being performed for patients of increasing comorbidity burden over the years, but adverse events are not going up.
+Türkçe Özet   : Bu içerik posterior lomber (bel bölgesi) fusion is being performed for patients of increasing comorbidity burden over the years, but adverse events are not going up. konusuna odaklanıyor. Öne çıkan başlıklar: journal of the american academy of orthopaedic surgeons. global research & reviews. 2026 jul 1. Anahtar kavramlar: posterior, lomber (bel bölgesi), fusion, performed, patients, increasing.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42501068/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ciddiye alınmayan bel ağrısı böbrek hasarına yol açabiliyor - Yeni Çağrı Gazetesi
+Özet  : Ciddiye alınmayan bel ağrısı böbrek hasarına yol açabiliyor &nbsp;&nbsp; Yeni Çağrı Gazetesi Ciddiye alınmayan bel ağrısı böbrek hasarına yol açabiliyor - Yeni Çağrı Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxNNF9hVzBzWGtHVUwxTHd1SzF2dTlZTTNmZ2hSWEc3UGZnT0lrQUVmSE52VFRyTFViSF9Ya012dmRabFA3bl80NUNVb0M2S3pEZHZ2NlBLRVV4QTd6ZU9FWGFhbmJydVc0WEdfdnBVVUUzMGY1UjhBLTQ2NTdQNWtLVjBhclRSTHd2MUM2TlFzSVNDTVnSAZMBQVVfeXFMTTRfYVcwc1hrR1VMMUx3dUsxdnU5WU0zZmdoUlhHN1BmZ09Ja0FFZkhOdlRUckxVYkhfWGtNdnZkWmxQN25fNDVDVW9DNkt6RGR2djZQS0VVeEE3emVPRVhhYW5icnVXNFhHX3ZwVVVFMzBmNVI4QS00NjU3UDVrS1YwYXJUUkx3djFDNk5Rc0lTQ01Z?oc=5
+
+Başlık: Prof. Dr. Ramazan Gökhan Atış: Böbrek Taşı Bel Ağrısı Yapabilir, Erken Teşhis Hayati Önem Taşıyor - Fikriyat
+Özet  : Ramazan Gökhan Atış: Böbrek Taşı Bel Ağrısı Yapabilir, Erken Teşhis Hayati Önem Taşıyor &nbsp;&nbsp; Fikriyat Ramazan Gökhan Atış: Böbrek Taşı Bel Ağrısı Yapabilir, Erken Teşhis Hayati Önem Taşıyor - Fikriyat.
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxQa29qMFQ3SUpHaUJVRnR3TWdkUFVpMnJ6cThPQU1mZm16MFRpX2Q5VldjaHNsaU1CWE8wa2doZ3BkNVpWeGxOOWxLNkY4eHhULTFyc2NwWmoyZ0lMTTIxN1I0al9ERGlLRjNfaWVtZmFHQTJMRFFpcDYtbWF0ZWlsVFJjMlhIclFiaFlWLXYzX2lVTkXSAZgBQVVfeXFMT2dXNEFCak96VGR6VWxXeEtUQWstV1BxTlcwV0hCbWNRODM3b0lHdE13d2Rnc0VocDg0aFNMaFRIYzlrcnJfelNxTFZ0MUl2ZHpHN3RZVFRGMWc2ajB1TG1RcGdORWhXSGU2UmVTMkdfLUQyeFVIYmh0WjI5LUhxNFFreGsxdG1fNG5ZblJ1UHkzMVR4UU1vd1Q?oc=5
+
+Başlık: Sabah bel ağrısı ve tutuklukla uyanıyorsanız dikkat İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Sabah bel ağrısı ve tutuklukla uyanıyorsanız dikkat İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Sabah bel ağrısı ve tutuklukla uyanıyorsanız dikkat İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1paktPU3V0VDhmU3ItblNwZnl0eGVNNWNLMVhxQ05DX1hNaXUwRWdSVElMb0NtZkZGb1VfeG9aX0pLS0F0QmZ6Zm82SXVxRG16MUZkSlphMFlvck5CUmFDandkc2hLd0lIWFZLOEFidS0xa2VZSzJwU0EtdFNzRlBxamR2WUJ5OGp5TTh6OVBzaXNBa1BZUXZfSWFCNzFYTFZNQ3dhWQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-07-26)
+========================================================================
+Yeni kaynak sayısı: 20
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=19
+GitHub dosyası: out/skolyoz/2026-07-26_20260726T101704Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Letter to the Editor Regarding "Epidural Transforaminal Infraneural Infiltration Using Corticosteroids in Lumbar Radiculopathy" by Sampaio Júnior et al.
+Türkçe Başlık : Letter to the editor regarding "epidural transforaminal infraneural infiltration using corticosteroids in lomber (bel bölgesi) radiculopathy" by sampaio júnior et al.
+Türkçe Özet   : Bu içerik letter to the editor regarding "epidural transforaminal infraneural infiltration using corticosteroids in lomber (bel bölgesi) radiculopathy" by sampaio júnior et al. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of spine surgery. 2026 jul 21. Anahtar kavramlar: letter, editor, regarding, epidural, transforaminal, infraneural.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42481218/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Zorlu Skolyoz Vakası Gaziantep Şehir Hastanesi'nde Başarıyla Tedavi Edildi - Sağlık Dünyası
+Özet  : Zorlu Skolyoz Vakası Gaziantep Şehir Hastanesi'nde Başarıyla Tedavi Edildi &nbsp;&nbsp; Sağlık Dünyası Zorlu Skolyoz Vakası Gaziantep Şehir Hastanesi'nde Başarıyla Tedavi Edildi - Sağlık Dünyası.
+Bağlantı: https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2hnSEJQZkUxZEs1NHl3UnVyckV0Mm4yNm5jaE9nalBIVlBUZWxoeF9YdTExZl9PdzFBT3ZvU04zY1R5OGNCVWlaVGlzNUpyaS0taFRzTnJZOW4tT0JBTFN4aFRtNFgtNjhrQWZweV9rZk9yc2JpT2p5dDVJbkxnQXQ2SkExXzVjaW5tZHNlZzQ1WG0tUU1mTm40U0E2WWVMM1NYaWxLTnJmNF9vMTc2dFI2eVB2cno1N2fSAb8BQVVfeXFMTkJhZHZQSFVlMjdiVmhhQ3Z0TjFpWklXdG5vbkp4bmZhTGpqNG9ES1E0LTktbGtCZGpUQm9JRHV1SnlCd1RRTURIZXNMaE1TMlp3ZktqUV90eEZQNnJnWVJMYXl2dUFkMnFTa1JTZWdoZGpPVDVWZzdDS0ljX0tiYTA3akdMQmU0VFlKYXJfU05fbVhzejdJRkg4T21CZE1KVDhDUlkxcTA5aXhicXFMYWp1MFl4SnVtV1BQRmtMOVE?oc=5
+
+Başlık: Zorlu Skolyoz Vakası Başarıyla Tedavi Edildi - Gaziantep Postası
+Özet  : Zorlu Skolyoz Vakası Başarıyla Tedavi Edildi &nbsp;&nbsp; Gaziantep Postası Zorlu Skolyoz Vakası Başarıyla Tedavi Edildi - Gaziantep Postası.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1Fmd0FNRFh1R0N4LVU1T2h2MldIUXpkZ08yVUdvaUhYRGI2cWlZT1pXOUNEVjdmTVNTRGlXRm5acWJYZkFLZllpWVUtRXN2Mm5ZQThIUlhFZ19Fd3pTTWt6ajJLR0h2Y2ZQY1ZybVFmYm55aUVVaWN3ckRVOEFUVllHT0lVS1NyQmFuUg?oc=5
+
+Başlık: Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Haberler
+Özet  : Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu &nbsp;&nbsp; Haberler Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxPdnJkcFlHazR4TTREVEtMV0pIU0R0Y18tUHpySVY0c2RfMDlQT1FPXzVlMXN3cDF0Qk1yVG5kZ0pGZmdyel9hUVRPYTZHRy1VVGhYRHM2U01PbVNhdTJkT0U0b3JoMWhnVEhRMF9ZeXR1ZzFwWUhyWllBeC1EQU1UZ2NjcHRqcUNlNWpaVE5BVUdyT0xza09DLWRoU3dUOVhQ0gGcAUFVX3lxTE1Ib08wSHIyM0FMcXVjajdQVldtTzRiRVFxUEhaSlZ5Vjk5NWpXRHhmR1hDcE94a3RJYV9PZmp0QU9TcDFfbm9CQnByQUhaS01XMkFkeG8wSFdfQlJndllKOTF6dHZyRDd3cldzanFHOUs2MkFjZ3ZlUkQzMHFnQjVBc2tRSTFzWklxY2J5MWRGTnlORzBpSWgxNnptZQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-07-26)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-07-26_20260726T101704Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Cost-effectiveness of stratified physiotherapy integrated with digital health versus usual physiotherapy for neck and/or shoulder pain: results of a cluster randomised clinical trial.
+Türkçe Başlık : Cost-effectiveness of stratified fizyoterapi integrated with digital health versus usual fizyoterapi for neck and/or omuz pain: results of a cluster randomised clinical klinik çalışma.
+Türkçe Özet   : Bu içerik cost-effectiveness of stratified fizyoterapi integrated with digital health versus usual fizyoterapi for neck and/or omuz ağrı: results of a cluster randomised clinical klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: archives of physical medicine and rehabilitasyon. 2026 jul 25. Anahtar kavramlar: fizyoterapi, cost, effectiveness, stratified, integrated, digital.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42501929/
+
+Orijinal Başlık: Letter to the editor: Strength testing in rotator cuff-related shoulder pain: a case for context rather than abandonment.
+Türkçe Başlık : Letter to the editor: strength testing in rotator manşet-related omuz pain: a case for context rather than abandonment.
+Türkçe Özet   : Bu içerik letter to the editor: strength testing in rotator manşet-related omuz ağrı: a case for context rather than abandonment. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of manual & manipulative therapy. 2026 jul 23. Anahtar kavramlar: letter, editor, strength, testing, rotator, cuff.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42494070/
+
+Orijinal Başlık: Management of Post-stroke Shoulder Subluxation Using Sling Suspension-Based Active Shoulder Exercises: A Case Report.
+Türkçe Başlık : Management of post-i̇nme omuz subluxation using sling suspension-based active omuz egzersizs: a case report.
+Türkçe Özet   : Bu içerik management of post-inme omuz subluxation using sling suspension-based active omuz egzersizs: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 jun. Anahtar kavramlar: omuz, management, post, inme, subluxation, using.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42491676/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Geçmeyen omuz ağrısı tendon yırtığının habercisi - Anayurt Gazetesi
+Özet  : Geçmeyen omuz ağrısı tendon yırtığının habercisi &nbsp;&nbsp; Anayurt Gazetesi Geçmeyen omuz ağrısı tendon yırtığının habercisi - Anayurt Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXIwWmJvQkxFbmpVc2MzVDk3Q0VEV3Vjd1NrZkZ4ZVB4WGJJVDhqOF9sMExyQlc5V2hmY1pPYXNZOENpVFBrTzk0cmhFQ2lFZmhIcU5OYmRHeHpmQ210Z0FOS29tN0V6WGd0QURZWDZuT0tlSko5RGNFeVBZaUpxdVl2ZDJ4WmJjSjlPMHlUbDJRMGhqLWfSAZsBQVVfeXFMTkx5d2JBU1hRNVRLQ1pMeVJFbVY5MlhzeVhyM2p2UFlydVpWMzRwWHZROXlsdzBPVkI4Z25rNm5wakdPY1d3MFg4SnNWdXg4SUtZdUVDT1MtZHZyRnRTM0paYXhLUU43YjlHamVKU01hRDcyRE1XWU5oZmlJT1RTR2duMUtwU2RheUdPR3k2aU01S0NNZEVnVDVuNnM?oc=5
+
+Başlık: Masaj, akupunktur ve kupa tedavisi odasının içinde sadece gençler vardı. - Vietnam.vn
+Özet  : Masaj, akupunktur ve kupa tedavisi odasının içinde sadece gençler vardı. Masaj, akupunktur ve kupa tedavisi odasının içinde sadece gençler vardı.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3h3VDE3ejlKQ3dpVHZuMUlmRjVzV0lIbkdzSjNWQ1UyT00zV2JkN3NVRVdZUWFvNWV4WV8ycThPdlpxSU45WjY0dU00dXZqbVhudUxaQ1d6Z2lKUVRvRUhGNmQybGRIOU8yXzRNeUFDc214X2pFMFhKN0ttVFJac3liYVFzZkZWSWdDQzc1dw?oc=5
+
+Başlık: Bu ciddi hastalık giderek daha genç yaşlardaki insanları etkiliyor ve birçok kişi kas gerilmesiyle karıştırıldığı için geç teşhis ediliyor. - Vietnam.vn
+Özet  : Bu ciddi hastalık giderek daha genç yaşlardaki insanları etkiliyor ve birçok kişi kas gerilmesiyle karıştırıldığı için geç teşhis ediliyor. Bu ciddi hastalık giderek daha genç yaşlardaki insanları etkiliyor ve birçok kişi kas gerilmesiyle karıştırıldığı için geç teşhis ediliyor.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1BhTXVwc2NteWV5bFBaSF9HYlZLQllyNlNxWWVELVFQRy1DTUZEX1AzOG5fc3NVTmxCRFJMMmkxVzY3cUtQNVVFUVFSOGhRbm1zeXBYSVBWNWlaUlhZZl9kVTFoQnBqZDhoMzFtN29fTjVLWTdxVWlyUEpsZ0xPX0tXU1JDZ0pINDc5ODRGOHdGaERfUkxZTG1weUJQSEZ1MHc?oc=5
+
