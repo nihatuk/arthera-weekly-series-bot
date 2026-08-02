@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-08-02)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   44
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-08-02)
+========================================================================
+Yeni kaynak sayısı: 37
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=29
+GitHub dosyası: out/bel_agrisi/2026-08-02_20260802T091236Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Early MRI-Detected Interspinous Ligament Region Edema Is Associated With Delayed Pain Recovery and Persistent Low Back Pain After Unilateral Biportal Endoscopic Surgery.
+Türkçe Başlık : Early mri-detected interspinous ligament region edema is associated with delayed pain recovery and persistent bel ağrısı after unilateral biportal endoscopic surgery.
+Türkçe Özet   : Bu içerik early mri-detected interspinous ligament region edema is associated with delayed ağrı recovery and persistent bel ağrısı after unilateral biportal endoscopic surgery. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı and therapy. 2026 aug 1. Anahtar kavramlar: ağrı, early, mri, detected, interspinous, ligament.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42542473/
+
+Orijinal Başlık: World Trade Center related acute traumatic injuries and musculoskeletal disorders: Clinical best practices.
+Türkçe Başlık : World trade center related acute traumatic injuries and musculoskeletal disorders: clinical best practices.
+Türkçe Özet   : Bu içerik world trade center related acute traumatic injuries and musculoskeletal disorders: clinical best practices. konusuna odaklanıyor. Öne çıkan başlıklar: archives of environmental & occupational health. 2026 aug 1. Anahtar kavramlar: world, trade, center, related, acute, traumatic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42541483/
+
+Orijinal Başlık: Core Acupoints and Acupoint Combination Patterns for Acupuncture Treatment of Discogenic Low Back Pain: A Data Mining Study.
+Türkçe Başlık : Core acupoints and acupoint combination patterns for acupuncture treatment of discogenic bel ağrısı: a data mining study.
+Türkçe Özet   : Bu içerik core acupoints and acupoint combination patterns for acupuncture treatment of discogenic bel ağrısı: a data mining study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of ağrı research. 2026. Anahtar kavramlar: ağrı, core, acupoints, acupoint, combination, patterns.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42540553/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Her bel fıtığı, ameliyat gerektirmiyor İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Her bel fıtığı, ameliyat gerektirmiyor İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Her bel fıtığı, ameliyat gerektirmiyor İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxQanUtNUhjT29TTE1IeWxUSmdpRldFZTlRbXA0Ti1nbjBvd1FZd3RKVFRxYm9BUGVjYkFCd2lDbTVZMFVERGYyelZEdVUtb25hbFBTSjJnR29sT1JJeThFbjRfajhLVFUxLU9hdWpfZG5rQi1GLVluMmhoeFNsdFpaVW8xNjZXekNyeXVyd1BUYw?oc=5
+
+Başlık: Hakkari'de 62 yaşındaki hastanın böbreğindeki tümör kapalı yöntemle gerçekleştirilen ameliyatla çıkarıldı - Haber 1
+Özet  : Hakkari'de 62 yaşındaki hastanın böbreğindeki tümör kapalı yöntemle gerçekleştirilen ameliyatla çıkarıldı &nbsp;&nbsp; Haber 1 Hakkari'de 62 yaşındaki hastanın böbreğindeki tümör kapalı yöntemle gerçekleştirilen ameliyatla çıkarıldı - Haber 1.
+Bağlantı: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2xFWUZXTDd4aEpPa0NNZGJpR0FBVnEyN0dCcWtMY2hyZjdQb2FpTWtNTmdpUkxEaWl2UFhueWtjaTZyY0pvVWhwaVhwTFNsVGtzWVhBZ2FqamFBWGVLYmM4UjJCSHpULUR6LUdzMGdvay02RG5hWUEyVXhIQXhSQ1pCdkRLUDlxbVNUM0YtMFJqTkJKWDhoc0Y3aV9YZnd1REpwaktuTmNwMko3alpoNkQwQ1FhY1otRkVhVjItaEJQVlN1WnhFbUNtajRyOGtX?oc=5
+
+Başlık: Bel ağrısı yaşayanlar dikkat! Bel fıtığında bu belirtiler varsa beklemeyin - Ege Telgraf
+Özet  : Bel fıtığında bu belirtiler varsa beklemeyin &nbsp;&nbsp; Ege Telgraf Bel fıtığında bu belirtiler varsa beklemeyin - Ege Telgraf.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHhEaTZqUEl4eEQ5dU9SbzliQUdUYzEwM2lkb2lKZXQwQU5SeUllQmlQeU5yMlBGYzRXdnJuZHJQY1hOTWdhcThZMEtyVDRSOTRCLUR4MDVOV2FDcWVwVVg2dG5YbDUwTnRTVHJRZkR1eDF4Vm5yQ192TWsyT285dEQ1bzRiS2stU2ZCbW1HRDFCczJMcUhRNWVCcjBicHJNY0HSAacBQVVfeXFMT2lDYm13dTRLNmdIcmE0eVJFVjVqWXN6anV6S3FFOFBjUS1oTXUwNkk2ZFAyMDdGc25Wb2Y2cDlZQU85WWZkakFYOEZHOHlWdTZPTGlyZ2hySS0zTzdzQTdXRWEzQ2NKN252Mk5kTUFUWm5JcFlCUi1hNjVjNnFhZkRNazBUWE45VmJfekJaaHd1UnVDX2RaeE1TcEk5d19qMUlYTkdhRTg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-08-02)
+========================================================================
+Yeni kaynak sayısı: 8
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=5
+GitHub dosyası: out/skolyoz/2026-08-02_20260802T091236Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A hemispherical latitude-gradient sensor for closed-loop monitoring and management of scoliosis correction.
+Türkçe Başlık : A hemispherical latitude-gradient sensor for closed-loop monitoring and management of skolyoz correction.
+Türkçe Özet   : Bu içerik a hemispherical latitude-gradient sensor for closed-loop monitoring and management of skolyoz correction. konusuna odaklanıyor. Öne çıkan başlıklar: science advances. 2026 jul 31. Anahtar kavramlar: hemispherical, latitude, gradient, sensor, closed, loop.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42536739/
+
+Orijinal Başlık: Preoperative Neurological and Neurophysiological Assessment of Patients with Idiopathic Scoliosis Treated or Not Treated with Physiotherapy: A Retrospective Comparative Study.
+Türkçe Başlık : Preoperative neurological and neurophysiological assessment of patients with idiopathic skolyoz treated or not treated with fizyoterapi: a retrospective comparative study.
+Türkçe Özet   : Bu içerik preoperative neurological and neurophysiological assessment of patients with idiopathic skolyoz treated or not treated with fizyoterapi: a retrospective comparative study. konusuna odaklanıyor. Öne çıkan başlıklar: brain sciences. 2026 jun 27. Anahtar kavramlar: treated, preoperative, neurological, neurophysiological, assessment, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42512449/
+
+Orijinal Başlık: Pelvic Floor Muscle Activity in Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Pelvic floor muscle activity in adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik pelvic floor muscle activity in adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi research international : the journal for researchers and clinicians in fizik tedavi / fizyoterapi. 2026 jul. Anahtar kavramlar: pelvic, floor, muscle, activity, adolescent, idiopathic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42502199/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Anadolu Ajansı
+Özet  : Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu &nbsp;&nbsp; Anadolu Ajansı Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMisgFBVV95cUxNczh1d0thSkhjT3JOdk5jX0NZc25pYnBCaGFJLTdvcjc1OUlPWjV1WktLcV9rYkRQVlpTWldJRFV3RjVHc3RkUXFIa1ZSS3NqbWh2WkxORERFNktnVldLeER1UHBJWl9nSjNKLVpXYUZsb1M4Q280SDdBMlNCMWQ5UmR2SkZYY25WZGRvdHpBWW1GUGxxUFVHdU5iRmJpWkNIOTZLYk9lc082bEJlWERvcFpR?oc=5
+
+Başlık: Bursa'da yüzde 90 engelli genç YKS'de Türkiye 70'incisi oldu - Bursada Bugün
+Özet  : Bursa'da yüzde 90 engelli genç YKS'de Türkiye 70'incisi oldu &nbsp;&nbsp; Bursada Bugün Bursa'da yüzde 90 engelli genç YKS'de Türkiye 70'incisi oldu - Bursada Bugün.
+Bağlantı: https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFFpbnhKWklsVEowV3JYWmNlYlk0VkloN2tuT3pIUXZwUE9aeEZCZmtIeFpvaF9NdUhFY1NER3hxMDZXZGpGTERvY2hwU3VnVGdybDdTNm5TOG9EQnRCR3ZXdjlwYkRDUEtaczQ2YnBtTGYxdk9vRzBjTjVaLU5WWGN1ejlFQXdyYnhKS3BFS2RNMkpzeGI3cl91VUNMVElWXzVRYU9ISmZ6S2pM0gGvAUFVX3lxTE1HZnhkdS1FX2sycHFUSERSZ1EtU0dCYnFVVlRJbm5ZVDdsRUh6Yk1FYXNrVnlpSHQ4NW5MYXdDQ3ZIMkZIVHlQVnUyZWtEUVBCV1VEV2pCRHNYMUwxcjVRRDRoa09wTUdMY3loX1N2N1kweHNqMldrS3AwZ3E1T2NaOGFROV9GUll3ZElPdUlOZVVUX1k1TFcwVjQtaXRoUFdEZGlBZnlUa3h3alVyWUU?oc=5
+
+Başlık: Gaziantep'te 13 yaşındaki hastanın skolyozu 3 aşamalı ameliyatla tedavi edildi - Haberler
+Özet  : Gaziantep'te 13 yaşındaki hastanın skolyozu 3 aşamalı ameliyatla tedavi edildi &nbsp;&nbsp; Haberler Gaziantep'te 13 yaşındaki hastanın skolyozu 3 aşamalı ameliyatla tedavi edildi - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1hXZW9sa0RwRzlCX1J3cE1WUDBNaDFVWWxQRGlqNXAtWWZmUm5KWWk3dEFSMk1XNmVheXluRi16RVBjZ2o2Wl9oNU1od2l0X2lGVjZVWnAzdVRxRUZITFU0X0dDN0JJTHk1b2lJU0ZhaFFFeWRrcnVoN3FWRTBRalRyaVZUd1pjMS1xVGhRT0djZ01oWXRFRURfUGpfeUpGcURXYTNlNE9WMk3SAacBQVVfeXFMT1lLVTFPN0RWMDlTMlhxenRqUEhSR2JzUjYxcnpGVHZXZ0dqQklZQjlzeUxPMlROMm1JZVAxTER2djdrZV81OU1vQ0xCNWZwWHRxbTBnZHdoeExTZ0dLdEdycGNxLWZCQkxyTFRramE0V2pWVHJPYmo0bF9QZlVOMm5KYVZnTUxSWENORC02bTdsNTRUa1A0Nm1MdkowSnRxZURvcFBoOUU?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-08-02)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-08-02_20260802T091236Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Changes in Pain-Related Fear Predict Shoulder Disability in Rotator Cuff Tendinopathy With Resistance Exercise.
+Türkçe Başlık : Changes in pain-related fear predict omuz disability in rotator manşet tendinopathy with resistance egzersiz.
+Türkçe Özet   : Bu içerik changes in ağrı-related fear predict omuz disability in rotator manşet tendinopathy with resistance egzersiz. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of orthopaedic and sports fizik tedavi / fizyoterapi. 2026 aug. Anahtar kavramlar: changes, ağrı, related, fear, predict, omuz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42538792/
+
+Orijinal Başlık: Effectiveness of an AI-based home exercise app for rehabilitation of rotator cuff-related shoulder pain: A randomized controlled trial.
+Türkçe Başlık : Effectiveness of an ai-based home egzersiz app for rehabilitasyon of rotator manşet-related omuz pain: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of an ai-based home egzersiz app for rehabilitasyon of rotator manşet-related omuz ağrı: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 jul 27. Anahtar kavramlar: effectiveness, based, home, egzersiz, app, rehabilitasyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42531919/
+
+Orijinal Başlık: Active vs. sham pulsed electromagnetic field therapy added to standardized conservative care for partial-thickness supraspinatus tears: study protocol for a randomized, assessor-blinded, sham-controlled trial.
+Türkçe Başlık : Active vs. sham pulsed electromagnetic field therapy added to standardized conservative care for partial-thickness supraspinatus tears: study protocol for a randomize, assessor-blinded, sham-controlled klinik çalışma.
+Türkçe Özet   : Bu içerik active vs. sham pulsed electromagnetic field therapy added to standardized conservative care for partial-thickness supraspinatus tears: study protocol for a randomize, assessor-blinded, sham-controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: active, sham, pulsed, electromagnetic, field, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42529487/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Sürekli devam eden omuz ağrısı, 14 yaşındaki bir çocuğun kemik kanseri teşhisi almasına yol açtı. - Vietnam.vn
+Özet  : Sürekli devam eden omuz ağrısı, 14 yaşındaki bir çocuğun kemik kanseri teşhisi almasına yol açtı. Sürekli devam eden omuz ağrısı, 14 yaşındaki bir çocuğun kemik kanseri teşhisi almasına yol açtı.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxQWk51OUVHV3B4UU9iWmswZzNzWFNvRzVRdkNSYlJsWF9rMHZTZl9seDQybVBveGhFU1RqbGJ5ekk3akZzblAxeXNoYmJYakFmOUp0NDd2aGhKaFA0clFyc21KS0NvVjRLUF9STFhMeXlCb0hLeDlQWi1WUXpKWXBpZVR6bm9mdVRHZ3NSag?oc=5
+
+Başlık: Direksiyon başında omuz sağlığınızı koruyun - Anayurt Gazetesi
+Özet  : Direksiyon başında omuz sağlığınızı koruyun &nbsp;&nbsp; Anayurt Gazetesi Direksiyon başında omuz sağlığınızı koruyun - Anayurt Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUdxcDF0NVhhQjlPWXNVYjFoNHE1MGE4U1d2SUM1cFQ2LTRqa2FGeEFzTHZaNlNmX040VXRVNDR1M3ljN1ItQWtRZWdXRDZtZFdTZjBOQXFaZVh3VF9LWHRaOU1hc1pBUmpVTFlFUDV1bWRhQlVJX1pIVzNyMTZqR1VxdzV2aVE5QWp6VkduSdIBlAFBVV95cUxOejlHb3BPS0ROaGtnbkJYcTNsWVlCUVZLQlJxbVRpT3JSSHVqTU9jcEhaMzFFVEVta2sxNGJRMzgxQXV1YXdMdEl5Y2g2bDNzQ0JLY0lUd2xwSVBkOHNhd1ZDN0YxWXA2OHlsU2FuUEgxdUNrcHc4eXJ4QkhTald1czE3emZic0IzRXd5TmthcU9xSVZC?oc=5
+
+Başlık: 24 yaşındaki 'Dizüstü Bilgisayar Vatandaşı' terapi odasında şaşkın bir halde oturuyor. - Vietnam.vn
+Özet  : 24 yaşındaki 'Dizüstü Bilgisayar Vatandaşı' terapi odasında şaşkın bir halde oturuyor. 24 yaşındaki 'Dizüstü Bilgisayar Vatandaşı' terapi odasında şaşkın bir halde oturuyor.
+Bağlantı: https://news.google.com/rss/articles/CBMihgFBVV95cUxNRDBvMjhsRTVNSy1QZUpURGNFa21QVTE0OVBaZnFEaW5VU1FERFpITy1mTTFiWlJjYUpTRGVRMkFGamlZdXRFam0tUXNnb1JqakJsbnRfTzdkQVgySnkwMW9aR1pUTFN2QmhDZUktQmtoUU5HQlJUMmNqLUdZY0VGTUtGT2ptZw?oc=5
+
