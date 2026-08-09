@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-08-09)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   28
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-08-09)
+========================================================================
+Yeni kaynak sayısı: 27
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=19
+GitHub dosyası: out/bel_agrisi/2026-08-09_20260809T075526Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: The Italian Spine Trauma Registry: design and rationale of a prospective nationwide multicenter study on surgically treated spinal trauma.
+Türkçe Başlık : The italian spine trauma registry: design and rationale of a prospective nationwide multicenter study on surgically treated spinal trauma.
+Türkçe Özet   : Bu içerik the italian spine trauma registry: design and rationale of a prospective nationwide multicenter study on surgically treated spinal trauma. konusuna odaklanıyor. Öne çıkan başlıklar: spinal cord. 2026 aug 8. Anahtar kavramlar: trauma, spinal, italian, spine, registry, design.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42570938/
+
+Orijinal Başlık: Severity of Structural Lumbar Spinal Stenosis Does Not Impact Responsiveness to Exercise-Based Rehabilitation.
+Türkçe Başlık : Severity of structural lomber (bel bölgesi) spinal stenosis does not impact responsiveness to egzersiz-based rehabilitasyon.
+Türkçe Özet   : Bu içerik severity of structural lomber (bel bölgesi) spinal stenosis does not impact responsiveness to egzersiz-based rehabilitasyon. konusuna odaklanıyor. Öne çıkan başlıklar: fizik tedavi / fizyoterapi. 2026 aug 8. Anahtar kavramlar: severity, structural, lomber (bel bölgesi), spinal, stenosis, does.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42570301/
+
+Orijinal Başlık: Biopsychosocial education improves workers' low back pain beliefs in a meat processing plant.
+Türkçe Başlık : Biopsychosocial education improves workers' bel ağrısı beliefs in a meat processing plant.
+Türkçe Özet   : Bu içerik biopsychosocial education improves workers' bel ağrısı beliefs in a meat processing plant. konusuna odaklanıyor. Öne çıkan başlıklar: work (reading, mass.). 2026 aug 8. Anahtar kavramlar: biopsychosocial, education, improves, workers, low, back.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42570255/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: 68 yaşındaki hastanın bel ağrısı çilesi bu yöntemle son buldu - Haber 7
+Özet  : 68 yaşındaki hastanın bel ağrısı çilesi bu yöntemle son buldu &nbsp;&nbsp; Haber 7 68 yaşındaki hastanın bel ağrısı çilesi bu yöntemle son buldu - Haber 7.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjNuZ3Nqal91VHVnOGd2aTMtSlNlVUMtaWtWZWRZUDhEVEh1emdKTkJsVm44aUdaRWNsd3NKSWlwWkdQMDdxd3lvTUM5VXplUS11Uk5XTXdZR2N3MkFfaVl1OVRZbXBtYnh6VmFRQjV2dnk0N21oQlZvcHdKMl8xdll0TEltRjJFYTlSN1d5eEJjcGhGYWJBSlptM25LRnNydHBGTEtfV2_SAbABQVVfeXFMUGNKQV9McE9NQWZKdEFfQTlScHV0WmtxMEJFdEFKMDNjNTVJME9WM1F2UmtkeE1RVF9ZZnNZVUNVR0xrdnlJUlp4MUJ4cVpmYmVaZkVwNWJSQU02azlFUXFUMjBUTTVwNEpEMzlzSE9EQkI0NDF3WHQ4YWMxUl9KcG1rSkRkTDdCZmJWV3BCcVNMQmg4MmdfOEM3ZERvNDBfRERIYjVLTkVrZ2p5c29sakI?oc=5
+
+Başlık: Adam, bel ağrısını görmezden gelerek, yaklaşık 100 gramlık bir taşı 20 yıl boyunca koltuk altında taşıdı. - vietnam.vn
+Özet  : Adam, bel ağrısını görmezden gelerek, yaklaşık 100 gramlık bir taşı 20 yıl boyunca koltuk altında taşıdı. Adam, bel ağrısını görmezden gelerek, yaklaşık 100 gramlık bir taşı 20 yıl boyunca koltuk altında taşıdı.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxOZG80cWI0TEVfVVJhUm9YWkRPUFNMYzBVcUd2Z2NpSGVYeTljSW1vZl9WVjBEb2ZYcHY0aVhvMHNsTUFCQ0YyOWxlOV9ZY1BxRVVuNWdFM1N3Qk9ER3Q4ZmxRYlNtMkgyY05iVmptY0ZOeGJjVzBuaW5RMlMtLVY3Zkl3b1pKeFI0WEZvYk1jWE1jcTJaQVlKbXBtQTZOXy1mOHdhRE9FN1VlaG1LaUFj?oc=5
+
+Başlık: ﻿Bel ağısını arttıran 3 alışkanlık! Hemen herkes bu hataları yapıyor - STAR - Haberler
+Özet  : Hemen herkes bu hataları yapıyor &nbsp;&nbsp; STAR - Haberler Hemen herkes bu hataları yapıyor - STAR - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUlkMWV2MHp0dnAzU3VzeTlkVEhyTHRpaGxpZVFUaFNianVzMXZteWJycXJBVGVJNTctWjZEdkFhS3A4VkJNS2hJYS16NUlfMm9MMDUyaE5ZYWlPVTZvN3pLU1FmY21ITG5pT0dfU0plbE1TbWxEUHdmeDlUekZVT0gtenJscXpiTkM1R2d6aG1EeGxvTm9xRUZCbmRxLU9PZHN3UWJxWXRWUUxYTlBGM2Nn0gG0AUFVX3lxTE9LZzNZbUgyWVFIRXVscDF5SmpjSzJHVnlUcGh1cHB3M3cyUFpwT244ZVB0YS1Tek9HYzl1TUpGN3NVYms0US1CTkpySUpuT2dvRDVtTllCX0k5a1ExQkdFeGtDVlN3VE5ka2VrV3ZqWlBraGdKSUZXVHE3NlBYenNkYTRCT1hyeVhKenpVclNFalhIRkIwN2wxSDdUVzh0NFk5b0hMVnBjaEE5QkFPSXpKdFVCNg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-08-09)
+========================================================================
+Yeni kaynak sayısı: 7
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=5
+GitHub dosyası: out/skolyoz/2026-08-09_20260809T075526Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Brain morphometric alterations associated with degenerative scoliosis: a structural MRI study.
+Türkçe Başlık : Brain morphometric alterations associated with degenerative skolyoz: a structural mri study.
+Türkçe Özet   : Bu içerik brain morphometric alterations associated with degenerative skolyoz: a structural mri study. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 aug 8. Anahtar kavramlar: european, spine, society, brain, morphometric, alterations.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42570102/
+
+Orijinal Başlık: Cobb angle outcomes in adolescent idiopathic scoliosis curves above the seventh/eighth thoracic vertebrae: A comparison of Milwaukee and Chêneau bracing techniques.
+Türkçe Başlık : Cobb angle outcomes in adolescent idiopathic skolyoz curves above the seventh/eighth thoracic vertebrae: a comparison of milwaukee and chêneau bracing techniques.
+Türkçe Özet   : Bu içerik cobb angle sonuçs in adolescent idiopathic skolyoz curves above the seventh/eighth thoracic vertebrae: a comparison of milwaukee and chêneau bracing techniques. konusuna odaklanıyor. Öne çıkan başlıklar: north american spine society journal. 2026 sep. Anahtar kavramlar: cobb, angle, sonuçs, adolescent, idiopathic, skolyoz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42564773/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Habertürk
+Özet  : Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu &nbsp;&nbsp; Habertürk Spina bifida ve skolyoz hastası Yücehan Kermen, AYT sayısal 70'incisi oldu - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTRVZVctTGFvWnAyd3hlMW5hcFZGSzFUWkdoWXRiYmhINWtuZUQ1amN3R3pKOExxS0Y1WWNDN3FfTzhKZEx1dWliTktyWGxwZmJBdzloS2lNLXdnSlpDeWIxY2RTcXlfOS1VX043enV3d2FFSXZwVHMxMzNmbmdfMDRzcGhoTzEtRDFPaThzdEJzWTBoSW9mRVpRMUcza3o5YV9pMzRBaEh5Z3RIOHZJV1p6VS1kZHpwMjdyXzVTRVhkSE9VekdRZnBQaHB3MmM?oc=5
+
+Başlık: Skolyozda erken farkındalık uyarısı - Esgazete
+Özet  : Skolyozda erken farkındalık uyarısı &nbsp;&nbsp; Esgazete Skolyozda erken farkındalık uyarısı - Esgazete.
+Bağlantı: https://news.google.com/rss/articles/CBMibEFVX3lxTE9JbHFOUlVnN25yLW56Q2tIN0JZMkUzU2VqZE5KLUNmdDRrYmZLaHVUbkYyUkxYaUpCbUNTX3A0NDQ3dGNQc2dpS3h2RlZlZXlJenJETGpIOURrMllqaS1rNC02ZHd1cDZieTFuQ9IBckFVX3lxTFBxbWg0ck9NSm93a29mRFkxNFRCSk5TT2FZRjFNSG5sZUdlRmpSM210d0NBTW5Wa0s5c0F2VXBLN1h1d0V1VmdTU1Uyc196bmhXQmpoUmtFZG01TmtNWk8tcGdYNDZIMUNSWDF2alVnek4tZw?oc=5
+
+Başlık: Yeni eğitim yılı başlamadan önce öğrencilerin sağlık kontrolleri. - vietnam.vn
+Özet  : Yeni eğitim yılı başlamadan önce öğrencilerin sağlık kontrolleri. Yeni eğitim yılı başlamadan önce öğrencilerin sağlık kontrolleri.
+Bağlantı: https://news.google.com/rss/articles/CBMidEFVX3lxTFBVeFRlT1h2RHAwc3VINFpxYlZtUHVLTHIteXo0c2pkYVhNTGh5OUF4aGUwck14a211VUVlbE9vOVNFZVZNQ182Qm5NVWRESUNndC10QjVaUGFFbTNXME1kRUtnbGZxWU43T2ZwamZraGlwUXdn?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-08-09)
+========================================================================
+Yeni kaynak sayısı: 10
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=4
+GitHub dosyası: out/omuz/2026-08-09_20260809T075526Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A Scoping Review of Biopsychosocial Outcome Measures Used for Patients with Shoulder Instability.
+Türkçe Başlık : A scoping review of biopsychosocial outcome measures used for patients with omuz instability.
+Türkçe Özet   : Bu içerik a scoping review of biopsychosocial sonuç measures used for patients with omuz instability. konusuna odaklanıyor. Öne çıkan başlıklar: indian journal of orthopaedics. 2026 aug. Anahtar kavramlar: scoping, review, biopsychosocial, sonuç, measures, used.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42558836/
+
+Orijinal Başlık: Effectiveness of High-Volume Corticosteroid Injection Diluted with Saline in Subacromial Impingement Syndrome: A Randomized Trial.
+Türkçe Başlık : Effectiveness of high-volume corticosteroid injection diluted with saline in subacromial sıkışma (impingement) syndrome: a randomize klinik çalışma.
+Türkçe Özet   : Bu içerik effectiveness of high-volume corticosteroid injection diluted with saline in subacromial sıkışma (impingement) syndrome: a randomize klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: indian journal of orthopaedics. 2026 aug. Anahtar kavramlar: effectiveness, high, volume, corticosteroid, injection, diluted.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42558740/
+
+Orijinal Başlık: Digital Therapeutics for Postoperative Rehabilitation after Arthroscopic Rotator Cuff Repair: A Single-Center, Assessor-Blinded, Randomized Pilot Study.
+Türkçe Başlık : Digital therapeutics for postoperative rehabilitasyon after arthroscopic rotator manşet repair: a single-center, assessor-blinded, randomize pilot study.
+Türkçe Özet   : Bu içerik digital therapeutics for postoperative rehabilitasyon after arthroscopic rotator manşet repair: a single-center, assessor-blinded, randomize pilot study. konusuna odaklanıyor. Öne çıkan başlıklar: clinics in orthopedic surgery. 2026 aug. Anahtar kavramlar: digital, therapeutics, postoperative, rehabilitasyon, after, arthroscopic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42553900/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Sürekli sırt, boyun veya omuz ağrısı çekiyorsanız, ameliyat ne zaman gereklidir? - vietnam.vn
+Özet  : Sürekli sırt, boyun veya omuz ağrısı çekiyorsanız, ameliyat ne zaman gereklidir? Sürekli sırt, boyun veya omuz ağrısı çekiyorsanız, ameliyat ne zaman gereklidir?
+Bağlantı: https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUdPcGJpelYxVnIwclpUSXVMUWVCelpyc1VtejVIbjJGeEdXdWItS0NlWDF3MUNRQUFYNDRjemNOLU54S0pPdkhUZk5KUWYyVW1lcThwQlprZUtETVgzMjd1LW5pTjVNX0lqM1JDaWJlajlDOVdLVFRkMUtqX2M5RVBTa2ZRRE0?oc=5
+
+Başlık: 'İhmal edilen omuz ağrılarının zamanla ciddi hasarlara yol açabilir' - dha.com.tr
+Özet  : 'İhmal edilen omuz ağrılarının zamanla ciddi hasarlara yol açabilir' &nbsp;&nbsp; dha.com.tr 'İhmal edilen omuz ağrılarının zamanla ciddi hasarlara yol açabilir' - dha.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxOTjA4RzVMVHQ5TWdReS1EZlhCQmpTRk5kV3g0NUpNVmtnc05vaWdHdjB1RHMzN1hFUG9zNl9GckRySWdEMHJXTEtOd1ZqQ3dYMnhOVl9OYzFuYVo0dlhqWDF4ak81bUltNmZPVlMyS1E0Q29zNUxOcDE5ZDRTSHhKUVpHanJiUHlXeHBXdUt4dmpXeE5yZWpQX0FkaU9iUdIBowFBVV95cUxQck9ieEc3dWNaQjI5czNFV1F5RzdCRDNodlJpbk8xbXNpNm5hSUpMS3VhMU9iUGt4S01jV0dXMlR0a2J5WnYxdndGOUYwNTdFWjJuc2syZFB5bHlmT3hzLVVaZ2t6SHVBMktURktXbUZzWkZRZmk0UzdCeE5JdFREWlVUdGx0ZkhOWjBXRVZXSUZIbkhETFBrWTNYaDhuT2h1T2Rz?oc=5
+
+Başlık: Boyun ve omuz ağrısı şikayetleri olan adama menenjit teşhisi konuldu. - vietnam.vn
+Özet  : Boyun ve omuz ağrısı şikayetleri olan adama menenjit teşhisi konuldu. Boyun ve omuz ağrısı şikayetleri olan adama menenjit teşhisi konuldu.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM1pLM0ZJYzlKTUhzYXhrZHNrdXJob28zZjU3emlxbDZvYVpYRE45YmVSYmR0bnF6bzNEZGJQRk9IZzJMX1BfdlBjMkdSMVVIczZTOXVsQkxrcDBHRmtUVUdDZW0ySXRDNDQ0OEpXbkRROEtTNUtqX1NsRHFmOGFFaElpWXFfUXAwMmtr?oc=5
+
