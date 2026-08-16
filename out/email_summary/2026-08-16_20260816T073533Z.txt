@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-08-16)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   45
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-08-16)
+========================================================================
+Yeni kaynak sayısı: 28
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=20
+GitHub dosyası: out/bel_agrisi/2026-08-16_20260816T073521Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Comparative Effectiveness of Nonpharmacological Therapies for Pregnancy-Related Low Back and Pelvic Pain: A Systematic Review and Meta-analysis of Randomized Controlled Trials.
+Türkçe Başlık : Comparative effectiveness of nonpharmacological therapies for pregnancy-related low back and pelvic pain: a sistematik derleme and meta-analiz of randomize controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik comparative effectiveness of nonpharmacological therapies for pregnancy-related low back and pelvic ağrı: a sistematik derleme and meta-analiz of randomize controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: orthopedic reviews. 2026. Anahtar kavramlar: comparative, effectiveness, nonpharmacological, therapies, pregnancy, related.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42603043/
+
+Orijinal Başlık: (Cost-)effectiveness of a combined lifestyle intervention integrated into standard care for low back pain compared to usual care for people with persistent non-specific low back pain who are overweight or obese: Protocol for a randomised controlled trial with parallel economic and process evaluations (Back2Health).
+Türkçe Başlık : (cost-)effectiveness of a combined lifestyle intervention integrated into standard care for bel ağrısı compared to usual care for people with persistent non-specific bel ağrısı who are overweight or obese: protocol for a randomised controlled klinik çalışma with parallel economic and process evaluations (back2health).
+Türkçe Özet   : Bu içerik (cost-)effectiveness of a combined lifestyle intervention integrated into standard care for bel ağrısı compared to usual care for people with persistent non-specific bel ağrısı who are overweight or obese: protocol for a randomised controlled klinik çalışma with parallel economic and process evaluations (back2health). konusuna odaklanıyor. Öne çıkan başlıklar: contemporary clinical klinik çalışmas communications. 2026 oct. Anahtar kavramlar: back, care, low, ağrı, cost, effectiveness.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42602955/
+
+Orijinal Başlık: The relationship between symptom duration in lumbar disc herniation and the prevalence of hip and knee osteoarthritis: A cross-sectional study.
+Türkçe Başlık : The relationship between symptom duration in lomber (bel bölgesi) disc herniation and the prevalence of hip and knee osteoarthritis: a cross-sectional study.
+Türkçe Özet   : Bu içerik the relationship between symptom duration in lomber (bel bölgesi) disc herniation and the prevalence of hip and knee osteoarthritis: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: brain & spine. 2026. Anahtar kavramlar: relationship, between, symptom, duration, lomber (bel bölgesi), disc.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42602441/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ve migren ağrısı çeken yerde uyusun! Tüm ağrıları emiyor: Kan dolaşımı düzenleniyor - Milliyet
+Özet  : Tüm ağrıları emiyor: Kan dolaşımı düzenleniyor &nbsp;&nbsp; Milliyet Tüm ağrıları emiyor: Kan dolaşımı düzenleniyor - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZFVNSHoyMTRZVW5maVpWbUVjaXZmMUtWdWhYLU1vai16U2p3OEhpTWVMWHQtb1VlWUczeEswMVJ3eDlFZ2drZ1gxRU9BM1pTNnV2SFJfeTR6VGw3WTV3MUNhT2RuaWEyd25yNkZJU05hX2NHQ0gzU2RGbzRXQ3RFcFdsTTBxYUJySjFETG5wWXluaHRTMEFUelBBWXR0RzhtSHVsYlMyQzZuSXF6aFJUVnVFWUFfaFBfNURjWGE2bkI3NFVPMEl3N0o5OUtETU00Z0pV?oc=5
+
+Başlık: Kas-iskelet sistemi hastalıklarında geleneksel tıbbın faydaları. - Vietnam.vn
+Özet  : Kas-iskelet sistemi hastalıklarında geleneksel tıbbın faydaları. Kas-iskelet sistemi hastalıklarında geleneksel tıbbın faydaları.
+Bağlantı: https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFA5SXRURVpoa1pYZVNZeXVrZ2ZOQ3hTQ05BcnR6d1RPZTRyZTVDTloxUFJ2ckN4YXlfTmtGLUlOTFlSeEVVTG5zUmtaNi1nUUtKcUZwMUhFdmlLcU1oLWlXaUppMjV2WkRlOElRWFd0eEZPMXVvQ0NKRGl6SWhqS2VmZjV0VGVSMnd3SFloUEM?oc=5
+
+Başlık: Boyun ve bel ağrısı tedavisinde kişiye özel yaklaşım - Saray Medya
+Özet  : Boyun ve bel ağrısı tedavisinde kişiye özel yaklaşım &nbsp;&nbsp; Saray Medya Boyun ve bel ağrısı tedavisinde kişiye özel yaklaşım - Saray Medya.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3RrcUdLVHJIQ1V0NGJRMXVfdmlXcmJNaTBPS2R1M0Mwc0xXU0N2UTJPTnI3aWZ5X0xzZ0RWSWFLdmNtUVNlY0o5SmM0QVJndUtsb0dyMlcyNVZURTdQOWEyczQ5Y0JuMF9jbGNhNWVjaEJlQmVJQXR6QlZ3czhFZGxYZHBZRm1SVGsyMDdCUmZBZEZpa3lCUA?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-08-16)
+========================================================================
+Yeni kaynak sayısı: 23
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=19
+GitHub dosyası: out/skolyoz/2026-08-16_20260816T073521Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Spina Bifida Occulta of the Sacrum as a Contributing Factor to Progressive Scoliosis.
+Türkçe Başlık : Spina bifida occulta of the sacrum as a contributing factor to progressive skolyoz.
+Türkçe Özet   : Bu içerik spina bifida occulta of the sacrum as a contributing factor to progressive skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 jul. Anahtar kavramlar: spina, bifida, occulta, sacrum, contributing, factor.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42602558/
+
+Orijinal Başlık: Integrative conservative rehabilitation for adolescent idiopathic scoliosis: a randomized controlled trial of traditional Chinese manual therapy combined with Schroth training.
+Türkçe Başlık : Integrative conservative rehabilitasyon for adolescent idiopathic skolyoz: a randomize controlled klinik çalışma of traditional chinese manuel terapi combined with schroth training.
+Türkçe Özet   : Bu içerik integrative conservative rehabilitasyon for adolescent idiopathic skolyoz: a randomize controlled klinik çalışma of traditional chinese manuel terapi combined with schroth training. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: integrative, conservative, rehabilitasyon, adolescent, idiopathic, skolyoz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42597363/
+
+Orijinal Başlık: Patient-Reported Outcome Measures for Quality of Life in Adolescent Idiopathic Scoliosis: Validity, Reliability, and Clinical Utility-A Narrative Review.
+Türkçe Başlık : Patient-reported outcome measures for quality of life in adolescent idiopathic skolyoz: validity, reliability, and clinical utility-a narrative review.
+Türkçe Özet   : Bu içerik patient-reported sonuç measures for quality of life in adolescent idiopathic skolyoz: validity, reliability, and clinical utility-a narrative review. konusuna odaklanıyor. Öne çıkan başlıklar: healthcare (basel, switzerland). 2026 aug 1. Anahtar kavramlar: patient, reported, sonuç, measures, quality, life.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42588299/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyozla mücadelesinden ilham alarak sensörlü ayakkabı geliştirdi - Anadolu Ajansı
+Özet  : Skolyozla mücadelesinden ilham alarak sensörlü ayakkabı geliştirdi &nbsp;&nbsp; Anadolu Ajansı Skolyozla mücadelesinden ilham alarak sensörlü ayakkabı geliştirdi - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkY1a09RTWhNTjd5R1NpcjZLSHY1QXoyN0hQSkJyYVpoTTBySXpwRHB3aS1YY2ZGeXRKZXJTLXdQOElWSldaSFZDYnluc0lfWlluM1kxWTBfZDAzdm96T1ZoT2NCUkxneWJhQVFMbEoycGtIbG9VM0p6VVhUdEZveGZJXzliaDlSa0lrZm1IMFNEc3p3OVRQYVdCTWxfc0stdVRNem5ZNDhRaTVPVVplUWtwc1AzSHRUX2tVS1FIeC0?oc=5
+
+Başlık: Kendi derdine derman ararken mucit oldu: Skolyoz tedavisini günlük yaşama taşıyan akıllı ayakkabı - GZT
+Özet  : Kendi derdine derman ararken mucit oldu: Skolyoz tedavisini günlük yaşama taşıyan akıllı ayakkabı &nbsp;&nbsp; GZT Kendi derdine derman ararken mucit oldu: Skolyoz tedavisini günlük yaşama taşıyan akıllı ayakkabı - GZT.
+Bağlantı: https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3Vrd1F0c1hjeFV3Tkc5akZLVmoyZl9xMnNyZ2hBY2RhT0hKWnpLLUVwSmRJME5qMnZaZDV2Tll2amgwdllhQ2pTZ28xVGhpeGNodm85Tm50UGRNWmZISGNPX0lRQWVvVVB3bnJ5eUtFSTdiLU1sRzNMY3otSjZ6bUVscTRDU0R5cXRCZnlYRzQ3WFVwQUlrOFNjREtpTmRmdko2TTRSTTBkSGFJRlVvY21pUFhhejNuNkRmTDFHWkhWNzF3cHlxamJJZw?oc=5
+
+Başlık: Doç. Dr. Tekin: "Skolyoz erken tanıyla kontrol altına alınabilir" İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Tekin: "Skolyoz erken tanıyla kontrol altına alınabilir" İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Tekin: "Skolyoz erken tanıyla kontrol altına alınabilir" İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiswFBVV95cUxPYm9xaEFTTUFYWTVLVEUtX29jQkNCU0ZzWFAyZjA2S3ZFMkRvN3pMSHcxNG1nVnJ3YWZzYjJvZzNXQ21EckE4SU1rMVA0dFlld2FvOFFVREw4Zm5OaHVTMEVMbmxxbFhuSXk0dC04eWJSYnltRXE4TER0SjB2SmtWMjRGaUF1VmV2MkxsQ3Y5LTU3aUFheUFzRjB0RGxkdS12X0lPdXdYWW9iTnFycDVTR2l5cw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-08-16)
+========================================================================
+Yeni kaynak sayısı: 13
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=6
+GitHub dosyası: out/omuz/2026-08-16_20260816T073521Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of evidence-based rehabilitation nursing combined with early neck and shoulder exercises on cervical mobility in patients undergoing transoral endoscopic thyroidectomy via the vestibular approach.
+Türkçe Başlık : Effects of evidence-based rehabilitasyon nursing combined with early neck and omuz egzersizs on cervical mobility in patients undergoing transoral endoscopic thyroidectomy via the vestibular approach.
+Türkçe Özet   : Bu içerik effects of evidence-based rehabilitasyon nursing combined with early neck and omuz egzersizs on cervical mobility in patients undergoing transoral endoscopic thyroidectomy via the vestibular approach. konusuna odaklanıyor. Öne çıkan başlıklar: endocrine. 2026 aug 15. Anahtar kavramlar: effects, evidence, based, rehabilitasyon, nursing, combined.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42603204/
+
+Orijinal Başlık: Postural angles, musculoskeletal pain, and body awareness in school-aged adolescents: An exploratory cross-sectional study.
+Türkçe Başlık : Postural angles, musculoskeletal pain, and body awareness in school-aged adolescents: an exploratory cross-sectional study.
+Türkçe Özet   : Bu içerik postural angles, musculoskeletal ağrı, and body awareness in school-aged adolescents: an exploratory cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 aug 13. Anahtar kavramlar: musculoskeletal, postural, angles, ağrı, body, awareness.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42593361/
+
+Orijinal Başlık: Early improvement in shoulder external rotation proprioception after arthroscopic rotator cuff repair: an AMEDA-based quantitative assessment.
+Türkçe Başlık : Early improvement in omuz external rotation proprioception after arthroscopic rotator manşet repair: an ameda-based quantitative assessment.
+Türkçe Özet   : Bu içerik early improvement in omuz external rotation proprioception after arthroscopic rotator manşet repair: an ameda-based quantitative assessment. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in bioengineering and biotechnology. 2026. Anahtar kavramlar: early, improvement, omuz, external, rotation, proprioception.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42591839/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Gaziantep - Omzundaki kıkırdak ve kemik dokusu hasarı, dizinden alınan doku ile onarıldı - DHA | Demirören Haber Ajansı
+Özet  : Gaziantep - Omzundaki kıkırdak ve kemik dokusu hasarı, dizinden alınan doku ile onarıldı &nbsp;&nbsp; DHA | Demirören Haber Ajansı Gaziantep - Omzundaki kıkırdak ve kemik dokusu hasarı, dizinden alınan doku ile onarıldı - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxQendHM0xPMko2S3ZrWmRDN1ExdVo1ZDJibFdyYnU4RW1yT0x6NUVpSXdELVFJTmNFTHJjZkpvMnJ1b09rY2RYYlpobXhIYUxTcDdjSVdWMHhMREMzaHM4YnpoYmo3UkItcHVsbUhOcXhvd1diUHV4Q0tfYUh4MldOZ1c0TGVoMlQ4Z2dDYWRWVjA1b2FlcFNDMW03NkV2emF20gGmAUFVX3lxTE1NclItRnJJUTFLLUxlbWlpY2ZDSEIwc0xkUk03ZnJpSy00cVJkemlFTWRSYXBGWTMteEljTTBhUE1LUDl5b3Q1TkZrX24zb0REel9YLUJBeVJNYlowRWJsOElrcmZpT1BDVVNhSHRvdUtEcUZtSmZ3cTdTT0J6azN4SU0tNDhqVk5ZTk5obEhpbmdhSXJObW00R2xKUDFma1d1MXU5enc?oc=5
+
+Başlık: OMUZUNDAKİ YÜKÜ, DİZİNDEN ALINAN KIKIRDAK TAŞIYACAK - Sağlık Dünyası
+Özet  : OMUZUNDAKİ YÜKÜ, DİZİNDEN ALINAN KIKIRDAK TAŞIYACAK &nbsp;&nbsp; Sağlık Dünyası OMUZUNDAKİ YÜKÜ, DİZİNDEN ALINAN KIKIRDAK TAŞIYACAK - Sağlık Dünyası.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUJOS1AydGduc0VmUHg3V01VQTJxVXhzbkZmdEc5XzJkWmZoN3g4VHNFdi14MG1oU25hSWdCcF92dHlSVThWVnBHWThCc0dOV0l6MDhUX3V2TWZZWF9NTEZRZmtpZHNVUlBoa1JjM3JUSWRIU19lQklESWZ2TV9rcXhid2lZcnprcEhmZFBXWWRpY0FVbzFON2U3UUVBQVF00gGgAUFVX3lxTE1FQk5LUDJ0Z25zRWZQeDdXTVVBMnFVeHNuRmZ0RzlfMmRaZmg3eDhUc0V2LXgwbWhTbmFJZ0JwX3Z0eVJVOFZWcEdZOEJzR05XSXowOFRfdXZNZllYX01MRlFma2lkc1VSUGhrUmMzclRJZEhTX2VCSURJZnZNX2txeGJ3aVlyemtwSGZkUFdZZGljQVVvMU43ZTdRRUFBUXQ?oc=5
+
+Başlık: Gaziantep'te dizden alınan kıkırdakla omuz eklemi tedavi edildi - Mardin Life
+Özet  : Gaziantep'te dizden alınan kıkırdakla omuz eklemi tedavi edildi &nbsp;&nbsp; Mardin Life Gaziantep'te dizden alınan kıkırdakla omuz eklemi tedavi edildi - Mardin Life.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxPNWhXNUtybk40Q3RCRGtuSnc3V3ZTTjJkX1VVUGFUMHZSY0pDX29VLVlmeVhJTnFLOVE4TldIQUVaTG9GVnlDT1VEVjI3eGxnSWdkMTB3Z2c1Y2ZkSUwxUk5RWUktZlZMd1A5eS1Ib2pLbFpQXy1GM3ZESWJ2dVlLSFFjOFZQeWlTclMxQ0xVY2p4Mmtud2szb3A2NEZlUdIBowFBVV95cUxOVmxLUnpLaWpQdGdlNlN3VGpwUnZNekxlWVloWjY4ZlRVVHdCX1lhUmM1OVF0bWhjNnRRWThfSWVwdmZSdlhSZFBITUpyTDFWUlBlcnBtVi1xc0s2TWt0VFpvOHRSRzdCamh3Vk5VUlh3RUpIdm9wbjMzTm41NW9GSGVONlpsOFlCUFYzWFVOX29lUE1uZTA5Rkg2ZERiUzFSb2pN?oc=5
+
