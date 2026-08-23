@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-08-23)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      18
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   53
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-08-23)
+========================================================================
+Yeni kaynak sayısı: 33
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=25
+GitHub dosyası: out/bel_agrisi/2026-08-23_20260823T073737Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Prognostic factors of future disability following recovery from an episode of low back pain.
+Türkçe Başlık : Prognostic factors of future disability following recovery from an episode of bel ağrısı.
+Türkçe Özet   : Bu içerik prognostic factors of future disability following recovery from an episode of bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of ağrı. 2026 aug 22. Anahtar kavramlar: ağrı, prognostic, factors, future, disability, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42632436/
+
+Orijinal Başlık: Prospective Real-World Assessment of Pain Relief with Injection-Based Delivery of Etoricoxib (RAPID Study).
+Türkçe Başlık : Prospective real-world assessment of pain relief with injection-based delivery of etoricoxib (rapid study).
+Türkçe Özet   : Bu içerik prospective real-world assessment of ağrı relief with injection-based delivery of etoricoxib (rapid study). konusuna odaklanıyor. Öne çıkan başlıklar: drugs - real world sonuçs. 2026 aug 22. Anahtar kavramlar: real, world, prospective, assessment, ağrı, relief.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42631828/
+
+Orijinal Başlık: Clinical efficacy study of LED red and infrared light therapy for chronic non-specific low back pain.
+Türkçe Başlık : Clinical efficacy study of led red and infrared light therapy for chronic non-specific bel ağrısı.
+Türkçe Özet   : Bu içerik clinical efficacy study of led red and infrared light therapy for chronic non-specific bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: lasers in medical science. 2026 aug 22. Anahtar kavramlar: clinical, efficacy, study, led, red, infrared.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42631780/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Mesoblast hisseleri faz 3 bel ağrısı çalışması tamamlandı - Investing.com Türkiye
+Özet  : Mesoblast hisseleri faz 3 bel ağrısı çalışması tamamlandı &nbsp;&nbsp; Investing.com Türkiye Mesoblast hisseleri faz 3 bel ağrısı çalışması tamamlandı - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFNWRDhSV09taTllZDRQMUlkb1ZNeFVscEROcU5kX2dJSk5fdm4yM2dPSjNEc0NLVlUwajQ1N2o5dDJOeHlWTWZPV1ZLZ2NYNm4zZVBJNUlKZW5reHo2VUFvS2JuYk5VMWR0UU55MnR5RjhyRy1kb25GMjBvclA2b3dvQ1puOGZhQVVrTWFEc3VOVnJCOGZ0djQ0aUwzaHhSYWkyT2JxWXQtcnZvV1hQcmhJTQ?oc=5
+
+Başlık: Sürekli bel ağrısı ve bacaklarda uyuşma/güçsüzlük: Gençlerde bel fıtığının uyarı işaretleri. - Vietnam.vn
+Özet  : Sürekli bel ağrısı ve bacaklarda uyuşma/güçsüzlük: Gençlerde bel fıtığının uyarı işaretleri. Sürekli bel ağrısı ve bacaklarda uyuşma/güçsüzlük: Gençlerde bel fıtığının uyarı işaretleri.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHU1MGg1YWFuaHQ3d1pRUEpCM0IwRHF2NjBia0ZEUHJhLTExU0M2Qm12NElOVk5mV3ljZ3NtN0ljUWtwZ3d4Yzd1Xzhxa3dYcGxxRTdEZ1FVUElVaXg1UmNSY19MTERpaktYaGt6MU5qM3RFd2c5bUI2bmFQdUwzMURDS2dvVkVLU25veUpmV2hkc1NKbnlJ?oc=5
+
+Başlık: Mesoblast faz 3 bel ağrısı denemesinde hasta tedavisini tamamladı - Investing.com Türkiye
+Özet  : Mesoblast faz 3 bel ağrısı denemesinde hasta tedavisini tamamladı &nbsp;&nbsp; Investing.com Türkiye Mesoblast faz 3 bel ağrısı denemesinde hasta tedavisini tamamladı - Investing.com Türkiye.
+Bağlantı: https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTFMc1Vqa1dYazJlVWFNcUtJNnBWYUZZN0JabVRkUnVLR05qYXNhT2pNNC1LRUZtbmx0RHdCRXk5TVFFN1M2a1RlLU5iTVZzV1ZZS2RRZmhvMzdWSmhhdXNwc3BFX044bkhjWGN5dUNBcVZtMVR2N0RVVjB6X3VoMkN3bmpDVmc1Z0NqcGhleGYtRmhMemdydExGSWwwR2JSZTFkQzBuU3dSQmpvNWlsSXVuZEJTNFNvNXc?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-08-23)
+========================================================================
+Yeni kaynak sayısı: 21
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=19
+GitHub dosyası: out/skolyoz/2026-08-23_20260823T073737Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: The Role of Caudal Screw Fixation in Outcomes of Posterior Dynamic Distracting Device for Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : The role of caudal screw fixation in outcomes of posterior dynamic distracting device for adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik the role of caudal screw fixation in sonuçs of posterior dynamic distracting device for adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of pediatric orthopedics. 2026 aug 19. Anahtar kavramlar: role, caudal, screw, fixation, sonuçs, posterior.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42615263/
+
+Orijinal Başlık: Effects of Schroth method combined with scapular stabilization exercises on shoulder imbalance, scapular position and Cobb angle in adolescent idiopathic scoliosis: a randomized controlled trial.
+Türkçe Başlık : Effects of schroth method combined with scapular stabilization egzersizs on omuz imbalance, scapular position and cobb angle in adolescent idiopathic skolyoz: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effects of schroth method combined with scapular stabilization egzersizs on omuz imbalance, scapular position and cobb angle in adolescent idiopathic skolyoz: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi theory and practice. 2026 aug 17. Anahtar kavramlar: scapular, effects, schroth, method, combined, stabilization.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42607125/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi - İlke Haber Ajansı
+Özet  : Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi &nbsp;&nbsp; İlke Haber Ajansı Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi - İlke Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0t4STA2eG5TQ3BDZ2swVzZDa050VUlhX2FpbDdyUFdKSjZSUzlhY1E3dkhaMDhWc3pfYlEtRFduN3A2T1d4TU9DX3dKUktQRloyelk4Zzk5RUJGaFRIZWY2RjZZNEozUU9FeFpOTkRBSDB3YzNQVmhKeGgyUjluVE5Rc3JOTDVselRncE9VcGhxWlJFdFE3UW5sNlJlXzdGNEE?oc=5
+
+Başlık: Şanlıurfa'da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu - Habertürk
+Özet  : Şanlıurfa'da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu &nbsp;&nbsp; Habertürk Şanlıurfa'da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVGswaHlISGtEQkFpOHN4cTZ6YmhFYXFubHRCNGpkaVBVTmhzWktvT0pzaUYyOUduY19mOUJ0ZktVQWk0RFY5WjhNTkdvSzNPN1ZGMk1Rd0puRHk1T2tyUzFzVDF6V0J0UnBldm1aQ1NtekJPQVhaWGYwU19YRU5RRHhXbjYxREVieG9mdGdVbDRrRk9sc1Z5OUJYemVnemMtREZEODIwWjJHS3k1dkRmOHdHRlVUZnNKelRVWVFmbXo3QTIzaHFYbnBRU1dnRU5XVEdXWHJTMUhKSHVwc0E?oc=5
+
+Başlık: Şanlıurfa’da 10 Saatlik Skolyoz Ameliyatı Başarıyla Yapıldı - Medya Urfa
+Özet  : Şanlıurfa’da 10 Saatlik Skolyoz Ameliyatı Başarıyla Yapıldı &nbsp;&nbsp; Medya Urfa Şanlıurfa’da 10 Saatlik Skolyoz Ameliyatı Başarıyla Yapıldı - Medya Urfa.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWVJWkpZZXZnbWRoY1hDOWl6QV9YWFpnY3F4YVBZbmwtQ2EwT1FCR3ZrUVprcGI4OWJTX3piM0ROOF9KWkpRaWEzNTdYQ1hiOVh0V3pIVzhCNk82aUc1MDdpMXF4ZDZxLW1OWUNKYXdWSDU0NkszN0E4Q09DLW1Qc1RoaEg5ZG9sWlJMb9IBkgFBVV95cUxOYURqUW5QYzJOV09sVnVTZ0xyMzBtNFY4Sm40anJic2VjLWxYQ1JqZlIxbnhJeUdpYTlsc2RSczM5aUlrTHhWaXVUU0JMZG1uaE9sazBkRXJiTy12OTJpZV9hN1JNb0NxeDdZOHhEaE1HeV9SaWhNbEtTRll5T0QyZGZCR28zVi15ZXV1MFpDVGpQQQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-08-23)
+========================================================================
+Yeni kaynak sayısı: 17
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=9
+GitHub dosyası: out/omuz/2026-08-23_20260823T073737Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effects of Scapulothoracic Physical Therapy on Shoulder Function in Adhesive Capsulitis: A Systematic Review and Meta-Analysis.
+Türkçe Başlık : Effects of scapulothoracic fizik tedavi / fizyoterapi on omuz function in adeziv kapsülit (donuk omuz): a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik effects of scapulothoracic fizik tedavi / fizyoterapi on omuz fonksiyon in adeziv kapsülit (donuk omuz): a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 jul. Anahtar kavramlar: effects, scapulothoracic, physical, therapy, omuz, fonksiyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42631081/
+
+Orijinal Başlık: Robot-assisted rehabilitation therapy for adhesive capsulitis: A pilot randomized controlled trial on clinical and patient-reported outcomes.
+Türkçe Başlık : Robot-assisted rehabilitasyon therapy for adeziv kapsülit (donuk omuz): a pilot randomize controlled klinik çalışma on clinical and patient-reported outcomes.
+Türkçe Özet   : Bu içerik robot-assisted rehabilitasyon therapy for adeziv kapsülit (donuk omuz): a pilot randomize controlled klinik çalışma on clinical and patient-reported sonuçs. konusuna odaklanıyor. Öne çıkan başlıklar: medicine. 2026 aug 21. Anahtar kavramlar: robot, assisted, rehabilitasyon, therapy, adhesive, capsulitis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42629747/
+
+Orijinal Başlık: Telerehabilitation-Based Motor Control Exercises After Rotator Cuff Surgery: Effects on Shoulder Function and Quality of Life.
+Türkçe Başlık : Telerehabilitasyon-based motor control egzersizs after rotator manşet surgery: effects on omuz function and quality of life.
+Türkçe Özet   : Bu içerik telerehabilitasyon-based motor control egzersizs after rotator manşet surgery: effects on omuz fonksiyon and quality of life. konusuna odaklanıyor. Öne çıkan başlıklar: journal of omuz and elbow surgery. 2026 aug 21. Anahtar kavramlar: surgery, omuz, telerehabilitasyon, based, motor, control.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42628630/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Yapay zekanın sağlık danışmanlığı için kullanılması birçok potansiyel risk taşımaktadır. - Vietnam.vn
+Özet  : Yapay zekanın sağlık danışmanlığı için kullanılması birçok potansiyel risk taşımaktadır. Yapay zekanın sağlık danışmanlığı için kullanılması birçok potansiyel risk taşımaktadır.
+Bağlantı: https://news.google.com/rss/articles/CBMieEFVX3lxTE13N0t5R1IzdEY5QzNqeWlnSFl6STY5YndzSFdUdkJ5UGRMaWVLYmhBbVVpNjU4YVFiVlhtRmVhR2MyVFlydjU2b1dWOEQ5YU95eGN5aWVRbFRPclU2dXg1ZnBFSlJsNFJZdHlzNkRFUjdpOGFDc0tUZA?oc=5
+
+Başlık: Kıkırdak hasarında erken tedavi protez ihtiyacını geciktirebiliyor - Haber 1
+Özet  : Kıkırdak hasarında erken tedavi protez ihtiyacını geciktirebiliyor &nbsp;&nbsp; Haber 1 Kıkırdak hasarında erken tedavi protez ihtiyacını geciktirebiliyor - Haber 1.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUwwY0xhUmR0bmdyend0cVVXN2VqcXAzZlJ1Sm40NzZKT25NZ1JGaEV2LU9pRFU2amM5M1BnRmZ3TllrVi1kb1plSXoxQm9lbFY0MjlrQ0d3ZkZfUnFmY3FBeVZiOExWVkEtNUpScjNlVnhNMWNfYVNsNHZMcDdtdmtmUTJWZVJhLWgtSkNsaXVpcVNUV1ZPV0tnY000NjA?oc=5
+
+Başlık: 20-20-20 Kuralı Nedir, Göz Yorgunluğuna İyi Gelir mi? - Tıbbiye Bülteni
+Özet  : 20-20-20 Kuralı Nedir, Göz Yorgunluğuna İyi Gelir mi? 20-20-20 Kuralı Nedir, Göz Yorgunluğuna İyi Gelir mi?
+Bağlantı: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTBmdFlsVmJFaTFTM2NyZ3htRzJyVTdnUUd3SGh6QXpmSWRIRzBDOXdDZXpTTXg1WnhTNmFhRUxmbW5ydkZTUHo4My14NnhINVhtakhvZTJyOS1vTF95ZDAzQ1Bwby05OUFMNElSY1d0dUZCUUxVNVVVNEVFYjA2UkxMZDY1VXBk?oc=5
+
