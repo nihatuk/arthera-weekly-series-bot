@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-08-30)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      20
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   48
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-08-30)
+========================================================================
+Yeni kaynak sayısı: 36
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=28
+GitHub dosyası: out/bel_agrisi/2026-08-30_20260830T124153Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Patient-reported outcome measure completion in lumbar spine surgery: Rates and determinants in a multicenter registry.
+Türkçe Başlık : Patient-reported outcome measure completion in lomber (bel bölgesi) spine surgery: rates and determinants in a multicenter registry.
+Türkçe Özet   : Bu içerik patient-reported sonuç measure completion in lomber (bel bölgesi) spine surgery: rates and determinants in a multicenter registry. konusuna odaklanıyor. Öne çıkan başlıklar: brain & spine. 2026. Anahtar kavramlar: spine, patient, reported, sonuç, measure, completion.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42668662/
+
+Orijinal Başlık: Single-cell and spatial transcriptomics characterisation of RSPO2(+) nucleus pulposus cells reveals a WNT/FN1-CD44 degenerative axis and therapeutic targets in IVDD.
+Türkçe Başlık : Single-cell and spatial transcriptomics characterisation of rspo2(+) nucleus pulposus cells reveals a wnt/fn1-cd44 degenerative axis and therapeutic targets in ivdd.
+Türkçe Özet   : Bu içerik single-cell and spatial transcriptomics characterisation of rspo2(+) nucleus pulposus cells reveals a wnt/fn1-cd44 degenerative axis and therapeutic targets in ivdd. konusuna odaklanıyor. Öne çıkan başlıklar: journal of orthopaedic translation. 2026 sep. Anahtar kavramlar: single, cell, spatial, transcriptomics, characterisation, rspo.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42668501/
+
+Orijinal Başlık: Clinical characteristics and distinct recovery trajectories of pain and disability after lumbar microdiscectomy in children and adolescents.
+Türkçe Başlık : Clinical characteristics and distinct recovery trajectories of pain and disability after lomber (bel bölgesi) microdiscectomy in children and adolescents.
+Türkçe Özet   : Bu içerik clinical characteristics and distinct recovery trajectories of ağrı and disability after lomber (bel bölgesi) microdiscectomy in children and adolescents. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in surgery. 2026. Anahtar kavramlar: clinical, characteristics, distinct, recovery, trajectories, ağrı.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42666803/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Tatilde bel boyun ağrısı: Omurgayı zorlayan ve fıtığı tetikleyen 6 masum hata - İndigo Dergisi
+Özet  : Tatilde bel boyun ağrısı: Omurgayı zorlayan ve fıtığı tetikleyen 6 masum hata &nbsp;&nbsp; İndigo Dergisi Tatilde bel boyun ağrısı: Omurgayı zorlayan ve fıtığı tetikleyen 6 masum hata - İndigo Dergisi.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxON0tOZm9IcUpxS2RmZDhINTRPdUxoLUhFbFpieTA0VHM0elVMc2JVMTlwSHYxMkRoQzM3Q3JMOXJVYXczRUVncmNROHpRWXdqOW1aN1BzdzQyZTdvcWhmQ0RrOGRmdEtQNUpGaTNHa3BrczdDYTM3VE45RGx2ZFNpNUxyWGtta2tIc1Y4?oc=5
+
+Başlık: Masa başında çalışanlar dikkat! - Antalya Ekspres
+Özet  : Masa başında çalışanlar dikkat! Masa başında çalışanlar dikkat!
+Bağlantı: https://news.google.com/rss/articles/CBMid0FVX3lxTFBmRjlzV0dDSHgzd3ctTVROMmRXTTZ6OWRXRWU1Ym9yNHdlWm04QWMwb1dmUUcyb1EtZjJ2OHZwTzZjdDU1bzBiSzJ6Y0lxTHB1TjB0MktmT3lSckhtSlFRaUhsSFFvSzJoelBtZzBvdVNYMlNOdVZ3?oc=5
+
+Başlık: ﻿Bel ağrısını artıran oturma şekli belli oldu! Masa başında çalışanlar dikkat - STAR - Haberler
+Özet  : Masa başında çalışanlar dikkat &nbsp;&nbsp; STAR - Haberler ﻿Bel ağrısını artıran oturma şekli belli oldu!
+Bağlantı: https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU1NZm5DVVpmSTlBeUNCdlF6QTBnWUpMeWFjYWZtUjVpWDZFaXpUYmhNRFNMTHJNb21FMzJ6TXlFYmlva1VRVjhPcks5cnZhUlZUUlBtaV92YTYtU0hoTzJaQ3V0NTEza0p3a3ZfTlhDYXdJdUYyd2RNbHBLOG9uNjExVDdRUFFsTUJuM1RiLWVLZkRSRGdvZWVyUHlhSU43TnJ6Ri1qTU83TnZ2RlZuZ2d0VWFKd3FJbkxuYlpR0gHAAUFVX3lxTFA3SWF3NkNvZzBfTTQ1SVVPOV9YcWlhX1BHZmE1UGEwYmpKV2gxTXd5c1Q0NW9IZDhicmlHcFlqZzhGNTNnM3BuZC1xZXN4dFk2N2NXdjlHNGRXMnVJTWNFQ0ltTi1yU29nV1lkODYwSkdtcG0td0djd3Q4d3FTbVhnTDMtTjA5NTgzZmVkOEJjYmZMaV84eEdJRFBNRUxoN0hSdFplOVp1N3FERVRqQ0FrZ0Z4SEpydThXeWRRa3hxNQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-08-30)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=4 | medRxiv=0 | Haber=14
+GitHub dosyası: out/skolyoz/2026-08-30_20260830T124153Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Knowledge and clinical practices in the conservative management of adolescent idiopathic scoliosis among physical therapists in Saudi Arabia: a national cross-sectional survey.
+Türkçe Başlık : Knowledge and clinical practices in the conservative management of adolescent idiopathic skolyoz among physical therapists in saudi arabia: a national cross-sectional survey.
+Türkçe Özet   : Bu içerik knowledge and clinical practices in the conservative management of adolescent idiopathic skolyoz among physical therapists in saudi arabia: a national cross-sectional survey. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 aug 28. Anahtar kavramlar: european, spine, society, knowledge, clinical, practices.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42663628/
+
+Orijinal Başlık: Functional, Radiographic, and Patient-Reported Outcomes of Hybrid Fixation Versus Posterior Long Fusion for Double-Major Adolescent Idiopathic Scoliosis.
+Türkçe Başlık : Functional, radiographic, and patient-reported outcomes of hybrid fixation versus posterior long fusion for double-major adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik fonksiyonal, radiographic, and patient-reported sonuçs of hybrid fixation versus posterior long fusion for double-major adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of clinical medicine. 2026 aug 17. Anahtar kavramlar: fonksiyonal, radiographic, patient, reported, sonuçs, hybrid.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42652744/
+
+Orijinal Başlık: The Evidence of Physiotherapy Scoliosis-Specific Exercises in Treating Secondary Postural Deviations in Mild and Moderate Idiopathic Scoliosis: A Scoping Review.
+Türkçe Başlık : The evidence of fizyoterapi skolyoz-specific egzersizs in treating secondary postural deviations in mild and moderate idiopathic skolyoz: a scoping review.
+Türkçe Özet   : Bu içerik the evidence of fizyoterapi skolyoz-specific egzersizs in treating secondary postural deviations in mild and moderate idiopathic skolyoz: a scoping review. konusuna odaklanıyor. Öne çıkan başlıklar: journal of fonksiyonal morphology and kinesiology. 2026 jul 24. Anahtar kavramlar: skolyoz, evidence, fizyoterapi, specific, egzersizs, treating.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42647329/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Şanlıurfa’da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı
+Özet  : Şanlıurfa’da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Şanlıurfa’da skolyoz hastası genç kadın 10 saatlik ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2ZpTjBVblM3WnpCYXFmRnlXN3hMdlIxOUU0dHVrRFlMR3dJeEpxX2JIVXg3R1Y5SXhQV1d3OTdLRFMtaHhMS19hb1JOclFPYnBVZjZTbFVVMjR4QnBkMjhVbHRIRS1CemxKS3Z3c2lMeHZPcDJvamdUM3V6clFsR2ZhNUFEalFfX0ZQT0owTlpucGhrbVllM1UyTVFDdlB5V3Br0gGoAUFVX3lxTE4zVk93dmJoVzctNHhKR3J0aEt1N1V4blNRcEU0SkdWd1FLU0xtT1FDNnE0S3dSVlAtYlRZZ2Z5Y0tqaGJUNUpPZHZoaURFV3BVNThiMV90enZ5d0ppQnAtWTdmVFZ5cmVhSEUzOFVJaTk0TW0xZEJrU05VR2FtM0RaQ1ZFWF95T05LM1Z0SEVtQ1dZZ2pzUFpiRWFFMkkxZGRNZEZCNWo1Zg?oc=5
+
+Başlık: Çocukluk döneminde sık görülüyor! Omurga eğriliği hakkında bilmeniz gerekenler - Hürriyet
+Özet  : Omurga eğriliği hakkında bilmeniz gerekenler &nbsp;&nbsp; Hürriyet Omurga eğriliği hakkında bilmeniz gerekenler - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUpFOGN0N1AycHoxS2lVekdLcXFKLU9IdFlVX2FvaTRYTnBRM0s0Ykc5dDQ2Z2RwdWs1b2xCX0ZjeWxzTVVkMG5lNkl4UHZjblkwQWNxVF82andWMnJxSThodHBMTC14ZVo3QjVRMnI1UkROYXFzVDF5U3dELVF3Z19LektQZm9UYm93SGhRbVZzSXFfckRZd2N0SUcySG1oRVJ2SE1TN3hLSzRyZnFCZk52VHF2NDZURnVaaTJxdC1WZmRrVXFJ?oc=5
+
+Başlık: Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi - Malatya Güncel
+Özet  : Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi &nbsp;&nbsp; Malatya Güncel Şanlıurfa'da ilk kez skolyoz ameliyatı başarıyla gerçekleştirildi - Malatya Güncel.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxNYi1rMkhnaW51YUpGa0xneEVEWm1jRzV0X3U4S2NZZXRvRWo4anlGaDhaZ2IyMDBEcjFXcGs4U0Y0V1V5aHNKQUpRTGw5b2VvZThITW04S28xUW1nTlMwdXBVbEMwX21BbmN6NlMxekVwbGNJUXhhWlFyMENMY2cxZGJkclZwOVg2dWZ0UTAwUF8xQ2FVZ290dQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-08-30)
+========================================================================
+Yeni kaynak sayısı: 14
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=6
+GitHub dosyası: out/omuz/2026-08-30_20260830T124153Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Mapping the Competitive Swimming Sports Medicine Literature: A Bibliometric Analysis of Injuries, Biomechanics, Rehabilitation, and Performance.
+Türkçe Başlık : Mapping the competitive swimming sports medicine literature: a bibliometric analysis of injuries, biomechanics, rehabilitasyon, and performance.
+Türkçe Özet   : Bu içerik mapping the competitive swimming sports medicine literature: a bibliometric analysis of injuries, biomechanics, rehabilitasyon, and performance. konusuna odaklanıyor. Öne çıkan başlıklar: orthopedic reviews. 2026. Anahtar kavramlar: mapping, competitive, swimming, sports, medicine, literature.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42657427/
+
+Orijinal Başlık: Beyond Corticosteroids: Ultrasound-Guided Regenerative and Hydrodissection Therapies for Adhesive Capsulitis.
+Türkçe Başlık : Beyond corticosteroids: ultrasound-guided regenerative and hydrodissection therapies for adeziv kapsülit (donuk omuz).
+Türkçe Özet   : Bu içerik beyond corticosteroids: ultrasound-guided regenerative and hydrodissection therapies for adeziv kapsülit (donuk omuz). konusuna odaklanıyor. Öne çıkan başlıklar: life (basel, switzerland). 2026 jul 31. Anahtar kavramlar: beyond, corticosteroids, ultrasound, guided, regenerative, hydrodissection.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42652958/
+
+Orijinal Başlık: Mobile App-Guided Home Exercise Versus Conventional Pamphlet-Based Instruction After Corticosteroid Injection in Patients with Frozen Shoulder: A Pilot Randomized Trial.
+Türkçe Başlık : Mobile app-guided home egzersiz versus conventional pamphlet-based instruction after corticosteroid injection in patients with donuk omuz: a pilot randomize klinik çalışma.
+Türkçe Özet   : Bu içerik mobile app-guided home egzersiz versus conventional pamphlet-based instruction after corticosteroid injection in patients with donuk omuz: a pilot randomize klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: healthcare (basel, switzerland). 2026 aug 20. Anahtar kavramlar: mobile, app, guided, home, egzersiz, versus.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42651416/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bedirhan Bülbül, Avrupa Şampiyonası'nda yok! - Sporx.com
+Özet  : Bedirhan Bülbül, Avrupa Şampiyonası'nda yok! Bedirhan Bülbül, Avrupa Şampiyonası'nda yok!
+Bağlantı: https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ29tUmhCendEOGNuU2d4bWtBQXJCNldRT1FIbW8wclVBc09la3hWQ3pCWV8tdWw2ZFdwZVlpUlZoc3NHX1hMMURYaDd5YUphcnhBcmhZclBRa01jakxWOGxMbmNOSHRLRld1U1ZzQnFpNks0bDgtQUhrRUotTTdmdWdYOGp4TlXSAYoBQVVfeXFMTVNyenViRXI2Wk94bzZxX3QzWFZPdHhzOVMwSmRlSjE0TkZkT0c2Sk1qYWd2SGlVZ3ZEb0hjS2ozWGk3eHFVVTRRUUt2R1IwM3RnUXpoNElLSExaLTFselRMUUVvWlBNUzdmaExWU2FOT3JOSjJrQlhXZ3Fjd2RZeTlwSXFkYzQ2WXdB?oc=5
+
+Başlık: Hareketle gelen omuz tıkırtısının sebebi ‘sırt nasırı’ - Türkiye Gazetesi
+Özet  : Hareketle gelen omuz tıkırtısının sebebi ‘sırt nasırı’ &nbsp;&nbsp; Türkiye Gazetesi Hareketle gelen omuz tıkırtısının sebebi ‘sırt nasırı’ - Türkiye Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHdNVXRLd1VCaEQ1alZHV01tbm56U0pvQi1VRF9aY3prSEFTckJ3YTJOSV8tMnNtREJFMFJqelUwaFJGbVgzM055MTJ5Tjg0NE5Kems5ZlJyWU1YcWF0dk9nMkZHNEtCbjluUnBER0VoWEk1dkgyNVlVTkQwemJUd00yZ0s4QjlFbXByd0hFTXRlMVhqRVAtcFFNQ3NQTEJsRUQ1bA?oc=5
+
+Başlık: Bedirhan Bülbül, Avrupa Şampiyonası kadrosundan çıkarıldı - hibya.com
+Özet  : Bedirhan Bülbül, Avrupa Şampiyonası kadrosundan çıkarıldı &nbsp;&nbsp; hibya.com Bedirhan Bülbül, Avrupa Şampiyonası kadrosundan çıkarıldı - hibya.com.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxObklyZjVLbjF0b2NBcnFKNUtfSlY0QkVlQVRYai15eUFMQmdwTjVDQWdUT0J5dXhkY3ZwVy1uQ0hyaWJLT0ZDSG1icXo5bHY5QXZEUVN0V0xuV2tSLVpGdzFYWkhXU0Q2QjF6N3Y4UjlWaUE0dWRPTWljdWtPNlI2U2NndTBsVjlxQ1E?oc=5
+
