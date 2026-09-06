@@ -1,0 +1,129 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-09-06)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   31
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-09-06)
+========================================================================
+Yeni kaynak sayısı: 28
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=20
+GitHub dosyası: out/bel_agrisi/2026-09-06_20260906T113509Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effect of High-Intensity Laser Acupuncture on Muscle Performance, Pain, and Quality of Life in Patients with Chronic Nonspecific Low Back Pain: A Randomized Placebo-Controlled Trial.
+Türkçe Başlık : Effect of high-intensity laser acupuncture on muscle performance, pain, and quality of life in patients with chronic nonspecific bel ağrısı: a randomize placebo-controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effect of high-intensity laser acupuncture on muscle performance, ağrı, and quality of life in patients with chronic nonspecific bel ağrısı: a randomize placebo-controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of multidisciplinary healthcare. 2026. Anahtar kavramlar: ağrı, effect, high, intensity, laser, acupuncture.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42701790/
+
+Orijinal Başlık: U.S. Veterans with Low Back Pain Benefit from Transcranial Direct Current Stimulation: Results from a Cognitive Behavioral Therapy Randomized Controlled Trial.
+Türkçe Başlık : U.s. veterans with bel ağrısı benefit from transcranial direct current stimulation: results from a cognitive behavioral therapy randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik u.s. veterans with bel ağrısı benefit from transcranial direct current stimulation: results from a cognitive behavioral therapy randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of ağrı. 2026 sep 5. Anahtar kavramlar: ağrı, veterans, low, back, benefit, transcranial.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42700878/
+
+Orijinal Başlık: Neuroimmune Phenotyping as the Next Frontier in Chronic Pain Medicine for Musculoskeletal Back Pain.
+Türkçe Başlık : Neuroimmune phenotyping as the next frontier in chronic pain medicine for musculoskeletal bel ağrısı.
+Türkçe Özet   : Bu içerik neuroimmune phenotyping as the next frontier in chronic ağrı medicine for musculoskeletal bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: current ağrı and headache reports. 2026 sep 5. Anahtar kavramlar: ağrı, neuroimmune, phenotyping, next, frontier, chronic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42700197/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Japon Omurga Uzmanının Bel Ağrısı İçin Gösterdiği Yöntem Tüm Dünyada Viral Oldu - Onedio
+Özet  : Japon Omurga Uzmanının Bel Ağrısı İçin Gösterdiği Yöntem Tüm Dünyada Viral Oldu &nbsp;&nbsp; Onedio Japon Omurga Uzmanının Bel Ağrısı İçin Gösterdiği Yöntem Tüm Dünyada Viral Oldu - Onedio.
+Bağlantı: https://news.google.com/rss/articles/CBMisgFBVV95cUxORGlaOXc5bFl0TnlCUjdYY29kV050X2NEQlY5S3Q4Y3lZWWIwRUZjazZnaVJlY2VOMl9CRDhvVjFDdVhuWnBVS25mNEpaQVN5NUdGSDhpbmZIZzlHU014VENvODVfLTdTMDUxSV91cF9rWW9GSm9vNTU0amtRWGRzbnhZUHBOWFBpZnJkZTdLQWlQVWd0TVNZTFdXaWZwUDNaMFh1MS1PTHVOUy1wQUtPU2pR?oc=5
+
+Başlık: Bir fizyoterapistin bel ağrısı çekenler için çektiği video viral oldu: 50 milyondan fazla izlendi - Yeni Şafak
+Özet  : Bir fizyoterapistin bel ağrısı çekenler için çektiği video viral oldu: 50 milyondan fazla izlendi &nbsp;&nbsp; Yeni Şafak Bir fizyoterapistin bel ağrısı çekenler için çektiği video viral oldu: 50 milyondan fazla izlendi - Yeni Şafak.
+Bağlantı: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZUFQT25RSTVNc2NFZzRrUEtTRTFQdzlCb0dvRWUtczJNNmhkaG4zdG9NczFaeEJSdUZ2U183NGhIU0ljRFdqODZiYXZSZVBLZVc0ckJSNUpyb0NQWW1xZWhDUlZtOGh6ekdXRlpYZFhvdDN6SHdFb0lLWlA2M2xob2dFZ0x3NXlSaVB1NUtIVFRyY0MyQzZPY3libEs3M3BLUFBNRTRGVUlpcXJlTFBRcGVaQUNoRjhCenZ0aEpOSDFtSDRsenpid2pnZmpaVTdodjRXSm5BOEhQUQ?oc=5
+
+Başlık: Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2xIUmhkRGQwWGh3VmpaTThMbzZOMGVXQzZnSjRNeFFST0ZacEZHMVQxMEpNXzcxbU1zMWlzbVgxazcyNTRIazh2T3gwZHJ6WVVXU2RiSjlVcnJvZHRQblU4UW41QzdldGk0dDZOdWVoS2NvM2JSeWpsTEo1c3pPMDJMUEg5eEFDblQzX1ozRURVS3ZBYUZJZUR0M1JLNFZ0?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-09-06)
+========================================================================
+Yeni kaynak sayısı: 11
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=9
+GitHub dosyası: out/skolyoz/2026-09-06_20260906T113509Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Cystinosis-associated metabolic bone disease: pathogenesis and outcome.
+Türkçe Başlık : Cystinosis-associated metabolic bone disease: pathogenesis and outcome.
+Türkçe Özet   : Bu içerik cystinosis-associated metabolic bone disease: pathogenesis and sonuç. konusuna odaklanıyor. Öne çıkan başlıklar: pediatric nephrology (berlin, germany). 2026 sep 4. Anahtar kavramlar: cystinosis, associated, metabolic, bone, disease, pathogenesis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42697975/
+
+Orijinal Başlık: Integrating basic body awareness therapy with scoliosis-specific exercise for trunk proprioception in adolescent idiopathic scoliosis: a randomized controlled trial.
+Türkçe Başlık : Integrating basic body awareness therapy with skolyoz-specific egzersiz for trunk proprioception in adolescent idiopathic skolyoz: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik integrating basic body awareness therapy with skolyoz-specific egzersiz for trunk proprioception in adolescent idiopathic skolyoz: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 aug 30. Anahtar kavramlar: european, spine, society, skolyoz, integrating, basic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42669092/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı
+Özet  : Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VHN1FPYi1Uc2NkRzZ0N1dmX0hNY3JFX3BXdk90Znp0b0dhX201MmlYQ1V3ejdaLUZSTW1UY2RUeEF2cjhXcXlZNFJHLXpoM1M4Yk9jZlhEUVFqTEE1VUg0Q1hudFdJYk9VUE0wRl9LUTN4V3lDc2w3ZzFCTnlqNXVNRGlrS1dUdEJJUmZ6M3JGal9iQzhuV2JXaFJiVEXSAaMBQVVfeXFMTURvTDhxSTRhSnhrOEpSWTVsbUhIZUREUWZhMnlEbFZHa3NPeURVRWMzQ1NNdmEyLUwyR0V2VkwxWDJtbS1nZHQ3dS1nSlJGdkFQdFF3SllxdWprVTdZOTVFbXhfNzc4ZnlWNnVVX2NLMWpSdjhST2lPQjFmSlo0SmJ2RWQxcEotTEtwWTVjS25MajBGNWNQVlAzbkNseWpua2tqMA?oc=5
+
+Başlık: Uzmanından okul çantası uyarısı: Skolyoz ve kifoza yol açabilir - Haberler
+Özet  : Uzmanından okul çantası uyarısı: Skolyoz ve kifoza yol açabilir &nbsp;&nbsp; Haberler Uzmanından okul çantası uyarısı: Skolyoz ve kifoza yol açabilir - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtRMW84cEtxYUFHTVEyUHVIMXk5bGQ1NlgyZjB1OEtTa0l3bllCNHNqdDMxV2tBdS1WNTR4ZTM4YlVnQnczLTNpbmRRV1BIa0h5SFhyUU8zSGxzZ01xSGVERmNJSl85N2F1S0w2RGkyZDNjWGdqQUR5Z3IwYVl4OTUybkJsM19MZWNWdjAxWTZZdEJjUmVzcNIBlAFBVV95cUxQejNNQW5sWmktSE1jNjZXVXNsRHVUZEwxc1FtZ2RXWm9hOElCMTBsazFoM0ZvWVhEYUVqOWtaY3I5V1YxUEprbnZTOEJxU0dPR2xMblAzTEtQcDI5bnJRN0dtRWpzUG05UzBNMDdMYm5aVXFjc0loUnlmM3RQQmVBaTc2bDJnYU9PQ0g2a3FTODZvTm50?oc=5
+
+Başlık: Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı
+Özet  : Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHl1cC0yOEJ6M0o5dk55bXN2b2FxdmNaUHRtaGFXd0N5d0tmNEpxTGlNVHk3WlhyOFlQcFYybzZfRXRYOHl3cS1pb003SzJKX3FlRDNqWnFELXNob29hc3JtdGpXemxxMGVaWWxQNTVoT284QUJCbnd1aE9lN1lvQmgtUEtSTnp1OXlUM2NCVTE3NE92bDN5Nmd5WTMyalF5a1HSAaIBQVVfeXFMUER5dXAtMjhCejNKOXZOeW1zdm9hcXZjWlB0bWhhV3dDeXdLZjRKcUxpTVR5N1pYcjhZUHBWMm82X0V0WDh5d3EtaW9NN0sySl9xZUQzalpxRC1zaG9vYXNybXRqV3pscTBlWllsUDU1aE9vOEFCQm53dWhPZTdZb0JoLVBLUk56dTl5VDNjQlUxNzRPdmwzeTZneVkzMmpReWtR?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-09-06)
+========================================================================
+Yeni kaynak sayısı: 9
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=2
+GitHub dosyası: out/omuz/2026-09-06_20260906T113509Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Treatment of acute calcific tendinopathy of the hip using focused shockwave.
+Türkçe Başlık : Treatment of acute calcific tendinopathy of the hip using focused shockwave.
+Türkçe Özet   : Bu içerik treatment of acute calcific tendinopathy of the hip using focused shockwave. konusuna odaklanıyor. Öne çıkan başlıklar: bmj case reports. 2026 sep 4. Anahtar kavramlar: treatment, acute, calcific, tendinopathy, hip, using.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42700967/
+
+Orijinal Başlık: Factors associated with post-stroke pain and pain perception-a scoping review.
+Türkçe Başlık : Factors associated with post-i̇nme pain and pain perception-a scoping review.
+Türkçe Özet   : Bu içerik factors associated with post-inme ağrı and ağrı perception-a scoping review. konusuna odaklanıyor. Öne çıkan başlıklar: disability and rehabilitasyon. 2026 sep 3. Anahtar kavramlar: ağrı, factors, associated, post, inme, perception.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42689757/
+
+Orijinal Başlık: Blood Flow Restriction Training After Orthopedic Procedures: A Scoping Review of Current Trends and Functional Outcome Assessments.
+Türkçe Başlık : Blood flow restriction training after orthopedic procedures: a scoping review of current trends and functional outcome assessments.
+Türkçe Özet   : Bu içerik blood flow restriction training after orthopedic procedures: a scoping review of current trends and fonksiyonal sonuç assessments. konusuna odaklanıyor. Öne çıkan başlıklar: jospt open. 2026 apr. Anahtar kavramlar: blood, flow, restriction, training, after, orthopedic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42686159/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kas ve Kemik İyileşirken Tendonlar Zor Toparlanıyor: Yeni Bulgular - Tıbbiye Bülteni
+Özet  : Kas ve Kemik İyileşirken Tendonlar Zor Toparlanıyor: Yeni Bulgular &nbsp;&nbsp; Tıbbiye Bülteni Kas ve Kemik İyileşirken Tendonlar Zor Toparlanıyor: Yeni Bulgular - Tıbbiye Bülteni.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQaWFMZXFHandtcGFNTWFibHBxUUZ3QnJoenRkbHdUQlNiQkh6RENUTTk3ZENkRzllVG5TblhHMzJqVnMzR3lzMGRVcjBJeVlZdnp5NGlHNy05MGlabVZXLVh5YVVFSFlLRjFhRHBUNlRjc0U0dWJKZDNGaFhEU3hjSzFzblBaQkl0bTEyY3Jva1ZnOWY2RVc0?oc=5
+
+Başlık: Issy Wong: İngiltere'nin Hız Silahı 2026 Sezonunu Nasıl Tamamladı? - HaberGo
+Özet  : Issy Wong: İngiltere'nin Hız Silahı 2026 Sezonunu Nasıl Tamamladı? Issy Wong: İngiltere'nin Hız Silahı 2026 Sezonunu Nasıl Tamamladı?
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxNOUd3ZHNKT2RiSWhWeUMtVlg3dTZkcFZMLXRickZWMUZyZGpSbVRlcU96S2tyRzh2OFN1TG02WEtaNWhvNFJBVm4tOVFHMFBub0VvTnBtZjR0VVNISGUyQmstdmt5OGg1dE53bm82NWlIQkRsTkdZeGlRQzBCVVE2WV9kUW9QYVhPT1RuMjc5VlhvQllUc1Noc1hfTTJ1Z9IBowFBVV95cUxPUUJoT3pneTk2Qk1DOGJqMzRWMWJ2SEFSd2IxMjV5VHZrYnQ3Y2xvRmI4WVlVcFB5OE9CYzJVVTNjNHI2cFUyQU1kMElPa0h6YThNRjBUZV9tVzZjUG51TXhrMHh5ODlCMHBPdmJHWnREa2xhRjQ1TVBad3FUa2dqb0hOeDMzblVncUhndlZQYTRUX1FGeVFfMjJhaTNZTUhWRzJ3?oc=5
+
