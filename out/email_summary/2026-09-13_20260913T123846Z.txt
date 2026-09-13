@@ -1,0 +1,121 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-09-13)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   47
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-09-13)
+========================================================================
+Yeni kaynak sayısı: 34
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=26
+GitHub dosyası: out/bel_agrisi/2026-09-13_20260913T123833Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Unusual Spinal Epidural and Paraspinal Venous Engorgement Secondary to Hepatosplenic Schistosomiasis: A Rare Cause of Severe Low Back Pain.
+Türkçe Başlık : Unusual spinal epidural and paraspinal venous engorgement secondary to hepatosplenic schistosomiasis: a rare cause of severe bel ağrısı.
+Türkçe Özet   : Bu içerik unusual spinal epidural and paraspinal venous engorgement secondary to hepatosplenic schistosomiasis: a rare cause of severe bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: clinical case reports. 2026 sep. Anahtar kavramlar: unusual, spinal, epidural, paraspinal, venous, engorgement.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42732128/
+
+Orijinal Başlık: Is therapeutic exercise as a standalone intervention effective in reducing kinesiophobia in adults with nonspecific chronic low back pain? A systematic review and meta-analysis with meta-regression.
+Türkçe Başlık : Is therapeutic egzersiz as a standalone intervention effective in reducing kinesiophobia in adults with nonspecific chronic bel ağrısı? a sistematik derleme and meta-analiz with meta-regression.
+Türkçe Özet   : Bu içerik is therapeutic egzersiz as a standalone intervention effective in reducing kinesiophobia in adults with nonspecific chronic bel ağrısı? a sistematik derleme and meta-analiz with meta-regression. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 sep 12. Anahtar kavramlar: european, spine, society, meta, therapeutic, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42730933/
+
+Orijinal Başlık: Improving Clinical Trial Design in Low Back Pain: Insights from Studies of Gabapentinoids.
+Türkçe Başlık : Improving clinical klinik çalışma design in bel ağrısı: insights from studies of gabapentinoids.
+Türkçe Özet   : Bu içerik improving clinical klinik çalışma design in bel ağrısı: insights from studies of gabapentinoids. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı and therapy. 2026 sep 12. Anahtar kavramlar: ağrı, improving, clinical, klinik çalışma, design, low.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42730861/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı şikayeti ile gitmişti: Polis memurunun kahreden ölümü - Hürriyet
+Özet  : Bel ağrısı şikayeti ile gitmişti: Polis memurunun kahreden ölümü &nbsp;&nbsp; Hürriyet Bel ağrısı şikayeti ile gitmişti: Polis memurunun kahreden ölümü - Hürriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejZOTjdRbzRYUzJOeEcyV1ZNVmRzZDVnSW44VXZsZHNXOU5UcnU5VU9yRDNUTDI0ZnZnX3ZNdFNMcy1OTFI3Vk5mOTUwbmx1RE5KNUxHTWZOaWx2R0FUUzE5SXlnMlEwY0xkS3lQYlNCZTNtVm1BdTFEMHp4NVUxQzV4TWlwaHI4Skl5Qk1ScEVNNGdIaFBlanhiODVsWHZoRkoxWWhzRllOME0?oc=5
+
+Başlık: Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor - CNN Türk
+Özet  : Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor &nbsp;&nbsp; CNN Türk Çocuklarda ağır çanta kullanımı bel ağrısı yapıyor - CNN Türk.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxOcE9seVR0Q29ObGZ5d2tUVGQ4VzZfVTQ0UWpBTktRRW5HLUk1d1RRRC10aEVMNlJndm11VUJuNDJzbVlhbHdLUVBDZ2NVR2ZIT3JuZnRQZ1JyZEk1aWJpNmtyaGpkeloybXBjR25WTVRhMkFzVWdaTW9qangwU0J6czFXczJVd1ZCWk5XOTNvanZmV29xX0FuWmNoVW8?oc=5
+
+Başlık: 13 Eylül tarihli sağlık haberleri güncellemesi: Yıllarca ihmal edilen bel ağrısı sonucu ciddi böbrek hasarı. - Vietnam.vn
+Özet  : 13 Eylül tarihli sağlık haberleri güncellemesi: Yıllarca ihmal edilen bel ağrısı sonucu ciddi böbrek hasarı. 13 Eylül tarihli sağlık haberleri güncellemesi: Yıllarca ihmal edilen bel ağrısı sonucu ciddi böbrek hasarı.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSk9KQm5FcEJMRTNKY3M0UzJIWkdvZ1VIRmxNcWxWVFFFNTd3RUlaV0RuOTJmeHljVXJvZl84Q1pmV25WLWJYTGwyNlB3ZjBBaFltX0lWOGtmTFhPSWNqNWQ1VXB6cjhNMWw1bm1CZ1Z2UEtmUjRvbk0tQTk2S2wtUHp5UWJISnNKLWRTQjQ4RUdpUmNYdDlkWlhndzRFLUhLdWhxR3VyeWwtUzBNMVg4?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-09-13)
+========================================================================
+Yeni kaynak sayısı: 8
+Dağılım: Cochrane=0 | PubMed=0 | medRxiv=0 | Haber=8
+GitHub dosyası: out/skolyoz/2026-09-13_20260913T123833Z.md
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı
+Özet  : Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Skolyoz hastası Bünyamin, ameliyatla sağlığına kavuştu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMingFBVV95cUxQTUxTNVdMcEExZFdwRjQ1Z3NWTWpzb2FhRnlNYmZ4Y2RnYmhLNllPRTZRMTBBVS1sZVhBU1J5ck4zYW1QNXFPN2hYTzVwem1uSG81ZTNhaVVQeTJuZGV1TmZpeDM5TVNsNlRzY0dRVW4tZ3pReWJmVy00TEFoS2dBZFFWMXFlT0VsbHktSTgyazhvaGVPU0F1M2RWNkNJUdIBogFBVV95cUxPa3pXMlRYeWE2OURBZkg5bXZPTlZmMlVTNWdLdGVXQ3hmTG1UeEUzMUxlU3BFdEcxLTlualdoeUtRbm1qd2p6N0VNV0ZpWWRxd3M0bEdSVVNOaktTVng0M3dobG0xSldwQ0FTS3VHdGZNV0tFMWdVekdrcGRHdnYtMUw5OGpDejQ3WTRZSGFXMm9lZ1dSbEtjRGVDUHdHbGhVQ0E?oc=5
+
+Başlık: 76 dereceye kadar skolyozu olan bir hastada başarılı bir ameliyat gerçekleştirildi. - Vietnam.vn
+Özet  : 76 dereceye kadar skolyozu olan bir hastada başarılı bir ameliyat gerçekleştirildi. 76 dereceye kadar skolyozu olan bir hastada başarılı bir ameliyat gerçekleştirildi.
+Bağlantı: https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHFGaUlyUHdaTUZJNkpSNWxNeDVoNFo2cHcwVGF5YnlTUnRSYXVGYTBxOUZCY0FKVEs3eks2elgzOTZGMnlvVXlqOVpWdnlscHMyWW9peEhaaW1aZzlZd1FYVml6N0M0bDgyelhjRm1hVkxXWHF1M3hPZG5GY2M0djBXWFpLcmNHTE1IVnppUzA?oc=5
+
+Başlık: Engelini avantaja çevirdi, LGS’de derece yaptı - Bilim ve Sağlık Haber Ajansı
+Özet  : Engelini avantaja çevirdi, LGS’de derece yaptı &nbsp;&nbsp; Bilim ve Sağlık Haber Ajansı Engelini avantaja çevirdi, LGS’de derece yaptı - Bilim ve Sağlık Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMieEFVX3lxTE5jVjByVFZwU0pKUVNDOXoySTdjakZhczdGbU5lYm9BblB1MXRIOVJLbTVLbXltNFhOSUxUaHhrZ1Znek9nN0VReEVyWWZSRDVQdEp5cjhhYlFubGQ0S1ZYNHJSSGRyZTVYQ3VHdnpMOXBJXzlCdUYwRQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-09-13)
+========================================================================
+Yeni kaynak sayısı: 21
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=13
+GitHub dosyası: out/omuz/2026-09-13_20260913T123833Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effect of sensorimotor training on pain, disability, kinesiophobia and quality of life in frozen shoulder: an open-label randomized controlled trial.
+Türkçe Başlık : Effect of sensorimotor training on pain, disability, kinesiophobia and quality of life in donuk omuz: an open-label randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effect of sensorimotor training on ağrı, disability, kinesiophobia and quality of life in donuk omuz: an open-label randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of manual & manipulative therapy. 2026 sep 12. Anahtar kavramlar: effect, sensorimotor, training, ağrı, disability, kinesiophobia.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42731014/
+
+Orijinal Başlık: Mechanisms Underlying the Beneficial Effects of Scraping Therapy: A Review of Articles.
+Türkçe Başlık : Mechanisms underlying the beneficial effects of scraping therapy: a review of articles.
+Türkçe Özet   : Bu içerik mechanisms underlying the beneficial effects of scraping therapy: a review of articles. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 aug. Anahtar kavramlar: mechanisms, underlying, beneficial, effects, scraping, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42729907/
+
+Orijinal Başlık: Do neck and shoulder disabilities differ between isolated and associated symptom groups?: A cross-sectional study.
+Türkçe Başlık : Do neck and omuz disabilities differ between isolated and associated symptom groups?: a cross-sectional study.
+Türkçe Özet   : Bu içerik do neck and omuz disabilities differ between isolated and associated symptom groups?: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 sep 11. Anahtar kavramlar: neck, omuz, disabilities, differ, between, isolated.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42725890/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: İşte vücudumuzdaki ağrıların duygusal sebepleri! - Yeni Şafak
+Özet  : İşte vücudumuzdaki ağrıların duygusal sebepleri! İşte vücudumuzdaki ağrıların duygusal sebepleri!
+Bağlantı: https://news.google.com/rss/articles/CBMimgFBVV95cUxQUkdRZmFFQjJPazZtR24zeGp4WjZFOXhZWUJTYzNUaExhZzlFRmVJS2k0QUk1V2Q3S0lvekhucXhVTzRTeTVrZ1ZyejBiaUpHVlBzak9WeElFV1dRR3dLVjctaXNZeEZrLU1RUHNadHdkaVdsYTQ4WjBVR3d6ekhsTE9UaS1Rek1aYUpHc2pvdzE5QlNvMlY1aWFB?oc=5
+
+Başlık: Sırt ağrısını eski yatağa bağladı, dördüncü evre kanser çıktı! 'Tekrarlıyor' - Milliyet
+Özet  : Sırt ağrısını eski yatağa bağladı, dördüncü evre kanser çıktı! Sırt ağrısını eski yatağa bağladı, dördüncü evre kanser çıktı!
+Bağlantı: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVFWcDI0UXFpVHM1Nk9fXy0yZlFSN1lBTDRHSjRwd2tDMXdnaTRsRUdCQnZ4UmZERTlwRFBMamMtajJ6RzZYTDFRa1BtRkJDUnpZNFhUSmhyeHlxb0VzS1ZzUGN5NThtTFJBd0N6aWRkZWFZQ09BMV9BMDdVYm9Hbk15VGJraWYzcGtBc1VTRE5IVFV6WVlpVjRmVVlhQ0dVUUtuQnd2QmxSb0tCMGJ4dmp0Z2FWWTFYY1dUMTRxWjh6UQ?oc=5
+
+Orijinal Başlık: FINDIK TOPLARKEN FITIK OLMAYIN - oncurtv.com
+Türkçe Başlık : Findik toplarken fitik olmayin - oncurtv.com
+Türkçe Özet   : Bu içerik findik toplarken fitik olmayin - oncurtv.com konusuna odaklanıyor. Öne çıkan başlıklar: findik toplarken fitik olmayin &nbsp;&nbsp; oncurtv.com. Anahtar kavramlar: findik, toplarken, fitik, olmayin, oncurtv, com.
+Bağlantı: https://news.google.com/rss/articles/CBMiZEFVX3lxTE85TlBhUE43eGZqUVBNM0ZEdHFYWnJHeERJelJNTVRkTUlIU1dfSzZpMnY2TEtVeVVxUDFRWGdNOHh4MnpJQ1lRTzhINUlBcExJMnJobWVXUEN3eHI5UTFMN3o3SDXSAWpBVV95cUxNMFp5QzN2eEk5QzZtVDZjYkNBNTZXRmhIOURjdENBbEJpcmc0UzlpU2otdXBQQjlMSnFmenE0ZC0wYWl6SDBjcm9vWHQtSzNVcUViUkdUNjlQalZQM3BlNzdFa2JUZnVIa0VB?oc=5
+
