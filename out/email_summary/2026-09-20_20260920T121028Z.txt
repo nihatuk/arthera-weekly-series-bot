@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-09-20)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   50
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-09-20)
+========================================================================
+Yeni kaynak sayısı: 29
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=21
+GitHub dosyası: out/bel_agrisi/2026-09-20_20260920T121012Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Prenatal findings and postnatal outcomes in cases of closed spinal dysraphism: 10-year two-center cohort study.
+Türkçe Başlık : Prenatal findings and postnatal outcomes in cases of closed spinal dysraphism: 10-year two-center cohort study.
+Türkçe Özet   : Bu içerik prenatal findings and postnatal sonuçs in cases of closed spinal dysraphism: 10-year two-center cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: ultrasound in obstetrics & gynecology : the official journal of the international society of ultrasound in obstetrics and gynecology. 2026 sep 20. Anahtar kavramlar: ultrasound, obstetrics, gynecology, prenatal, findings, postnatal.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42763785/
+
+Orijinal Başlık: Timing of surgery for a melioidosis-associated abdominal aortic pseudoaneurysm: a case report.
+Türkçe Başlık : Timing of surgery for a melioidosis-associated abdominal aortic pseudoaneurysm: a case report.
+Türkçe Özet   : Bu içerik timing of surgery for a melioidosis-associated abdominal aortic pseudoaneurysm: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: tropical medicine and health. 2026 sep 20. Anahtar kavramlar: timing, surgery, melioidosis, associated, abdominal, aortic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42763400/
+
+Orijinal Başlık: tDCS ameliorates CUMS-induced neuroinflammation and fasciitis by mediating microglial M1/M2 polarization.
+Türkçe Başlık : Tdcs ameliorates cums-induced neuroinflammation and fasciitis by mediating microglial m1/m2 polarization.
+Türkçe Özet   : Bu içerik tdcs ameliorates cums-induced neuroinflammation and fasciitis by mediating microglial m1/m2 polarization. konusuna odaklanıyor. Öne çıkan başlıklar: journal of neuroimmunology. 2026 sep 17. Anahtar kavramlar: tdcs, ameliorates, cums, induced, neuroinflammation, fasciitis.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42762784/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Sürekli sırt ağrısı ve bacak uyuşması şikayeti olan 52 yaşındaki bir kadın, sinir kökünün sıkışmış olduğunu öğrendi. - Vietnam.vn
+Özet  : Sürekli sırt ağrısı ve bacak uyuşması şikayeti olan 52 yaşındaki bir kadın, sinir kökünün sıkışmış olduğunu öğrendi. Sürekli sırt ağrısı ve bacak uyuşması şikayeti olan 52 yaşındaki bir kadın, sinir kökünün sıkışmış olduğunu öğrendi.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEV5WXBIOXdZeUhJdGZ2cWM1SjdKZlk1UVZrMkNPVk5DRk9EdXFlbWRwSURURWN3dlQxM1pnc0hRZEpqRnBLQlVXTkZlMTBqbXl5cXRHWVRmOFdiS1BqT2lwbWlLdWdIbWc2Vl9Xdmx4aWt2dnhtLWNqNWpYYVR2LWFxbUhoNmdRZms3X3VrTnZSSGtSX3N2OFV5VExSdUJsWkZIU3dRZzY?oc=5
+
+Başlık: Konya’da 15 yıllık bel ağrısı sona erdi! 74 yaşındaki kadın yeniden yürüdü - pusulahaber.com.tr
+Özet  : 74 yaşındaki kadın yeniden yürüdü &nbsp;&nbsp; pusulahaber.com.tr Konya’da 15 yıllık bel ağrısı sona erdi!
+Bağlantı: https://news.google.com/rss/articles/CBMitwFBVV95cUxPUklkaUQ5T2x1QW1TVkdwRXJZU2RJemc3M1FaLXdLN2xmTWRmUHZmcHpCNG9aODhuRHBSNlJqaXZxUDY1OE1lOE1VWVoyZlZvR0VsaXpVQXlSNXZyRlNnSUU3WGJWbkZNMVEwQWJvTjNfQlY3UVl0TU1sajNoMEFsQlVPU1p1MDNkM0s1aFlvZWdVWHJIVlR1N1phbmpHQ25LbmY1VndpdUNXNGYwUFN3cnR3QW5MLUk?oc=5
+
+Başlık: MS hastalarında bel ağrısı ve denge birlikte incelenecek - Gaziantep İlk Haber
+Özet  : MS hastalarında bel ağrısı ve denge birlikte incelenecek &nbsp;&nbsp; Gaziantep İlk Haber MS hastalarında bel ağrısı ve denge birlikte incelenecek - Gaziantep İlk Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVRxVjJIUnVwdVQ1QUs5ZVNCNmdiZFFUZTBLOGN0Rm96MlA2VGtsZ2ZvZHJuLXdnekRBdWVodDBJbWlKVHl6VGxzUEwyUF91ejJRdnNxU0xWcFF5NERocnI2T0tHUTVQTVJuRDVXQWpRYTk2OENBOElqWEl2dDE0dC1hUEdPYmFFT0w5OGJpSQ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-09-20)
+========================================================================
+Yeni kaynak sayısı: 22
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=21
+GitHub dosyası: out/skolyoz/2026-09-20_20260920T121012Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: A comprehensive narrative review of scoliosis in children and adolescents: epidemiology, screening strategies, therapeutic interventions, and biomechanical research.
+Türkçe Başlık : A comprehensive narrative review of skolyoz in children and adolescents: epidemiology, screening strategies, therapeutic interventions, and biomechanical research.
+Türkçe Özet   : Bu içerik a comprehensive narrative review of skolyoz in children and adolescents: epidemiology, screening strategies, therapeutic interventions, and biomechanical research. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: comprehensive, narrative, review, skolyoz, children, adolescents.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42761262/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: SDÜ'de 10 yaşındaki hastaya büyümeyi koruyan skolyoz tedavisi uygulandı - Antalya Hürses
+Özet  : SDÜ'de 10 yaşındaki hastaya büyümeyi koruyan skolyoz tedavisi uygulandı &nbsp;&nbsp; Antalya Hürses SDÜ'de 10 yaşındaki hastaya büyümeyi koruyan skolyoz tedavisi uygulandı - Antalya Hürses.
+Bağlantı: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUlVM2tGeTBGN0o2eFR3UlFpLVVjVmNMQ0xwZkxZSGJ2bGxkd3RvRDVlUVFOQVM5aXJxQlhyWVlVSU1aRXFlR2IxOTd3cVotUjJfVHJFb2swaDFFMnY0RTQ2am1wRlpqUjVZNnVSMldTRUJ4azZ6dExfTGp6bzlwVGs2Mzk0NElGdThpM2JabVJRUkFSQzJkNFhVclBxU2FXR0t6QVpzQ19wN2c?oc=5
+
+Başlık: ’’Okullar açıldı, çocukların duruşuna dikkat edilmeli, skolyoz sessiz ilerleyebilir’’ İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : ’’Okullar açıldı, çocukların duruşuna dikkat edilmeli, skolyoz sessiz ilerleyebilir’’ İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı ’’Okullar açıldı, çocukların duruşuna dikkat edilmeli, skolyoz sessiz ilerleyebilir’’ İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzBoaWU2dm9NcHRadkx3c2xCSG1DOFlKV280R1cwcVZCdEN2SWhFcVdaWFdVXzRoMEhZRVV0c3NDSDV4anNqUXhkblZKUTg5MjBNRkZuV3prWDZqWE1SWW9wTFFkZTliMU9BTEZ6aEkzVWNZRnJWOG5hbFlvdW80VXAzNG1TbDJRVTVwQzBUSVlLeFFwTmQzX2RFak9jU0p2UlVfcVdvQ3dFNkpTaFBrWEZOc3dUUG15WnAtOWowd01DOTdQMU1HejRrdw?oc=5
+
+Başlık: Alanya’dan skolyoz takibinde çığır açacak patentli cihaz! - Alanya Postası
+Özet  : Alanya’dan skolyoz takibinde çığır açacak patentli cihaz! Alanya’dan skolyoz takibinde çığır açacak patentli cihaz!
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxPT29BMlphMVh4Q1B2NGpoSF9kalhIVDZDdmp4LUJGdmdwY3Rva0RQNER2Uk12OU1TT3ZHZUs5YWFZdnplc0tNdVc2WTFEOGd6V3VXUHQxWDM5d1lVUG5udEpTYm03bW4xMmJBRTJuZ2RydTBrTmVjSUM2YXpPZGl3S05rbk5tdC1MdmtDNGt2OFloZw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-09-20)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=8
+GitHub dosyası: out/omuz/2026-09-20_20260920T121012Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Shoulder function after mastectomy with and without breast reconstruction: Balancing aesthetic benefit and functional cost.
+Türkçe Başlık : Omuz function after mastectomy with and without breast reconstruction: balancing aesthetic benefit and functional cost.
+Türkçe Özet   : Bu içerik omuz fonksiyon after mastectomy with and without breast reconstruction: balancing aesthetic benefit and fonksiyonal cost. konusuna odaklanıyor. Öne çıkan başlıklar: european journal of surgical oncology : the journal of the european society of surgical oncology and the british association of surgical oncology. 2026 sep 10. Anahtar kavramlar: surgical, oncology, european, journal, omuz, fonksiyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42762778/
+
+Orijinal Başlık: Long-term shoulder-related secondary health-care contact among people with subacromial pain: a secondary analysis of a randomized controlled trial of home-based vs. supervised exercise regimens.
+Türkçe Başlık : Long-term omuz-related secondary health-care contact among people with subacromial pain: a secondary analysis of a randomize controlled klinik çalışma of home-based vs. supervised egzersiz regimens.
+Türkçe Özet   : Bu içerik long-term omuz-related secondary health-care contact among people with subacromial ağrı: a secondary analysis of a randomize controlled klinik çalışma of home-based vs. supervised egzersiz regimens. konusuna odaklanıyor. Öne çıkan başlıklar: jses international. 2026 nov. Anahtar kavramlar: secondary, long, term, omuz, related, health.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42761901/
+
+Orijinal Başlık: Comparative effects of corticosteroid injection combined with mobilization vs. mobilization alone on pain, function, and radiological outcomes in university volleyball players with subacromial impingement syndrome: a prospective randomized controlled trial.
+Türkçe Başlık : Comparative effects of corticosteroid injection combined with mobilization vs. mobilization alone on pain, function, and radiological outcomes in university volleyball players with subacromial sıkışma (impingement) syndrome: a prospective randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik comparative effects of corticosteroid injection combined with mobilization vs. mobilization alone on ağrı, fonksiyon, and radiological sonuçs in university volleyball players with subacromial sıkışma (impingement) syndrome: a prospective randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: mobilization, comparative, effects, corticosteroid, injection, combined.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42755583/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bu hastalık gençleri etkiliyor; her gün 5-6 genç hastaneye kaldırılıyor. - Vietnam.vn
+Özet  : Bu hastalık gençleri etkiliyor; her gün 5-6 genç hastaneye kaldırılıyor. Bu hastalık gençleri etkiliyor; her gün 5-6 genç hastaneye kaldırılıyor.
+Bağlantı: https://news.google.com/rss/articles/CBMihwFBVV95cUxPREFzODdTS0x5bG42NDFlTGdZVG9aZlNkTnFKaG43NGNOV0tJUXJOd1ZFU19PcFhDXzhGb3VqaUlwVjhfbUdoSW9TOGlqU3ZIWGV3d3lnR1IzUkpfNnVYSkRZY3NZSjQzWUVwZFhhLTQxVGp3aEZnNDMyTEJTRlQ1cXZfZXlHcVk?oc=5
+
+Başlık: Gençler sabahları işe gidiyor ve akşamlarını tıbbi tedavi görmek için değerlendiriyorlar. - Vietnam.vn
+Özet  : Gençler sabahları işe gidiyor ve akşamlarını tıbbi tedavi görmek için değerlendiriyorlar. Gençler sabahları işe gidiyor ve akşamlarını tıbbi tedavi görmek için değerlendiriyorlar.
+Bağlantı: https://news.google.com/rss/articles/CBMie0FVX3lxTE5pVzVkaXNJeENtSHlCYkFrb08xc1ZJQkg4VDZCVFY2Z01oTE8wSVhpWmNlZUlvX3Y1VHhxTklMRERhQXBBLVMwVVBaU3Bqcm1QREVXSDNYV01lekkzWU1FSTA3NndOMi1fTk02RTNHcldRd0ZtMnBvb1luUQ?oc=5
+
+Başlık: Sosyal medyayı kullanırken dikkat edilmesi gereken önemli sağlık ipuçları. - Vietnam.vn
+Özet  : Sosyal medyayı kullanırken dikkat edilmesi gereken önemli sağlık ipuçları. Sosyal medyayı kullanırken dikkat edilmesi gereken önemli sağlık ipuçları.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ1A0QmdQUGlDS3lGZG1mU2t3aDFGdkMyY24xVk1pcDZsZjlOV3ZnLVo4VlNkZHpLcDVvY0E4eGxKcVRuLXBlbUxKdjVXMm0xbUZGa1FwbGRORjJQOUVyT0x4TkwteWFVNmU1QXoyd1M3Nkd3TGszaHVFT3lWMExIdzVjcDlaQnFwRFA3QWFEYzhmQQ?oc=5
+
