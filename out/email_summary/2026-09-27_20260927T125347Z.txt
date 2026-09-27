@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-09-27)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      14
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   44
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-09-27)
+========================================================================
+Yeni kaynak sayısı: 28
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=20
+GitHub dosyası: out/bel_agrisi/2026-09-27_20260927T125335Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: An American Hospital Association-informed weighting framework for Oracle Health Real-World Data: validation against National Healthcare Cost and Utilization Project encounter databases.
+Türkçe Başlık : An american hospital association-informed weighting framework for oracle health real-world data: validation against national healthcare cost and utilization project encounter databases.
+Türkçe Özet   : Bu içerik an american hospital association-informed weighting framework for oracle health real-world data: validation against national healthcare cost and utilization project encounter databases. konusuna odaklanıyor. Öne çıkan başlıklar: jamia open. 2026 oct. Anahtar kavramlar: american, hospital, association, informed, weighting, framework.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42801130/
+
+Orijinal Başlık: Assessment and Treatment of Acute Low Back Pain (ALBP): A Systematic Review.
+Türkçe Başlık : Assessment and treatment of acute bel ağrısı (albp): a sistematik derleme.
+Türkçe Özet   : Bu içerik assessment and treatment of acute bel ağrısı (albp): a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı medicine (malden, mass.). 2026 sep 26. Anahtar kavramlar: ağrı, assessment, treatment, acute, low, back.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42799684/
+
+Orijinal Başlık: Cluster-Defined Response Patterns Following Pain Neuroscience Education With Physical Activity in Older Women With Chronic Low Back Pain: A Quasi-Randomized Exploratory Study.
+Türkçe Başlık : Cluster-defined response patterns following pain neuroscience education with physical activity in older women with chronic bel ağrısı: a quasi-randomize exploratory study.
+Türkçe Özet   : Bu içerik cluster-defined response patterns following ağrı neuroscience education with physical activity in older women with chronic bel ağrısı: a quasi-randomize exploratory study. konusuna odaklanıyor. Öne çıkan başlıklar: health science reports. 2026 oct. Anahtar kavramlar: ağrı, cluster, defined, response, patterns, following.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42799191/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı, romatizmal hastalıkların belirtisi olabilir - saraymedya.com
+Özet  : Bel ağrısı, romatizmal hastalıkların belirtisi olabilir &nbsp;&nbsp; saraymedya.com Bel ağrısı, romatizmal hastalıkların belirtisi olabilir - saraymedya.com.
+Bağlantı: https://news.google.com/rss/articles/CBMimwFBVV95cUxQX2VxR19UR3hXenpTOUtvYTBra1hJem5nWFZjZTJpQl94VGZ5dzhqRjl5aDJSX0Q0ODJTTUF3SWJua01tSU5EMVlfV1B4aUR6cmQ2T3VnNlRtbXkxalpIeDA0cXJVUmVkVkp4QmNBOHFnZDZqTG14b2FKcUUxbVlBbmJFZXJxb1VzejBWanJiSmhrNkJBRkI3RDN6VQ?oc=5
+
+Başlık: Romatoloji Uzmanı Kobak, uykudan uyandıran bel ağrısında romatizma uyarısında bulundu - Son Dakika
+Özet  : Romatoloji Uzmanı Kobak, uykudan uyandıran bel ağrısında romatizma uyarısında bulundu &nbsp;&nbsp; Son Dakika Romatoloji Uzmanı Kobak, uykudan uyandıran bel ağrısında romatizma uyarısında bulundu - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNBdXkxTTJtZ2FFUlRvZFFKNGh0MDRtbUxfdFRDMzYwLTFDc1BDRGxzX0F5M2thbDBLTUsxMlRSamk3dkd6SV8yWGhzUUoyb3ZrLWtYQ3hDalRSdTBYemJDXzgwZWFEbHU1WXBQMWxZSlVLYnd6Wndza0lDcXZrTXNOelJsR1c4MHpUbmt0el9xeDdCN0lYejItSzbSAZwBQVVfeXFMUEJTQXV5MU0ybWdhRVJUb2RRSjRodDA0bW1MX3RUQzM2MC0xQ3NQQ0Rsc19BeTNrYWwwS01LMTJUUmppN3ZHeklfMlhoc1FKMm92ay1rWEN4Q2pUUnUwWHpiQ184MGVhRGx1NVlwUDFsWUpVS2J3elp3c2tJQ3F2a01zTnpSbEdXODB6VG5rdHpfcXg3QjdJWHoyLUs2?oc=5
+
+Başlık: SIRT VE BEL AĞRILARI NE ZAMAN TEHLİKELİDİR ? - Çanakkale Kalem Gazetesi
+Özet  : SIRT VE BEL AĞRILARI NE ZAMAN TEHLİKELİDİR ? SIRT VE BEL AĞRILARI NE ZAMAN TEHLİKELİDİR ?
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0k5NlNQWDhnMk82RXZTVEVFRThUVUZqWG9feEh5TXRJRGJ1ejQ0Z0E4OGFULWRvSEJueGw3d1FwN3dqTHE0VUhkNXp4M3JHWWRDNVl1NWgwUXdKb3lSTnRmaXZpTzVwRmRGeVJTclJHS2F2amdQZjQzMU5ZQVZFMEdsVDRnWlE4MkdPbW5OV0JLUdIBlwFBVV95cUxPa3NxNHhfb2JNLW54RDIxRHR5d1pBcWJGd050V1Z5LTlfLVJNUEEwRGk5QV9LVS1BUnlnQUZVb1RWS1F6ZWdYdDhuNE84X0ZSYllGWUh4OGR1dEIyb2p5Q0JCdWhONFhMcWJ2SFRjZlpNd2pHdFFBYXdoMUpvZUNJb1dpZUV3NXVyanRxd2Z6X3dxQnRVUDRJ?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-09-27)
+========================================================================
+Yeni kaynak sayısı: 17
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=16
+GitHub dosyası: out/skolyoz/2026-09-27_20260927T125335Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Adolescent idiopathic scoliosis non-surgical interventions: a systematic review and network meta-analysis of Cobb angle and SRS-22 outcomes.
+Türkçe Başlık : Adolescent idiopathic skolyoz non-surgical interventions: a sistematik derleme and network meta-analiz of cobb angle and srs-22 outcomes.
+Türkçe Özet   : Bu içerik adolescent idiopathic skolyoz non-surgical interventions: a sistematik derleme and network meta-analiz of cobb angle and srs-22 sonuçs. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: adolescent, idiopathic, skolyoz, non, surgical, interventions.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42780752/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ağır okul çantası skolyoz yapar mı? Okula dönüşte ailelere önemli çağrı - CNN Türk
+Özet  : Okula dönüşte ailelere önemli çağrı &nbsp;&nbsp; CNN Türk Okula dönüşte ailelere önemli çağrı - CNN Türk.
+Bağlantı: https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGhwM2dfVElkZ2J6QUYzZEQ3bklFekZYYjFtbUJDNHVVdFhuVkNXQ2FnWTlRMDFSaGdiNGhiU3RBMlNfc0lXU0VFYlRlNXl6M2lrVkpCczRMME45UHRxX1FrMEliMUl0SVdjVFB3Y0pqd2NQRjgwRm1FV2FTMlJLY2Qtc3hJMjQ2SEFlSGY0OHZjNnZSNXk1SDRyUk1fSHp2bHFoTWlwVFFSUjJ0R3c?oc=5
+
+Başlık: Alanya’dan skolyoz alanında patent başarısı - Alanya Postası
+Özet  : Alanya’dan skolyoz alanında patent başarısı &nbsp;&nbsp; Alanya Postası Alanya’dan skolyoz alanında patent başarısı - Alanya Postası.
+Bağlantı: https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUxnakw4VkJBR1haSFdka2cwMlN2aXRLWW1tWlV6Y3doQXpNT0gtRnpkN1JMQ1hGSkVzTkM1aFJ4WDBxR0NOMDBJN2toQTA2ZEt3VnV6Q1hCVE5DbXpBZ2NFQ1BoNENMbUxDWklPZE1WUnJuX1JXYmkzSlVmcHpTRw?oc=5
+
+Başlık: Alanyalı Fizyoterapist Dr. Erdem Demir’den Skolyoz Takibinde Önemli Buluş - alanyagazetesi.com.tr
+Özet  : Erdem Demir’den Skolyoz Takibinde Önemli Buluş &nbsp;&nbsp; alanyagazetesi.com.tr Erdem Demir’den Skolyoz Takibinde Önemli Buluş - alanyagazetesi.com.tr.
+Bağlantı: https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3liUnQtOUVZUjNhMzlEbVVkZXpQb0RVaWI4MUxQTXdqazNNcEh2eUw4di1KdEl5QlJ5cExlZlJpYS1BLWhiY1pKQi1KRVctZ3pWdE84cjdaYTNqWFhFWmFlN2lLV1ZNMFlQeVVBUk9EWnpiaUpBYUp2VWdLR1dIR0JtYWFkeUdXalZZODBWMEZXbVIzUUZXXzh3NVliYkRQLWM4TmVmd1dIb0NDaGpSVA?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-09-27)
+========================================================================
+Yeni kaynak sayısı: 13
+Dağılım: Cochrane=0 | PubMed=5 | medRxiv=0 | Haber=8
+GitHub dosyası: out/omuz/2026-09-27_20260927T125335Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Low-Supervision Asynchronously Monitored Home Rehabilitation for Adhesive Capsulitis: A Pilot Randomized Study.
+Türkçe Başlık : Low-supervision asynchronously monitored home rehabilitasyon for adeziv kapsülit (donuk omuz): a pilot randomize study.
+Türkçe Özet   : Bu içerik low-supervision asynchronously monitored home rehabilitasyon for adeziv kapsülit (donuk omuz): a pilot randomize study. konusuna odaklanıyor. Öne çıkan başlıklar: life (basel, switzerland). 2026 sep 16. Anahtar kavramlar: low, supervision, asynchronously, monitored, home, rehabilitasyon.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42795415/
+
+Orijinal Başlık: Buddy strapping is not inferior to a hand-based orthosis for boxer's fracture in the early weeks of hand therapy: A randomized controlled trial.
+Türkçe Başlık : Buddy strapping is not inferior to a hand-based orthosis for boxer's fracture in the early weeks of hand therapy: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik buddy strapping is not inferior to a hand-based orthosis for boxer's fracture in the early weeks of hand therapy: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of hand therapy : official journal of the american society of hand therapists. 2026 sep 22. Anahtar kavramlar: hand, therapy, journal, buddy, strapping, not.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42772996/
+
+Orijinal Başlık: Mapping evidence on psychosocial factors in patients with shoulder pain: a scoping review.
+Türkçe Başlık : Mapping evidence on psychosocial factors in patients with omuz pain: a scoping review.
+Türkçe Özet   : Bu içerik mapping evidence on psychosocial factors in patients with omuz ağrı: a scoping review. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı management. 2026 sep 22. Anahtar kavramlar: ağrı, mapping, evidence, psychosocial, factors, patients.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42770788/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Eklem ve kemik hastalıkları artık sadece yaşlılığın bir sorunu değil. - Vietnam.vn
+Özet  : Eklem ve kemik hastalıkları artık sadece yaşlılığın bir sorunu değil. Eklem ve kemik hastalıkları artık sadece yaşlılığın bir sorunu değil.
+Bağlantı: https://news.google.com/rss/articles/CBMif0FVX3lxTE1RS0NLdGtCOEZMczM0R0tFN2pIeXhwUTRtVk1nZXA0WVdDOTVwd3d6eDdYb0JMQjNjYTlpa1Ywb3NwdGhNUUJ3clFvS1FwWjJNZWZOUlBZT2RjalZXZkpWWTQ5RG1nTThWVkptZXJZcWZDN2NleTVPLTBSQldwQjA?oc=5
+
+Başlık: Boyun Fıtığında Nörolojik Belirtiler Önem Taşıyor! - bursa.news
+Özet  : Boyun Fıtığında Nörolojik Belirtiler Önem Taşıyor! Boyun Fıtığında Nörolojik Belirtiler Önem Taşıyor!
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjg3RVgxSU9LbEhlV25EcEhQMHgzVm5GdzR6ekR6emJyUno5ZFlvWHFicDhYOWx4cFdjbFVaLUdQdkZTUGYzcGpENm4yQnNMZkJhV3IybWVvYk4tZlE4VDhqUVVaOEtsdDg0RmZvdV9hSWtaN1ppM0FaeXQyLVhwNG5SRDR1X1p2NzBtcGZ3dWRaUWc?oc=5
+
+Başlık: Omuz Ağrısını Tetikleyen Nedenlere Dikkat! - Büyük Sivas Haber
+Özet  : Omuz Ağrısını Tetikleyen Nedenlere Dikkat! Omuz Ağrısını Tetikleyen Nedenlere Dikkat!
+Bağlantı: https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVzA3eWdKRFNaWXdNblg1LUJ3cVlObXVVcnlGZ2ZkSjVHUldzREQxa21OLWU3N1piWlBDc2ZSbGhHdzZNeEQ1SWVyUDJWakRubEp4SFZ5aDZWbFJQNmlESDk2Z3JtbTdUc0Y0UmxwWGxDazNuXzNLeQ?oc=5
+
