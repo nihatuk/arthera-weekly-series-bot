@@ -1,0 +1,128 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-10-04)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   29
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-10-04)
+========================================================================
+Yeni kaynak sayısı: 26
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=18
+GitHub dosyası: out/bel_agrisi/2026-10-04_20261004T130622Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Lumbar microdiscectomy during first trimester of pregnancy: Surgical, anesthetic, and radiation considerations with review of reported cases.
+Türkçe Başlık : Lomber (bel bölgesi) microdiscectomy during first trimester of pregnancy: surgical, anesthetic, and radiation considerations with review of reported cases.
+Türkçe Özet   : Bu içerik lomber (bel bölgesi) microdiscectomy during first trimester of pregnancy: surgical, anesthetic, and radiation considerations with review of reported cases. konusuna odaklanıyor. Öne çıkan başlıklar: surgical neurology international. 2026. Anahtar kavramlar: surgical, lomber (bel bölgesi), microdiscectomy, during, first, trimester.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42829689/
+
+Orijinal Başlık: Surgical outcomes of primary pediatric spinal cord tumors: A retrospective cohort.
+Türkçe Başlık : Surgical outcomes of primary pediatric spinal cord tumors: a retrospective cohort.
+Türkçe Özet   : Bu içerik surgical sonuçs of primary pediatric spinal cord tumors: a retrospective cohort. konusuna odaklanıyor. Öne çıkan başlıklar: surgical neurology international. 2026. Anahtar kavramlar: surgical, sonuçs, primary, pediatric, spinal, cord.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42829589/
+
+Orijinal Başlık: Primary chondrosarcoma arising from the L5 transverse process: A rare cause of chronic low back pain.
+Türkçe Başlık : Primary chondrosarcoma arising from the l5 transverse process: a rare cause of chronic bel ağrısı.
+Türkçe Özet   : Bu içerik primary chondrosarcoma arising from the l5 transverse process: a rare cause of chronic bel ağrısı. konusuna odaklanıyor. Öne çıkan başlıklar: surgical neurology international. 2026. Anahtar kavramlar: primary, chondrosarcoma, arising, transverse, process, rare.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42829583/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı ve sabah tutukluğuna dikkat: Ankilozan spondilitte erken tanı hayat kurtarıyor - Cumhuriyet
+Özet  : Bel ağrısı ve sabah tutukluğuna dikkat: Ankilozan spondilitte erken tanı hayat kurtarıyor &nbsp;&nbsp; Cumhuriyet Bel ağrısı ve sabah tutukluğuna dikkat: Ankilozan spondilitte erken tanı hayat kurtarıyor - Cumhuriyet.
+Bağlantı: https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmVlQ1ZVaXNVTGMyLUdCcEJiTjVYRWVfNHh4bXBYYWFacUoyal8wdzJKYjJ4WklQZXpsWS1JS3RrRll4N1liMTZMUjhrR211bklPendQa3packdhTG52ZTFUMkZWbndhRkdxb3VJS0ZhdHY3RWNEMWZEZTF3X3h2TlZ1SHFoMFlKbGpQcWpOenNiTTBYcEcwU2NFeHFOV0lWTjlyc21XVFNUR21jZUpNSk9BbmxpUHRVZUVyR2lQRF9QcGRRRW50T04yM1kyZw?oc=5
+
+Başlık: Sabahları bel ağrısı ve tutukluk, ankilozan spondilit belirtisi olabilir İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Sabahları bel ağrısı ve tutukluk, ankilozan spondilit belirtisi olabilir İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Sabahları bel ağrısı ve tutukluk, ankilozan spondilit belirtisi olabilir İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZRbUdqY3JDcHVELWVEVzlHTzI0NWJBYmF6NjhZaGtNTUFzSkJZMzVrdlFqaU8yOVVzNlZHSlNQeEZsWTZ2SkFYWXhoVU9NalVLaTFKLTgwdURtRnBLV1lWTXVERUdjMGw1bzJaUTFRal9YODk3ZFR1dUdZbTdVTzlJemlvQWJVcDA1OWVsUkRFSlZRa25hMmZvUmh3eTZzN1ZqeThCLUctYmpuRy1FdUo0MXFtZnY1aGpkNmRkZFc?oc=5
+
+Başlık: Bel ağrısında kritik ayrıntı! Dinlenince mi geçiyor, hareket edince mi? - CNN Türk
+Özet  : Dinlenince mi geçiyor, hareket edince mi? Dinlenince mi geçiyor, hareket edince mi?
+Bağlantı: https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3pMaWxYY3luRy1lTi1mSDlTUFlmUlphdGtNaTRmOWlsaHdId3RZaEpCckhzcGxOOXg4WG5HOFc1QmxTbk11OTBZQVhYVUloQUVMUEZyUlRpcFM2emZVb3RiNWZsdE9rMUNpcUM4STdGNHVRVTZOLTNoSWt6dEU2WkNWVm1WX2R0MHAyRXBEdkdJeG5MNlhyWW9nMnFMLWhmb3Q4YWxldUNucVdIeUFFQ29SbHA?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-10-04)
+========================================================================
+Yeni kaynak sayısı: 4
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=3
+GitHub dosyası: out/skolyoz/2026-10-04_20261004T130622Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Application of Schroth exercise therapy in adolescent idiopathic scoliosis: a bibliometric analysis.
+Türkçe Başlık : Application of schroth egzersiz tedavisi in adolescent idiopathic skolyoz: a bibliometric analysis.
+Türkçe Özet   : Bu içerik application of schroth egzersiz tedavisi in adolescent idiopathic skolyoz: a bibliometric analysis. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: application, schroth, egzersiz, therapy, adolescent, idiopathic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42807200/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Düzce'de bin 42 öğrenciye sağlık eğitimi - Yozgat Medya
+Özet  : Düzce'de bin 42 öğrenciye sağlık eğitimi &nbsp;&nbsp; Yozgat Medya Düzce'de bin 42 öğrenciye sağlık eğitimi - Yozgat Medya.
+Bağlantı: https://news.google.com/rss/articles/CBMiekFVX3lxTFBxamlyWWlFdklMOXpRM1pfZ0tBd2RrTmtBZVJSNFItdUxzLWpUQUVtcTlzTXUydlNjRU0xaXlPaWIwRXZYdzZaMlZ0aE9fWG5tZkhrcFZmei03SFprcjlPOWJaYTdCVHp6X2hKSUFxYkNtMEUyYkpJUk1n?oc=5
+
+Başlık: Sivassporlu gençlere sağlık taraması - Sivas Ekspres Gazetesi
+Özet  : Sivassporlu gençlere sağlık taraması &nbsp;&nbsp; Sivas Ekspres Gazetesi Sivassporlu gençlere sağlık taraması - Sivas Ekspres Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiigFBVV95cUxOVmVOZHFnRmNKdG1lQVF4RHBaOTJlbC1NY0Z0c21UekZUTy1aT0F0bFF6NFp5YmpsQV9OcGZuZTJ6NE5iMEhENXhJdVFxaEVkUUd5UDZIN0t2elZ6QlBoSFp3U0pPcktvZmpsekVUSE5xRlo3OEVJcGZOUXkyUC0wU0xPX3F3UFVYa0E?oc=5
+
+Başlık: Çocuklarda sessizce ilerliyor: İlk işareti omuzlarda ortaya çıkıyor! - Türkinform
+Özet  : Çocuklarda sessizce ilerliyor: İlk işareti omuzlarda ortaya çıkıyor! Çocuklarda sessizce ilerliyor: İlk işareti omuzlarda ortaya çıkıyor!
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1Ud2FCbEVLNmU5YmlwTkgtOXV2VGdmNXV5UzVDMXB0VHBPb2VpQVhvVlhHbWU5bDlJNlZTeXQ3dXdxRkxreVNKalROUkROb1htNXJGM0lmT1VDc2VadFpkbi0yMWdxenZHU3BWMFlDc09fSTNTUk5SYjNPaVNLMUxTTXNPRWgzWDFueHNfd2RkR05OcGgw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-10-04)
+========================================================================
+Yeni kaynak sayısı: 15
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=8
+GitHub dosyası: out/omuz/2026-10-04_20261004T130622Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Efficacy and safety of pulsed radiofrequency combined with nerve block for cervical radiculopathy: a systematic review and meta-analysis.
+Türkçe Başlık : Efficacy and safety of pulsed radiofrequency combined with nerve block for cervical radiculopathy: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik efficacy and safety of pulsed radiofrequency combined with nerve block for cervical radiculopathy: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in neurology. 2026. Anahtar kavramlar: efficacy, safety, pulsed, radiofrequency, combined, nerve.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42827735/
+
+Orijinal Başlık: Postoperative Physical Therapy After Breast Reconstruction: A Systematic Review.
+Türkçe Başlık : Postoperative fizik tedavi / fizyoterapi after breast reconstruction: a sistematik derleme.
+Türkçe Özet   : Bu içerik postoperative fizik tedavi / fizyoterapi after breast reconstruction: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: aesthetic surgery journal. 2026 oct 3. Anahtar kavramlar: postoperative, physical, therapy, after, breast, reconstruction.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42827398/
+
+Orijinal Başlık: Dextrose prolotherapy for chronic symptomatic rotator cuff tendinopathy and subacromial bursitis: A systematic review and meta-analysis.
+Türkçe Başlık : Dextrose prolotherapy for chronic symptomatic rotator manşet tendinopathy and subacromial bursitis: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik dextrose prolotherapy for chronic symptomatic rotator manşet tendinopathy and subacromial bursitis: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: pm & r : the journal of injury, fonksiyon, and rehabilitasyon. 2026 oct 2. Anahtar kavramlar: dextrose, prolotherapy, chronic, symptomatic, rotator, cuff.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42825417/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Her gün bir kalsiyum tableti alırsanız vücudunuzda neler olur? - Vietnam.vn
+Özet  : Her gün bir kalsiyum tableti alırsanız vücudunuzda neler olur? Her gün bir kalsiyum tableti alırsanız vücudunuzda neler olur?
+Bağlantı: https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHV2bzFtb1NjUVFvcU4zRjYzS2RUVW1Uazd0U2ZlUXpxdnMyb0hSZVVDcFVMN3RSZFNLWEU5dmxNSEplNjN5Y3BsZHlLdkFyUzhHWVY0WUZhVWhNSlJzQVpSX05VeXU0amJYdVhuWjM3M1B6YXM4Mk5XV3FzUFpVY2x0VlU5Zw?oc=5
+
+Başlık: Akıllı Telefon Kapanı: Boyun Düzleşmesi Fıtığa Dönüşüyor - Ege Telgraf
+Özet  : Akıllı Telefon Kapanı: Boyun Düzleşmesi Fıtığa Dönüşüyor &nbsp;&nbsp; Ege Telgraf Akıllı Telefon Kapanı: Boyun Düzleşmesi Fıtığa Dönüşüyor - Ege Telgraf.
+Bağlantı: https://news.google.com/rss/articles/CBMihAFBVV95cUxORVhiUzZJS0Frbm9MdjRQRTJFWmR2eC1WZnNBdDVJV1dNM3J4T0pqUTcxc2ktenpfQThwUWpWTVY3bFV0OUhmaXN4LUlZTmx5cm9oWjhxOHJUUElJTGNmOWFmcWkzMTRVdHB3eDYyR3JVWEh4YW5qUV9wWE4xSzBuTFluR0o?oc=5
+
+Başlık: Askeri sağlık personeli tarafından işletilen "ücretsiz" klinik. - Vietnam.vn
+Özet  : Askeri sağlık personeli tarafından işletilen "ücretsiz" klinik. Askeri sağlık personeli tarafından işletilen "ücretsiz" klinik.
+Bağlantı: https://news.google.com/rss/articles/CBMic0FVX3lxTFBLV2dzcFZ0U3VXYXlfQ1V6YnpLS3BZT2ZaNFlGek9tS3dVMHVLWkhGQmt4V1lvVFlDNHowYnNhaHFOS0E3dWJ1ejFtdGZYeDdTcUJwMWRoX045RDVrQl9WRndPYnBOcG44UnV1R1VvSkFOWTg?oc=5
+
