@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-10-11)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      18
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   45
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-10-11)
+========================================================================
+Yeni kaynak sayısı: 35
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=27
+GitHub dosyası: out/bel_agrisi/2026-10-11_20261011T135249Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Correlation Between Paravertebral Muscles Degeneration and Spinopelvic Parameters in Patients With Osteoporotic Vertebral Compression Fractures.
+Türkçe Başlık : Correlation between paravertebral muscles degeneration and spinopelvic parameters in patients with osteoporotic vertebral compression fractures.
+Türkçe Özet   : Bu içerik correlation between paravertebral muscles degeneration and spinopelvic parameters in patients with osteoporotic vertebral compression fractures. konusuna odaklanıyor. Öne çıkan başlıklar: medical science monitor : international medical journal of experimental and clinical research. 2026 oct 11. Anahtar kavramlar: medical, correlation, between, paravertebral, muscles, degeneration.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42859399/
+
+Orijinal Başlık: Multilevel Lumbar Epidural Angiolipoma: A Case Report.
+Türkçe Başlık : Multilevel lomber (bel bölgesi) epidural angiolipoma: a case report.
+Türkçe Özet   : Bu içerik multilevel lomber (bel bölgesi) epidural angiolipoma: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 oct. Anahtar kavramlar: multilevel, lomber (bel bölgesi), epidural, angiolipoma, case, report.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42857883/
+
+Orijinal Başlık: Case Report: Sequencing-supported probable osteoarticular Mycobacterium avium complex infection in rheumatoid arthritis.
+Türkçe Başlık : Case report: sequencing-supported probable osteoarticular mycobacterium avium complex infection in rheumatoid arthritis.
+Türkçe Özet   : Bu içerik case report: sequencing-supported probable osteoarticular mycobacterium avium complex infection in rheumatoid arthritis. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in medicine. 2026. Anahtar kavramlar: case, report, sequencing, supported, probable, osteoarticular.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42856590/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kadın bel ağrısı şikayetiyle doktora gitti ve böbrek atardamarı anevrizması olduğu tespit edildi. - Vietnam.vn
+Özet  : Kadın bel ağrısı şikayetiyle doktora gitti ve böbrek atardamarı anevrizması olduğu tespit edildi. Kadın bel ağrısı şikayetiyle doktora gitti ve böbrek atardamarı anevrizması olduğu tespit edildi.
+Bağlantı: https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnNoQ3kySGdnUWtHZHB3cEZFZFE2Vm1OeWRlSDg0amNtVk9ZZ2Z5MGZWTXRkQ0FhX0FGVjZONzQ3azRPd24wanAxdWpuakowUEtHczhqUzB6V3gwME01SkhtTGJfNDBqaTFxcFN1T3dOUDdpSlZaY3U3Y0dhTE5PeGpMTTQzNU5Wak0wUTNXNDlieXhJRFE?oc=5
+
+Başlık: Zabıta görünce bel ağrısı geçen dilenci kaçtı - Saray Medya
+Özet  : Zabıta görünce bel ağrısı geçen dilenci kaçtı &nbsp;&nbsp; Saray Medya Zabıta görünce bel ağrısı geçen dilenci kaçtı - Saray Medya.
+Bağlantı: https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJ0cS00UVVFOTFnbmpYNFlEOW0tMjN2SEhDN25qSHhBUTFid1lnendJeXVid1pPdEJxWUhZUFlMYS1pUWFxYWhZUmxaSGVqc0VjcGVwLXl5cG43RVlaMzR2V2lIVFdzVWhyYUc1QnZJeWdLUDNzdm5kQktka2F2OUxWLWwwcGpqeVpfVzRzNA?oc=5
+
+Başlık: elazığ’da dilenci denetiminde bel ağrısı bahanesiyle kaçış - Aksiyon.com.TR
+Özet  : elazığ’da dilenci denetiminde bel ağrısı bahanesiyle kaçış &nbsp;&nbsp; Aksiyon.com.TR elazığ’da dilenci denetiminde bel ağrısı bahanesiyle kaçış - Aksiyon.com.TR.
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxNUld0aThaRjZvaVFheEFURUtsRDFlRFNmWGJfcU5VRTNtSTVpa2VBMDYzUTUyQjJ2bkh1cXUxYWlDcmZGMFlNNjM1TW5RWExpd3FsbFE0RzRtdVNBSVZ3ZEpzMS1sV04xY1l3ZjdyZGJJWnppUmo0eDNfVUZ1UlRuUGRmYTlZRkpFMVp0Y0V2MzRVTHNwUXJn0gGcAUFVX3lxTE82MjhpcU5NdDc3SEtkLVVObVUtVVN6c1F3VXhaWlFZU0Y4OWpROHR6OVRXS2xadU44RC1qM0s1YlFCcmI1VWxuVlpZVDVsbXpyVUdLYVNBNWRDbDZnS2NvS09ReXdlU2M3NU1SRjA4NndwM3FsQS1fajdsdE1zU3MxZ2JJT21qZHZxbWNGdWloYnpQdHZIcE5TcHJ2Vg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-10-11)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=9
+GitHub dosyası: out/skolyoz/2026-10-11_20261011T135249Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Primary care and idiopathic scoliosis: an evaluation of family physicians' roles.
+Türkçe Başlık : Primary care and idiopathic skolyoz: an evaluation of family physicians' roles.
+Türkçe Özet   : Bu içerik primary care and idiopathic skolyoz: an evaluation of family physicians' roles. konusuna odaklanıyor. Öne çıkan başlıklar: european journal of pediatrics. 2026 oct 10. Anahtar kavramlar: primary, care, idiopathic, skolyoz, evaluation, family.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42859262/
+
+Orijinal Başlık: Comparative effects of non-specific exercise therapies on adolescent idiopathic scoliosis: a systematic review and network meta-analysis.
+Türkçe Başlık : Comparative effects of non-specific egzersiz therapies on adolescent idiopathic skolyoz: a sistematik derleme and network meta-analiz.
+Türkçe Özet   : Bu içerik comparative effects of non-specific egzersiz therapies on adolescent idiopathic skolyoz: a sistematik derleme and network meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in sports and active living. 2026. Anahtar kavramlar: comparative, effects, non, specific, egzersiz, therapies.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42857197/
+
+Orijinal Başlık: Respiratory muscle strength, peripheral muscle strength, and balance in adolescents with idiopathic scoliosis: A cross-sectional comparative study.
+Türkçe Başlık : Respiratory muscle strength, peripheral muscle strength, and balance in adolescents with idiopathic skolyoz: a cross-sectional comparative study.
+Türkçe Özet   : Bu içerik respiratory muscle strength, peripheral muscle strength, and balance in adolescents with idiopathic skolyoz: a cross-sectional comparative study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 oct 8. Anahtar kavramlar: muscle, strength, respiratory, peripheral, balance, adolescents.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42847623/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - DHA | Demirören Haber Ajansı
+Özet  : Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor &nbsp;&nbsp; DHA | Demirören Haber Ajansı Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ZTQ0hESkFJd2lqMlYzMHE0TDlyUnlMTExscnRFbjhXTi1ld3FJY19xV0xsRGFpaFVTRFJpYmhWeF9KdHJNZVJrVjFMR1QtMVFKODdnYjJOWGliVDFSQkRZLUhvemdncDBzUFh2c2o2RjViRnlDX2Q1MzRSTTZrM0N0OF96LUlXUF82bDIzS0c2X2wzbXl4bUprNGRoODdFV3F6WExn0gGmAUFVX3lxTE13ZlNDSERKQUl3aWoyVjMwcTRMOXJSeUxMTGxydEVuOFdOLWV3cUljX3FXTGxEYWloVVNEUmliaFZ4X0p0ck1lUmtWMUxHVC0xUUo4N2diMk5YaWJUMVJCRFktSG96Z2dwMHNQWHZzajZGNWJGeUNfZDUzNFJNNmszQ3Q4X3otSVdQXzZsMjNLRzZfbDNteXhtSms0ZGg4N0VXcXpYTGc?oc=5
+
+Başlık: Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - Milliyet
+Özet  : Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor &nbsp;&nbsp; Milliyet Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - Milliyet.
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkREZDJCX2lzSlROSHRJRURCMDlKSzRUUnZBUGRGLU5mMEFpdHZydmlYMUZ0a1ZDenZLS3BVZ2JPWk84TC1BUzU5UUdUbHJKRXY0WEtYTHpfbWtYWkdZUTd2SmR1RTZiN0cwNHNvVUFfZm1PdlNkUlh2TThhd2M2MFZxa3BUdmowenJ0R3I1RFNMb1V2d1pIREswRWxyeEl2c3RB?oc=5
+
+Başlık: Antalya'da Murat Şeker, 350 bin lira istenen ameliyat için tedavi bekliyor - Son Dakika
+Özet  : Antalya'da Murat Şeker, 350 bin lira istenen ameliyat için tedavi bekliyor &nbsp;&nbsp; Son Dakika Antalya'da Murat Şeker, 350 bin lira istenen ameliyat için tedavi bekliyor - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmdfRHFvaGxHTk5RaUQ5cVhmcVN1QUhGT2Ywa3VYYzRwaDRDOG9pZmd1SVI1S05iYkFVMzFIUmhLOHNxQThkUjMybFo2U0hQM2RzajVQWUIyeDdyRld6eGI1ZTVCdTkzUVEyLWR2ZVV6Q0NfMDF2S0tUSzdFYW9ORWRYclJGRXN1X2F2cnlLdzF1SFVySTF5Nko2TVrSAZwBQVVfeXFMUFZnX0Rxb2hsR05OUWlEOXFYZnFTdUFIRk9mMGt1WGM0cGg0QzhvaWZndUlSNUtOYmJBVTMxSFJoSzhzcUE4ZFIzMmxaNlNIUDNkc2o1UFlCMng3ckZXenhiNWU1QnU5M1FRMi1kdmVVekNDXzAxdktLVEs3RWFvTkVkWHJSRkVzdV9hdnJ5S3cxdUhVckkxeTZKNk1a?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-10-11)
+========================================================================
+Yeni kaynak sayısı: 12
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=9
+GitHub dosyası: out/omuz/2026-10-11_20261011T135249Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Platelet-Rich Plasma Injections for Refractory Greater Trochanteric Bursitis: A Three-Patient Case Series.
+Türkçe Başlık : Platelet-rich plasma injections for refractory greater trochanteric bursitis: a three-patient case series.
+Türkçe Özet   : Bu içerik platelet-rich plasma injections for refractory greater trochanteric bursitis: a three-patient case series. konusuna odaklanıyor. Öne çıkan başlıklar: orthopedic reviews. 2026. Anahtar kavramlar: platelet, rich, plasma, injections, refractory, greater.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42857446/
+
+Orijinal Başlık: Therapeutic Effects of Electroacupuncture on Partial-Thickness Supraspinatus Tear: Clinical Case Report.
+Türkçe Başlık : Therapeutic effects of electroacupuncture on partial-thickness supraspinatus tear: clinical case report.
+Türkçe Özet   : Bu içerik therapeutic effects of electroacupuncture on partial-thickness supraspinatus tear: clinical case report. konusuna odaklanıyor. Öne çıkan başlıklar: clinical case reports. 2026 oct. Anahtar kavramlar: clinical, case, therapeutic, effects, electroacupuncture, partial.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42857034/
+
+Orijinal Başlık: Outcome assessment in frozen shoulder trials: A systematic review and COSMIN-informed recommendations.
+Türkçe Başlık : Outcome assessment in donuk omuz klinik çalışmas: a sistematik derleme and cosmin-informed recommendations.
+Türkçe Özet   : Bu içerik sonuç assessment in donuk omuz klinik çalışmas: a sistematik derleme and cosmin-informed recommendations. konusuna odaklanıyor. Öne çıkan başlıklar: complementary therapies in medicine. 2026 nov. Anahtar kavramlar: sonuç, assessment, frozen, omuz, klinik çalışmas, systematic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42826909/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Omuz ağrısı: İhmal edilmemesi gereken 6 kritik sinyal - İndigo Dergisi
+Özet  : Omuz ağrısı: İhmal edilmemesi gereken 6 kritik sinyal &nbsp;&nbsp; İndigo Dergisi Omuz ağrısı: İhmal edilmemesi gereken 6 kritik sinyal - İndigo Dergisi.
+Bağlantı: https://news.google.com/rss/articles/CBMib0FVX3lxTE1tQkVIRHAtTVlwOXRBdy03dEdzWDJOdi1SSzlkSFhHSFo2cC0zUXBFT3FVY2lhTnhPNkd0R19WRWJEOUpSMFpsUGNHb1k5bXMwNmIxNE05YnRxaEdlQWVubDlkdy0zUjJBcXVBOXk1UQ?oc=5
+
+Başlık: Omuz ağrısını hafife almayın: İşte 6 kritik uyarı - Bilim ve Sağlık Haber Ajansı
+Özet  : Omuz ağrısını hafife almayın: İşte 6 kritik uyarı &nbsp;&nbsp; Bilim ve Sağlık Haber Ajansı Omuz ağrısını hafife almayın: İşte 6 kritik uyarı - Bilim ve Sağlık Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMifkFVX3lxTE11YzVZTktEckpEcFpEN055a3dSOWdQckphdHRkTmZyajNJRk5MNF9UVnZOTmt5WXZMZTNfT3I2ZENkOUpxQ3RNTjFQMU55R1hYTDNQTUV4NG5vNzFHWENaM0hZUDFOZllwc0JoSnRZNjJ0WFpCVGo0aC1rZk15dw?oc=5
+
+Başlık: Yaş spora engel değil!| Haberler - Gazete Kadıköy
+Özet  : Yaş spora engel değil!| Haberler &nbsp;&nbsp; Gazete Kadıköy Yaş spora engel değil!| Haberler - Gazete Kadıköy.
+Bağlantı: https://news.google.com/rss/articles/CBMia0FVX3lxTE5JLVJlUzJiNnJNUk1IZW90Z3FBdWFwMEp1cV9kUHhVNjhvSmRrY3p5TFNGb0JGblQ4SnVzX19HQ19KalNiQ3RmVU0zM1NMWGdJVlVfZFctWFk0TUhSUGdScjJ4MFVSb21UQ09B?oc=5
+
