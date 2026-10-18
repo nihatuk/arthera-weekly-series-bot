@@ -1,0 +1,133 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-10-18)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      17
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   40
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-10-18)
+========================================================================
+Yeni kaynak sayısı: 36
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=28
+GitHub dosyası: out/bel_agrisi/2026-10-18_20261018T115923Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Extending beyond the spine: Upper extremity exercise capacity and disability in non-specific chronic low back pain - A cross-sectional study.
+Türkçe Başlık : Extending beyond the spine: upper extremity egzersiz capacity and disability in non-specific chronic bel ağrısı - a cross-sectional study.
+Türkçe Özet   : Bu içerik extending beyond the spine: upper extremity egzersiz capacity and disability in non-specific chronic bel ağrısı - a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi theory and practice. 2026 oct 18. Anahtar kavramlar: extending, beyond, spine, upper, extremity, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42892753/
+
+Orijinal Başlık: Efficacy of Traditional Chinese Exercises on Chronic Low Back Pain: A Systematic Review and Network Meta-analysis.
+Türkçe Başlık : Efficacy of traditional chinese egzersizs on chronic bel ağrısı: a sistematik derleme and network meta-analiz.
+Türkçe Özet   : Bu içerik efficacy of traditional chinese egzersizs on chronic bel ağrısı: a sistematik derleme and network meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: complementary therapies in medicine. 2026 oct 17. Anahtar kavramlar: efficacy, traditional, chinese, egzersizs, chronic, low.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42892341/
+
+Orijinal Başlık: Effects of treadmill exercise with and without vertical traction on gait, pain, disability, trunk proprioception, and depression in patients with chronic mechanical low back pain: A randomized controlled trial.
+Türkçe Başlık : Effects of treadmill egzersiz with and without vertical traction on gait, pain, disability, trunk proprioception, and depression in patients with chronic mechanical bel ağrısı: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effects of treadmill egzersiz with and without vertical traction on gait, ağrı, disability, trunk proprioception, and depression in patients with chronic mechanical bel ağrısı: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: gait & posture. 2026 oct 16. Anahtar kavramlar: gait, ağrı, effects, treadmill, egzersiz, vertical.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42892150/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Uzmanından 3 aydan uzun süren bel ağrısı uyarısı: Bu hastalığın belirtisi olabilir! - Cumhuriyet
+Özet  : Uzmanından 3 aydan uzun süren bel ağrısı uyarısı: Bu hastalığın belirtisi olabilir! Uzmanından 3 aydan uzun süren bel ağrısı uyarısı: Bu hastalığın belirtisi olabilir!
+Bağlantı: https://news.google.com/rss/articles/CBMixAFBVV95cUxQaklsZzRWVEJGaDA3c3k0dEQwc2dCcVh6UnF3MW85a2dWZzRZNmpQTmc1RGwtakFFa3JUU2JOOVRMd3dnaW1JYUNoVmZ4RG5hN3RvRHN5bzBrMlBTdkwwRnhUeGVlOFlUMEI2QWpDcFdQazBrSGd4VFMwMmtNQVlJTV9lYVNNeXpjc09pX0tTdkMwbXREWFBHSU5VVHJJSGNQRWVueHhwbjhvenhfamFCejhFd2JENEt0Q0ZkUnVwRW82aDZ0?oc=5
+
+Başlık: 3 Aydan Uzun Süren Bel Ağrılarına Dikkat: Ankilozan Spondilit Habercisi Olabilir - Sağlık Aktüel
+Özet  : 3 Aydan Uzun Süren Bel Ağrılarına Dikkat: Ankilozan Spondilit Habercisi Olabilir &nbsp;&nbsp; Sağlık Aktüel 3 Aydan Uzun Süren Bel Ağrılarına Dikkat: Ankilozan Spondilit Habercisi Olabilir - Sağlık Aktüel.
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3ZJdEQ3Q1J0ZGhPQkVzRmpxWldQRF8wOThYZjk4SVE3a0FUSE9nT2xUb0xiZkd0ZmV3c0RpSEdBYXR5SjEtTm9pVW51UnQwNVVNbzVzMkdpNEJmcTNNWVRiTUx1aDVJQTRJTjdsdUNNTElQUjVQMHpLdzAtSEVLZlduX1hsaGVlcnBEaFJicDBfbmN6dHFIT1pkclQwbmpCYWIzd0MzQ0N6ZUpiQU1TemJSUTQtamFwTXRhTEJJbUxuWm8?oc=5
+
+Başlık: Bel fıtığı ameliyatı sonrası sinir hasarı iddiası İhlas Haber Ajansı - İhlas Haber Ajansı
+Özet  : Bel fıtığı ameliyatı sonrası sinir hasarı iddiası İhlas Haber Ajansı &nbsp;&nbsp; İhlas Haber Ajansı Bel fıtığı ameliyatı sonrası sinir hasarı iddiası İhlas Haber Ajansı - İhlas Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1JSd3V5b1dXQ0RrWXE5U3U1WDhpMEVLX1F6QTNiVWV5UDFaQ0lqRTBaRWJEdWpsOGs1U1J5Z3pnX0VQbkNkVGJxNmtjeVFmQlhrNVI0RkV0T0NuUDFzOGJpRDZkaTVWQjU4YkNySlAtZFM3Sm01U3pncFNubklYeVA2NTVZbV8yZmdtSTlhNndMN2JjVTZ4bU5LR3lWM0V6anZrUg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-10-18)
+========================================================================
+Yeni kaynak sayısı: 7
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=5
+GitHub dosyası: out/skolyoz/2026-10-18_20261018T115923Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Radiological and Clinical Effects of Exercise Intervention Therapy on Adolescent Idiopathic Scoliosis: A Meta-analysis.
+Türkçe Başlık : Radiological and clinical effects of egzersiz intervention therapy on adolescent idiopathic skolyoz: a meta-analiz.
+Türkçe Özet   : Bu içerik radiological and clinical effects of egzersiz intervention therapy on adolescent idiopathic skolyoz: a meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: indian journal of orthopaedics. 2026 oct. Anahtar kavramlar: radiological, clinical, effects, egzersiz, intervention, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42871347/
+
+Orijinal Başlık: Educational Background, Clinical Practices, and Perspectives of Physiotherapists on Scoliosis-Specific Exercises in Turkey: A Cross-Sectional Survey.
+Türkçe Başlık : Educational background, clinical practices, and perspectives of physiotherapists on skolyoz-specific egzersizs in turkey: a cross-sectional survey.
+Türkçe Özet   : Bu içerik educational background, clinical practices, and perspectives of physiotherapists on skolyoz-specific egzersizs in turkey: a cross-sectional survey. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi research international : the journal for researchers and clinicians in fizik tedavi / fizyoterapi. 2026 oct. Anahtar kavramlar: educational, background, clinical, practices, perspectives, physiotherapists.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42867615/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Gelibolu İlçe Sağlık Müdürlüğü öğrenci ve velilere skolyoz dahil sağlık eğitimi verdi - Son Dakika
+Özet  : Gelibolu İlçe Sağlık Müdürlüğü öğrenci ve velilere skolyoz dahil sağlık eğitimi verdi &nbsp;&nbsp; Son Dakika Gelibolu İlçe Sağlık Müdürlüğü öğrenci ve velilere skolyoz dahil sağlık eğitimi verdi - Son Dakika.
+Bağlantı: https://news.google.com/rss/articles/CBMioAFBVV95cUxOUllHc1NQMHpnN2p5VE11S1A0OXRjQm10a3BuN0ZzWDRPZTIxVGtPUDBxRUxneVAtRDVaaEVPUHFHSHBxbU9oZ2t3ZUlRWWtfQjRLUVhYYUM3UFJuQ2ZrLUNGS1haSUZSOGJTbG9RMHFhNnRCbWM5cmE5NmpwVkt2dFBOdDRVTU9iWC1tbFdaUER2NHF0VjYyR2p4QjE4VzFY0gGcAUFVX3lxTE9jRDNxcUtGTzJFVmJjTHViNEZKdGx2a1FRYU1vOENwam9YcEY0VEZabFpDejJDM2MtVm5haTlZSG9iYVNJY3VfSUU2aXRaVFRtRjdaVUI5TXFRMFE1Ri1qdG01RkNHUUpsdkFQVWJNYnJGVTY3cTI2Q0FjRFQxdTZleElVYXhGM1UtUXhkZ2R0c1JCaGpOOGtKcGI0NQ?oc=5
+
+Başlık: Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - Gazete Vatan
+Özet  : Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor &nbsp;&nbsp; Gazete Vatan Adana- Skolyoz hastası Cihan, 7’nci ameliyat için destek bekliyor - Gazete Vatan.
+Bağlantı: https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFVXZzhKa3pCT210WGZIQjhVOGNGZ2hrMlFwbU1zYUxRTFFiZVctbUhGb1FFd1VnSWViMTl1aldIWGZldWhaZ2k4M2l0UDBsSTgxUklkNmNTT21SNmpnRk8xVVRtZ280cHVVaFVtaThhdUladHNIR3BuMEFudG45Y3pyWWtuaGxjNU5jb0lab0RYdGY5QU1ZZEpRdldBRUhldF9Z?oc=5
+
+Başlık: 19 YILDIR AYAĞINDAKİ YARAYA ÇARE ARIYOR - Antalya Son Haber
+Özet  : 19 YILDIR AYAĞINDAKİ YARAYA ÇARE ARIYOR &nbsp;&nbsp; Antalya Son Haber 19 YILDIR AYAĞINDAKİ YARAYA ÇARE ARIYOR - Antalya Son Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajN0U0FUc05ndFpSMEk0Q0ZjWThvNnlqSjlwbms3QU0zQUs0emZvdVNXYmhvenljU01tbkhHT2NGM25naUpXbWhVeWs5ak1aS1g2RHB3RFdsX25fSk9rTjNnbW9oTVQ4ZzVjQmNhU19fZnlVdDQyckpaeThoVDh1ci1MYnJrenNjLXVR?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-10-18)
+========================================================================
+Yeni kaynak sayısı: 14
+Dağılım: Cochrane=0 | PubMed=7 | medRxiv=0 | Haber=7
+GitHub dosyası: out/omuz/2026-10-18_20261018T115923Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Effectiveness of Low-Level and High-level Laser Therapy for Rotator Cuff-Related Shoulder Disorders: A Systematic Review and Meta-Analysis.
+Türkçe Başlık : Effectiveness of low-level and high-level laser therapy for rotator manşet-related omuz disorders: a sistematik derleme and meta-analiz.
+Türkçe Özet   : Bu içerik effectiveness of low-level and high-level laser therapy for rotator manşet-related omuz disorders: a sistematik derleme and meta-analiz. konusuna odaklanıyor. Öne çıkan başlıklar: journal of lasers in medical sciences. 2026. Anahtar kavramlar: level, effectiveness, low, high, laser, therapy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42892916/
+
+Orijinal Başlık: Effects of blood flow restriction training in adult upper-limb musculoskeletal rehabilitation: A systematic review.
+Türkçe Başlık : Effects of blood flow restriction training in adult upper-limb musculoskeletal rehabilitasyon: a sistematik derleme.
+Türkçe Özet   : Bu içerik effects of blood flow restriction training in adult upper-limb musculoskeletal rehabilitasyon: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: medicine. 2026 oct 16. Anahtar kavramlar: effects, blood, flow, restriction, training, adult.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42888637/
+
+Orijinal Başlık: Long-Term Clinical Outcomes and Factors Associated With Response in Older Adults With Massive Irreparable Rotator Cuff Tears: A Four-Year Prospective Cohort Study.
+Türkçe Başlık : Long-term clinical outcomes and factors associated with response in older adults with massive irreparable rotator manşet tears: a four-year prospective cohort study.
+Türkçe Özet   : Bu içerik long-term clinical sonuçs and factors associated with response in older adults with massive irreparable rotator manşet tears: a four-year prospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: fizik tedavi / fizyoterapi. 2026 oct 16. Anahtar kavramlar: long, term, clinical, sonuçs, factors, associated.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42886022/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Uzun yaşam için yürümek yetmiyor: Kas gücü ölüm riskini azaltıyor - İndigo Dergisi
+Özet  : Uzun yaşam için yürümek yetmiyor: Kas gücü ölüm riskini azaltıyor &nbsp;&nbsp; İndigo Dergisi Uzun yaşam için yürümek yetmiyor: Kas gücü ölüm riskini azaltıyor - İndigo Dergisi.
+Bağlantı: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nSG4wc204YTVJS3djMzYzNDZoMVpNSXlGRXhfMHYtbE1wN3pXZ3VnZy04dlRTdG9pXzIwemRBcDFrMU9uNjl2clNybkJId2FHNHdENmZRZFhHdGhWcjNtVU1aV1k?oc=5
+
+Başlık: TH3 ürün serisi: Kullanıcıların kemik ve eklem sağlıklarına özen göstermelerine destek. - Vietnam.vn
+Özet  : TH3 ürün serisi: Kullanıcıların kemik ve eklem sağlıklarına özen göstermelerine destek. TH3 ürün serisi: Kullanıcıların kemik ve eklem sağlıklarına özen göstermelerine destek.
+Bağlantı: https://news.google.com/rss/articles/CBMinAFBVV95cUxORFUzYXJaR2FQU29rVF9OcTQxWV8zLVZFVWxaMTJNanJFWVJTLTNFTWVrNEtWazBwS01ubXo0OUNaTVY2c0tGTzFUbDFuWHYzNkdIOUxzQlIxZGpNYUpOaHM3VHFxYlhKVWoyOUVENzZFTEJSc3NlTmJKREU2c2d6SnVQcHY5V3JpNnpmNWJyaXREckpyU3BlNWU4b3A?oc=5
+
+Başlık: Varis sadece estetik bir sorun değil: Bacaklardaki mor çizgiler neden kaynaklanır? - İndigo Dergisi
+Özet  : Varis sadece estetik bir sorun değil: Bacaklardaki mor çizgiler neden kaynaklanır? Varis sadece estetik bir sorun değil: Bacaklardaki mor çizgiler neden kaynaklanır?
+Bağlantı: https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWmVuTzdtWGxfa3h1dVREQ1BrZDBOUFJnRWIxdzRXMFVNNmp3ZE5oWk81WHRGc0dJeEJ3TGxmVFk2cGFrNmJfRWZmTEIxc3hmY0JuMXc0Tm1tY0QtSFRuRG5OVjFLSXE3T0JpUnJBSnc5UmRUR2c?oc=5
+
