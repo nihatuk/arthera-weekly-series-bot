@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-10-25)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   48
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-10-25)
+========================================================================
+Yeni kaynak sayısı: 33
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=25
+GitHub dosyası: out/bel_agrisi/2026-10-25_20261025T122603Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Bone Health in Oncology: Defining Biosimilar Denosumab Use Through Multidisciplinary Collaboration.
+Türkçe Başlık : Bone health in oncology: defining biosimilar denosumab use through multidisciplinary collaboration.
+Türkçe Özet   : Bu içerik bone health in oncology: defining biosimilar denosumab use through multidisciplinary collaboration. konusuna odaklanıyor. Öne çıkan başlıklar: critical reviews in oncology/hematology. 2026 oct 24. Anahtar kavramlar: oncology, bone, health, defining, biosimilar, denosumab.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42926077/
+
+Orijinal Başlık: Outcomes Analysis of Low Back Pain Patients Managed Through a Spine Center Clinical Care Redesign Pathway: An Initial Retrospective Cohort Study.
+Türkçe Başlık : Outcomes analysis of bel ağrısı patients managed through a spine center clinical care redesign pathway: an initial retrospective cohort study.
+Türkçe Özet   : Bu içerik sonuçs analysis of bel ağrısı patients managed through a spine center clinical care redesign pathway: an initial retrospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: the spine journal : official journal of the north american spine society. 2026 oct 24. Anahtar kavramlar: spine, journal, sonuçs, analysis, low, back.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42926046/
+
+Orijinal Başlık: Cystathionine beta-synthase alleviates intervertebral disc degeneration by inhibiting ferroptosis of nucleus pulposus cells via the PI3K-AKT Axis.
+Türkçe Başlık : Cystathionine beta-synthase alleviates intervertebral disc degeneration by inhibiting ferroptosis of nucleus pulposus cells via the pi3k-akt axis.
+Türkçe Özet   : Bu içerik cystathionine beta-synthase alleviates intervertebral disc degeneration by inhibiting ferroptosis of nucleus pulposus cells via the pi3k-akt axis. konusuna odaklanıyor. Öne çıkan başlıklar: cellular signalling. 2026 oct 24. Anahtar kavramlar: cystathionine, beta, synthase, alleviates, intervertebral, disc.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42926026/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: GAÜN’de MS hastalarının bel ağrısı ve denge sorunlarına akıllı tekstille çözüm aranacak - Habere Güven
+Özet  : GAÜN’de MS hastalarının bel ağrısı ve denge sorunlarına akıllı tekstille çözüm aranacak &nbsp;&nbsp; Habere Güven GAÜN’de MS hastalarının bel ağrısı ve denge sorunlarına akıllı tekstille çözüm aranacak - Habere Güven.
+Bağlantı: https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnJhZ29pWURkZU9vdi1fdVhfVFlyZ3dPck0tMllxM0hRRjM1TzBPRk1hZExVN3U4M193RHlOWVJLN0Q4eTBXYmxBUVZPbTVDc0RQUEZBcHFZZXlrTl9pZWZmNHBzanRhQkswTUVhNHA4M09mUHBlNWJFSXpkQVVndnNLbndYUjA2aUNZVTI4T3ZhZXFsYnVXUmhuY3pucEVKeUJqZFpoRkF6YjVjakcwcUoyUC0?oc=5
+
+Başlık: Bel ağrısı yaşayanlar dikkat! Nedeni sadece fıtık olmayabilir - kayserihaber.com
+Özet  : Nedeni sadece fıtık olmayabilir &nbsp;&nbsp; kayserihaber.com Nedeni sadece fıtık olmayabilir - kayserihaber.com.
+Bağlantı: https://news.google.com/rss/articles/CBMicEFVX3lxTE1mQS1lS2dYNl9WWEM0SDNfeVJVZWIzODFza2dCTmdieVFZQTZKdDlmMDJ5WmNUeWdGNjNsV1prcXhOMUN1Z2V4aEFuMFNGQ2I5eFplYVdaUmRYMS1YMjl1YVdhbk16VDFhUkE2NkZ3M2o?oc=5
+
+Başlık: GAÜN'ün MS hastalarında bel ağrısını inceleyen projesine TÜBİTAK desteği - Habertürk
+Özet  : GAÜN'ün MS hastalarında bel ağrısını inceleyen projesine TÜBİTAK desteği &nbsp;&nbsp; Habertürk GAÜN'ün MS hastalarında bel ağrısını inceleyen projesine TÜBİTAK desteği - Habertürk.
+Bağlantı: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3ZzNE5NZ19mMzBSZkFVNVZ1WGd4dUstXzIxQTktdmRQaE92WlJIQS14cUhTcWNUREF5RVE5Szc0RHFPa0JQSlJibGN3Z0U2d285MFIwNVdWYnRPNFFFTnhBMjR6djNBbjhXOTZNRC14YTlLbDlrc0NZQjhfWWY4eGxUYjZTQlFxSldxbllkekNUTnpRa2FqbWI3ckZVV2ZpT0JZTE92a25mZkpJN3psQTBCTVRUejdKVmNGVXVWaUZQSm50OVJXX1l6aVo1b0E5QjVxcg?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-10-25)
+========================================================================
+Yeni kaynak sayısı: 16
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=13
+GitHub dosyası: out/skolyoz/2026-10-25_20261025T122603Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Response to Letter to the Editor Regarding "Outcome Selection before Multiplicity Correction May Overstate Neuroimaging Evidence in Adolescent Scoliosis".
+Türkçe Başlık : Response to letter to the editor regarding "outcome selection before multiplicity correction may overstate neuroimaging evidence in adolescent skolyoz".
+Türkçe Özet   : Bu içerik response to letter to the editor regarding "sonuç selection before multiplicity correction may overstate neuroimaging evidence in adolescent skolyoz". konusuna odaklanıyor. Öne çıkan başlıklar: global spine journal. 2026 oct 23. Anahtar kavramlar: response, letter, editor, regarding, sonuç, selection.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42925098/
+
+Orijinal Başlık: Thoracic kyphosis is associated with somatosensory dependence and postural control in adolescent idiopathic scoliosis.
+Türkçe Başlık : Thoracic kyphosis is associated with somatosensory dependence and postural control in adolescent idiopathic skolyoz.
+Türkçe Özet   : Bu içerik thoracic kyphosis is associated with somatosensory dependence and postural control in adolescent idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: plos one. 2026. Anahtar kavramlar: thoracic, kyphosis, associated, somatosensory, dependence, postural.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42912685/
+
+Orijinal Başlık: Effects of bracing on pulmonary function in adolescent idiopathic scoliosis: a systematic review.
+Türkçe Başlık : Effects of bracing on pulmonary function in adolescent idiopathic skolyoz: a sistematik derleme.
+Türkçe Özet   : Bu içerik effects of bracing on pulmonary fonksiyon in adolescent idiopathic skolyoz: a sistematik derleme. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 jul 22. Anahtar kavramlar: effects, bracing, pulmonary, fonksiyon, adolescent, idiopathic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42897524/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Vietnam'da kemik grefti kullanılmadan gerçekleştirilen ilk skolyoz düzeltme ameliyatı. - Vietnam.vn
+Özet  : Vietnam'da kemik grefti kullanılmadan gerçekleştirilen ilk skolyoz düzeltme ameliyatı. Vietnam'da kemik grefti kullanılmadan gerçekleştirilen ilk skolyoz düzeltme ameliyatı.
+Bağlantı: https://news.google.com/rss/articles/CBMimAFBVV95cUxPanFlamthVlYwdDdxa2I4M2txbHh6dUZHdzg2VDByNFRoblJ4MExKbnpJSGt6MHJsWUNOc1NabmVocFZIX3Q3V2pHMy1VdzRBYThQTEszNDBCWGhyMUsySlFiRmhFaVowRkVncWxXX3E2UGE0TEJzZ0ppbDBCNnVWY2FqUmdlRDFvMUhuajMyNGZjZktNRnI5Tg?oc=5
+
+Başlık: Siirt'te Öğrencilerin Omurga Sağlığı Mercek Altında! Okulda Skolyoz Taraması Yapıldı - Siirt'te
+Özet  : Okulda Skolyoz Taraması Yapıldı &nbsp;&nbsp; Siirt'te Siirt'te Öğrencilerin Omurga Sağlığı Mercek Altında!
+Bağlantı: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWFIZjI1TzNvVWZscXBOa0xJVnhOdHphdjR4SzRCejZmdDJoUnpWMGtQdE90N3FnY0FSZ1BvU01OS0JhY2p5d1BGTS02SUVtZG9TNFNRX0c4TWd3ZHg3aU9JZVdlb2xqYWw4QTJvYmlmQWkyWHFwU2JwdmpDMDQyRU5KclVNbkx6MmtpLWhIRGNHbGRRems3T0gySEZBVncxWW53MVJjUmlGd2NJdVpmSmJkX0ZCbTRUbXp2bzdJLTdwUQ?oc=5
+
+Başlık: Ekran bağımlılığı çocuklarda skolyoz ve duruş bozukluğuna yol açabiliyor - Haberler
+Özet  : Ekran bağımlılığı çocuklarda skolyoz ve duruş bozukluğuna yol açabiliyor &nbsp;&nbsp; Haberler Ekran bağımlılığı çocuklarda skolyoz ve duruş bozukluğuna yol açabiliyor - Haberler.
+Bağlantı: https://news.google.com/rss/articles/CBMimgFBVV95cUxQQndaYTZuSENjR1lDYkxhbXlHN2t5VDIzUm1URkF4alhuNndvNjdBYzhybmltSTNLbFZzNkFNYmdCU0RwWXhxc3hwR19xU2Y0TGlpSHB1VHVaMjgxX0V2YTZHelNKNHBMdVlWdXo3Y1lRczFmOUJDUTYtSHdYZ2FEQTNFM0xMaWZDbjJDRWh5aDVMV01DODRNbU5B?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-10-25)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-10-25_20261025T122603Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Scapulothoracic Disarticulation of the Right Upper Limb After a Car-to-Obstacle Collision: A Case Report.
+Türkçe Başlık : Scapulothoracic disarticulation of the right upper limb after a car-to-obstacle collision: a case report.
+Türkçe Özet   : Bu içerik scapulothoracic disarticulation of the right upper limb after a car-to-obstacle collision: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: cureus. 2026 sep. Anahtar kavramlar: scapulothoracic, disarticulation, right, upper, limb, after.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42926949/
+
+Orijinal Başlık: The effect of breathing exercises on pain, range of motion and quality of life in frozen shoulder rehabilitation: A randomized controlled study.
+Türkçe Başlık : The effect of breathing egzersizs on pain, range of motion and quality of life in donuk omuz rehabilitasyon: a randomize controlled study.
+Türkçe Özet   : Bu içerik the effect of breathing egzersizs on ağrı, range of motion and quality of life in donuk omuz rehabilitasyon: a randomize controlled study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of back and musculoskeletal rehabilitasyon. 2026 oct 24. Anahtar kavramlar: rehabilitasyon, effect, breathing, egzersizs, ağrı, range.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42925267/
+
+Orijinal Başlık: Rehabilitation of Spinal Accessory Nerve Injury and Shoulder Dysfunction Following Neck Dissection for Head and Neck Cancer: A Narrative Review.
+Türkçe Başlık : Rehabilitasyon of spinal accessory nerve injury and omuz dysfunction following neck dissection for head and neck cancer: a narrative review.
+Türkçe Özet   : Bu içerik rehabilitasyon of spinal accessory nerve injury and omuz dysfonksiyon following neck dissection for head and neck cancer: a narrative review. konusuna odaklanıyor. Öne çıkan başlıklar: journal of fonksiyonal morphology and kinesiology. 2026 sep 24. Anahtar kavramlar: neck, rehabilitasyon, spinal, accessory, nerve, injury.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42924661/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Tenisçi dirseğinden sonra padel omzu: Omzunuz bu spora hazır mı? - İndigo Dergisi
+Özet  : Tenisçi dirseğinden sonra padel omzu: Omzunuz bu spora hazır mı? Tenisçi dirseğinden sonra padel omzu: Omzunuz bu spora hazır mı?
+Bağlantı: https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bGtzZ3hTWWFaNThZd3lzbmhENl9zcl9xcEhzTDY2OF82OURjVjN4c0JTVmZsdTBKN1JQSVljMTdWa3d1OFJNcEFBYzJ1cTZZMmN0dlJtMjY?oc=5
+
+Başlık: Boyun ağrısı belirtilerinden karotis arter diseksiyonuna karşı dikkatli olun. - Vietnam.vn
+Özet  : Boyun ağrısı belirtilerinden karotis arter diseksiyonuna karşı dikkatli olun. Boyun ağrısı belirtilerinden karotis arter diseksiyonuna karşı dikkatli olun.
+Bağlantı: https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkNxVmczN3ZfNTFUbkVzNW1sRDZUVGd4UnY5VHhxNHkzd3pFb0p2cnQzUVVxNEcyRmFQeDN1ZjVLU2tkYmtrRnNFbThCS2dPTUJMb1lxelVUUGNRSUw0eVJwWjgybUNCOTV2RTIyYWp5UklzaTlUUE1XNXBzU3pPbmROeTdqVEYtRFRiTVZn?oc=5
+
+Başlık: Uzman isim uyardı: Hastaneler bu şikayetle dolup taşıyor! Altından hep ekran bağımlılığı çıkıyor - GZT
+Özet  : Altından hep ekran bağımlılığı çıkıyor &nbsp;&nbsp; GZT Uzman isim uyardı: Hastaneler bu şikayetle dolup taşıyor!
+Bağlantı: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYTlCaklUd0xScndLVkpaVGp1MzdQYU56MzhQSnhDYW1rdnJSQkdPTzg0LUtZbFhTOGZ0b0pjd0RIQ0VLSkhER3VBYldKVmxBMHlRdXQxd3VFakJCdXdjT09iVktzdnd6djRkajE0bVR0NTZNQmtQZGcxS3hEZ2g1RXVEeXJOZHJxem50OVI2TXVyRmUwWUtqTXdoOGlzVWZuQTVTeE84OThLRklFWlE0M09kWkNIMTUwT09ZbnZuQm14MG1VSGx0T2dzZTByc21ER2tVeVJHY3FJQVlQNld6ejRaOFQ?oc=5
+
