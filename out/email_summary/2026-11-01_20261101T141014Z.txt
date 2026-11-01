@@ -1,0 +1,138 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-11-01)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      24
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   39
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-11-01)
+========================================================================
+Yeni kaynak sayısı: 28
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=20
+GitHub dosyası: out/bel_agrisi/2026-11-01_20261101T141000Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Can Clinicians Predict Which Patients Respond Best to a Specific Treatment? A Systematic Review of Low Back Pain Moderators in Primary Care.
+Türkçe Başlık : Can clinicians predict which patients respond best to a specific treatment? a sistematik derleme of bel ağrısı moderators in primary care.
+Türkçe Özet   : Bu içerik can clinicians predict which patients respond best to a specific treatment? a sistematik derleme of bel ağrısı moderators in primary care. konusuna odaklanıyor. Öne çıkan başlıklar: the journal of orthopaedic and sports fizik tedavi / fizyoterapi. 2026 nov. Anahtar kavramlar: can, clinicians, predict, which, patients, respond.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42966898/
+
+Orijinal Başlık: Short-Term Pain Outcomes of Trigger Point Injection Versus Dry Needling for Acute Myofascial Low Back Pain in the Emergency Department: A Prospective Randomized Comparative Study.
+Türkçe Başlık : Short-term pain outcomes of trigger point injection versus dry needling for acute myofascial bel ağrısı in the emergency department: a prospective randomize comparative study.
+Türkçe Özet   : Bu içerik short-term ağrı sonuçs of trigger point injection versus dry needling for acute myofascial bel ağrısı in the emergency department: a prospective randomize comparative study. konusuna odaklanıyor. Öne çıkan başlıklar: medical science monitor : international medical journal of experimental and clinical research. 2026 nov 1. Anahtar kavramlar: ağrı, medical, short, term, sonuçs, trigger.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42966884/
+
+Orijinal Başlık: Association of SOX9 gene polymorphisms (rs1042667 and rs12601701) with susceptibility to intervertebral disc degeneration: a hospital-based case-control study.
+Türkçe Başlık : Association of sox9 gene polymorphisms (rs1042667 and rs12601701) with susceptibility to intervertebral disc degeneration: a hospital-based case-control study.
+Türkçe Özet   : Bu içerik association of sox9 gene polymorphisms (rs1042667 and rs12601701) with susceptibility to intervertebral disc degeneration: a hospital-based case-control study. konusuna odaklanıyor. Öne çıkan başlıklar: european spine journal : official publication of the european spine society, the european spinal deformity society, and the european section of the cervical spine research society. 2026 oct 31. Anahtar kavramlar: european, spine, society, association, sox, gene.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42965668/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı yaşayanlar dikkat! Bu 4 belirtiyi görmezden gelmeyin - Ege Telgraf
+Özet  : Bu 4 belirtiyi görmezden gelmeyin &nbsp;&nbsp; Ege Telgraf Bu 4 belirtiyi görmezden gelmeyin - Ege Telgraf.
+Bağlantı: https://news.google.com/rss/articles/CBMikwFBVV95cUxPUzctS2NtaU5WQk5hTWJxZzNabFpVS0JjUVA0SjkxZ3R2ZERORTdMZDk5ZGEtS0hfSnVxeTNIMko5MFpycW9yUUlJY0dVTTgtTUJkNmFYUzZBcEhxd0I0bExiTXpUVVZmMFROTVZndU8tVGY5QzZmTHJwelNtREtRS0VNcjNwM2Z1OHNmaG1jQ3RHcFE?oc=5
+
+Başlık: 13 yaşında bel ağrısı, bacaklarında uyuşma ve güçsüzlük yaşayan kız çocuğuna, yapılan tıbbi muayene sonucunda ciddi bir bel fıtığı teşhisi konuldu. - Vietnam.vn
+Özet  : 13 yaşında bel ağrısı, bacaklarında uyuşma ve güçsüzlük yaşayan kız çocuğuna, yapılan tıbbi muayene sonucunda ciddi bir bel fıtığı teşhisi konuldu. 13 yaşında bel ağrısı, bacaklarında uyuşma ve güçsüzlük yaşayan kız çocuğuna, yapılan tıbbi muayene sonucunda ciddi bir bel fıtığı teşhisi konuldu.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDhBZlhsVFRkVEZqcC0zejZ6UV9mWFdVdzlScG9naUFvZ0xySlVqNlVJeUVxaWxfak9OUHN2RS1IX2wzSVVkMDBqMWpxbEgtX3NXV0hXQWhaZlZXUElYa180eF9pODg0ZXFJRU0wUUM3d2lJcDAtdDhQS3p5UWpUNU9pdkxLY1VwaXJ4LWY1RV93UHlnOGlaOTFoTGJnOGc?oc=5
+
+Başlık: Her Bel Ağrısı Fıtık Anlamına Gelmiyor - Akdeniz Gazetesi
+Özet  : Her Bel Ağrısı Fıtık Anlamına Gelmiyor &nbsp;&nbsp; Akdeniz Gazetesi Her Bel Ağrısı Fıtık Anlamına Gelmiyor - Akdeniz Gazetesi.
+Bağlantı: https://news.google.com/rss/articles/CBMiekFVX3lxTE1XZHB6WTF1cEFoNDQyR0U0THUya1ZJNUhyOExpVzQ3cnczUUhmYU5TUjNZU2F3bEE2MEdDblRjamVHZjk4U2FBdjRKN1d3SHNFRUR1bGtuSlNmMjBHTDhCYWZ5ZmRBc1hGd05McTliMUppTHVOOU04TjNn?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-11-01)
+========================================================================
+Yeni kaynak sayısı: 17
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=9
+GitHub dosyası: out/skolyoz/2026-11-01_20261101T141000Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Supervised physiotherapeutic scoliosis-specific exercises provide limited additional benefit at 24 months in braced adolescents with idiopathic scoliosis: a randomized trial.
+Türkçe Başlık : Supervised physiotherapeutic skolyoz-specific egzersizs provide limited additional benefit at 24 months in braced adolescents with idiopathic skolyoz: a randomize klinik çalışma.
+Türkçe Özet   : Bu içerik supervised physiotherapeutic skolyoz-specific egzersizs provide limited additional benefit at 24 months in braced adolescents with idiopathic skolyoz: a randomize klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: the bone & joint journal. 2026 nov 1. Anahtar kavramlar: skolyoz, supervised, physiotherapeutic, specific, egzersizs, provide.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42966369/
+
+Orijinal Başlık: Validity and reliability of the Turkish version of the SRS-7 questionnaire in adolescents with idiopathic scoliosis.
+Türkçe Başlık : Validity and reliability of the turkish version of the srs-7 questionnaire in adolescents with idiopathic skolyoz.
+Türkçe Özet   : Bu içerik validity and reliability of the turkish version of the srs-7 questionnaire in adolescents with idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: spine deformity. 2026 oct 30. Anahtar kavramlar: validity, reliability, turkish, version, srs, questionnaire.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42961634/
+
+Orijinal Başlık: Physical activity or spine deformity: which factor matters most for pain intensity in adults with idiopathic scoliosis? A cross-sectional study.
+Türkçe Başlık : Physical activity or spine deformity: which factor matters most for pain intensity in adults with idiopathic skolyoz? a cross-sectional study.
+Türkçe Özet   : Bu içerik physical activity or spine deformity: which factor matters most for ağrı intensity in adults with idiopathic skolyoz? a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: spine deformity. 2026 oct 30. Anahtar kavramlar: spine, deformity, physical, activity, which, factor.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42961633/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: ADÜ'de Skolyoz sempozyumu - Haber 7
+Özet  : ADÜ'de Skolyoz sempozyumu &nbsp;&nbsp; Haber 7 ADÜ'de Skolyoz sempozyumu - Haber 7.
+Bağlantı: https://news.google.com/rss/articles/CBMidEFVX3lxTE5XYXNOamEtcjI2YUF4OUpwZjRLZGhLOTg1UlUyV1BSY2VRQVpURWJZWWdoNEgwVHByY2V1UVNYZmVQSko0M0d6aGZuZFFRSFR3M0NVRDhFRGdFbl80bi1RbjBTUFVqbHZaeFpUTkdncjk5NmRY?oc=5
+
+Başlık: 10 derece skolyoz teşhisi sonrası egzersiz ve spor salonu kullanımı - Technopat
+Özet  : 10 derece skolyoz teşhisi sonrası egzersiz ve spor salonu kullanımı &nbsp;&nbsp; Technopat 10 derece skolyoz teşhisi sonrası egzersiz ve spor salonu kullanımı - Technopat.
+Bağlantı: https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGY2VFdVZ3paWFNVNFNyRDZlVE5CRHZrZ2VobVBLQ2tVSWlOQ0xUNUJpS2kwaE1jNVVncnJZTUJFcWpPUkViYUs2emVQdFBVeXBtajNTdUJrOVJvTmc2ckV3b09jN08tYjRvUHZqcHZSZWVsQm1IZ3ZxdV9DZUhwYzlTTGFIdW5iOVhHRm5NWTU1cTdJZ1ZJOThSZEFxR2xhb3VRU19iUi1oeWF2c01vNlpOU2M?oc=5
+
+Başlık: Trabzonlu genç bilim insanı Amerika yolcusu! Şimdi destek bekliyor... - 61SAAT
+Özet  : Trabzonlu genç bilim insanı Amerika yolcusu! Trabzonlu genç bilim insanı Amerika yolcusu!
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxPb01rYkFVMzlnY1hKZVoyQWpFaGltcmFjWEg3YkNmeTFMdzRJdGRJdnBBaHYyS1VuZjRnUEFKZkpTMDdqbUFoTjdwLWQ3WTh3Z2FtSmRqZVUtYUxscVNtMV9xcjJxdk1LZnR6VTE0UmVNeXlpa1p4UncxZWlTYUdMaDVHemJ6a2RNYmJXakpxRHptZw?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-11-01)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-11-01_20261101T141000Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Improved range of motion following correction osteotomy for varus malunited proximal humerus fractures with 3-dimensional planned cutting guides: a case series.
+Türkçe Başlık : Improved range of motion following correction osteotomy for varus malunited proximal humerus fractures with 3-dimensional planned cutting guides: a case series.
+Türkçe Özet   : Bu içerik improved range of motion following correction osteotomy for varus malunited proximal humerus fractures with 3-dimensional planned cutting guides: a case series. konusuna odaklanıyor. Öne çıkan başlıklar: jses international. 2026 nov. Anahtar kavramlar: improved, range, motion, following, correction, osteotomy.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42953718/
+
+Orijinal Başlık: Swimming and Shooting in Water Polo Players: Associations Between Shoulder Muscle Activation and Shoulder Pain.
+Türkçe Başlık : Swimming and shooting in water polo players: associations between omuz muscle activation and omuz pain.
+Türkçe Özet   : Bu içerik swimming and shooting in water polo players: associations between omuz muscle activation and omuz ağrı. konusuna odaklanıyor. Öne çıkan başlıklar: journal of applied biomechanics. 2026 oct 28. Anahtar kavramlar: omuz, swimming, shooting, water, polo, players.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42950810/
+
+Orijinal Başlık: Comparative effectiveness of different physical therapies for axillary web syndrome after breast cancer surgery: A network meta-analysis of randomized controlled trials.
+Türkçe Başlık : Comparative effectiveness of different physical therapies for axillary web syndrome after breast cancer surgery: a network meta-analiz of randomize controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik comparative effectiveness of different physical therapies for axillary web syndrome after breast cancer surgery: a network meta-analiz of randomize controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: fizyoterapi. 2026 sep 8. Anahtar kavramlar: comparative, effectiveness, different, physical, therapies, axillary.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42950436/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bazekol Hastanesi'nde omuz rahatsızlıklarında kapalı yöntem konforu - DHA | Demirören Haber Ajansı
+Özet  : Bazekol Hastanesi'nde omuz rahatsızlıklarında kapalı yöntem konforu &nbsp;&nbsp; DHA | Demirören Haber Ajansı Bazekol Hastanesi'nde omuz rahatsızlıklarında kapalı yöntem konforu - DHA | Demirören Haber Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVfLXBYNUs4SDZFNURtWnJ3VnJhWmVTVkQ0SmwxQ29Ob0h1aXV4a0FSUHYxakJWVTRDZWU2dmU1T1dQVG5CcVhiZHhlSHlrekU4NV9KSzVjdWRxODRqYUVkZFJrYjVVelZZRFlFTjlqQzF2VEZHTndmYXVOU3JmZmtWUDEyNFdOb21vbjM4UXJNMmY1WEE5WVNsdGxURUFtajJLR2wxY1pkdkg0cnB2bXdETDF3OTJsUWc?oc=5
+
+Başlık: Ceket giyerken bile zorlanıyorsanız dikkat! Nedeni domuz omuz olabilir - Milliyet
+Özet  : Nedeni domuz omuz olabilir &nbsp;&nbsp; Milliyet Ceket giyerken bile zorlanıyorsanız dikkat!
+Bağlantı: https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0RBdFZtR1QtR3BDQ1dERVJNbTNUNi1zMGlpRTctSkhBLUxiMUszU1FOTzZyWThVdmxPU2JMSk5TOGQtVkV5V0g5Nmg5Y3BHc0ZwTnJmZjdjQUJycnNCLWhlRU5HVzlnS0pwQWFHX2tSdmZfalRISU1laERLblBLdl81VzVmZ3hyWmdDVkJ3dVVSSVZZN0ZaY2NRa3pscUlLazdVcnpVa25nX01iOFNZYTF5Qk00RXA1ZlotcFFR?oc=5
+
+Başlık: Erken tanı tedavi sürecinde önem taşıyor - Gaziantep İlk Haber
+Özet  : Erken tanı tedavi sürecinde önem taşıyor &nbsp;&nbsp; Gaziantep İlk Haber Erken tanı tedavi sürecinde önem taşıyor - Gaziantep İlk Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiekFVX3lxTE1sU0VsSTdmNUxKYVBMZy1EVjVjN0V3amFKOFloOGZQdXVBa0NWMzJOQ2pUS2FyTXNvRGVxSVJCNS1CSWpPNXdhdHZBOFNZZThSRDVSWm1lYnI4RXFPcnBRZDJBTl8zWnlNaHk2UEl2aml5dUJUWTBRLVVB?oc=5
+
