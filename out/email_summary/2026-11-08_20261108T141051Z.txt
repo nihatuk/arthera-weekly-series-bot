@@ -1,0 +1,129 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-11-08)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 0
+• PubMed (Hakemli Makale):      16
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   31
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-11-08)
+========================================================================
+Yeni kaynak sayısı: 24
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=16
+GitHub dosyası: out/bel_agrisi/2026-11-08_20261108T141038Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Perceived sleep disruption and opioid consumption in chronic low back pain: Craving as a mediating pathway.
+Türkçe Başlık : Perceived sleep disruption and opioid consumption in chronic bel ağrısı: craving as a mediating pathway.
+Türkçe Özet   : Bu içerik perceived sleep disruption and opioid consumption in chronic bel ağrısı: craving as a mediating pathway. konusuna odaklanıyor. Öne çıkan başlıklar: drug and alcohol dependence. 2026 oct 24. Anahtar kavramlar: perceived, sleep, disruption, opioid, consumption, chronic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42998660/
+
+Orijinal Başlık: Back extensor strength and incident GERD in women receiving osteoporosis treatment: a retrospective cohort study.
+Türkçe Başlık : Back extensor strength and incident gerd in women receiving osteoporosis treatment: a retrospective cohort study.
+Türkçe Özet   : Bu içerik back extensor strength and incident gerd in women receiving osteoporosis treatment: a retrospective cohort study. konusuna odaklanıyor. Öne çıkan başlıklar: journal of bone and mineral metabolism. 2026 nov 7. Anahtar kavramlar: back, extensor, strength, incident, gerd, women.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42998106/
+
+Orijinal Başlık: Differential Postsurgery Outcomes Across Physical Therapy Care Pathways in Lumbar Spinal Stenosis Surgery: Analyses of a National Registry-Based Cohort.
+Türkçe Başlık : Differential postsurgery outcomes across fizik tedavi / fizyoterapi care pathways in lomber (bel bölgesi) spinal stenosis surgery: analyses of a national registry-based cohort.
+Türkçe Özet   : Bu içerik differential postsurgery sonuçs across fizik tedavi / fizyoterapi care pathways in lomber (bel bölgesi) spinal stenosis surgery: analyses of a national registry-based cohort. konusuna odaklanıyor. Öne çıkan başlıklar: fizik tedavi / fizyoterapi. 2026 nov 7. Anahtar kavramlar: physical, therapy, differential, postsurgery, sonuçs, across.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42998027/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Bel ağrısı tetiklenince beyinde ne oluyor? - Doğruhaber
+Özet  : Bel ağrısı tetiklenince beyinde ne oluyor? Bel ağrısı tetiklenince beyinde ne oluyor?
+Bağlantı: https://news.google.com/rss/articles/CBMidkFVX3lxTE5leUlBSHR2cjJlRFVDcE1QRjZXQ3I0d1BlcTFwbWtwU3NWeWRYVlJISGN2dVYxODR1aHcxRWxPTjFObmFqMXdndm5CR0lLY1pDZUx3OTYtYng1aHJyY0ZaQTZoc2dmM0JYdUoycUNidGpIRHZOMFE?oc=5
+
+Başlık: Sürekli boyun, omuz ve sırt ağrısı: - Vietnam.vn
+Özet  : Sürekli boyun, omuz ve sırt ağrısı: &nbsp;&nbsp; Vietnam.vn Sürekli boyun, omuz ve sırt ağrısı: - Vietnam.vn.
+Bağlantı: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TODhJNWZzUVU3SGx1VFFUZHRYWDlkbHN1ODlQT0FPNm96VWIwS2NnSHZtc2xMMUtoNkZnMzlnaTVuWUYxYWtFeV9zTU5kc3FoOGdBVG91V3YyV1N2?oc=5
+
+Başlık: Soğuk havalarda eklem ağrısı neden artar? Romatizma hastaları için kışın ağrıyı azaltmanın yolları - Haberton
+Özet  : Romatizma hastaları için kışın ağrıyı azaltmanın yolları &nbsp;&nbsp; Haberton Romatizma hastaları için kışın ağrıyı azaltmanın yolları - Haberton.
+Bağlantı: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlZnOERRUFlfNUhLaEtQRXNRV2FRSUY5VFlxbVY2Rm1ub1JSdjNZNkQxQ0hBNFhMbjRHQmIwMmlWQ1VOZXNkSEgwc0ZqN2pKc29PUEMtVDBZYmU3OEk1NHEzUEtpQVdseEN1MWV5ZmNtTWV0Z1lheG9Felo0Ml9XOTEyRE5kN21uZ21WUDBoakI0dWdYZ3BQUzRFamZXUTZwemZxMlRuV0ozZVJRTnhXWmE2NFNmZE4yeFNF?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-11-08)
+========================================================================
+Yeni kaynak sayısı: 4
+Dağılım: Cochrane=0 | PubMed=2 | medRxiv=0 | Haber=2
+GitHub dosyası: out/skolyoz/2026-11-08_20261108T141038Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Inspiratory Muscle Training Plus Schroth Exercise Versus Schroth Exercise Alone on Respiratory Function in Idiopathic Scoliosis.
+Türkçe Başlık : Inspiratory muscle training plus schroth egzersiz versus schroth egzersiz alone on respiratory function in idiopathic skolyoz.
+Türkçe Özet   : Bu içerik inspiratory muscle training plus schroth egzersiz versus schroth egzersiz alone on respiratory fonksiyon in idiopathic skolyoz. konusuna odaklanıyor. Öne çıkan başlıklar: respiratory medicine. 2026 nov 5. Anahtar kavramlar: schroth, egzersiz, respiratory, inspiratory, muscle, training.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42988175/
+
+Orijinal Başlık: Pain in adolescent idiopathic scoliosis is common but poorly explained by curve magnitude: A Real-World Cross-Sectional Study of 1,348 adolescents in Brazil.
+Türkçe Başlık : Pain in adolescent idiopathic skolyoz is common but poorly explained by curve magnitude: a real-world cross-sectional study of 1,348 adolescents in brazil.
+Türkçe Özet   : Bu içerik ağrı in adolescent idiopathic skolyoz is common but poorly explained by curve magnitude: a real-world cross-sectional study of 1,348 adolescents in brazil. konusuna odaklanıyor. Öne çıkan başlıklar: musculoskeletal science & practice. 2026 oct 27. Anahtar kavramlar: ağrı, adolescent, idiopathic, skolyoz, common, poorly.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42987490/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Skolyozda egzersiz dönemi! - Görünüm Gazetesi
+Özet  : Skolyozda egzersiz dönemi! &nbsp;&nbsp; Görünüm Gazetesi
+Bağlantı: https://news.google.com/rss/articles/CBMiekFVX3lxTE1CXzQtOFgxM1ZXM3luRjZoV1U4NUhkUkcyYzByU256WXRoem1CeE1BblVjU2k5N0xiRUlZY3NmOS1WUzlfRXVfVjBNQ3BfTU5CVjF6NHl0RmZ1eEQ1ZUZTaHFKT2JGaFhaR0x5VlVydTdkRVk0VF9ERzVR?oc=5
+
+Başlık: Kazak cerrahlar Duşanbe'de zorlu ameliyatlar gerçekleştirdi - infohub.kz
+Özet  : Kazak cerrahlar Duşanbe'de zorlu ameliyatlar gerçekleştirdi &nbsp;&nbsp; infohub.kz Kazak cerrahlar Duşanbe'de zorlu ameliyatlar gerçekleştirdi - infohub.kz.
+Bağlantı: https://news.google.com/rss/articles/CBMie0FVX3lxTFBLdzZNZ2tCV3JaYTJEQVFtX1FqNFJvN20yTGNXY21xZDZ3LThFWkROZDdWV2VJcHRRdE1MTUozSkp1Rkwzb2JYN05RY0xLSnF3QVJCMHQ1LXFxbzhXeXFQX1oycDVHMHduY21qSHRSdV83TTdNUnBWb295RQ?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-11-08)
+========================================================================
+Yeni kaynak sayısı: 19
+Dağılım: Cochrane=0 | PubMed=6 | medRxiv=0 | Haber=13
+GitHub dosyası: out/omuz/2026-11-08_20261108T141038Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Use of patient-reported outcome measures for upper limb musculoskeletal conditions among physiotherapists in Tamil Nadu, India: a mixed-methods study.
+Türkçe Başlık : Use of patient-reported outcome measures for upper limb musculoskeletal conditions among physiotherapists in tamil nadu, india: a mixed-methods study.
+Türkçe Özet   : Bu içerik use of patient-reported sonuç measures for upper limb musculoskeletal conditions among physiotherapists in tamil nadu, india: a mixed-methods study. konusuna odaklanıyor. Öne çıkan başlıklar: hand therapy. 2026 nov 3. Anahtar kavramlar: use, patient, reported, sonuç, measures, upper.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42991369/
+
+Orijinal Başlık: Development, Usability, and Feasibility of a Pain-Stratified Smartphone-Based Home Intervention System for Patients With Adhesive Capsulitis: Exploratory Feasibility and Usability Trial.
+Türkçe Başlık : Development, usability, and feasibility of a pain-stratified smartphone-based home intervention system for patients with adeziv kapsülit (donuk omuz): exploratory feasibility and usability klinik çalışma.
+Türkçe Özet   : Bu içerik development, usability, and feasibility of a ağrı-stratified smartphone-based home intervention system for patients with adeziv kapsülit (donuk omuz): exploratory feasibility and usability klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: jmir rehabilitasyon and assistive technologies. 2026 nov 5. Anahtar kavramlar: usability, feasibility, development, ağrı, stratified, smartphone.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42987277/
+
+Orijinal Başlık: Virtual reality-assisted rehabilitation after arthroscopic rotator cuff repair for small-to-medium supraspinatus tears: a prospective assessor-blinded randomized controlled trial.
+Türkçe Başlık : Sanal gerçeklik-assisted rehabilitasyon after arthroscopic rotator manşet repair for small-to-medium supraspinatus tears: a prospective assessor-blinded randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik sanal gerçeklik-assisted rehabilitasyon after arthroscopic rotator manşet repair for small-to-medium supraspinatus tears: a prospective assessor-blinded randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: bmc musculoskeletal disorders. 2026 aug 7. Anahtar kavramlar: virtual, reality, assisted, rehabilitasyon, after, arthroscopic.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/42983341/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Nedeni açıklanamayan sırt ve omuz ağrısı akciğer kanseri belirtisi olabilir - Anadolu Ajansı
+Özet  : Nedeni açıklanamayan sırt ve omuz ağrısı akciğer kanseri belirtisi olabilir &nbsp;&nbsp; Anadolu Ajansı Nedeni açıklanamayan sırt ve omuz ağrısı akciğer kanseri belirtisi olabilir - Anadolu Ajansı.
+Bağlantı: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlA1eVZ3amlxeGt5OVpDTl82bktaVUp2UmQwVDdYSnFnaGJ1ZWZOTnpsWDFlY3R4VzZHcU4zdzZOdW1xWW9abkpsOGNCMkM0TlB5cnU3c1phUXc3VjJKYW5NZmZrQXBIa25SOXNKSXdlWGdkdGlyQ3ZoZjYyVmRvUF9UUzhxN3RpV1JKWV9GT19oeFFHN0hTQmNiTFNaMDFlTEpvM0xMekJFRTNibVV6c2MzdVZZTVBucTVXYWY4TjY5Zw?oc=5
+
+Başlık: Boyun ve omuz ağrısı konusunda uyarı: Göz ardı etmeyin, en kısa sürede doktora görünün. - Vietnam.vn
+Özet  : Boyun ve omuz ağrısı konusunda uyarı: Göz ardı etmeyin, en kısa sürede doktora görünün. Boyun ve omuz ağrısı konusunda uyarı: Göz ardı etmeyin, en kısa sürede doktora görünün.
+Bağlantı: https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTY1WUk0Y0lWbEF6V1BjV3NLQklxSjlUS2dxOHpzLUlvTVlET1FYa20wUENPa1RxR1g0Nm5RT0FlbjRTLURDMXE0Y1RwQmxqZ3VONmVYVmdlV1N4aHRwZ2Q1c182RkFyWVM3TlhMZjRwamkyX3dPVnRiZDNTLTJUd2ZtQ3NtdFd2TWd4ajluMks?oc=5
+
+Başlık: Geçmeyen Sırt ve Omuz Ağrısı Akciğer Kanserinin Habercisi Olabilir: Prof. Dr. Sinem İliaz’dan Önemli Uyarılar - Sağlık Aktüel
+Özet  : Geçmeyen Sırt ve Omuz Ağrısı Akciğer Kanserinin Habercisi Olabilir: Prof. Geçmeyen Sırt ve Omuz Ağrısı Akciğer Kanserinin Habercisi Olabilir: Prof.
+Bağlantı: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0FVdDQtVnpVaTUyYzB2NUZsN3pNSV82TEU0eENJVkFFT0tqOUJBdUtWdjI4R1llbnVmR09LTTREcUY3ajhzdlNpMk43X2tMUE1lY1pseHdyRlM2aW1VUnk1NWdDTzUwV0RURXl2UjdoWUxqaTg3ZkF0eGRPZDNvZHgyRXJ2VHByMERGdGdTR3ROYjdKaUsyeF9NU2paa0tKN0JRQ253TlhrWnNGWXhmMEIwbmdSVkEwT091SkVBbFI1bEE?oc=5
+
