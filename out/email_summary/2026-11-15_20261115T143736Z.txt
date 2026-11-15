@@ -1,0 +1,146 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-11-15)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 1
+• PubMed (Hakemli Makale):      19
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   28
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-11-15)
+========================================================================
+Yeni kaynak sayısı: 21
+Dağılım: Cochrane=1 | PubMed=8 | medRxiv=0 | Haber=12
+GitHub dosyası: out/bel_agrisi/2026-11-15_20261115T143723Z.md
+
+A) COCHRANE – Sistematik Derlemeler
+------------------------------------------------------------------------
+Orijinal Başlık: For adults with chronic low back pain (cLBP), what are the benefits and harms of lumbar supports used alone or alongside non‐steroidal anti‐inflammatory drugs (NSAIDs) or physical therapy?
+Türkçe Başlık : For adults with chronic bel ağrısı (clbp), what are the benefits and harms of lomber (bel bölgesi) supports used alone or alongside non‐steroidal anti‐inflammatory drugs (nsaids) or fizik tedavi / fizyoterapi?
+Türkçe Özet   : Bu içerik for adults with chronic bel ağrısı (clbp), what are the benefits and harms of lomber (bel bölgesi) supports used alone or alongside non‐steroidal anti‐inflammatory drugs (nsaids) or fizik tedavi / fizyoterapi? konusuna odaklanıyor. Anahtar kavramlar: adults, chronic, low, back, ağrı, clbp.
+Bağlantı: https://www.cochranelibrary.com/cca/doi/10.1002/cca.4907
+
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Injectable thermoresponsive hydrogel integrating pH-responsive nanoparticles for antioxidant therapy of intervertebral disc degeneration.
+Türkçe Başlık : Injectable thermoresponsive hydrogel integrating ph-responsive nanoparticles for antioxidant therapy of intervertebral disc degeneration.
+Türkçe Özet   : Bu içerik injectable thermoresponsive hydrogel integrating ph-responsive nanoparticles for antioxidant therapy of intervertebral disc degeneration. konusuna odaklanıyor. Öne çıkan başlıklar: materials today. bio. 2026 dec. Anahtar kavramlar: injectable, thermoresponsive, hydrogel, integrating, responsive, nanoparticles.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43034656/
+
+Orijinal Başlık: Mitochondria-Targeted M1 Macrophage Membrane-Coated CeO₂ Nanoparticles Alleviate Intervertebral Disc Degeneration via Antioxidant and Anti-Inflammatory Effects.
+Türkçe Başlık : Mitochondria-targeted m1 macrophage membrane-coated ceo₂ nanoparticles alleviate intervertebral disc degeneration via antioxidant and anti-inflammatory effects.
+Türkçe Özet   : Bu içerik mitochondria-targeted m1 macrophage membrane-coated ceo₂ nanoparticles alleviate intervertebral disc degeneration via antioxidant and anti-inflammatory effects. konusuna odaklanıyor. Öne çıkan başlıklar: acta biomaterialia. 2026 nov 14. Anahtar kavramlar: mitochondria, targeted, macrophage, membrane, coated, ceo.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43034030/
+
+Orijinal Başlık: Fatal cryptococcal meningoencephalomyelitis presenting with cauda equina syndrome in an immunocompetent patient: a case report.
+Türkçe Başlık : Fatal cryptococcal meningoencephalomyelitis presenting with cauda equina syndrome in an immunocompetent patient: a case report.
+Türkçe Özet   : Bu içerik fatal cryptococcal meningoencephalomyelitis presenting with cauda equina syndrome in an immunocompetent patient: a case report. konusuna odaklanıyor. Öne çıkan başlıklar: diagnostic microbiology and infectious disease. 2026 nov 5. Anahtar kavramlar: fatal, cryptococcal, meningoencephalomyelitis, presenting, cauda, equina.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43033807/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ofis çalışanlarında bel ağrısı, en sık fizyoterapi başvurusu haline geldi - Gazetekars
+Özet  : Ofis çalışanlarında bel ağrısı, en sık fizyoterapi başvurusu haline geldi &nbsp;&nbsp; Gazetekars Ofis çalışanlarında bel ağrısı, en sık fizyoterapi başvurusu haline geldi - Gazetekars.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0d1Vm5GYXByNzR1SmpHSXllUFhEOS1KSUk4MWdRRWV4UnM3S3hrcVNCQjM3ci00Yld5blg1WGhYUkdEUkRxTFFmY3RYTHFjbHdXUThKQ01EeEs2NGlUMnI3RXk2NWJzeXg2VVcwMGpHdTM3V2NsWWt4bnczSDN6LTlmZHF6ck5PMlVMZDczMl93VXRRT3E1R2pJYmNuWVB2OXIwWEp4TTAzUkhBTlRN?oc=5
+
+Başlık: Sırt ağrısı, bacaklarda güçsüzlük ve idrar tutukluğu: Kauda ekina sendromunun uyarı işaretleri. - Vietnam.vn
+Özet  : Sırt ağrısı, bacaklarda güçsüzlük ve idrar tutukluğu: Kauda ekina sendromunun uyarı işaretleri. Sırt ağrısı, bacaklarda güçsüzlük ve idrar tutukluğu: Kauda ekina sendromunun uyarı işaretleri.
+Bağlantı: https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXlOUmJoZWJSY0NtYmh6R0Y1VXR6RHk3RnlfSGc5RmJkc0tibmRyWkV6T1FuLWxoVnZvSjhseThPdmNPSXVPRlFpRlpoN2JUODBmM3duWGZkYnhNa3gzZHk1emlITFRvdTQ4VlVFTmI4VkxwT1FvMjlMbE9mSkVDZ1lVdVdoazdxcTJHWUpNZHA2UQ?oc=5
+
+Başlık: Bel Ağrısı Başlamadan Önlem Alın! - Gazete Merhaba
+Özet  : Bel Ağrısı Başlamadan Önlem Alın! Bel Ağrısı Başlamadan Önlem Alın!
+Bağlantı: https://news.google.com/rss/articles/CBMixAFBVV95cUxPMDE5R09icG03NllHNTI1a0lxVkphWEl4TENzUmZrT1RRYnJ6anNDdXBSaE9tRmx6MnpSWjdlV29wMTJKY0gzLWluNlNOQjJ1b2FqYTVEMFJZeHREWm41NXV6dnJTdjdyUDNPOU9XZnNQMy1SMnN1a3pyWXpvajNwOWtPd0N0Zjc1VTY1VVZaNG5ic2VDank3Vzhfb01hWmd3aGY2czFManNTMVFoZmZFd05OTkY5aHBfYnNKR0dPRlhpaGRp?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-11-15)
+========================================================================
+Yeni kaynak sayısı: 9
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=6
+GitHub dosyası: out/skolyoz/2026-11-15_20261115T143723Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Candidate Variant Prioritization and Tissue-Mechanics Endpoints for Functional Validation in Scoliosis: A Computational Reanalysis.
+Türkçe Başlık : Candidate variant prioritization and tissue-mechanics endpoints for functional validation in skolyoz: a computational reanalysis.
+Türkçe Özet   : Bu içerik candidate variant prioritization and tissue-mechanics endpoints for fonksiyonal validation in skolyoz: a computational reanalysis. konusuna odaklanıyor. Öne çıkan başlıklar: biology. 2026 nov 9. Anahtar kavramlar: candidate, variant, prioritization, tissue, mechanics, endpoints.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43027059/
+
+Orijinal Başlık: Rehabilitative game-based exercise integrated into conservative treatment for adolescent idiopathic scoliosis: a pilot randomized controlled trial.
+Türkçe Başlık : Rehabilitative game-based egzersiz integrated into conservative treatment for adolescent idiopathic skolyoz: a pilot randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik rehabilitative game-based egzersiz integrated into conservative treatment for adolescent idiopathic skolyoz: a pilot randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: bmc sports science, medicine & rehabilitasyon. 2026 aug 18. Anahtar kavramlar: rehabilitative, game, based, egzersiz, integrated, conservative.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43021294/
+
+Orijinal Başlık: Prevalence and associated factors of screen-positive scoliosis among primary and secondary school students in Taizhou, China: a cross-sectional analysis based on ATR thresholds with identification of the apparent 5° measurement clustering.
+Türkçe Başlık : Prevalence and associated factors of screen-positive skolyoz among primary and secondary school students in taizhou, china: a cross-sectional analysis based on atr thresholds with identification of the apparent 5° measurement clustering.
+Türkçe Özet   : Bu içerik prevalence and associated factors of screen-positive skolyoz among primary and secondary school students in taizhou, china: a cross-sectional analysis based on atr thresholds with identification of the apparent 5° measurement clustering. konusuna odaklanıyor. Öne çıkan başlıklar: frontiers in pediatrics. 2026. Anahtar kavramlar: prevalence, associated, factors, screen, positive, skolyoz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43010967/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Doç. Dr. Agar: Skolyozda Erken Teşhis Çok Önemli - Elazığ Son Haber
+Özet  : Agar: Skolyozda Erken Teşhis Çok Önemli &nbsp;&nbsp; Elazığ Son Haber Agar: Skolyozda Erken Teşhis Çok Önemli - Elazığ Son Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiggFBVV95cUxPaU9RdkRSUEV0NmhmNXBDUHRjbExkNEw1UW9FWFFlakI4R1FUQmlFRGtBV1RCa3k0VkJnazM5OUJMVWRQX3p2Q1VhMUpPN3AydXpwQ1VZb1JoTm10SG0xdjFTMGY5R1BFYy1oeEU5SU9GTEhIY1o1SXZ6WWZBa1A0Y2d3?oc=5
+
+Başlık: Doç.Dr. Agar “Skolyoz erken teşhiste kontrol edilbilir” - Elazığ Haber Kent
+Özet  : Agar “Skolyoz erken teşhiste kontrol edilbilir” &nbsp;&nbsp; Elazığ Haber Kent Agar “Skolyoz erken teşhiste kontrol edilbilir” - Elazığ Haber Kent.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxPenBnbDI4VEV6ZjNlRFFiZjN0R0ItZGlpR0ctTHBkZ3BBZlVXTFdZRW9ZTGQ3cF9QVHRfeUJVQV9JbHF1MjlKbmtKZzJpUkhnOEdpYUEzUnFxYjdHRkZtbmZVMDRpVXVKRGdqaHVuTV9iYUhaSm00d0tCMkVaREc5bGd5UTdfNXFMMlFnWmlwZzFhRVNnZGxlS3ExNnRBdGvSAZ8BQVVfeXFMT3pwZ2wyOFRFemYzZURRYmYzdEdCLWRpaUdHLUxwZGdwQWZVV0xXWUVvWUxkN3BfUFR0X3lCVUFfSWxxdTI5Sm5rSmcyaVJIZzhHaWFBM1JxcWI3R0ZGbW5mVTA0aVV1SkRnamh1bk1fYmFIWkptNHdLQjJFWkRHOWxneVE3XzVxTDJRZ1ppcGcxYUVTZ2RsZUtxMTZ0QXRr?oc=5
+
+Başlık: Çocuklarda Sinsi İlerliyor! Uzman İsimden Skolyoz Uyarısı - Günebakış Haber
+Özet  : Uzman İsimden Skolyoz Uyarısı &nbsp;&nbsp; Günebakış Haber Uzman İsimden Skolyoz Uyarısı - Günebakış Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWVIOEZhMlJYWENqcW5NZlVMWlpaV205MktOSi16ekdlcUE5U01sN0ZJMkNaRHVZa2tRNk5ybjMxR2xsY3ZhcHdLS2VfUzVzV0Y4dFNPY1JySUJIdFRGWmI4Q0UwU0MxOVpwN1hlNS03WUhFenNhQUo3VjdtMkcxQlZXWGxZTWpGaVZfSGpUR2lSclNPdzBMd2pZVHpsck3SAaQBQVVfeXFMTzUwRlZZaDVhQkxpZmYzci1ycFM1TTNNeWxBQlJhZHZBVHY2WHBLdW1UX2pvZ01LSEJVVWFrNVZhYkE0aElSblZPTlkzYXVEQnRVOFJoOHVyTTU3RERrRzNOaUtOb1dDM2ZIM2Qwei1hWEM5UkhDV1I0VlM3clZITjJMSjk0bC05bjU3eHF0b3oycVRORXFBSVY1Uml3LUExNjVLZEM?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-11-15)
+========================================================================
+Yeni kaynak sayısı: 18
+Dağılım: Cochrane=0 | PubMed=8 | medRxiv=0 | Haber=10
+GitHub dosyası: out/omuz/2026-11-15_20261115T143723Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Ultrasound-guided intra-articular steroid injection versus combined suprascapular and axillary nerve block in adhesive capsulitis: a randomized controlled trial.
+Türkçe Başlık : Ultrasound-guided intra-articular steroid injection versus combined suprascapular and axillary nerve block in adeziv kapsülit (donuk omuz): a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik ultrasound-guided intra-articular steroid injection versus combined suprascapular and axillary nerve block in adeziv kapsülit (donuk omuz): a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: journal of ultrasound. 2026 nov 14. Anahtar kavramlar: ultrasound, guided, intra, articular, steroid, injection.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43033358/
+
+Orijinal Başlık: Musculoskeletal Symptoms, Upper-Limb Disability and Burnout Among Hairdressers Working in Women's Hairdressing Salons in Istanbul, Turkey: A Cross-Sectional Study.
+Türkçe Başlık : Musculoskeletal symptoms, upper-limb disability and burnout among hairdressers working in women's hairdressing salons in istanbul, turkey: a cross-sectional study.
+Türkçe Özet   : Bu içerik musculoskeletal symptoms, upper-limb disability and burnout among hairdressers working in women's hairdressing salons in istanbul, turkey: a cross-sectional study. konusuna odaklanıyor. Öne çıkan başlıklar: healthcare (basel, switzerland). 2026 nov 9. Anahtar kavramlar: musculoskeletal, symptoms, upper, limb, disability, burnout.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43028835/
+
+Orijinal Başlık: Effects of Ergonomics Training Plus Structured Exercise Versus Ergonomics Training Alone on Musculoskeletal Pain, Disability, and Burnout in Schoolteachers: A Randomized Controlled Trial.
+Türkçe Başlık : Effects of ergonomics training plus structured egzersiz versus ergonomics training alone on musculoskeletal pain, disability, and burnout in schoolteachers: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik effects of ergonomics training plus structured egzersiz versus ergonomics training alone on musculoskeletal ağrı, disability, and burnout in schoolteachers: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: healthcare (basel, switzerland). 2026 nov 9. Anahtar kavramlar: ergonomics, training, effects, plus, structured, egzersiz.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43028833/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Kol ağrısı sandı, 4’üncü evre kanser tanısı aldı! ‘Nasıl olsa geçer’ diyerek doktora gitmeyi ertelemeyin - Milliyet
+Özet  : ‘Nasıl olsa geçer’ diyerek doktora gitmeyi ertelemeyin &nbsp;&nbsp; Milliyet Kol ağrısı sandı, 4’üncü evre kanser tanısı aldı!
+Bağlantı: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUnlQOGxuSFJEbXBEcVBxVDR4bVZyYUhRd24xbk16NkJlRnB3SXp6RXFDX0RZMjlxQkNNNWYwRTBRRk80TTcyZ004aVcyM0I3aFlBNVp5ck1PTWdUSlJRbVo2RDZUcDlmYVFQbnlINGlIN2hfby05NDhYSXRmMERIRVpKd1M0d3VDNlNqSU9wd1N1Zms3Rm15a0VZS2hNLUlFbldyaWhnak5FVy1aMDA3OW43NHJoNm5uY1k0Ungxd1pGSzRyeEZwNUlrdHh6dHBXcVlvblJ0YUhxRlVn?oc=5
+
+Başlık: 52 yaşında bir adam, bir hafta süren omuz ağrısının ardından hayatını kaybetti; doktorlar göz ardı edilmemesi gereken 5 belirti konusunda uyarıda bulundu. - Vietnam.vn
+Özet  : 52 yaşında bir adam, bir hafta süren omuz ağrısının ardından hayatını kaybetti; doktorlar göz ardı edilmemesi gereken 5 belirti konusunda uyarıda bulundu. 52 yaşında bir adam, bir hafta süren omuz ağrısının ardından hayatını kaybetti; doktorlar göz ardı edilmemesi gereken 5 belirti konusunda uyarıda bulundu.
+Bağlantı: https://news.google.com/rss/articles/CBMirwFBVV95cUxNRENybjg3UHFKa2RvS1lFZ29rVmRJVlBaaVg5RDNvemdENjczUndqYm4xM3RxdlltV2pMNHhnem5XakZtMHF0M2RGVXh6aFhycmRkUkNaWnhKMklpejYyYTZ4dGhFT0d0VjJHMFNPbDJiME9fUHpaaUE5V1JZSmNXOFZlY1FQcFhRSkFuZW1TdGZnR21oU0c4S0dxT2VxWmpKLVlnQU4ydGExRzd0X2VZ?oc=5
+
+Başlık: "Kanlı balgam ve geçmeyen öksürük akciğer kanserinin habercisi olabilir" - https://www.urfabaraj.com/
+Özet  : "Kanlı balgam ve geçmeyen öksürük akciğer kanserinin habercisi olabilir" &nbsp;&nbsp; https://www.urfabaraj.com/ "Kanlı balgam ve geçmeyen öksürük akciğer kanserinin habercisi olabilir" - https://www.urfabaraj.com/.
+Bağlantı: https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVVTai1yWUxQSGJJVkFxY2NuSzNVZUJMS1lUTnFvNTY2bzVGNWJNUnd1dlJZdWJMZnN2ZnBrcEhETmxhclpHTzlXZnZiNG5lVUtuaTc1cFVOTTFycENndEg5THR2Yko3dHFaWVNUcnFod2JON0I4Zmd0ZFJIc2ZteWVnbWNJcnV6eUhub01SbkNrRHVxTElMa1lYV2pXeVh0R3pncw?oc=5
+
