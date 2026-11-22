@@ -1,0 +1,136 @@
+ARTHERA CLINIC – FİZYOTERAPİ GÜNDEM ÖZETİ (2026-11-22)
+========================================================================
+
+Bu e-posta otomatik derlenmiştir. Tıbbi öneri yerine geçmez.
+Kişisel durumunuz için fizyoterapistinize/hekiminize danışınız.
+
+GENEL ÖZET (Bu çalıştırma)
+------------------------------------------------------------------------
+• Cochrane (Sistematik Derleme): 1
+• PubMed (Hakemli Makale):      12
+• medRxiv (Ön Baskı/Preprint):  0
+• Haber & Blog (Google News):   40
+
+NOTLAR
+------------------------------------------------------------------------
+• Cochrane sistematik derlemeler genelde yüksek kanıt düzeyi sağlar.
+• medRxiv içerikleri ön baskıdır; hakem değerlendirmesinden geçmemiş olabilir.
+• Detay içerikler GitHub repo içinde out/ klasöründe dosya olarak saklanır.
+
+========================================================================
+BEL AĞRISI SERISI — DERLEME (2026-11-22)
+========================================================================
+Yeni kaynak sayısı: 27
+Dağılım: Cochrane=1 | PubMed=8 | medRxiv=0 | Haber=18
+GitHub dosyası: out/bel_agrisi/2026-11-22_20261122T150933Z.md
+
+A) COCHRANE – Sistematik Derlemeler
+------------------------------------------------------------------------
+Orijinal Başlık: Surgical interventions for adults with low back pain with or without spine‐related leg pain or degenerative lumbar spinal abnormalities: an overview of systematic reviews of randomised controlled trials
+Türkçe Başlık : Surgical interventions for adults with bel ağrısı with or without spine‐related leg pain or degenerative lomber (bel bölgesi) spinal abnormalities: an overview of sistematik derlemes of randomised controlled klinik çalışmas
+Türkçe Özet   : Bu içerik surgical interventions for adults with bel ağrısı with or without spine‐related leg ağrı or degenerative lomber (bel bölgesi) spinal abnormalities: an overview of sistematik derlemes of randomised controlled klinik çalışmas konusuna odaklanıyor. Anahtar kavramlar: ağrı, surgical, interventions, adults, low, back.
+Bağlantı: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014692
+
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Exercise-Derived Skeletal Muscle Exosomes Ameliorate Intervertebral Disc Degeneration and Restore Mitochondrial Homeostasis in Nucleus Pulposus Cells.
+Türkçe Başlık : Egzersiz-derived skeletal muscle exosomes ameliorate intervertebral disc degeneration and restore mitochondrial homeostasis in nucleus pulposus cells.
+Türkçe Özet   : Bu içerik egzersiz-derived skeletal muscle exosomes ameliorate intervertebral disc degeneration and restore mitochondrial homeostasis in nucleus pulposus cells. konusuna odaklanıyor. Öne çıkan başlıklar: international journal of nanomedicine. 2026. Anahtar kavramlar: egzersiz, derived, skeletal, muscle, exosomes, ameliorate.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43068295/
+
+Orijinal Başlık: Gene-specific Mendelian randomization and exploratory multi-omics analyses prioritize CYP26B1 as a candidate gene for intervertebral disc degeneration.
+Türkçe Başlık : Gene-specific mendelian randomization and exploratory multi-omics analyses prioritize cyp26b1 as a candidate gene for intervertebral disc degeneration.
+Türkçe Özet   : Bu içerik gene-specific mendelian randomization and exploratory multi-omics analyses prioritize cyp26b1 as a candidate gene for intervertebral disc degeneration. konusuna odaklanıyor. Öne çıkan başlıklar: computational biology and chemistry. 2026 nov 19. Anahtar kavramlar: gene, specific, mendelian, randomization, exploratory, multi.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43067170/
+
+Orijinal Başlık: Opioid prescribing trajectories for nonspecific low back pain: sociodemographic and clinical heterogeneity across 3 policy periods, 2012-2024.
+Türkçe Başlık : Opioid prescribing trajectories for nonspecific bel ağrısı: sociodemographic and clinical heterogeneity across 3 policy periods, 2012-2024.
+Türkçe Özet   : Bu içerik opioid prescribing trajectories for nonspecific bel ağrısı: sociodemographic and clinical heterogeneity across 3 policy periods, 2012-2024. konusuna odaklanıyor. Öne çıkan başlıklar: ağrı reports. 2026 dec. Anahtar kavramlar: ağrı, opioid, prescribing, trajectories, nonspecific, low.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43066143/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Hareket molalarını ihmal etmeyin! Fizyoterapistten masa başı çalışanlara 4 öneri - Haber Hürriyeti
+Özet  : Fizyoterapistten masa başı çalışanlara 4 öneri &nbsp;&nbsp; Haber Hürriyeti Fizyoterapistten masa başı çalışanlara 4 öneri - Haber Hürriyeti.
+Bağlantı: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaVFjRmNwMWNTVlJIdTR3R0M4SGszNDIzejJLS29wN2M3ZG1kQlhZSGxJdzdaeW03TU84QmFad2lramQxVE9vX1lFUnNodno3VHpva0d0WFdjOHQyTUdEdG9RWGJqNFd3bDVTMUdUV0RoZHJKNXBhb29EOU9TSnRITkVSalBLbG1Tdmtoc0prUjdfRkxyZDcxTmxuY2FXeENfcE9Cb1BYeHI4TXBBak0xWkhmcDJWUHpaZTl5VTJrZVRMUmFjZ2c3WNIByAFBVV95cUxQaVFjRmNwMWNTVlJIdTR3R0M4SGszNDIzejJLS29wN2M3ZG1kQlhZSGxJdzdaeW03TU84QmFad2lramQxVE9vX1lFUnNodno3VHpva0d0WFdjOHQyTUdEdG9RWGJqNFd3bDVTMUdUV0RoZHJKNXBhb29EOU9TSnRITkVSalBLbG1Tdmtoc0prUjdfRkxyZDcxTmxuY2FXeENfcE9Cb1BYeHI4TXBBak0xWkhmcDJWUHpaZTl5VTJrZVRMUmFjZ2c3WA?oc=5
+
+Başlık: Duong Yen Ngoc kanser hastası. - Vietnam.vn
+Özet  : Duong Yen Ngoc kanser hastası. &nbsp;&nbsp; Vietnam.vn
+Bağlantı: https://news.google.com/rss/articles/CBMiYEFVX3lxTE40Nlh6Qm1uQWdwRGI5bDdfNWt2aVV2cmRkc2dVb2RnUWhkak9rOG5VY3BNSUozYlhBc0MtbUJUQVFBS2NtSUowM1B3bEJxQXlJakdsZ3JjdEc0TTEtZHhVcw?oc=5
+
+Başlık: İnsanların fabrika çıkışı bozuk parçası… Bel ağrıları nasıl hafifler? - İz Gazete
+Özet  : İnsanların fabrika çıkışı bozuk parçası… Bel ağrıları nasıl hafifler? İnsanların fabrika çıkışı bozuk parçası… Bel ağrıları nasıl hafifler?
+Bağlantı: https://news.google.com/rss/articles/CBMilwFBVV95cUxQa19Md2I2M1MyMXhZR3NPaTNrZzBSWkFab2dva0U5WEdhamRhUjdkY2hTbnBIQkt4cHdCTmVyWXF1OFdDcVhfc0NmQk92QjBJb0hZM2xsT2FyMUpqMDZpMFVEY0xZUEtOandKUmV4RnFhTklnRmN2MHBWeVdzWm1NV242VVN1NTc0UnR1dnhsV3cxSHE0UTdR?oc=5
+
+
+========================================================================
+SKOLYOZ SERISI — DERLEME (2026-11-22)
+========================================================================
+Yeni kaynak sayısı: 7
+Dağılım: Cochrane=0 | PubMed=1 | medRxiv=0 | Haber=6
+GitHub dosyası: out/skolyoz/2026-11-22_20261122T150933Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Sensorimotor representation in adolescents with idiopathic scoliosis compared with healthy controls: Proprioception, tactile acuity, left-right judgment, and motor imagery.
+Türkçe Başlık : Sensorimotor representation in adolescents with idiopathic skolyoz compared with healthy controls: proprioception, tactile acuity, left-right judgment, and motor imagery.
+Türkçe Özet   : Bu içerik sensorimotor representation in adolescents with idiopathic skolyoz compared with healthy controls: proprioception, tactile acuity, left-right judgment, and motor imagery. konusuna odaklanıyor. Öne çıkan başlıklar: plos one. 2026. Anahtar kavramlar: sensorimotor, representation, adolescents, idiopathic, skolyoz, compared.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43056311/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Ergenlik Dönemindeki Sessiz Tehlike: Skolyoz Nasıl Fark Edilir? - Günışığı Gazetesi
+Özet  : Ergenlik Dönemindeki Sessiz Tehlike: Skolyoz Nasıl Fark Edilir? Ergenlik Dönemindeki Sessiz Tehlike: Skolyoz Nasıl Fark Edilir?
+Bağlantı: https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnNkdlNEbm9CR2cyZG1iVWVuRzczR2lHQklFaVlfbVZPNlZHUW9iMFRTelFHUGNqa00yWHBUOEh0cklkczVpc3NCQnlfa1RKak1pOXlqd3d3Ylh2clNFcjUwZVVQMXRXT3VyWTlxYzBPVDJFUVhuMHJoeVF4YmN6cm56dDNvNXJKMUQ4SnhOU1dsdXZ6TXpFaTRpYjEwU1BjN1ZzcEtjZGx5SDJiS1HSAbMBQVVfeXFMUHRQMklTRTMyUUtXWkdwUVByRlB3TDZKajVqdjdadGEwZTFHT3hQaTdabnhWM0lDaW9CcGlBRUFDX1ZyZzNKSkZlR2prRW1xZEh6dVFLRk1UUHlYenY1czdRM1ZlVUtWSWlUY29pNG9CUk8yQTlNWUQ5b3RkMjl4dUItc1Z4alYxT0x0WVU2bkxIcjVUOXZxemZoa0k0eE03YURJSEE4Xy02Rjg5VkdRcGtpMWM?oc=5
+
+Başlık: Skolyozda Schroth Yöntemiyle Doğru Duruş - Gaziantep Time
+Özet  : Skolyozda Schroth Yöntemiyle Doğru Duruş &nbsp;&nbsp; Gaziantep Time Skolyozda Schroth Yöntemiyle Doğru Duruş - Gaziantep Time.
+Bağlantı: https://news.google.com/rss/articles/CBMijAFBVV95cUxPczhrWUtMR0lPaUtDLXZiU1BPSEFranVpUWZxWEJhc0RTZTlwUU1HVU5BZTlpN2h4ME9CblpUalRjWWJMM1kzTUFDMkpOVkpqSHFiTnlLcURpbUpjdTBPSDFvdzQxVjdYTG5ScEsyWHhGUkd6YUFsdTI2NG1rZjhQeHdWUVdSVUxZVjlLZdIBkgFBVV95cUxQcWhKemZLQ1ctb0NYbnpGZW9teGoyQVhqamlnVUxGWG5lT0xEQnBRdTJEMGRwOFU2RWgtVXVDWDZFd1lzMjN5ajVHbWRXN1BOTk5RUGNKaUVzMHVONk9mYVo2UGhRSWpUNGpGaUZjaEh5SE1WVzBJRjlzekFOY3l4RkliZkRPazhRTjJzSWxmNVVwdw?oc=5
+
+Başlık: Çocuğunuzun omuzları aynı hizada değilse dikkat: Uzmanından skolyoz uyarısı - Ankara Net Haber
+Özet  : Çocuğunuzun omuzları aynı hizada değilse dikkat: Uzmanından skolyoz uyarısı &nbsp;&nbsp; Ankara Net Haber Çocuğunuzun omuzları aynı hizada değilse dikkat: Uzmanından skolyoz uyarısı - Ankara Net Haber.
+Bağlantı: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnFPVjUwR3ItNXE0UVVvdFRfZ2pKdUF0ekN4UFRuTDl3Q0E5a0psQlBEbm5jX1VCRlJqTGlDcXhDYUNBWTd2OE1pVmIwWE9fZ1VtVHRERGVxZzBRc2JZTjgyMS1od09LZlVvZE1qZlppVWhjUldiNC0xTTRNTkhlMUw0Rk9kNmVreFUtQ3k5T1Z4NlFKaFp3YVFMT000V0tJN1c0WDZDQXM?oc=5
+
+
+========================================================================
+OMUZ SERISI — DERLEME (2026-11-22)
+========================================================================
+Yeni kaynak sayısı: 19
+Dağılım: Cochrane=0 | PubMed=3 | medRxiv=0 | Haber=16
+GitHub dosyası: out/omuz/2026-11-22_20261122T150933Z.md
+
+B) PUBMED – Hakemli Makaleler
+------------------------------------------------------------------------
+Orijinal Başlık: Efficacy of laser therapy for subacromial impingement syndrome: a network meta-analysis of randomized controlled trials.
+Türkçe Başlık : Efficacy of laser therapy for subacromial sıkışma (impingement) syndrome: a network meta-analiz of randomize controlled klinik çalışmas.
+Türkçe Özet   : Bu içerik efficacy of laser therapy for subacromial sıkışma (impingement) syndrome: a network meta-analiz of randomize controlled klinik çalışmas. konusuna odaklanıyor. Öne çıkan başlıklar: lasers in medical science. 2026 nov 21. Anahtar kavramlar: efficacy, laser, therapy, subacromial, sıkışma (impingement), syndrome.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43064839/
+
+Orijinal Başlık: The PROTECT-study (PROsthesis TElerehab Care Trial), home-based telerehabilitation in post-operative care after shoulder arthroplasty compared to usual care: study protocol for a randomized clinical trial.
+Türkçe Başlık : The protect-study (prosthesis telerehab care klinik çalışma), home-based telerehabilitasyon in post-operative care after omuz arthroplasty compared to usual care: study protocol for a randomize clinical klinik çalışma.
+Türkçe Özet   : Bu içerik the protect-study (prosthesis telerehab care klinik çalışma), home-based telerehabilitasyon in post-operative care after omuz arthroplasty compared to usual care: study protocol for a randomize clinical klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: klinik çalışmas. 2026 aug 27. Anahtar kavramlar: care, study, klinik çalışma, protect, prosthesis, telerehab.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43058748/
+
+Orijinal Başlık: Impact of immersive virtual reality combined with lifestyle modification on upper limb function, pain intensity, and range of motion in post-surgical breast cancer survivors: A randomized controlled trial.
+Türkçe Başlık : Impact of immersive sanal gerçeklik combined with lifestyle modification on upper limb function, pain intensity, and range of motion in post-surgical breast cancer survivors: a randomize controlled klinik çalışma.
+Türkçe Özet   : Bu içerik impact of immersive sanal gerçeklik combined with lifestyle modification on upper limb fonksiyon, ağrı intensity, and range of motion in post-surgical breast cancer survivors: a randomize controlled klinik çalışma. konusuna odaklanıyor. Öne çıkan başlıklar: pakistan journal of medical sciences. 2026 oct. Anahtar kavramlar: impact, immersive, virtual, reality, combined, lifestyle.
+Bağlantı: https://pubmed.ncbi.nlm.nih.gov/43042128/
+
+
+D) HABER / BLOG – Gündem
+------------------------------------------------------------------------
+Başlık: Vinales omuz ağrısı nedeniyle Portimao’dan çekildi: Yerine Pol Espargaro yarışacak - TRF1.net
+Özet  : Vinales omuz ağrısı nedeniyle Portimao’dan çekildi: Yerine Pol Espargaro yarışacak &nbsp;&nbsp; TRF1.net Vinales omuz ağrısı nedeniyle Portimao’dan çekildi: Yerine Pol Espargaro yarışacak - TRF1.net.
+Bağlantı: https://news.google.com/rss/articles/CBMixgFBVV95cUxOUmxpRF9tMllQM3ZFdlZJT1UzcGVXb0M3VlR1NElnMmNzc0t4U2hpVk00WU45bi1aczBBVEg0ZjBuU0NNWEdTLVVWQ3VDRENFbFdxZTlhOE4yVXA4TndQZ3duWlZXZTdWd1hfSmZuRkcyTFlzSHZnd1pfNDZEMVI3MUxTZFd1Zi1RNlRRYms2cTdsM1Ffd1ZITlJfWkpoVFZKWmpJMEFYZldqZ2c5WEpEMnZjTEFGUzA2TzE3blo2Z2NuV3dsalE?oc=5
+
+Başlık: Genç bir tıp uzmanı, TikTok'ta milyonlarca izlenme elde eden videolarıyla viral oldu. - Vietnam.vn
+Özet  : Genç bir tıp uzmanı, TikTok'ta milyonlarca izlenme elde eden videolarıyla viral oldu. Genç bir tıp uzmanı, TikTok'ta milyonlarca izlenme elde eden videolarıyla viral oldu.
+Bağlantı: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeE9BeTdaSWNYX19fVkZlQWpBcy12S3RBYjgtUDJ6MVdFQllXSGpmS0RuQnhpZmFHLVlWbGIyMFF2WXhwVkZEYXRQYThyRHJrMjBrRlNFUmp5ZG1OdDF2YmJYbGhrODBiNEgzbW1ackdBUmRIODQwRHQ2amI0VXNlTG9jdEJQdEx1?oc=5
+
+Başlık: Tech3 patronu Vinales’in çekilme nedenini açıkladı: “Motosiklet pilottan daha fazla kontroldeydi” - TRF1.net
+Özet  : Tech3 patronu Vinales’in çekilme nedenini açıkladı: “Motosiklet pilottan daha fazla kontroldeydi” &nbsp;&nbsp; TRF1.net Tech3 patronu Vinales’in çekilme nedenini açıkladı: “Motosiklet pilottan daha fazla kontroldeydi” - TRF1.net.
+Bağlantı: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkNSdk1oUHNRYkRYVVJCR3ZTclRpR1lLV004eGJPWGt6SncxbG00U0UyYVdpV01nQktncG9fLWZuV3VseWpSRGVQQlVSMHc2aEpoYmxoTU1SSlZQOGJMWFBLempLeTdRTUljUDV6b3J3U0lHR1dBOVdzZWlSN3B0N0FmVjNiVTFfZlE4RXMyQS11QnN6ejRtSUYxLWxwdVd1RWtGMUR0endvUFFyUzdKcVNxV0xvbHRfTkREN3ZFMm54c092R0c4MXRtbzdsZWtlRE1neUlkZw?oc=5
+
